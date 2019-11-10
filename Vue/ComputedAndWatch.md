@@ -9,6 +9,7 @@ Computed에 정의하는 함수는 반드시 값을 리턴하여야한다.
 <h3>getter란?</h3>
 computed에서 함수를 한 프로퍼티가 정의될때 내부적으로는 `Object.defineProperty`로 정의되며 이때 
 함수는 getter로 설정된다. ????
+
 ```
     위 내용을 정리하자면 defineProperty라는    
     객체의 속성을 정교하게 추가하거나 수정할 수 있는 객체 메서드를 이용하여
