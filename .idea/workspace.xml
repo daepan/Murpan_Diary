@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b798de3-d2e4-4edf-bf9d-c37a48b6f14c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TypeScript/staticTypeCheck.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript/staticTypeCheck.md" beforeDir="false" afterPath="$PROJECT_DIR$/TypeScript/staticTypeCheck.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <updated>1573390134386</updated>
       <workItem from="1573390135661" duration="10648000" />
       <workItem from="1573455572827" duration="1198000" />
-      <workItem from="1573567696553" duration="1903000" />
+      <workItem from="1573567696553" duration="4000000" />
     </task>
     <servers />
   </component>
