@@ -259,3 +259,41 @@ koa-router를 불러온 뒤 이를 사용하여 Router 인스턴스를 만들었
 이처럼, 라우트를 설정할 때, router,get의 첫 번째 파라미터에는 라우트의 경로를 넣고, 두 번 째 파라미터에는 해당 라우트에 적용할 미들웨어 함수를 넣습니다. 여기서 get키워드는 해당 라우트에서
 사용할 HTTP 메서드를 의미합니다. get 대신에 post,put,delete등을 넣을 수 있다.
 11.20 TIL
+라우트 파라미터와 쿼리
+라우터의 파라미터를 설정할 때는 /about/:name 형식으로 콜론을 사용하여 라우트 경로를 설정한다.
+파라미터가 있을수도 있고 없을 수 있을 경우에는 /about/:name? 형식으로 작성한다
+이렇게 설정한 파라미터는 함수의 ctx.params 객체에서 조회 가능하다.
+
+URL쿼리의 경우, 예를 들어 /post/?id=10 같은 형식으로 요청했다면 해당 값을 ctx.query에서 조회할 수 있다. 쿼리 문자열을 자동으로 객체 형태로 파싱해준다. 별도로 파싱함수를 돌릴 필요X
+(if. 문자열 형태의 쿼리 문자열을 조회할 떄는 ctx.querystring을 사용)
+```
+const Koa = require('koa');
+const Router = require('koa-router');
+
+const api = require('./api')
+
+const app = new Koa();
+const router = new Router();
+
+router.get('/', ctx => {
+    ctx.body = "홈";
+})
+
+router.get('/about/:name?', ctx => {
+    const { name } = ctx.params;
+    ctx.body = "name";
+})
+
+router.get('/posts', ctx => {
+    const { id } = ctx.query;
+    ctx.body = id ? `포스트#${id}`
+})
+
+app.use(router.routes()).use(router.allowedMethods());
+
+app.listen(4000, () => {
+    console.log('Listening to port 4000');
+})
+
+
+```
