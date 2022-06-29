@@ -23,9 +23,9 @@ public 폴더도 pages의 폴더와 동일하게 라우팅 할 수 있다.
 
 Single File Components
 style jsx를 사용함으로 컴포넌트 내부에 해당 컴포넌트만 스코프를 가지는 css를 만들 수 있다.
-<style jsx global>를 사용하면 글로벌로 스타일 정의 가능하다.
+`<style jsx global>`를 사용하면 글로벌로 스타일 정의 가능하다.
 
-```
+```js
 // styled-jsx
 
 function Heading(props) {
@@ -62,7 +62,7 @@ _app.tsx에만 정의 가능하다. 다른 컴포넌트에 정의한 경우 다�
 Global CSS cannot be imported from files other than your Custom <App>. Please move all global CSS imports to pages/_app.tsx. Or convert the import to Component-Level CSS (CSS Modules).
 
 ```
-```
+```js
 import "./globals.css";
 
 function MyApp({ Component, pageProps }) {
@@ -72,20 +72,20 @@ function MyApp({ Component, pageProps }) {
 export default MyApp;
 ```
 
-server landing
+### server landing  
 서버렌더링을 한다. 클라이언트 렌더링과 다르게 서버렌더링을 한 페이지의 페이지 소스보기를 클릭하면 내부에 소스가 있다.
 
-#code splitting
+### code splitting
 dynamic import를 이용하면 손쉽게 코드 스플리팅이 가능하다.
 
 코드 스플리팅은 내가 원하는 페이지에서 원하는 자바스크립트와 라이브러리를 렌더링 하는 것이다. 모든 번들(chunk.js)이 하나로 묶이지 않고, 각각 나뉘어 좀 더 효율적으로 자바스크립트 로딩 시간을 개선할 수 있다.
 
-typescript
+### typescript
 타입스크립트 활용을 위해 웹팩을 만지거나 바벨을 만질 필요 없다. 타입스크립트를 설치하고 (yarn add typescript @types/node @types/react) 명령어 (yarn run dev)만 하면 자동으로 tsconfig, next-end.d.ts가 생성되어 타입스크립트로 코딩이 가능하다.
 
 _document.tsx
 meta 태그를 정의하거나, 전체 페이지에 관려하는 컴포넌트입니다.
-```
+```js
 // pages/_document.tsx
 import Document, { Html, Head, Main, NextScript } from "next/document";
 export default class CustomDocument extends Document {
@@ -93,9 +93,6 @@ export default class CustomDocument extends Document {
     return (
       <Html>
         <Head>
-          // 모든페이지에 아래 메타테크가 head에 들어감 // 루트파일이기에 가능한
-          적은 코드만 넣어야함 전역 파일을 엉망으로 만들면 안된다 // 웹 타이틀,
-          ga 같은것 넣음
           <meta property="custom" content="123123" />
         </Head>
         <body>
@@ -112,7 +109,7 @@ export default class CustomDocument extends Document {
 render 요소는 방영하지만 페이지 구성요소만 반영되고 js는 반영안하기에 console은 반영 하지 않습니다. 즉, componentDidMount 같은 훅도 실행이 안됩니다. 정말 static한 상황만 부여된다.
 
 _app.tsx
-```
+```tsx
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
@@ -129,7 +126,7 @@ Component, pageProps를 받음
 그 다음 _document.tsx가 실행됨
 페이지를 업데이트 하기전에 원하는 방식으로 페이지를 업데이트 하는 통로
 _app.tsx에서 consle.log 실행시 client, server둘다 콘솔 찍힘
-```
+```js
 #import style component
 import styles from "./test.module.css";
 
@@ -160,10 +157,11 @@ h1.red {
 }
 ```
     
-#sass 사용하기
-따로 config 파일을 정의 하지 않고이 css 파일을 scss로 바꾸고 yarn add sass --dev 를 해주면 next에서 알아서 설정을 해줍니다.
+# sass 사용하기
+따로 config 파일을 정의 하지 않고이 css 파일을 scss로 바꾸고 yarn add sass --dev 를 해주면 next에서 알아서 설정을 해줍니다.  
 
-#Link 사용하기
+
+# Link 사용하기
 보통 페이지간 이동은 a 태그를 사용하나 next에서는 사용하지 않는다.
 
 a 태그를 사용하면 처음 페이지에 진입시 번들 파일을 받고, a 태그에 의해 라우팅 되면 다시 번들 파일을 받기 때문입니다. 또한 redux을 쓰시는 경우 라면 store의 state 값이 증발되는 현상도 일어나게 된다. 그렇기 때문에 a 태그는 전혀 다른 사이트로 페이지를 이동시켜 다시 돌아오지 않는 경우만 사용하고, 그 이외에는 모두 Link 태그를 사용한다.
@@ -184,9 +182,9 @@ const Index = () => (
  
 ```
     
-#동적 url
+# 동적 url
 가변적으로 변하는 url에 대해 동적 url을 지원합니다. [] 문법으로 동적 페이지를 생성하는 동적 url을 만들 수 있다.
-```
+```js
 // pages/[id].tsx
 
 import { useRouter } from "next/router";
@@ -214,11 +212,11 @@ pages/[값].tsx 왼쪽 페이지 구조의 값은 router.query.값과 동일.
 
 프로덕션 레벨에서만 이루어지게 된다.
 
-#next/router 사용법
+# next/router 사용법
 react의 router.push와 동일하다.
 
 link에 있는 preferch 기능도 사용 가능하다.
-```
+```js
 import { useEffect } from "react";
 import { useRouter } from "next/router";
 import posts from "../posts.json";
@@ -261,7 +259,7 @@ _document.tsx의 getInitialProps가 있다면 실행한다. pageProps들을 받�
 페이지 제목을 커스텀하고 싶을때
 meta 태그를 변경하고 싶을때
 next/head로 부터 Head 컴포넌트를 받아 모든 컴포넌트에서 사용할 수 있다.
-
+```js
 import Head from "next/head";
 
 export default () => (
@@ -272,12 +270,12 @@ export default () => (
     <div>...</div>
   </div>
 );
- 
+```
      
     
 next.js가 해당 컴포넌트가 mount 할때, Head내 태그들을 페이지의 HTML의 Head에 포함 시킨다. 마찬가지로 unMount 할때, 해당 태그를 제거한다.
 
-#production 배포
+# production 배포
 npm run build
 npm run start
  
