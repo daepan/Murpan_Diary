@@ -49,4 +49,22 @@ url에 따라 UI를 어떻게 응답할까를 생각할 때 이용하는 기능
     </>
 
     //API Route
+    export default function handler(req, res){
+        res.status(200).json({name: 'murpan'})
+    }
+    //API Route parameter 'http://api/1' 
+     export default function handler(req, res){
+        res.status(200).json({name: req.query.id})
+    }
 ```
+
+### enviroment variables
+
+환경변수에 대한 이야기
+애플리케이션이 동작하는 방법에 따라 API주소가 달라질 것이다.  
+개발 환경의 경우 localhost:/~~
+서비스 환경의 경우 http://a.com/~~
+이에 대한 정보를 어딘가에 저장해야한다.
+
+이 부분은 깃헙 레포지토리에 숨겨야하거나 공개하지 않아야하는 정보가 있는 경우  
+.env 파일에 저장한다.
