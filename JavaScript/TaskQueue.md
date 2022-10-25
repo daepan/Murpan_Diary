@@ -101,3 +101,4 @@ setTimeout
 ## 정리
 이벤트 루프가 비동기 작업을 처리하는 우선순위는 Microtask Queue -> Animation Frames -> Task Queue 순이다.
 또한, 이벤트 루프는 Microtask Queue나 Animation Frames를 방문할 때는, 큐 안에 있는 모든 작업들을 수행하지만, Task Queue를 방문할 때는 한 번에 하나의 작업만 call stack으로 전달하고 다른 Queue를 순회한다.
+
