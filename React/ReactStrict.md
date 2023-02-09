@@ -1,7 +1,7 @@
 # ReactStrictMode
 
->최근 리액트 StrickMode에 대한 질문을 보고 신기했었다.
-리액트18에서 StrickMode에 대해 useEffect가 2번 일어난다는 사실에 대해 알게 되었다.
+>최근 리액트 StrickMode에 대한 질문을 보고 신기했었다. </br>
+리액트18에서 StrickMode에 대해 useEffect가 2번 일어난다는 사실에 대해 알게 되었다. </br>
 일단 기본적으로 개발단계에서 Strict 태그가 들어온 것을 알고 있었지만 실제로 useEffect로 확인한 예시들을 보니 신기했다.
 
 그렇다면 어째서 저런 일이 발생하는지 알아보자
