@@ -282,3 +282,26 @@ npm run start
  
     
 localhost:3000 으로 접속시 배포된 버전을 로컬로 확인 가능하다.
+
+
+# next/Image
+
+next에서 새로 추가된 Image 태그이다. 해당 태그를 사용하게 된다면 png 타입의 이미지도 webp 형태로 출력할 수 있다. 하지만 이 경우에 width와 height 을 고정적으로 주어야하는 경우가 있다. 해당 경우에있어서는 fill 옵션을 사용하는 것을 추천한다.
+
+```js
+import Head from "next/head";
+import Image from "next/Image";
+
+export default () => (
+  <div>
+    <Head>
+      <title>새로 만들어진 타이틀 입니다</title>
+    </Head>
+    <div>
+      <Image src="..." width={300} height={300} >
+    </div>
+  </div>
+);
+```
+
+priority 옵션을 통해서 해당 기능을 사용할 수도 있다.
