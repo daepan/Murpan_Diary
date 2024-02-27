@@ -30,3 +30,46 @@
 
 > 참고적으로 unpkg와 jsdelivr에 대한 이야기를 해보자면 이 둘을 비교하는 것은 옳지 않다. 왜냐하면 unpkg의 업그레이드 버전 jsdelivr이며, cdnjs보다 훨씬 더 범용적으로 사용할 수 있도록 제작되었기 때문에 jsdelivr을 사용하는 것을 추천한다.
 
+axios를 get 요청 방식
+서버에 데이터를 요청할 때 Query Params를 활용하는 경우가 있다. 
+string 형식으로는 퀴리 요청문은 아래와 같습니다.
+
+​​https://baseurl?guests=3&days=2&time=1400
+
+
+기본적인 요청문에 대한 예시는 아래와 같다.
+```js
+const axios = require('axios');
+axios.get(`https://body-mass-index-bmi-calculator.p.rapidapi.com/metric?weight=150&height=1.83`, {
+        headers: {
+            'X-RapidAPI-Key': 'your-rapidapi-key',
+            'X-RapidAPI-Host': 'body-mass-index-bmi-calculator.p.rapidapi.com',
+        },
+    })
+    .then(function (response) {
+        console.log(response.data);
+    })
+    .catch(function (error) {
+        console.error(error);
+    });
+```
+
+여기서 나는 params를 매개변수로 받아서 동적으로 전송하고 싶은 경우가 있다.
+이를 해결하는 방식으로는 아래와 같다.
+```js
+const axios = require('axios');
+axios
+    .get(`https://body-mass-index-bmi-calculator.p.rapidapi.com/metric`, {
+        params: { weight: '150', height: '1.83' },
+        headers: {
+            'X-RapidAPI-Key': 'your-rapidapi-key',
+            'X-RapidAPI-Host': 'body-mass-index-bmi-calculator.p.rapidapi.com',
+        },
+    })
+    .then(function (response) {
+        console.log(response.data);
+    })
+    .catch(function (error) {
+        console.error(error);
+    });
+```
