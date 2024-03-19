@@ -1,87 +1,200 @@
-# 로그인 리팩토링: useState 줄이기
+# 로그인 리팩토링: useState 사용 줄이기
 ## 서론
-간단하게 이번 디깅과 관련해서 어떤 주제를 하면 좋을지를 생각했지만, 아무래도 코인에서 코인리코드로 넘어오면서 우리가 생각했던 것 보다 state를 남발하고 있다는 생각을 하게 되었고
+이번 레거시 그룹에서 시작하게된 코드 리팩토링과 관련된 기술에 대한 내용을 정리하는 것을 목표로 내용을 
 state를 필요한 곳에서만 적재적소하게 사용하는 것을 최대 목표로 하였습니다.
-
 그렇다면 state와 관련되어서 어떤 것이 문제인지 간단한 예제를 제시해보겠습니다.
+
+## 문제제기
+우리는 코인 리코드 작업 중에 어떤 문제가 있는지 탐색하던 중 로그인 화면에서 문제를 찾을 수 있었습니다.
+해당 아래 이미지를 확인해주세요
 
 [코인 로그인 페이지 입력 시 계속 리렌더링 표시가 남]
 
-이렇게 우리가 의도하지 않은 단순한 입력이지만 페이지에서 강제적으로 렌더링 하는 것을 확인할 수 있다. 
-과연 이런 부분에서 state를 사용할 필요가 있을까라는 생각을 하게 되었고, 실제 코드를 분석하고 useState의 어떤 부분에서 이런 문제가 발생하는지 분석해보자
+위의 코드에서 `state`를 통해 ID와 패스워드의 `value`를 추적하게 되고 입력 하나마다 이를 검사하고 리렌더링이 일어나는 것을 chrome의 `react-devTool-extension`을 통해 알 수 있습니다.
+이런 현상이 일어나는지에 대한 내용을 한번 예시를 통해 소개해드리겠습니다.
 
-## useState란?
-useState는 React에서 제공하는 Hook 중 하나입니다. 함수형 컴포넌트에서 상태를 관리할 때 사용됩니다.
 
-useState를 사용하면 현재 상태 값과 해당 값을 업데이트할 수 있는 함수를 반환합니다. 이를 통해 상태를 생성하고 변경할 수 있습니다. 상태 값은 컴포넌트의 렌더링 사이클 동안 유지되며, 상태가 변경될 때마다 컴포넌트가 리렌더링됩니다.
+```jsx
+import React, { memo, useState } from 'react';
 
-예를 들어, 다음과 같이 useState를 사용하여 상태를 관리할 수 있습니다.
-
-```js
-import React, { useState } from 'react';
-
-const ExampleComponent = () => {
-  const [count, setCount] = useState(0);
-
-  const increment = () => {
-    setCount(count + 1);
-  };
-
+export default function MyApp() {
+  const [name, setName] = useState('');
+  const [address, setAddress] = useState('');
   return (
-    <div>
-      <p>Count: {count}</p>
-      <button onClick={increment}>Increment</button>
-    </div>
+    <>
+      <label>
+        Name{': '}
+        <input value={name} onChange={(e) => setName(e.target.value)} />
+      </label>
+      <br />
+      <label>
+        Address{': '}
+        <input value={address} onChange={(e) => setAddress(e.target.value)} />
+      </label>
+      <Greeting name={name} />
+    </>
+  );
+}
+
+const Greeting = function Greeting({ name }) {
+  console.log('Greeting was rendered at', new Date().toLocaleTimeString());
+  return (
+    <h3>
+      Hello{name && ', '}
+      {name}!
+    </h3>
   );
 };
 
-export default ExampleComponent;
+```
+실행 예제: https://react-i8mtvg.stackblitz.io
+
+해당 입력 폼에서 입력할 때 마다 `console.log`가 발생하면서 리렌더링이 발생하는 상황을 알 수 있습니다.
+해당 폼에 적용된 로직은 위에서 보게된 이미지와 동일하게 작성되었습니다.
+
+`state`는 리액트 렌더링을 발생시키기 됩니다. 공식문서에 따르면
+>`useState` 훅은 두 가지를 제공합니다:
+>
+> 렌더링 사이에 데이터를 유지하는 상태 변수.
+> 변수를 업데이트하고 React가 컴포넌트를 다시 렌더링하도록 트리거하는 상태 설정 함수.
+>
+> reference: https://react.dev/learn/state-a-components-memory
+
+
+useState 훅을 사용할 때 setState 함수를 호출하면 해당 컴포넌트는 상태가 변경되었다고 판단하여 리렌더링이 발생합니다. 이는 React의 기본 동작 방식 중 하나입니다.
+
+그렇다면 이것을 극복할 방법은 없는 것일까요?
+저희는 이 해결 방안에 대해 총 2가지를 논의하였습니다.
+
+1. [React.memo](https://react.dev/reference/react/memo)를 통한 리렌더링 방지
+2. [useRef](https://react.dev/reference/react/useRef#useref)와 [useImpretiveHandle](https://react.dev/reference/react/useImperativeHandle)을 활용한 컨트롤
+
+그렇다면 위의 예제 코드를 2가지 방식에 맞게 개선해보았습니다.
+
+
+1번 방법인 memo를 통해 리렌더링을 방지할 수 있었습니다.
+```jsx
+import React, { memo, useState } from 'react';
+
+export default function MyApp() {
+  const [name, setName] = useState('');
+  const [address, setAddress] = useState('');
+  return (
+    <>
+      <label>
+        이름 {': '}
+        <input value={name} onChange={(e) => setName(e.target.value)} />
+      </label>
+      <br />
+      <label>
+        Address{': '}
+        <input value={address} onChange={(e) => setAddress(e.target.value)} />
+      </label>
+      <Greeting name={name} />
+    </>
+  );
+}
+
+const Greeting = memo(function Greeting({ name }) {
+  console.log('Greeting was rendered at', new Date().toLocaleTimeString());
+  return (
+    <h3>
+      Hello{name && ', '}
+      {name}!
+    </h3>
+  );
+});
 ```
 
-## useState의 내부 동작 
+실행예제: https://react-m6yd1u.stackblitz.io
 
-* 상태 초기화: useState는 매개변수로 초기 상태 값을 받습니다. 이 초기값은 컴포넌트가 처음 렌더링될 때만 사용됩니다.
+### React.memo란?
+`React.memo`는 React의 렌더링 최적화를 위해 설계된 고차 컴포넌트`(Higher-Order Component, HOC)`입니다
 
-* 상태 저장 및 업데이트 함수 생성: useState는 상태 값을 저장하고 해당 값을 업데이트할 수 있는 함수를 생성합니다. 이 함수는 상태를 변경할 때 사용됩니다. 이때, 상태 값과 업데이트 함수는 클로저로 묶여 해당 컴포넌트 내에서만 사용됩니다.
+`React.memo`는 컴포넌트에 전달되는 `props`가 변경되었는지 확인하기 위해 얕은 비교를 수행합니다. 얕은 비교는 객체의 최상위 레벨의 값들만을 비교하는 방법입니다. 즉, `props` 객체나 그 내부의 객체가 가리키는 값이나 참조가 이전 렌더링과 비교해 변했는지 확인합니다.
 
-* 컴포넌트 렌더링: useState를 호출하는 컴포넌트가 렌더링될 때마다 useState는 현재 상태 값을 반환합니다.
+예제 코드에서는 `React.memo`를 사용함으로써, `name` 값에 변화가 없다면 `<Greeting />` 컴포넌트의 재렌더링을 건너뛰게 됩니다.
 
-* 상태 변경: useState가 반환한 업데이트 함수를 호출하여 상태를 변경할 수 있습니다. 상태를 변경하면 React는 변경된 상태를 감지하고, 해당 컴포넌트를 리렌더링합니다.
+2번 방법인 useRef와 useImpretive를 활용한 리렌더링 방지입니다.
 
-## setState의 비동기
-`Props`, `state`는 현재 화면에 대한 영향을 준다는 것을 이해하셨을 것입니다.
+```jsx
+import React, {
+  useState,
+  useRef,
+  useImperativeHandle,
+  forwardRef,
+} from 'react';
 
-여기서 `setState`는 비동기적 호출방식을 사용합니다. 
-`setState` 호출 이후에 `this.state`에 의존하여 계산하는 방식은 지양하도록 합니다.
-현재 `state`를 기반으로 값을 계산해야 하는 경우 객체 대신 업데이터 함수를 전달합니다
+export default function MyApp() {
+  const [name, setName] = useState('');
+  const passwordRef = useRef();
+
+  return (
+    <>
+      <label>
+        Name{': '}
+        <input value={name} onChange={(e) => setName(e.target.value)} />
+      </label>
+      <br />
+      <PasswordInput ref={passwordRef} />
+      <Greeting name={name} />
+    </>
+  );
+}
+
+const PasswordInput = forwardRef((props, ref) => {
+  // input 요소에 대한 ref 생성
+  const inputRef = useRef();
+
+  useImperativeHandle(ref, () => ({
+    // 외부에서 접근할 수 있도록 getPassword 함수 제공
+    getPassword: () => inputRef.current.value,
+  }));
+
+  return (
+    <label>
+      Password{': '}
+      <input
+        type="password"
+        ref={inputRef} // input 요소에 ref 연결
+        defaultValue="" // controlled 대신 uncontrolled 컴포넌트로 사용
+      />
+    </label>
+  );
+});
+
+const Greeting = ({ name }) => {
+  console.log('Greeting was rendered at', new Date().toLocaleTimeString());
+  return (
+    <h3>
+      Hello{name && ', '}
+      {name}!
+    </h3>
+  );
+};
+```
+
+실행예제: https://react-ffejjd.stackblitz.io
+
+### useRef 사용
+`useRef` 훅은 React 컴포넌트에서 참조`(ref)`를 생성하고 접근할 수 있게 해줍니다. 이 훅이 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하고 있습니다. 이를 통해 부모 컴포넌트`(MyApp)`가 자식 컴포넌트`(PasswordInput)` 내부의 함수에 접근할 수 있습니다.
 
 
-> setState는 비동기적으로 호출된다.
-> 그렇기 때문에 setState로 호출한 이후에 즉각적으로 this.state를 통해 접근한다면 개발자의 예상과 벗어난 결과를 초래할 것입니다.
-> 이를 방지하기 위해 객체 대신 함수를 활용하여 값을 전달합니다.
 
-## setState는 언제 비동기일까?
-`setState`는 현재 이벤트 핸들러내부에서 비동기적으로 작동합니다.
+---
+# 딥다이브: useState
 
-이렇게 하면 부모와 자식간의 관계에서 동시에 클릭이벤트가 발생시켰을 때  자식은 두 번 재렌더링 하지 않습니다.
-대신 React는 브라우저 이벤트가 끝날 때 상태 업데이트를 한꺼번에 합니다.
-이러한 동작 방식은 리액트의 성능에 큰 향상을 불러옵니다.
+## diffing 알고리즘의 가정
 
-</br>
+리액트 딥다이브 관련 링크: https://www.youtube.com/watch?v=7YhdqIR2Yzo
+## setState의 딥 다이브: setState는 어떤 식으로 구현되어 있는가?
 
-> 그렇다면 왜 setState는 비동기적으로 할까요? </br>
-> 이유는 총 세가지가 있습니다. </br>
-> React는 모든 변경사항을 한번에 처리하기 때문에 다시 렌더링을 하기전에 이벤트 핸들에서 호출할 때까지 의도적으로 기다립니다. 이렇게 해야 불필요한 렌더링을 줄일 수 있기 때문입니다. </br>
-> 두 번째로는 Props와 state의 지속성이 붕괴되어 디버깅이 어려워진다입니다. </br>
-> 세 번째는 리액트팀에서 앞으로 만들 기능들에 대해 구현을 어렵게 한다는 이유입니다.</br>
-
-Reference: [Component State – React](https://reactjs.org/docs/faq-state.html)
+Reference : [state](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/book/Part-8.html)
+---
 
 ## useRef를 활용한 current를 활용
 
 
 ## Digging Tech useState는 어떻게 상태를 확인하고 업데이트할까?
-
-# 회원가입 부분 // 다음 내용
 
 
