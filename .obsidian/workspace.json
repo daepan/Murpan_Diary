@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "41eeb7d0dfeb20ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "365e9da4adb59d03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6ab9159f5a3261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Refactor/LogIn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12df50e8a65bb0ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "80cf90fc07be3d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb08756a7be24a1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2be17ebe2f95295a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ace7a7ca883d8d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f6536b01cc30937",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b700fd73097dc9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f7cbf50f7966e30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Refactor/LogIn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bff84e1553e07ca4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Refactor/LogIn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49f02151fabf3a36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e73df8e5168b43e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Refactor/LogIn.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8f6ab9159f5a3261",
+  "lastOpenFiles": [
+    "React/Component.md",
+    "React/배열렌더링.md",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "Excalidraw",
+    "Refactor/LogIn.md"
+  ]
+}
