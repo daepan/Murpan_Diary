@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-04-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,10 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/Daily Template.md"
+                "file": "Planner/2024-04-11.md"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ecc8553627b81faf",
+        "type": "tabs",
+        "children": [
           {
             "id": "3473f5ffa026fa66",
             "type": "leaf",
@@ -141,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,14 +159,16 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "7ca4f8958314f006",
   "lastOpenFiles": [
-    "Planner/2024-04/Daily/2024-04-11.md",
-    "Planner/2024-04/Calender.md",
     "Planner/Daily Template.md",
+    "Planner/2024-04-11.md",
+    "Planner/2024-04/Calender.md",
+    "Planner/2024-04/Daily/2024-04-11.md",
     "Vision Board.md",
     "2021-W44.md",
     "tasksCalendar/demo_file.md",
