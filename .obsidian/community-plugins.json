@@ -8,5 +8,6 @@
   "obsidian-tasks-plugin",
   "dataview",
   "calendar",
-  "periodic-notes"
+  "periodic-notes",
+  "templater-obsidian"
 ]
