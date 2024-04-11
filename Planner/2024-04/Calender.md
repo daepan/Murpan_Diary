@@ -1,6 +1,6 @@
 ```dataviewjs
 await dv.view("tasksCalendar", {
-	pages: "",
+	pages:"dv.pages().file.where(f=>f.folder === 'Planner/2024-04/Daily').tasks",
 	view: "month",
 	firstDayOfWeek: "1", 
 	options: "style1",
