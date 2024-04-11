@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/해시 테이블.md",
+=======
+                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+>>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/해시 테이블.md",
+=======
+                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+>>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/해시 테이블.md",
+=======
+                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+>>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/해시 테이블.md"
+=======
+                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md"
+>>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
               }
             }
           }
@@ -151,6 +167,7 @@
   },
   "active": "8f6ab9159f5a3261",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Algorithm/브루트포스-순열.md",
     "Algorithm/해시 테이블.md",
     "BackEnd/MongoDB.md",
@@ -168,6 +185,24 @@
     "interview/예상 질문.md",
     "Refactor/LogIn.md",
     "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
+=======
+    "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
+    "Refactor/LogIn.md",
+    "Refactor/Pasted image 20240406153053.png",
+    "Refactor/Pasted image 20240410182603.png",
+    "Refactor/Pasted image 20240406163057.png",
+    "Refactor/Pasted image 20240406162602.png",
+    "Refactor/Pasted image 20240406162421.png",
+    "Refactor/Pasted image 20240406153051.png",
+    "Refactor/Pasted image 20240406153020.png",
+    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+    "newsletter/3.26.md",
+    "newsletter",
+    "Refactor/Pasted image 20240406162616.png",
+    "Refactor/Pasted image 20240406162446.png",
+    "Refactor/Pasted image 20240406161605.png",
+    "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
+>>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
     "React/ErrorBoundaries.md",
     "React/Component.md",
     "React/배열렌더링.md",
