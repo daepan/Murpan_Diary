@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eefbf0396d5a7078",
@@ -161,15 +160,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7ca4f8958314f006",
   "lastOpenFiles": [
     "Planner/2024-04-11.md",
+    "Planner/2024-04/Daily/2024-04-11.md",
     "Planner/Daily Template.md",
     "Planner/2024-04/Calender.md",
-    "Planner/2024-04/Daily/2024-04-11.md",
     "Vision Board.md",
     "2021-W44.md",
     "tasksCalendar/demo_file.md",
