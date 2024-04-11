@@ -1,4 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-emotion-picker",
+  "obsidian-emoji-toolbar",
+  "obsidian-custom-frames",
+  "table-editor-obsidian",
+  "todoist-sync-plugin"
 ]
