@@ -1,4 +1,5 @@
 {
   "folder": "Planner",
-  "autorun": true
+  "autorun": true,
+  "template": "Planner/Daily Template"
 }

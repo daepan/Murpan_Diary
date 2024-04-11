@@ -128,6 +128,14 @@
                 "file": "Planner/Daily Template.md"
               }
             }
+          },
+          {
+            "id": "3473f5ffa026fa66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -152,8 +160,10 @@
   "active": "7ca4f8958314f006",
   "lastOpenFiles": [
     "Planner/2024-04/Daily/2024-04-11.md",
-    "Planner/Daily Template.md",
     "Planner/2024-04/Calender.md",
+    "Planner/Daily Template.md",
+    "Vision Board.md",
+    "2021-W44.md",
     "tasksCalendar/demo_file.md",
     "무제 파일.md",
     "DataStructureStudy/자료구조란.md",
