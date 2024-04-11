@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "41eeb7d0dfeb20ce",
+    "id": "8cb4dd6845e26f22",
     "type": "split",
     "children": [
       {
-        "id": "365e9da4adb59d03",
+        "id": "2635a469ef44c45d",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6ab9159f5a3261",
+            "id": "7ca4f8958314f006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+                "file": "DataStructureStudy/자료구조란.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "12df50e8a65bb0ea",
+    "id": "3483696c70fdb400",
     "type": "split",
     "children": [
       {
-        "id": "80cf90fc07be3d2e",
+        "id": "60163bc07d6b0dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "bb08756a7be24a1f",
+            "id": "2fa2e4c78e1c205b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "2be17ebe2f95295a",
+            "id": "81183e73a8f648ba",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "1ace7a7ca883d8d7",
+            "id": "37cb3aa1cc60d2e1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "1f6536b01cc30937",
+    "id": "eefbf0396d5a7078",
     "type": "split",
     "children": [
       {
-        "id": "1b700fd73097dc9d",
+        "id": "fc4be98547a2f9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7cbf50f7966e30",
+            "id": "fe9042833c696cac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Algorithm/해시 테이블.md",
-=======
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
->>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
+                "file": "DataStructureStudy/자료구조란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,23 +97,19 @@
             }
           },
           {
-            "id": "bff84e1553e07ca4",
+            "id": "9822675544b4a572",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Algorithm/해시 테이블.md",
-=======
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
->>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
+                "file": "DataStructureStudy/자료구조란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "49f02151fabf3a36",
+            "id": "3a8e5e8d67b685c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +120,12 @@
             }
           },
           {
-            "id": "e73df8e5168b43e9",
+            "id": "d21bb9c1ed26318e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md"
+                "file": "DataStructureStudy/자료구조란.md"
               }
             }
           }
@@ -146,32 +138,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-emotion-picker:Emotions Picker": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8f6ab9159f5a3261",
+  "active": "7ca4f8958314f006",
   "lastOpenFiles": [
-    "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
-    "Refactor/LogIn.md",
-    "Refactor/Pasted image 20240406153053.png",
-    "Refactor/Pasted image 20240410182603.png",
-    "Refactor/Pasted image 20240406163057.png",
-    "Refactor/Pasted image 20240406162602.png",
-    "Refactor/Pasted image 20240406162421.png",
+    "DataStructureStudy/set과map해시테이블.md",
+    "DataStructureStudy/이진검색.md",
+    "React/Redux.md",
+    "React/short-circuit evaluation.md",
+    "Vue/ComputedAndWatch.md",
+    "BackEnd/MongoDB.md",
+    "Conference/2021FEconf.md",
+    "Conference/kakaoConf.md",
+    "JavaScript/this.md",
+    "JavaScript/TaskQueue.md",
+    "JavaScript/JSthis.md",
+    "JavaScript/errorHandling.md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
-    "newsletter/3.26.md",
-    "newsletter",
-    "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
-    "React/ErrorBoundaries.md",
-    "React/Component.md",
-    "React/배열렌더링.md",
-    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
-    "Excalidraw"
+    "Refactor/Pasted image 20240410230215.png",
+    "README.md",
+    "Refactor/Pasted image 20240410230130.png",
+    "Algorithm/해시 테이블.md"
   ]
 }
