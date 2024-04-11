@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "41eeb7d0dfeb20ce",
+    "id": "0760af5b2a9883b8",
     "type": "split",
     "children": [
       {
-        "id": "365e9da4adb59d03",
+        "id": "591fc0f1477a5511",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6ab9159f5a3261",
+            "id": "62b27aa9933540ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Algorithm/해시 테이블.md",
-=======
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
->>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
+                "file": "JavaScript/errorHandling.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "12df50e8a65bb0ea",
+    "id": "ca3256c7b1ba9b19",
     "type": "split",
     "children": [
       {
-        "id": "80cf90fc07be3d2e",
+        "id": "55d7ceac05ccc406",
         "type": "tabs",
         "children": [
           {
-            "id": "bb08756a7be24a1f",
+            "id": "243e0d49f2068afe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "2be17ebe2f95295a",
+            "id": "3484bd9a51d46e14",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "1ace7a7ca883d8d7",
+            "id": "a4403ef9e6c3fc04",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "right": {
-    "id": "1f6536b01cc30937",
+    "id": "fe05a8a319eb2e33",
     "type": "split",
     "children": [
       {
-        "id": "1b700fd73097dc9d",
+        "id": "af884b58e979a147",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7cbf50f7966e30",
+            "id": "c289301dca0d393b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Algorithm/해시 테이블.md",
-=======
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
->>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
+                "file": "JavaScript/errorHandling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "bff84e1553e07ca4",
+            "id": "bca244310fbfe5a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Algorithm/해시 테이블.md",
-=======
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
->>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
+                "file": "JavaScript/errorHandling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "49f02151fabf3a36",
+            "id": "6948464a793f326e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,17 +120,21 @@
             }
           },
           {
-            "id": "e73df8e5168b43e9",
+            "id": "0ad48d941105f351",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Algorithm/해시 테이블.md"
-=======
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md"
->>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
+                "file": "JavaScript/errorHandling.md"
               }
+            }
+          },
+          {
+            "id": "92b921f2ffdefa0d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -155,58 +147,32 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-emotion-picker:Emotions Picker": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8f6ab9159f5a3261",
+  "active": "62b27aa9933540ce",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Algorithm/브루트포스-순열.md",
-    "Algorithm/해시 테이블.md",
-    "BackEnd/MongoDB.md",
-    "Conference/2021FEconf.md",
-    "Conference/kakaoConf.md",
-    "Tech/반응형에 대한 이해.md",
-    "CSS/display.md",
-    "DataStructureStudy/자료구조란.md",
-    "DataStructureStudy/이진검색.md",
-    "DataStructureStudy/선형자료구조.md",
-    "DataStructureStudy/3주차.md",
-    "JavaScript/Object.Freeze vs Object.seal.md",
-    "JavaScript/함수 선언식과 표현식.md",
-    "README.md",
-    "interview/예상 질문.md",
-    "Refactor/LogIn.md",
-    "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
-=======
-    "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
-    "Refactor/LogIn.md",
-    "Refactor/Pasted image 20240406153053.png",
-    "Refactor/Pasted image 20240410182603.png",
-    "Refactor/Pasted image 20240406163057.png",
-    "Refactor/Pasted image 20240406162602.png",
-    "Refactor/Pasted image 20240406162421.png",
-    "Refactor/Pasted image 20240406153051.png",
-    "Refactor/Pasted image 20240406153020.png",
-    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
-    "newsletter/3.26.md",
-    "newsletter",
-    "Refactor/Pasted image 20240406162616.png",
-    "Refactor/Pasted image 20240406162446.png",
-    "Refactor/Pasted image 20240406161605.png",
-    "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
->>>>>>> 76bcdf8798dfaf38e08ec14117fd3a6de19b133e
-    "React/ErrorBoundaries.md",
-    "React/Component.md",
-    "React/배열렌더링.md",
+    "JavaScript/axios.md",
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
-    "Excalidraw"
+    "newsletter/3.26.md",
+    "Planner/2024-04/Daily/2024-04-11.md",
+    "Planner/2024-04-11.md",
+    "tasksCalendar/demo_file.md",
+    "Planner/Daily 템플릿.md",
+    "tasksCalendar/view.js",
+    "tasksCalendar/view.css",
+    "tasksCalendar",
+    "Calender/2024-04-11.md",
+    "Planner/2024-04/Daily",
+    "Planner/2024-04",
+    "Planner/Caleder",
+    "Planner"
   ]
 }

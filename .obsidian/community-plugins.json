@@ -5,5 +5,7 @@
   "obsidian-emoji-toolbar",
   "obsidian-custom-frames",
   "table-editor-obsidian",
-  "todoist-sync-plugin"
+  "calendar",
+  "obsidian-tasks-plugin",
+  "dataview"
 ]
