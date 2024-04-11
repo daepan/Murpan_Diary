@@ -38,7 +38,7 @@
 그러나...
 ![[스크린샷 2024-04-10 오후 6.18.58.png]]
 
-
+
 저의 예상에서는 ErrorBoudary 코드에서 throw Error를 캐치하여 <img> `<img>`를 대체하여 ErrorBoundary에서 제공되는 에러를 표시하는 컴포넌트를 반환하고 싶었습니다.
 
 ```ts
@@ -46,3 +46,6 @@
 ```
 
 ![[Pasted image 20240410182603.png]]
+
+
+![[Pasted image 20240410230329.png]]
