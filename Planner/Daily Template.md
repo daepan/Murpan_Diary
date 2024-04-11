@@ -70,18 +70,11 @@ filter by function !task.file.folder.includes("templates")
 not done
 sort by priority
 ```
-### 업무 할 일
 ```tasks
 tag include #업무 
 ```
 ### 개인 할 일
 
-### 반복 할 일
-```tasks
-is recurring
-not done
-has tags
-```
 
 ### 언젠가 할 일
 ```tasks
@@ -94,10 +87,6 @@ description regex does not match /^$/
 ```tasks
 done <% tp.file.title.slice(0,10) %>
 ```
-
-## 독서
-- 읽은 책
-- 읽은 페이지
 
 ## 운동
 - 

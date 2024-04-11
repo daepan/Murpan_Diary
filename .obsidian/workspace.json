@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-04/Daily/2024-04-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-04/Daily/2024-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-04/Daily/2024-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/Daily Template.md"
+                "file": "Planner/2024-04/Daily/2024-04-11.md"
               }
             }
           }
@@ -164,11 +164,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ca4f8958314f006",
+  "active": "2fa2e4c78e1c205b",
   "lastOpenFiles": [
-    "Planner/2024-04-11.md",
-    "Planner/2024-04/Daily/2024-04-11.md",
     "Planner/Daily Template.md",
+    "Planner/2024-04/Daily/2024-04-11.md",
+    "Planner/2024-04/Daily/2024-04-11.md",
     "Planner/2024-04/Calender.md",
     "Vision Board.md",
     "2021-W44.md",
