@@ -26,7 +26,8 @@ tags:
 %>
 
 <% tp.web.daily_quote() %>
-
+## 나의 현재 볼륨
+* 
 ## 내일 기억할 일
 - 
 ## 오늘 기억할 일
@@ -73,15 +74,9 @@ sort by priority
 ```tasks
 tag include #업무 
 ```
-### 개인 할 일
 
+### 앞으로 해야할 일
 
-### 언젠가 할 일
-```tasks
-no due date
-not done
-description regex does not match /^$/
-```
 
 ### 오늘 완료한 일
 ```tasks
