@@ -1,0 +1,134 @@
+{
+  "modalHeaderText": "What do you feel?",
+  "useCommaInSeparator": false,
+  "addAsLink": false,
+  "addAsTag": false,
+  "capitalize": false,
+  "emotions": [
+    {
+      "id": 1,
+      "name": "Joy",
+      "color": "#c1e08d",
+      "emotions": [
+        "joyful",
+        "content",
+        "pleased",
+        "satisfied",
+        "happy",
+        "amused",
+        "delighted",
+        "cheerful",
+        "jovial",
+        "blissful",
+        "proud",
+        "triumphant",
+        "optimistic",
+        "eager",
+        "hopeful",
+        "enthusiastic",
+        "excited",
+        "euphoric",
+        "enchanted"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Love",
+      "color": "#e8c3da",
+      "emotions": [
+        "loving",
+        "romantic",
+        "affectionate",
+        "passionate",
+        "attracted",
+        "sentimental",
+        "compassionate",
+        "satisfied",
+        "peaceful",
+        "relieved"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Surprise",
+      "color": "#94d4d3",
+      "emotions": [
+        "surprised",
+        "shocked",
+        "dismayed",
+        "confused",
+        "disillusioned",
+        "perplexed",
+        "amazed",
+        "astonished",
+        "moved",
+        "touched"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Anger",
+      "color": "#b84444",
+      "emotions": [
+        "angry",
+        "enraged",
+        "hateful",
+        "hostile",
+        "agitated",
+        "frustrated",
+        "irritated",
+        "annoyed",
+        "aggravated",
+        "envious",
+        "jealous",
+        "disgusted",
+        "contemptful"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sadness",
+      "color": "#4e72a3",
+      "emotions": [
+        "sad",
+        "hurt",
+        "agonizing",
+        "depressed",
+        "sorrowful",
+        "disappointed",
+        "dismayed",
+        "displeased",
+        "shameful",
+        "regretful",
+        "guilty",
+        "neglected",
+        "isolated",
+        "lonely",
+        "despaired",
+        "grieving",
+        "powerless"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fear",
+      "color": "#dbab4b",
+      "emotions": [
+        "fearful",
+        "scared",
+        "helpless",
+        "frightened",
+        "panicking",
+        "hystetical",
+        "insecure",
+        "inferior",
+        "inadequate",
+        "nervous",
+        "anxious",
+        "worried",
+        "dreadful",
+        "mortified"
+      ]
+    }
+  ]
+}
