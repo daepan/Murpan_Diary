@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasksCalendar/demo_file.md",
+                "file": "Planner/2024-04/Calender.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasksCalendar/demo_file.md",
+                "file": "Planner/2024-04/Calender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasksCalendar/demo_file.md",
+                "file": "Planner/2024-04/Calender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasksCalendar/demo_file.md"
+                "file": "Planner/2024-04/Calender.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   "active": "7ca4f8958314f006",
   "lastOpenFiles": [
     "Planner/2024-04/Daily/2024-04-11.md",
-    "무제 파일.md",
     "tasksCalendar/demo_file.md",
+    "Planner/2024-04/Calender.md",
+    "무제 파일.md",
     "DataStructureStudy/자료구조란.md",
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
