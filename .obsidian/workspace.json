@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-11(목).md",
+                "file": "Planner/2024-04-12(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-11(목).md",
+                "file": "Planner/2024-04-12(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-11(목).md",
+                "file": "Planner/2024-04-12(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-11(목).md"
+                "file": "Planner/2024-04-12(금).md"
               }
             }
           }
@@ -161,14 +161,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "7ca4f8958314f006",
   "lastOpenFiles": [
-    "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-11(목).md",
+    "Planner/2024-04-12(금).md",
+    "2024-04-12(금).md",
+    "Planner/2024-04/Calender.md",
     "Planner/Daily Template.md",
     "Vision Board.md",
     "2021-W44.md",
