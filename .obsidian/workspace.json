@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-14(일).md",
+                "file": "Algorithm/알고리즘 및 실습 중간 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-14(일).md",
+                "file": "Algorithm/알고리즘 및 실습 중간 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-14(일).md",
+                "file": "Algorithm/알고리즘 및 실습 중간 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-14(일).md"
+                "file": "Algorithm/알고리즘 및 실습 중간 정리.md"
               }
             }
           }
@@ -178,8 +178,16 @@
   },
   "active": "7ca4f8958314f006",
   "lastOpenFiles": [
-    "Planner/2024-04/Daily/2024-04-12(금).md",
+    "Algorithm/해시 테이블.md",
+    "DataStructureStudy/3주차.md",
+    "DataStructureStudy/선형자료구조.md",
+    "DataStructureStudy/이진검색.md",
+    "DataStructureStudy/자료구조란.md",
+    "DataStructureStudy/set과map해시테이블.md",
+    "Algorithm/알고리즘 및 실습 중간 정리.md",
+    "Algorithm/브루트포스-순열.md",
     "Planner/2024-04/Daily/2024-04-14(일).md",
+    "Planner/2024-04/Daily/2024-04-12(금).md",
     "Planner/2024-04/Daily/2024-04-13(토).md",
     "Planner/2024-04/Calender.md",
     "Planner/Daily Template.md",
@@ -189,15 +197,12 @@
     "2021-W44.md",
     "tasksCalendar/demo_file.md",
     "무제 파일.md",
-    "DataStructureStudy/자료구조란.md",
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
     "tasksCalendar",
     "Planner/2024-04/Daily",
     "Planner/2024-04",
     "Planner",
-    "DataStructureStudy/set과map해시테이블.md",
-    "DataStructureStudy/이진검색.md",
     "React/Redux.md",
     "React/short-circuit evaluation.md",
     "Vue/ComputedAndWatch.md",
@@ -205,12 +210,7 @@
     "Conference/2021FEconf.md",
     "Conference/kakaoConf.md",
     "JavaScript/this.md",
-    "JavaScript/TaskQueue.md",
-    "JavaScript/JSthis.md",
-    "JavaScript/errorHandling.md",
-    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Refactor/Pasted image 20240410230215.png",
-    "README.md",
     "Refactor/Pasted image 20240410230130.png"
   ]
 }
