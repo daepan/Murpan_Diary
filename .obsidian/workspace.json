@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04-15(월).md",
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04-15(월).md",
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04-15(월).md",
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04-15(월).md"
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md"
               }
             }
           }
@@ -179,7 +179,7 @@
   "active": "2fa2e4c78e1c205b",
   "lastOpenFiles": [
     "Planner/2024-04/Daily/2024-04-14(일).md",
-    "Planner/2024-04-15(월).md",
+    "Planner/2024-04/Daily/2024-04-15(월).md",
     "CSS/display.md",
     "CSS/gltf 파일을 통한 3D 렌더링.md",
     "CSS/Pasted image 20240414211621.png",
