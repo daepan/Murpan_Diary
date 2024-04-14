@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "CSS/gltf 파일을 통한 3D 렌더링.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "CSS/gltf 파일을 통한 3D 렌더링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "CSS/gltf 파일을 통한 3D 렌더링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/스택과 큐.md"
+                "file": "CSS/gltf 파일을 통한 3D 렌더링.md"
               }
             }
           }
@@ -178,10 +178,12 @@
   },
   "active": "7ca4f8958314f006",
   "lastOpenFiles": [
+    "Pasted image 20240414211621.png",
+    "Algorithm/스택과 큐.md",
+    "CSS/gltf 파일을 통한 3D 렌더링.md",
     "Algorithm/리스트와 큐.md",
     "Algorithm/알고리즘 및 실습 중간 정리.md",
     "Algorithm/해시 테이블.md",
-    "Algorithm/스택과 큐.md",
     "Algorithm/브루트포스-순열.md",
     "Planner/2024-04/Daily/2024-04-13(토).md",
     "DataStructureStudy/이진검색.md",
@@ -208,8 +210,6 @@
     "React/Redux.md",
     "React/short-circuit evaluation.md",
     "Vue/ComputedAndWatch.md",
-    "BackEnd/MongoDB.md",
-    "Conference/2021FEconf.md",
     "Refactor/Pasted image 20240410230215.png",
     "Refactor/Pasted image 20240410230130.png"
   ]
