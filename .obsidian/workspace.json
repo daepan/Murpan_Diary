@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/스택.md",
+                "file": "Algorithm/스택과 큐.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/스택.md",
+                "file": "Algorithm/스택과 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/스택.md",
+                "file": "Algorithm/스택과 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/스택.md"
+                "file": "Algorithm/스택과 큐.md"
               }
             }
           }
@@ -181,7 +181,7 @@
     "Algorithm/리스트와 큐.md",
     "Algorithm/알고리즘 및 실습 중간 정리.md",
     "Algorithm/해시 테이블.md",
-    "Algorithm/스택.md",
+    "Algorithm/스택과 큐.md",
     "Algorithm/브루트포스-순열.md",
     "Planner/2024-04/Daily/2024-04-13(토).md",
     "DataStructureStudy/이진검색.md",
