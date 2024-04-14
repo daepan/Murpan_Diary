@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-13(토).md",
+                "file": "Planner/2024-04-14(일).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-13(토).md",
+                "file": "Planner/2024-04-14(일).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-13(토).md",
+                "file": "Planner/2024-04-14(일).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-13(토).md"
+                "file": "Planner/2024-04-14(일).md"
               }
             }
           }
@@ -178,8 +178,9 @@
   },
   "active": "7ca4f8958314f006",
   "lastOpenFiles": [
-    "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-13(토).md",
+    "Planner/2024-04-14(일).md",
+    "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-12(금).md",
     "Planner/Daily Template.md",
     "Planner/2024-04/Daily/2024-04-11(목).md",
@@ -210,7 +211,6 @@
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Refactor/Pasted image 20240410230215.png",
     "README.md",
-    "Refactor/Pasted image 20240410230130.png",
-    "Algorithm/해시 테이블.md"
+    "Refactor/Pasted image 20240410230130.png"
   ]
 }
