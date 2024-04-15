@@ -27,30 +27,14 @@ tags:
 
 <% tp.web.daily_quote() %>
 ## 나의 현재 볼륨
-* 
+* 졸작 페이지 만들기 원격 진료 시스템 구상하고 다음주 수요일까지 준비하기
+* 디공 페이지 관련해서 배포랑 메인 페이지 3D 이미지 관련 만져야함
+* 기사 시험 준비해야된단다 대관아
 ## 내일 기억할 일
 - 
 ## 오늘 기억할 일
-  <%*
-let yesterday = "10. Planner/11. Daily/" + tp.date.now("YYYY-MM-DD(ddd)", -1, tp.file.title, "YYYY-MM-DD(ddd)");
-let section = "## 내일 기억할 일";
-let should_include = false;
-let sectionContent = "";
+* 
 
-let yfile = tp.file.find_tfile(yesterday);
-if(yfile) {
-    const content = await app.vault.read(yfile);
-    if(content.includes(section)) {
-        let startIndex = content.indexOf(section) + section.length;
-        let endIndex = content.indexOf('\n##', startIndex);
-        endIndex = endIndex === -1 ? content.length : endIndex;
-        sectionContent = content.substring(startIndex, endIndex).trim();
-        should_include = sectionContent.length > 0;
-    }
-}
-
-tR += should_include ? sectionContent : "없습니다😀";
-%>
 
 ## 아침
 

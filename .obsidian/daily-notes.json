@@ -1,5 +1,6 @@
 {
   "folder": "Planner",
   "autorun": true,
-  "template": "Planner/Daily Template"
+  "template": "Planner/Daily Template",
+  "format": "YYYY-MM-DD(ddd)"
 }
