@@ -2,7 +2,7 @@
   "globalQuery": "",
   "globalFilter": "#task",
   "removeGlobalFilter": false,
-  "taskFormat": "dataview",
+  "taskFormat": "tasksPluginEmoji",
   "setCreatedDate": false,
   "setDoneDate": true,
   "setCancelledDate": true,
@@ -57,7 +57,8 @@
   },
   "debugSettings": {
     "ignoreSortInstructions": false,
-    "showTaskHiddenData": false
+    "showTaskHiddenData": false,
+    "recordTimings": false
   },
   "loggingOptions": {
     "minLevels": {
