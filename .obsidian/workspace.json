@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1f92f3e6b7050f81",
+        "id": "ecabbd4cc7a960d1",
         "type": "tabs",
         "children": [
           {
-            "id": "4e3c667aefc49f88",
+            "id": "b6720438ba6e8add",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md"
+                "file": "Algorithm/정렬.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
     "id": "eefbf0396d5a7078",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+                "file": "Algorithm/정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+                "file": "Algorithm/정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md"
+                "file": "Algorithm/정렬.md"
               }
             }
           }
@@ -164,8 +166,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e3c667aefc49f88",
+  "active": "b6720438ba6e8add",
   "lastOpenFiles": [
+    "Planner/2024-04/Daily/2024-04-16(화).md",
+    "Algorithm/정렬.md",
+    "Planner/2024-04/Daily/2024-04-22(월).md",
+    "Algorithm/리스트와 큐.md",
+    "Planner/2024-04/Daily/2024-04-30(화).md",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Planner/2024-04/Daily/2024-04-11(목).md",
     "Planner/2024-04/Daily/2024-04-15(월).md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
@@ -188,12 +196,6 @@
     "DataStructureStudy/set과map해시테이블.md",
     "DataStructureStudy/자료구조란.md",
     "DataStructureStudy/선형자료구조.md",
-    "Vue/ComputedAndWatch.md",
-    "Planner/2024-04/Daily/2024-04-16(화).md",
-    "Planner/2024-04/Daily/2024-04-22(월).md",
-    "conflict-files-obsidian-git.md",
-    "Planner/2024-04/Daily/2024-04-30(화).md",
-    "Planner/2024-04-18(목).md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
