@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04-16(화).md",
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04-16(화).md",
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04-16(화).md",
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04-16(화).md"
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md"
               }
             }
           }
@@ -193,9 +193,14 @@
   },
   "active": "d0693c81c576df03",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/2024-04-16(화).md",
-    "conflict-files-obsidian-git.md",
+    "Planner/2024-04/Daily/2024-04-30(화).md",
+    "Planner/2024-04/Daily/2024-04-22(월).md",
+    "Planner/2024-04/Daily/2024-04-16(화).md",
+    "Planner/2024-04-18(목).md",
+    "Planner/2024-04-17(수).md",
     "Planner/2024-04-15(월).md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
@@ -218,11 +223,6 @@
     "DataStructureStudy/set과map해시테이블.md",
     "Planner/2024-04/Daily/2024-04-12(금).md",
     "Planner/2024-04/Calender.md",
-    "Planner/Daily Template.md",
-    "Planner/2024-04/Daily/2024-04-11(목).md",
-    "Vision Board.md",
-    "2021-W44.md",
-    "tasksCalendar/demo_file.md",
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
     "tasksCalendar",
