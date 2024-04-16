@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+                "file": "Planner/2024-04-16(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+                "file": "Planner/2024-04-16(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+                "file": "Planner/2024-04-16(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md"
+                "file": "Planner/2024-04-16(화).md"
               }
             }
           }
@@ -193,9 +193,10 @@
   },
   "active": "d0693c81c576df03",
   "lastOpenFiles": [
+    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+    "Planner/2024-04-16(화).md",
     "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
     "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
-    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "JavaScript/함수 선언식과 표현식.md",
     "JavaScript/axios.md",
     "JavaScript/TaskQueue.md",
@@ -217,7 +218,6 @@
     "Planner/2024-04/Daily/2024-04-22(월).md",
     "Planner/2024-04/Daily/2024-04-15(월).md",
     "conflict-files-obsidian-git.md",
-    "Planner/2024-04-16(화).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-04-18(목).md",
     "Planner/2024-04-17(수).md",
