@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "livePreview": true
+  "livePreview": true,
+  "attachmentFolderPath": "_images"
 }
