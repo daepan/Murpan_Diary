@@ -17,21 +17,19 @@
 > - 이미지가 사용자 에이전트에서 지원하지 않는 형식입니다.
 > refrence: [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#image_loading_errors)
 
-```tsx
-간단 코드 작성
-```
 
 그렇다면 여기서 onError의 throw를 통해 ErrorBoundary를 통해 에러를 캐치하여 해당 문제를 해결하려했습니다. 
 ```tsx
 <ErrorBoundary fallbackClassName="store-detail-image">
-	<img 
-	  className={styles.image}
-	  src="" alt="상점 이미지"
-	  onError={(e) => { 
-		  if(e.type === 'error') 
-			  throw new Error('Image load error'); 
-		}}
-	/>
+  <img 
+	className={styles.image}
+	src="" alt="상점 이미지"
+	onError={(e) => { 
+	  if(e.type === 'error') 
+	    throw new Error('Image load error'); 
+	  }
+	}
+  />
 </ErrorBoundary>
 ```
 
@@ -164,12 +162,12 @@ export default function ImageErrorBoundary({
 이를 실제로 코드를 적용시키고 확인한 결과 값입니다.
 ```tsx
 ---
-	<ImageErrorBoundary
-        className={styles.image}
-        src=""
-        fallback={<ErrorDisplay />}
-        alt="상점이미지"
-    />
+  <ImageErrorBoundary
+    className={styles.image}
+    src=""
+    fallback={<ErrorDisplay />}
+    alt="상점이미지"
+  />
 ---
 ```
 ![[Pasted image 20240410230329.png]]
