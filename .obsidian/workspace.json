@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git을 통한",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,9 +161,11 @@
   },
   "active": "5fb7846ec7929111",
   "lastOpenFiles": [
-    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
-    "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
+    "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
+    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+    "Refactor/Git을 통한 협업.pdf",
+    "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
     "Planner/2024-04/Daily/2024-04-16(화).md",
     "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
@@ -196,13 +197,10 @@
     "Refactor/Pasted image 20240410230217.png",
     "Refactor/Pasted image 20240410230215.png",
     "Refactor/Pasted image 20240410230130.png",
-    "JavaScript/axios.md",
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
     "tasksCalendar",
     "Planner/2024-04/Daily",
-    "Planner/2024-04",
-    "Planner/Caleder",
-    "Planner"
+    "Planner/2024-04"
   ]
 }
