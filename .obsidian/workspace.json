@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
+                "file": "Conference/2021FEconf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
+                "file": "Conference/2021FEconf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
+                "file": "Conference/2021FEconf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md"
+                "file": "Conference/2021FEconf.md"
               }
             }
           },
@@ -159,8 +159,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5fb7846ec7929111",
+  "active": "243e0d49f2068afe",
   "lastOpenFiles": [
+    "CSS/gltf 파일을 통한 3D 렌더링.md",
     "Planner/2024-04/Daily/2024-04-16(화).md",
     "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
@@ -178,7 +179,6 @@
     "Planner/2024-04/Daily/2024-04-11(목).md",
     "Planner/2024-04/Daily/2024-04-13(토).md",
     "Planner/2024-04/Daily/2024-04-12(금).md",
-    "CSS/gltf 파일을 통한 3D 렌더링.md",
     "CSS/Pasted image 20240414211621.png",
     "Algorithm/알고리즘 및 실습 중간 정리.md",
     "Algorithm/스택과 큐.md",
