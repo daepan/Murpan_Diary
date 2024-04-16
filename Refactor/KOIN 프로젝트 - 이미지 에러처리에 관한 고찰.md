@@ -41,11 +41,74 @@
 
 저의 예상에서는 ErrorBoudary 코드에서 throw Error를 캐치하여 <img> `<img>`를 대체하여 ErrorBoundary에서 제공되는 에러를 표시하는 컴포넌트를 반환하고 싶었습니다.
 
-```ts
+```tsx
+import React, { ErrorInfo } from 'react';
+import showToast from 'utils/ts/showToast';
+import { AxiosError } from 'axios';
 
+interface Props {
+  fallbackClassName: string;
+  children: React.ReactNode;
+}
+
+interface State {
+  hasError: boolean;
+}
+
+function isAxiosError(error: AxiosError<any, any> | Error): error is AxiosError<any, any> {
+  return ('response' in error);
+}
+
+export default class ErrorBoundary extends React.Component<Props, State> {
+  constructor(props: Props) {
+    super(props);
+    // 이후에 사용시 해제
+    // eslint-disable-next-line react/no-unused-state
+    this.state = { hasError: false } as State;
+  }
+
+  // 이후에 사용시 해제
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  static getDerivedStateFromError(_: Error) {
+    return { hasError: true };
+  }
+
+  // 이후에 사용시 해제
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  componentDidCatch(error: AxiosError<any, any> | Error, __: ErrorInfo) {
+    showToast('error', isAxiosError(error) ? error.response?.data.error.message : error.message);
+  }
+
+  render() {
+    const { children, fallbackClassName } = this.props;
+    const { hasError } = this.state;
+    if (hasError) {
+      return (
+        <div className={fallbackClassName}>
+          Error
+        </div>
+      );
+    }
+    return children;
+  }
+}
 ```
 
 ![[Pasted image 20240410182603.png]]
+
+하지만 실제로는 이렇습니다.
+`<img>` 태그의 `onError` 이벤트를 `ErrorBoundary`가 캐치하지 못하는 이유는, `onError` 이벤트가 비동기적인 이벤트 리스너 내에서 발생하기 때문입니다. 
+
+React의 `ErrorBoundary`는 컴포넌트 렌더링 과정 또는 컴포넌트 라이프사이클 메소드 실행 중에 동기적으로 발생하는 오류를 캐치합니다. 반면, `onError` 이벤트와 같은 이벤트 리스너에서 발생하는 오류는 이벤트 처리 메커니즘이 브라우저의 비동기 이벤트 시스템을 통해 처리되므로, React의 라이프사이클 메소드(`componentDidMount` 포함)와는 별개로 동작합니다.
+
+### 동기 vs 비동기 오류
+
+- **동기 오류**: React 컴포넌트의 `render` 메소드나 `componentDidMount`, `componentDidUpdate` 등의 라이프사이클 메소드 내에서 발생하는 오류는 동기적으로 처리됩니다. 이러한 오류는 `ErrorBoundary`에 의해 캐치되어 처리될 수 있습니다.
+- **비동기 오류**: `onError` 이벤트 핸들러와 같은 이벤트 리스너에서 발생하는 오류, 또는 `setTimeout`, `Promise` 등의 비동기 작업에서 발생하는 오류는 `ErrorBoundary`가 캐치할 수 없습니다. 이는 React가 이러한 비동기 작업에서 발생한 오류를 자동으로 캐치할 수 없기 때문입니다.
+
+### `onError` 이벤트의 동작 방식
+
+`<img>` 태그의 `onError` 이벤트는 이미지 로딩이 실패했을 때 발생합니다. 예를 들어, 이미지 URL이 잘못되었거나, 네트워크 문제로 인해 이미지를 로드할 수 없는 경우에 발생할 수 있습니다. 이러한 `onError` 이벤트는 다음과 같이 사용됩니다:
 
 
 ![[Pasted image 20240410230329.png]]
