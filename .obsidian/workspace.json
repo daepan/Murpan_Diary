@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2635a469ef44c45d",
+        "id": "1f92f3e6b7050f81",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca4f8958314f006",
+            "id": "4e3c667aefc49f88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0693c81c576df03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planner/2024-04-16(화).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc683faea139aa4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planner/2024-04/Daily/2024-04-11(목).md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04-16(화).md",
+                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04-16(화).md",
+                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04-16(화).md"
+                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md"
               }
             }
           }
@@ -191,8 +164,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d0693c81c576df03",
+  "active": "4e3c667aefc49f88",
   "lastOpenFiles": [
+    "Planner/2024-04/Daily/2024-04-11(목).md",
+    "Planner/2024-04/Daily/2024-04-15(월).md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Planner/2024-04-16(화).md",
     "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
@@ -216,11 +191,9 @@
     "Vue/ComputedAndWatch.md",
     "Planner/2024-04/Daily/2024-04-16(화).md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
-    "Planner/2024-04/Daily/2024-04-15(월).md",
     "conflict-files-obsidian-git.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-04-18(목).md",
-    "Planner/2024-04-17(수).md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
