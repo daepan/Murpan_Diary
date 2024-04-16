@@ -162,14 +162,14 @@ export default function ImageErrorBoundary({
 ```
 
 이를 실제로 코드를 적용시키고 확인한 결과 값입니다.
-```
-~~
+```tsx
+---
 	<ImageErrorBoundary
         className={styles.image}
         src=""
         fallback={<ErrorDisplay />}
         alt="상점이미지"
-      />
-~~
+    />
+---
 ```
 ![[Pasted image 20240410230329.png]]
