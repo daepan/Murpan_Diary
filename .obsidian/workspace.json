@@ -11,11 +11,9 @@
             "id": "5fb7846ec7929111",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
-                "mode": "source",
-                "source": false
+                "file": "Refactor/Git을 통한 협업 1.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
+                "file": "Refactor/Git을 통한 협업 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
+                "file": "Refactor/Git을 통한 협업 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md"
+                "file": "Refactor/Git을 통한 협업 1.pdf"
               }
             }
           },
@@ -161,8 +159,8 @@
   },
   "active": "5fb7846ec7929111",
   "lastOpenFiles": [
-    "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
+    "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Refactor/Git을 통한 협업.pdf",
     "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
