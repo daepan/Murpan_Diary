@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
+                "file": "Planner/2024-04-16(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
+                "file": "Planner/2024-04-16(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
+                "file": "Planner/2024-04-16(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-15(월).md"
+                "file": "Planner/2024-04-16(화).md"
               }
             }
           }
@@ -178,23 +178,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-emotion-picker:Emotions Picker": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "d0693c81c576df03",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Planner/2024-04/Daily/2024-04-15(월).md",
+    "Planner/2024-04-16(화).md",
+    "conflict-files-obsidian-git.md",
     "Planner/2024-04-15(월).md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
@@ -222,7 +218,6 @@
     "Vision Board.md",
     "2021-W44.md",
     "tasksCalendar/demo_file.md",
-    "무제 파일.md",
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
     "tasksCalendar",
