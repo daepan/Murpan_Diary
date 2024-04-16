@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "8cb4dd6845e26f22",
+    "id": "0760af5b2a9883b8",
     "type": "split",
     "children": [
       {
-        "id": "2635a469ef44c45d",
+        "id": "d0b137f29713b0b3",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca4f8958314f006",
+            "id": "5fb7846ec7929111",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,47 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d0693c81c576df03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc683faea139aa4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planner/2024-04/Daily/2024-04-11(목).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3483696c70fdb400",
+    "id": "ca3256c7b1ba9b19",
     "type": "split",
     "children": [
       {
-        "id": "60163bc07d6b0dbf",
+        "id": "55d7ceac05ccc406",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa2e4c78e1c205b",
+            "id": "243e0d49f2068afe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +43,12 @@
             }
           },
           {
-            "id": "81183e73a8f648ba",
+            "id": "3484bd9a51d46e14",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +58,7 @@
             }
           },
           {
-            "id": "37cb3aa1cc60d2e1",
+            "id": "a4403ef9e6c3fc04",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 246.5
   },
   "right": {
-    "id": "eefbf0396d5a7078",
+    "id": "fe05a8a319eb2e33",
     "type": "split",
     "children": [
       {
-        "id": "fc4be98547a2f9b7",
+        "id": "af884b58e979a147",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9042833c696cac",
+            "id": "c289301dca0d393b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,19 @@
             }
           },
           {
-            "id": "9822675544b4a572",
+            "id": "bca244310fbfe5a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3a8e5e8d67b685c1",
+            "id": "6948464a793f326e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,91 +120,86 @@
             }
           },
           {
-            "id": "d21bb9c1ed26318e",
+            "id": "0ad48d941105f351",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md"
+                "file": "Planner/2024-04/Daily/2024-04-15(월).md"
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "ecc8553627b81faf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3473f5ffa026fa66",
+            "id": "92b921f2ffdefa0d",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-emotion-picker:Emotions Picker": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-emotion-picker:Emotions Picker": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d0693c81c576df03",
+  "active": "5fb7846ec7929111",
   "lastOpenFiles": [
-    "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/2024-04/Daily/2024-04-16(화).md",
-    "conflict-files-obsidian-git.md",
-    "Planner/2024-04-15(월).md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
+    "Planner/2024-04/Daily/2024-04-18(목).md",
+    "Planner/2024-04-15.md",
+    "Planner/2024-04/Daily/2024-04-15(월).md",
+    "conflict-files-obsidian-git.md",
+    "Planner/2024-04/Daily/2024-04-11(목).md",
     "Planner/2024-04/Daily/2024-04-14(일).md",
-    "CSS/display.md",
+    "Planner/2024-04/Daily/2024-04-13(토).md",
+    "Planner/2024-04/Daily/2024-04-12(금).md",
     "CSS/gltf 파일을 통한 3D 렌더링.md",
     "CSS/Pasted image 20240414211621.png",
-    "2024-04-12(금).md",
+    "Algorithm/알고리즘 및 실습 중간 정리.md",
     "Algorithm/스택과 큐.md",
     "Algorithm/리스트와 큐.md",
-    "Algorithm/알고리즘 및 실습 중간 정리.md",
-    "Algorithm/해시 테이블.md",
-    "Algorithm/브루트포스-순열.md",
-    "Planner/2024-04/Daily/2024-04-13(토).md",
-    "DataStructureStudy/이진검색.md",
-    "DataStructureStudy/3주차.md",
-    "DataStructureStudy/선형자료구조.md",
-    "DataStructureStudy/자료구조란.md",
-    "DataStructureStudy/set과map해시테이블.md",
-    "Planner/2024-04/Daily/2024-04-12(금).md",
-    "Planner/2024-04/Calender.md",
-    "Planner/Daily Template.md",
-    "Planner/2024-04/Daily/2024-04-11(목).md",
+    "JavaScript/errorHandling.md",
     "Vision Board.md",
-    "2021-W44.md",
+    "Planner/Daily Template.md",
+    "Planner/2024-04/Calender.md",
+    "Refactor/Pasted image 20240410230329.png",
+    "Refactor/Pasted image 20240410230217.png",
+    "Refactor/Pasted image 20240410230215.png",
+    "Refactor/Pasted image 20240410230130.png",
+    "JavaScript/axios.md",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "newsletter/3.26.md",
+    "Planner/2024-04/Daily/2024-04-11.md",
+    "Planner/2024-04-11.md",
     "tasksCalendar/demo_file.md",
+    "Planner/Daily 템플릿.md",
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
     "tasksCalendar",
+    "Calender/2024-04-11.md",
     "Planner/2024-04/Daily",
     "Planner/2024-04",
-    "Planner",
-    "Refactor/Pasted image 20240410230215.png",
-    "Refactor/Pasted image 20240410230130.png"
+    "Planner/Caleder",
+    "Planner"
   ]
 }
