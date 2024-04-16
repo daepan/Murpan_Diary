@@ -110,5 +110,66 @@ React의 `ErrorBoundary`는 컴포넌트 렌더링 과정 또는 컴포넌트 �
 
 `<img>` 태그의 `onError` 이벤트는 이미지 로딩이 실패했을 때 발생합니다. 예를 들어, 이미지 URL이 잘못되었거나, 네트워크 문제로 인해 이미지를 로드할 수 없는 경우에 발생할 수 있습니다. 이러한 `onError` 이벤트는 다음과 같이 사용됩니다:
 
+### 결론
+---
+>`componentDidMount`와 같은 라이프사이클 메소드에서 `onError` 이벤트를 직접 관리하지 않으며, `onError` 이벤트는 이미지 로딩과 같은 비동기 이벤트의 결과에 대한 반응으로 동작합니다. 따라서 `ErrorBoundary`를 사용하여 이러한 비동기 이벤트에서 발생하는 오류를 직접 캐치하는 것은 불가능합니다.
 
+
+## How to Solve?
+그렇다면 이러한 이미지 에러를 추적하기 위해서는 어떻게 해야할까요?
+img 태그에서 onError를 동기적으로 처리할 수 있도록 컴포넌트화를 시켜야하는 것으로 결론을 내렸습니다.
+
+왜냐하면 img 동작 자체가 로딩이 리액트에서 감지하기 위해서는 리액트의 동기적 동작에 포함될 수 있게 컴포넌트로 넣게 되는 것을 생각하였습니다.
+
+최종적으로 img에 대한 onError를 추적하는 코드는 아래와 같습니다.
+
+```tsx
+import React, { useState } from 'react';
+
+interface ImageErrorBoundaryProps {
+  src: string;
+  alt: string;
+  className: string;
+  fallback: React.ReactNode;
+}
+
+export default function ImageErrorBoundary({
+  src,
+  alt,
+  className,
+  fallback,
+}: ImageErrorBoundaryProps) {
+  const [hasError, setHasError] = useState(false);
+
+  return (
+    <div>
+      {hasError ? (
+        <div className={className}>
+          {fallback}
+        </div>
+      ) : (
+        <img
+          src={src}
+          alt={alt}
+          className={className}
+          onError={() => setHasError(true)}
+        />
+      )}
+    </div>
+  );
+}
+
+```
+
+이를 실제로 코드를 적용시키고 확인한 결과 값입니다.
+```
+~~
+	<ImageErrorBoundary
+        className={styles.image}
+        src=""
+        fallback={<ErrorDisplay />}
+        alt="상점이미지"
+      />
+~~
+```
 ![[Pasted image 20240410230329.png]]
