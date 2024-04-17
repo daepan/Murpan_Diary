@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/탐색.md",
+                "file": "Algorithm/우선 순위 큐와 힙.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/탐색.md",
+                "file": "Algorithm/우선 순위 큐와 힙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/탐색.md",
+                "file": "Algorithm/우선 순위 큐와 힙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/탐색.md"
+                "file": "Algorithm/우선 순위 큐와 힙.md"
               }
             }
           }
@@ -167,6 +167,9 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
+    "Algorithm/탐색.md",
+    "Algorithm/우선 순위 큐와 힙.md",
+    "_images/Pasted image 20240418003013.png",
     "_images/Pasted image 20240418002934.png",
     "_images/Pasted image 20240418002916.png",
     "_images/Pasted image 20240418002841.png",
@@ -176,7 +179,6 @@
     "_images/Pasted image 20240418001043.png",
     "_images/Pasted image 20240418000938.png",
     "Planner/2024-04/Daily/2024-04-17(수).md",
-    "Algorithm/탐색.md",
     "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/Daily Template.md",
     "Planner/2024-04/Daily/2024-04-16(화).md",
@@ -201,7 +203,6 @@
     "JavaScript/JSthis.md",
     "JavaScript/Object.Freeze vs Object.seal.md",
     "JavaScript/errorHandling.md",
-    "CSS/Pasted image 20240414211621.png",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
@@ -210,7 +211,6 @@
     "tasksCalendar",
     "Planner/2024-04/Daily",
     "Planner/2024-04",
-    "Planner",
-    "Refactor/Pasted image 20240410230215.png"
+    "Planner"
   ]
 }
