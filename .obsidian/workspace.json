@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/탐색.md",
+                "file": "Algorithm/스택과 큐.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/탐색.md",
+                "file": "Algorithm/스택과 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/탐색.md",
+                "file": "Algorithm/스택과 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/탐색.md"
+                "file": "Algorithm/스택과 큐.md"
               }
             }
           }
@@ -168,21 +168,23 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
+    "_images/Pasted image 20240418022115.png",
+    "_images/Pasted image 20240418022102.png",
+    "_images/Pasted image 20240418022049.png",
+    "Algorithm/리스트와 큐.md",
+    "_images/Pasted image 20240418021910.png",
+    "_images/Pasted image 20240418021849.png",
+    "Algorithm/스택과 큐.md",
+    "Algorithm/탐색.md",
+    "Algorithm/정렬.md",
     "_images/Pasted image 20240418021023.png",
     "_images/Pasted image 20240418020934.png",
     "_images/Pasted image 20240418020857.png",
     "_images/Pasted image 20240418020801.png",
     "_images/Pasted image 20240418020739.png",
     "_images/Pasted image 20240418020725.png",
-    "_images/Pasted image 20240418020719.png",
-    "_images/Pasted image 20240418020640.png",
-    "_images/Pasted image 20240418020451.png",
-    "_images/Pasted image 20240418020434.png",
-    "_images/Pasted image 20240418020109.png",
-    "Algorithm/정렬.md",
     "Algorithm/우선 순위 큐와 힙.md",
     "Algorithm/해시 테이블.md",
-    "Algorithm/탐색.md",
     "Planner/2024-04/Daily/2024-04-17(수).md",
     "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/Daily Template.md",
@@ -192,7 +194,6 @@
     "Planner/2024-04/Daily/2024-04-14(일).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
-    "Algorithm/리스트와 큐.md",
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Planner/2024-04/Daily/2024-04-11(목).md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
@@ -203,7 +204,6 @@
     "JavaScript/TaskQueue.md",
     "JavaScript/this.md",
     "JavaScript/reduce.md",
-    "JavaScript/JSthis.md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
