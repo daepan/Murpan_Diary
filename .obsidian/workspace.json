@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
+                "file": "Planner/2024-04/Daily/2024-04-17(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
+                "file": "Planner/2024-04/Daily/2024-04-17(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md",
+                "file": "Planner/2024-04/Daily/2024-04-17(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-16(화).md"
+                "file": "Planner/2024-04/Daily/2024-04-17(수).md"
               }
             }
           }
@@ -148,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +167,12 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
+    "Planner/2024-04/Daily/2024-04-15(월).md",
+    "Planner/Daily Template.md",
     "Planner/2024-04/Daily/2024-04-17(수).md",
     "Planner/2024-04/Daily/2024-04-16(화).md",
     "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-19(금).md",
-    "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/2024-04/Daily/2024-04-14(일).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Algorithm/정렬.md",
@@ -194,7 +195,6 @@
     "DataStructureStudy/이진검색.md",
     "DataStructureStudy/3주차.md",
     "CSS/Pasted image 20240414211621.png",
-    "CSS/gltf 파일을 통한 3D 렌더링.md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
