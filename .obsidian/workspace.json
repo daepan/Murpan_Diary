@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +167,18 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
-    "Algorithm/정렬.md",
+    "Planner/2024-04/Daily/2024-04-17(수).md",
     "Planner/2024-04/Daily/2024-04-16(화).md",
+    "Planner/2024-04/Calender.md",
+    "Planner/2024-04/Daily/2024-04-19(금).md",
+    "Planner/2024-04/Daily/2024-04-15(월).md",
+    "Planner/2024-04/Daily/2024-04-14(일).md",
+    "Planner/2024-04/Daily/2024-04-30(화).md",
+    "Algorithm/정렬.md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
     "Algorithm/리스트와 큐.md",
-    "Planner/2024-04/Daily/2024-04-30(화).md",
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Planner/2024-04/Daily/2024-04-11(목).md",
-    "Planner/2024-04/Daily/2024-04-15(월).md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Planner/2024-04-16(화).md",
     "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
@@ -192,10 +195,6 @@
     "DataStructureStudy/3주차.md",
     "CSS/Pasted image 20240414211621.png",
     "CSS/gltf 파일을 통한 3D 렌더링.md",
-    "React/ErrorBoundaries.md",
-    "DataStructureStudy/set과map해시테이블.md",
-    "DataStructureStudy/자료구조란.md",
-    "DataStructureStudy/선형자료구조.md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
