@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +166,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6720438ba6e8add",
+  "active": "d21bb9c1ed26318e",
   "lastOpenFiles": [
+    "_images/Pasted image 20240418005653.png",
+    "_images/Pasted image 20240418005608.png",
     "_images/Pasted image 20240418005518.png",
     "_images/Pasted image 20240418005411.png",
     "_images/Pasted image 20240418005350.png",
@@ -178,8 +181,6 @@
     "_images/Pasted image 20240418002934.png",
     "_images/Pasted image 20240418002916.png",
     "_images/Pasted image 20240418002841.png",
-    "_images/Pasted image 20240418002735.png",
-    "_images/Pasted image 20240418002602.png",
     "Planner/2024-04/Daily/2024-04-17(수).md",
     "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/Daily Template.md",
