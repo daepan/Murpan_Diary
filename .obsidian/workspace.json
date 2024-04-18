@@ -153,8 +153,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-emotion-picker:Emotions Picker": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -170,6 +168,8 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
+    "Planner/Daily Template.md",
+    "Planner/2024-04/Daily/2024-04-18(목).md",
     "Refactor/Git을 통한 협업.pdf",
     "Refactor/Git을 통한 협업 1.pdf",
     "Algorithm/정렬.md",
@@ -177,9 +177,7 @@
     "Algorithm/스택과 큐.md",
     "Algorithm/우선 순위 큐와 힙.md",
     "Algorithm/알고리즘 및 실습 중간 정리.md",
-    "Planner/2024-04/Daily/2024-04-18(목).md",
     "Planner/2024-04/Daily/2024-04-17(수).md",
-    "Planner/Daily Template.md",
     "Planner/2024-04/Daily/2024-04-16(화).md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
@@ -214,7 +212,6 @@
     "tasksCalendar/view.css",
     "tasksCalendar",
     "Planner/2024-04/Daily",
-    "Planner/2024-04",
-    "Planner"
+    "Planner/2024-04"
   ]
 }
