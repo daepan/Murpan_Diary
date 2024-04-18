@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/3.26.md",
+                "file": "OS/1주차 운영체제란.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/3.26.md",
+                "file": "OS/1주차 운영체제란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/3.26.md",
+                "file": "OS/1주차 운영체제란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/3.26.md"
+                "file": "OS/1주차 운영체제란.md"
               }
             }
           }
@@ -168,6 +168,8 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
+    "newsletter/3.26.md",
+    "OS/1주차 운영체제란.md",
     "Planner/2024-04/Daily/2024-04-18(목).md",
     "OS",
     "Planner/Daily Template.md",
@@ -205,7 +207,6 @@
     "Planner/2024-04-16(화).md",
     "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
     "JavaScript/함수 선언식과 표현식.md",
-    "JavaScript/axios.md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
