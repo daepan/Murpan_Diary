@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-18(목).md",
+                "file": "newsletter/3.26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-18(목).md",
+                "file": "newsletter/3.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-18(목).md",
+                "file": "newsletter/3.26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-18(목).md"
+                "file": "newsletter/3.26.md"
               }
             }
           }
@@ -168,8 +168,9 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
-    "Planner/Daily Template.md",
     "Planner/2024-04/Daily/2024-04-18(목).md",
+    "OS",
+    "Planner/Daily Template.md",
     "Refactor/Git을 통한 협업.pdf",
     "Refactor/Git을 통한 협업 1.pdf",
     "Algorithm/정렬.md",
@@ -211,7 +212,6 @@
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
     "tasksCalendar",
-    "Planner/2024-04/Daily",
-    "Planner/2024-04"
+    "Planner/2024-04/Daily"
   ]
 }
