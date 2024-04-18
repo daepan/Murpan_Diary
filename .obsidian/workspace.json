@@ -153,6 +153,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-emotion-picker:Emotions Picker": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -168,6 +170,8 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
+    "Refactor/Git을 통한 협업.pdf",
+    "Refactor/Git을 통한 협업 1.pdf",
     "Algorithm/정렬.md",
     "Algorithm/리스트와 큐.md",
     "Algorithm/스택과 큐.md",
@@ -203,7 +207,6 @@
     "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
     "JavaScript/함수 선언식과 표현식.md",
     "JavaScript/axios.md",
-    "JavaScript/TaskQueue.md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
