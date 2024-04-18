@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "Algorithm/정렬.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "Algorithm/정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "Algorithm/정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/스택과 큐.md"
+                "file": "Algorithm/정렬.md"
               }
             }
           }
@@ -168,21 +168,21 @@
   },
   "active": "b6720438ba6e8add",
   "lastOpenFiles": [
+    "_images/Pasted image 20240418115733.png",
+    "_images/Pasted image 20240418115725.png",
+    "_images/Pasted image 20240418115722.png",
+    "_images/Pasted image 20240418115712.png",
+    "_images/Pasted image 20240418115558.png",
+    "_images/Pasted image 20240418115542.png",
+    "_images/Pasted image 20240418115524.png",
+    "Algorithm/스택과 큐.md",
     "_images/Pasted image 20240418022115.png",
     "_images/Pasted image 20240418022102.png",
     "_images/Pasted image 20240418022049.png",
     "Algorithm/리스트와 큐.md",
     "_images/Pasted image 20240418021910.png",
-    "_images/Pasted image 20240418021849.png",
-    "Algorithm/스택과 큐.md",
     "Algorithm/탐색.md",
     "Algorithm/정렬.md",
-    "_images/Pasted image 20240418021023.png",
-    "_images/Pasted image 20240418020934.png",
-    "_images/Pasted image 20240418020857.png",
-    "_images/Pasted image 20240418020801.png",
-    "_images/Pasted image 20240418020739.png",
-    "_images/Pasted image 20240418020725.png",
     "Algorithm/우선 순위 큐와 힙.md",
     "Algorithm/해시 테이블.md",
     "Planner/2024-04/Daily/2024-04-17(수).md",
