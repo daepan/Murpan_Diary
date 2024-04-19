@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructureStudy/자료구조란.md",
+                "file": "Planner/2024-04/Daily/2024-04-19(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructureStudy/자료구조란.md",
+                "file": "Planner/2024-04/Daily/2024-04-19(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructureStudy/자료구조란.md",
+                "file": "Planner/2024-04/Daily/2024-04-19(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructureStudy/자료구조란.md"
+                "file": "Planner/2024-04/Daily/2024-04-19(금).md"
               }
             }
           }
@@ -166,8 +166,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6720438ba6e8add",
+  "active": "2fa2e4c78e1c205b",
   "lastOpenFiles": [
+    "DataStructureStudy/자료구조란.md",
+    "Planner/2024-04/Daily/2024-04-19(금).md",
     "DataStructureStudy/이진검색.md",
     "OS/1주차 운영체제란.md",
     "_images/Pasted image 20240419002258.png",
@@ -205,8 +207,6 @@
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Planner/2024-04/Daily/2024-04-11(목).md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
-    "Planner/2024-04-16(화).md",
-    "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
