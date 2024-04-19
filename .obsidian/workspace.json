@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/3. OS 서비스 및 시스템 콜.md",
+                "file": "OS/4. OS 구현방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/3. OS 서비스 및 시스템 콜.md",
+                "file": "OS/4. OS 구현방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/3. OS 서비스 및 시스템 콜.md",
+                "file": "OS/4. OS 구현방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/3. OS 서비스 및 시스템 콜.md"
+                "file": "OS/4. OS 구현방식.md"
               }
             }
           }
@@ -181,9 +181,11 @@
   },
   "active": "c66322b12c531265",
   "lastOpenFiles": [
+    "OS/3. OS 서비스 및 시스템 콜.md",
+    "OS/4. OS 구현방식.md",
+    "_images/Pasted image 20240419224616.png",
     "_images/Pasted image 20240419224034.png",
     "OS/2. 운영체제 구성요소.md",
-    "OS/3. OS 서비스 및 시스템 콜.md",
     "_images/Pasted image 20240419222538.png",
     "_images/Pasted image 20240419222446.png",
     "Planner/2024-04/Daily/2024-04-19(금).md",
@@ -214,8 +216,6 @@
     "_images/Pasted image 20240418115725.png",
     "_images/Pasted image 20240418115722.png",
     "_images/Pasted image 20240418115712.png",
-    "_images/Pasted image 20240418115558.png",
-    "_images/Pasted image 20240418115542.png",
     "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-14(일).md",
