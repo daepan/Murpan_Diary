@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-19(금).md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-19(금).md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-19(금).md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-19(금).md"
+                "file": "Portfoilo/김대관 포토폴리오.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "c66322b12c531265",
   "lastOpenFiles": [
+    "Planner/2024-04/Daily/2024-04-19(금).md",
     "Portfoilo/김대관 포토폴리오.md",
     "Portfoilo",
     "Planner/2024-04/Daily/2024-04-20(토).md",
@@ -191,7 +192,6 @@
     "OS/2. 운영체제 구성요소.md",
     "_images/Pasted image 20240419222538.png",
     "_images/Pasted image 20240419222446.png",
-    "Planner/2024-04/Daily/2024-04-19(금).md",
     "DataStructureStudy/자료구조란.md",
     "DataStructureStudy/이진검색.md",
     "OS/1. 운영체제란.md",
