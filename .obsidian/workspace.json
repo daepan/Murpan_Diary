@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6720438ba6e8add",
+            "id": "c66322b12c531265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/2. 운영체제 구성요소.md",
+                "file": "OS/5. 프로세스.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c66322b12c531265",
+            "id": "0d258bce93b9d776",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,10 +179,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c66322b12c531265",
+  "active": "0d258bce93b9d776",
   "lastOpenFiles": [
     "OS/5. 프로세스.md",
     "OS/6. IPC.md",
+    "OS/2. 운영체제 구성요소.md",
+    "_images/Pasted image 20240420221137.png",
     "_images/Pasted image 20240420215534.png",
     "_images/Pasted image 20240420215516.png",
     "_images/Pasted image 20240420214203.png",
@@ -193,13 +195,11 @@
     "OS/4. OS 구현방식.md",
     "_images/Pasted image 20240420212020.png",
     "_images/Pasted image 20240420211852.png",
-    "_images/Pasted image 20240420211720.png",
     "Portfoilo/김대관 포토폴리오.md",
     "Planner/2024-04/Daily/2024-04-19(금).md",
     "Portfoilo",
     "Planner/2024-04/Daily/2024-04-20(토).md",
     "OS/3. OS 서비스 및 시스템 콜.md",
-    "OS/2. 운영체제 구성요소.md",
     "DataStructureStudy/자료구조란.md",
     "DataStructureStudy/이진검색.md",
     "OS/1. 운영체제란.md",
@@ -220,7 +220,6 @@
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Algorithm/브루트포스-순열.md",
     "Algorithm/탐색.md",
-    "Algorithm/해시 테이블.md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
