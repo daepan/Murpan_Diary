@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/5. 프로세스.md",
+                "file": "OS/6. IPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/5. 프로세스.md",
+                "file": "OS/6. IPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/5. 프로세스.md",
+                "file": "OS/6. IPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/5. 프로세스.md"
+                "file": "OS/6. IPC.md"
               }
             }
           }
@@ -181,6 +181,8 @@
   },
   "active": "c66322b12c531265",
   "lastOpenFiles": [
+    "OS/5. 프로세스.md",
+    "OS/6. IPC.md",
     "_images/Pasted image 20240420215534.png",
     "_images/Pasted image 20240420215516.png",
     "_images/Pasted image 20240420214203.png",
@@ -189,11 +191,9 @@
     "_images/Pasted image 20240420213814.png",
     "_images/Pasted image 20240420213748.png",
     "OS/4. OS 구현방식.md",
-    "OS/5. 프로세스.md",
     "_images/Pasted image 20240420212020.png",
     "_images/Pasted image 20240420211852.png",
     "_images/Pasted image 20240420211720.png",
-    "_images/Pasted image 20240420211711.png",
     "Portfoilo/김대관 포토폴리오.md",
     "Planner/2024-04/Daily/2024-04-19(금).md",
     "Portfoilo",
