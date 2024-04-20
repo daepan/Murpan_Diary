@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "OS/9. 메모리 관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4ad914d93b737d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "OS/7. CPU 스케쥴링.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,10 +203,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fa2e4c78e1c205b",
+  "active": "d4ad914d93b737d7",
   "lastOpenFiles": [
-    "OS/6. IPC.md",
+    "OS/8. 멀티 프로세서 스케쥴링.md",
+    "OS/9. 메모리 관리.md",
     "OS/7. CPU 스케쥴링.md",
+    "OS/6. IPC.md",
+    "OS/10. 세그멘테이션.md",
+    "OS/11. 자유 공간 관리(커널 메모리).md",
+    "OS/12. 페이징.md",
+    "OS/13. 가상 메모리 관리.md",
     "_images/Pasted image 20240420222626.png",
     "_images/Pasted image 20240420222347.png",
     "_images/Pasted image 20240420222024.png",
@@ -227,12 +245,6 @@
     "Algorithm/스택과 큐.md",
     "Algorithm/우선 순위 큐와 힙.md",
     "Algorithm/알고리즘 및 실습 중간 정리.md",
-    "Planner/2024-04/Daily/2024-04-17(수).md",
-    "Planner/2024-04/Daily/2024-04-16(화).md",
-    "Planner/2024-04/Daily/2024-04-22(월).md",
-    "Planner/2024-04/Daily/2024-04-30(화).md",
-    "Algorithm/브루트포스-순열.md",
-    "Algorithm/탐색.md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
