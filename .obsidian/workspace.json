@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/16. 동기화.md",
+                "file": "OS/1. 운영체제란.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/16. 동기화.md",
+                "file": "OS/1. 운영체제란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/16. 동기화.md",
+                "file": "OS/1. 운영체제란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/16. 동기화.md"
+                "file": "OS/1. 운영체제란.md"
               }
             }
           }
@@ -207,6 +207,7 @@
   "lastOpenFiles": [
     "OS/15. 쓰레드.md",
     "OS/16. 동기화.md",
+    "_images/Pasted image 20240421181134.png",
     "_images/Pasted image 20240421181004.png",
     "_images/Pasted image 20240421180947.png",
     "_images/Pasted image 20240421180718.png",
@@ -221,7 +222,6 @@
     "_images/Pasted image 20240421175628.png",
     "_images/Pasted image 20240421175622.png",
     "_images/Pasted image 20240421175615.png",
-    "_images/Pasted image 20240421175533.png",
     "OS/12. 페이징.md",
     "OS/11. 자유 공간 관리(커널 메모리).md",
     "OS/10. 세그멘테이션.md",
@@ -244,7 +244,6 @@
     "Refactor/Git을 통한 협업.pdf",
     "Refactor/Git을 통한 협업 1.pdf",
     "Algorithm/정렬.md",
-    "Algorithm/리스트와 큐.md",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
