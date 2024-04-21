@@ -1,76 +1,50 @@
 {
   "main": {
-    "id": "8cb4dd6845e26f22",
+    "id": "0760af5b2a9883b8",
     "type": "split",
     "children": [
       {
-        "id": "ecabbd4cc7a960d1",
+        "id": "d0b137f29713b0b3",
         "type": "tabs",
         "children": [
           {
-            "id": "c66322b12c531265",
+            "id": "5fb7846ec7929111",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OS/5. 프로세스.md",
-                "mode": "source",
-                "source": false
+                "file": "Refactor/Git을 통한 협업 1.pdf"
               }
             }
           },
           {
-            "id": "0d258bce93b9d776",
+            "id": "a32173de3b3d258d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/6. IPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d1cb40d19c47337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/9. 메모리 관리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4ad914d93b737d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/9. 메모리 관리.md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3483696c70fdb400",
+    "id": "ca3256c7b1ba9b19",
     "type": "split",
     "children": [
       {
-        "id": "60163bc07d6b0dbf",
+        "id": "55d7ceac05ccc406",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa2e4c78e1c205b",
+            "id": "243e0d49f2068afe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,12 +54,12 @@
             }
           },
           {
-            "id": "81183e73a8f648ba",
+            "id": "3484bd9a51d46e14",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +69,7 @@
             }
           },
           {
-            "id": "37cb3aa1cc60d2e1",
+            "id": "a4403ef9e6c3fc04",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +80,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 246.5
   },
   "right": {
-    "id": "eefbf0396d5a7078",
+    "id": "fe05a8a319eb2e33",
     "type": "split",
     "children": [
       {
-        "id": "fc4be98547a2f9b7",
+        "id": "af884b58e979a147",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9042833c696cac",
+            "id": "c289301dca0d393b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/9. 메모리 관리.md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +108,19 @@
             }
           },
           {
-            "id": "9822675544b4a572",
+            "id": "bca244310fbfe5a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/9. 메모리 관리.md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3a8e5e8d67b685c1",
+            "id": "6948464a793f326e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,41 +131,35 @@
             }
           },
           {
-            "id": "d21bb9c1ed26318e",
+            "id": "0ad48d941105f351",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/9. 메모리 관리.md"
+                "file": "Portfoilo/김대관 포토폴리오.md"
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "ecc8553627b81faf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3473f5ffa026fa66",
+            "id": "92b921f2ffdefa0d",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "obsidian-emotion-picker:Emotions Picker": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -199,11 +167,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4ad914d93b737d7",
+  "active": "a32173de3b3d258d",
   "lastOpenFiles": [
     "_images/Pasted image 20240421012731.png",
     "_images/Pasted image 20240421012519.png",
@@ -215,36 +182,36 @@
     "_images/Pasted image 20240421012203.png",
     "_images/Pasted image 20240421012155.png",
     "_images/Pasted image 20240421012034.png",
-    "OS/7. CPU 스케쥴링.md",
-    "OS/8. 멀티 프로세서 스케쥴링.md",
     "_images/Pasted image 20240421005505.png",
     "OS/9. 메모리 관리.md",
+    "OS/8. 멀티 프로세서 스케쥴링.md",
+    "OS/7. CPU 스케쥴링.md",
     "OS/6. IPC.md",
-    "OS/10. 세그멘테이션.md",
-    "OS/11. 자유 공간 관리(커널 메모리).md",
-    "OS/12. 페이징.md",
-    "OS/13. 가상 메모리 관리.md",
     "OS/5. 프로세스.md",
-    "OS/2. 운영체제 구성요소.md",
-    "OS/4. OS 구현방식.md",
-    "Portfoilo/김대관 포토폴리오.md",
-    "Planner/2024-04/Daily/2024-04-19(금).md",
-    "Portfoilo",
+    "OS/13. 가상 메모리 관리.md",
+    "OS/12. 페이징.md",
+    "OS/11. 자유 공간 관리(커널 메모리).md",
+    "OS/10. 세그멘테이션.md",
     "Planner/2024-04/Daily/2024-04-20(토).md",
-    "OS/3. OS 서비스 및 시스템 콜.md",
-    "DataStructureStudy/자료구조란.md",
-    "DataStructureStudy/이진검색.md",
-    "OS/1. 운영체제란.md",
-    "newsletter/3.26.md",
+    "Portfoilo/김대관 포토폴리오.md",
+    "Portfoilo",
+    "Planner/2024-04/Daily/2024-04-19(금).md",
+    "Planner/2024-04/Daily/2024-04-22(월).md",
     "Planner/2024-04/Daily/2024-04-18(목).md",
+    "OS/1. 운영체제란.md",
+    "OS/4. OS 구현방식.md",
+    "OS/3. OS 서비스 및 시스템 콜.md",
+    "OS/2. 운영체제 구성요소.md",
+    "OS/1주차 운영체제란.md",
     "OS",
+    "Planner/2024-04/Daily/2024-04-17(수).md",
+    "Planner/2024-04/Daily/2024-04-15(월).md",
     "Planner/Daily Template.md",
-    "Refactor/Git을 통한 협업.pdf",
-    "Refactor/Git을 통한 협업 1.pdf",
-    "Algorithm/정렬.md",
-    "Algorithm/리스트와 큐.md",
-    "Algorithm/스택과 큐.md",
+    "Algorithm/탐색.md",
     "Algorithm/우선 순위 큐와 힙.md",
+    "conflict-files-obsidian-git.md",
+    "Refactor/Git을 통한 협업 1.pdf",
+    "Refactor/Git을 통한 협업.pdf",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
