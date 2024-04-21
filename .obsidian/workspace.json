@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/1. 운영체제란.md",
+                "file": "OS/5. 프로세스.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/1. 운영체제란.md",
+                "file": "OS/5. 프로세스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/1. 운영체제란.md",
+                "file": "OS/5. 프로세스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/1. 운영체제란.md"
+                "file": "OS/5. 프로세스.md"
               }
             }
           }
@@ -205,6 +205,8 @@
   },
   "active": "d4ad914d93b737d7",
   "lastOpenFiles": [
+    "OS/2. 운영체제 구성요소.md",
+    "OS/1. 운영체제란.md",
     "OS/15. 쓰레드.md",
     "OS/16. 동기화.md",
     "_images/Pasted image 20240421181134.png",
@@ -227,7 +229,6 @@
     "OS/10. 세그멘테이션.md",
     "OS/9. 메모리 관리.md",
     "OS/8. 멀티 프로세서 스케쥴링.md",
-    "OS/2. 운영체제 구성요소.md",
     "OS/4. OS 구현방식.md",
     "Portfoilo/김대관 포토폴리오.md",
     "Planner/2024-04/Daily/2024-04-19(금).md",
@@ -236,7 +237,6 @@
     "OS/3. OS 서비스 및 시스템 콜.md",
     "DataStructureStudy/자료구조란.md",
     "DataStructureStudy/이진검색.md",
-    "OS/1. 운영체제란.md",
     "newsletter/3.26.md",
     "Planner/2024-04/Daily/2024-04-18(목).md",
     "OS",
