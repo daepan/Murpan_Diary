@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-23(화).md",
+                "file": "newsletter/4.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "right": {
     "id": "fe05a8a319eb2e33",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-23(화).md",
+                "file": "newsletter/4.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-23(화).md",
+                "file": "newsletter/4.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-23(화).md"
+                "file": "newsletter/4.23.md"
               }
             }
           },
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,9 +185,10 @@
   },
   "active": "f8f00807283f9e22",
   "lastOpenFiles": [
+    "Planner/2024-04/Daily/2024-04-23(화).md",
+    "newsletter/4.23.md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
-    "Planner/2024-04/Daily/2024-04-23(화).md",
     "OS/17.  동시성.md",
     "Portfoilo/김대관 포토폴리오.md",
     "_images/Pasted image 20240423010048.png",
@@ -220,7 +222,6 @@
     "OS/1. 운영체제란.md",
     "OS/4. OS 구현방식.md",
     "OS/3. OS 서비스 및 시스템 콜.md",
-    "OS/2. 운영체제 구성요소.md",
     "OS",
     "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/Git을 통한 협업.pdf",
