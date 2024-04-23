@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/17..md",
+                "file": "OS/17. 동시성.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/17..md",
+                "file": "OS/17. 동시성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/17..md",
+                "file": "OS/17. 동시성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/17..md"
+                "file": "OS/17. 동시성.md"
               }
             }
           },
@@ -185,7 +185,7 @@
   "active": "f8f00807283f9e22",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "OS/17..md",
+    "OS/17. 동시성.md",
     "Portfoilo/김대관 포토폴리오.md",
     "_images/Pasted image 20240421181134.png",
     "_images/Pasted image 20240421181004.png",
