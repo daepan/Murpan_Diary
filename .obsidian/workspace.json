@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/17. 동시성.md",
+                "file": "OS/17.  동시성.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/17. 동시성.md",
+                "file": "OS/17.  동시성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/17. 동시성.md",
+                "file": "OS/17.  동시성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/17. 동시성.md"
+                "file": "OS/17.  동시성.md"
               }
             }
           },
@@ -184,11 +184,11 @@
   },
   "active": "f8f00807283f9e22",
   "lastOpenFiles": [
+    "Portfoilo/김대관 포토폴리오.md",
+    "OS/17.  동시성.md",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
     "conflict-files-obsidian-git.md",
-    "OS/17. 동시성.md",
-    "Portfoilo/김대관 포토폴리오.md",
     "_images/Pasted image 20240421181134.png",
     "_images/Pasted image 20240421181004.png",
     "_images/Pasted image 20240421180947.png",
@@ -197,7 +197,6 @@
     "_images/Pasted image 20240421180304.png",
     "_images/Pasted image 20240421180257.png",
     "_images/Pasted image 20240421175628.png",
-    "_images/Pasted image 20240421175622.png",
     "OS/16. 동기화.md",
     "OS/15. 쓰레드.md",
     "OS/14. 페이지 선택 및 할당.md",
