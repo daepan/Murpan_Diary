@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/17.  동시성.md",
+                "file": "Planner/2024-04/Daily/2024-04-23(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/17.  동시성.md",
+                "file": "Planner/2024-04/Daily/2024-04-23(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/17.  동시성.md",
+                "file": "Planner/2024-04/Daily/2024-04-23(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/17.  동시성.md"
+                "file": "Planner/2024-04/Daily/2024-04-23(화).md"
               }
             }
           },
@@ -184,8 +184,11 @@
   },
   "active": "f8f00807283f9e22",
   "lastOpenFiles": [
-    "Portfoilo/김대관 포토폴리오.md",
+    "Planner/2024-04/Daily/2024-04-22(월).md",
+    "Planner/2024-04/Daily/2024-04-30(화).md",
+    "Planner/2024-04/Daily/2024-04-23(화).md",
     "OS/17.  동시성.md",
+    "Portfoilo/김대관 포토폴리오.md",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
     "conflict-files-obsidian-git.md",
@@ -213,13 +216,11 @@
     "Planner/2024-04/Daily/2024-04-20(토).md",
     "Portfoilo",
     "Planner/2024-04/Daily/2024-04-19(금).md",
-    "Planner/2024-04/Daily/2024-04-22(월).md",
     "Planner/2024-04/Daily/2024-04-18(목).md",
     "OS/1. 운영체제란.md",
     "OS/4. OS 구현방식.md",
     "OS/3. OS 서비스 및 시스템 콜.md",
     "OS/2. 운영체제 구성요소.md",
-    "OS/1주차 운영체제란.md",
     "OS",
     "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/Git을 통한 협업.pdf",
