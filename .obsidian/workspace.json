@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/4.23.md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/4.23.md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/4.23.md"
+                "file": "Portfoilo/김대관 포토폴리오.md"
               }
             }
           },
@@ -184,10 +184,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8f00807283f9e22",
+  "active": "a32173de3b3d258d",
   "lastOpenFiles": [
-    "Planner/2024-04/Daily/2024-04-23(화).md",
     "newsletter/4.23.md",
+    "Planner/2024-04/Daily/2024-04-23(화).md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "OS/17.  동시성.md",
