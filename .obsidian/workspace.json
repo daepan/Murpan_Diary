@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "newsletter/4.23.md",
+                "file": "Planner/2024-04/Daily/2024-04-27(토).md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fe05a8a319eb2e33",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "newsletter/4.23.md",
+                "file": "Planner/2024-04/Daily/2024-04-27(토).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "newsletter/4.23.md",
+                "file": "Planner/2024-04/Daily/2024-04-27(토).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "newsletter/4.23.md"
+                "file": "Planner/2024-04/Daily/2024-04-27(토).md"
               }
             }
           },
@@ -184,10 +183,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8f00807283f9e22",
+  "active": "243e0d49f2068afe",
   "lastOpenFiles": [
-    "Portfoilo/김대관 포토폴리오.md",
     "newsletter/4.23.md",
+    "Planner/2024-04/Daily/2024-04-27(토).md",
+    "Portfoilo/김대관 포토폴리오.md",
     "Planner/2024-04/Daily/2024-04-23(화).md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
@@ -222,7 +222,6 @@
     "Planner/2024-04/Daily/2024-04-18(목).md",
     "OS/1. 운영체제란.md",
     "OS/4. OS 구현방식.md",
-    "OS/3. OS 서비스 및 시스템 콜.md",
     "OS",
     "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/Git을 통한 협업.pdf",
