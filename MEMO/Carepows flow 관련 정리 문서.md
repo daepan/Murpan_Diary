@@ -12,4 +12,10 @@ User: 원격진료를 희망하는 반려견 보호자
 ### Doctor Case
 1. 원격 반려견에 대한 진료를 통해 이득을 얻는 사람
 	1.  특례법을 통해 일부 원격진료에 대한 허가를 받은 수의사를 등록되어 있는 상태]
-2. 
+
+
+
+## 현재 프로젝트 상태
+
+1. EC2 : AI server (Flask + MySQL)
+2. EC2 : Web + Server (Nodejs, React) 
