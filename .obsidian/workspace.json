@@ -185,8 +185,11 @@
   },
   "active": "f8f00807283f9e22",
   "lastOpenFiles": [
-    "Planner/Daily Template.md",
+    "Planner/2024-04/Daily/2024-04-30(화).md",
+    "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-29(월).md",
+    "Planner/2024-05",
+    "Planner/Daily Template.md",
     "MEMO/Carepows flow 관련 정리 문서.md",
     "README.md",
     "MEMO",
@@ -196,7 +199,6 @@
     "newsletter/4.23.md",
     "Portfoilo/김대관 포토폴리오.md",
     "Planner/2024-04/Daily/2024-04-22(월).md",
-    "Planner/2024-04/Daily/2024-04-30(화).md",
     "OS/17.  동시성.md",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
@@ -221,7 +223,6 @@
     "OS/13. 가상 메모리 관리.md",
     "OS/12. 페이징.md",
     "OS/11. 자유 공간 관리(커널 메모리).md",
-    "OS/10. 세그멘테이션.md",
     "Portfoilo",
     "OS",
     "Refactor/Git을 통한 협업 1.pdf",
@@ -229,7 +230,6 @@
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
     "fonts",
-    "tasksCalendar/view.js",
-    "tasksCalendar/view.css"
+    "tasksCalendar/view.js"
   ]
 }
