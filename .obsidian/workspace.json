@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "OS/18. 세마포어.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "OS/18. 세마포어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "OS/18. 세마포어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md"
+                "file": "OS/18. 세마포어.md"
               }
             }
           },
@@ -197,8 +197,10 @@
   },
   "active": "f8f00807283f9e22",
   "lastOpenFiles": [
-    "OS/17.  동시성.md",
     "MEMO/Carepows flow 관련 정리 문서.md",
+    "OS/18. 세마포어.md",
+    "OS/무제 폴더",
+    "OS/17.  동시성.md",
     "Planner/2024-04/Daily/2024-04-29(월).md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-04/Calender.md",
@@ -234,14 +236,12 @@
     "OS/5. 프로세스.md",
     "OS/13. 가상 메모리 관리.md",
     "OS/12. 페이징.md",
-    "OS/11. 자유 공간 관리(커널 메모리).md",
     "Portfoilo",
     "OS",
     "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/Git을 통한 협업.pdf",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
-    "fonts",
-    "tasksCalendar/view.js"
+    "fonts"
   ]
 }
