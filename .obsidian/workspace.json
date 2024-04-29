@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "Planner/2024-04/Daily/2024-04-29(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "Planner/2024-04/Daily/2024-04-29(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "Planner/2024-04/Daily/2024-04-29(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md"
+                "file": "Planner/2024-04/Daily/2024-04-29(월).md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "f8f00807283f9e22",
   "lastOpenFiles": [
-    "README.md",
+    "Planner/2024-04/Daily/2024-04-29(월).md",
     "MEMO/Carepows flow 관련 정리 문서.md",
+    "README.md",
     "MEMO",
     "Vision Board.md",
     "Planner/2024-04/Daily/2024-04-27(토).md",
@@ -221,7 +222,6 @@
     "OS/12. 페이징.md",
     "OS/11. 자유 공간 관리(커널 메모리).md",
     "OS/10. 세그멘테이션.md",
-    "Planner/2024-04/Daily/2024-04-20(토).md",
     "Portfoilo",
     "OS",
     "Refactor/Git을 통한 협업 1.pdf",
