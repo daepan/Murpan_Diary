@@ -1,98 +1,84 @@
 {
   "main": {
-    "id": "0760af5b2a9883b8",
+    "id": "8cb4dd6845e26f22",
     "type": "split",
     "children": [
       {
-        "id": "d0b137f29713b0b3",
+        "id": "ecabbd4cc7a960d1",
         "type": "tabs",
         "children": [
           {
-            "id": "5fb7846ec7929111",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Refactor/Git을 통한 협업 1.pdf"
-              }
-            }
-          },
-          {
-            "id": "a32173de3b3d258d",
+            "id": "c66322b12c531265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/김대관 포토폴리오.md",
+                "file": "OS/5. 프로세스.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32126bd1a3c4cd9d",
+            "id": "0d258bce93b9d776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "file": "OS/6. IPC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "647a1bf578eaff54",
+            "id": "9d1cb40d19c47337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "OS/9. 메모리 관리.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24d7fc050938c79c",
+            "id": "d4ad914d93b737d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "OS/18. 세마포어.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md"
               }
             }
           },
           {
-            "id": "531c416417fbd546",
+            "id": "2f010b080bf8ec03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ca3256c7b1ba9b19",
+    "id": "3483696c70fdb400",
     "type": "split",
     "children": [
       {
-        "id": "55d7ceac05ccc406",
+        "id": "60163bc07d6b0dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "243e0d49f2068afe",
+            "id": "2fa2e4c78e1c205b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -102,7 +88,7 @@
             }
           },
           {
-            "id": "3484bd9a51d46e14",
+            "id": "81183e73a8f648ba",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -117,7 +103,7 @@
             }
           },
           {
-            "id": "a4403ef9e6c3fc04",
+            "id": "37cb3aa1cc60d2e1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -128,23 +114,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 263.5
   },
   "right": {
-    "id": "fe05a8a319eb2e33",
+    "id": "eefbf0396d5a7078",
     "type": "split",
     "children": [
       {
-        "id": "af884b58e979a147",
+        "id": "fc4be98547a2f9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "c289301dca0d393b",
+            "id": "fe9042833c696cac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,19 +142,19 @@
             }
           },
           {
-            "id": "bca244310fbfe5a1",
+            "id": "9822675544b4a572",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6948464a793f326e",
+            "id": "3a8e5e8d67b685c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,25 +165,31 @@
             }
           },
           {
-            "id": "0ad48d941105f351",
+            "id": "d21bb9c1ed26318e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md"
+                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ecc8553627b81faf",
+        "type": "tabs",
+        "children": [
           {
-            "id": "92b921f2ffdefa0d",
+            "id": "3473f5ffa026fa66",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,9 +198,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-emotion-picker:Emotions Picker": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -216,32 +207,41 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "531c416417fbd546",
+  "active": "d4ad914d93b737d7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+    "Excalidraw/무제 파일.md",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
-    "conflict-files-obsidian-git.md",
-    "Planner/2024-04/Daily/2024-04-29(월).md",
-    "OS/18. 세마포어.md",
     "Portfoilo/예상 질문지.md",
-    "Planner/Daily Template.md",
-    "OS/17.  동시성.md",
-    "MEMO/Carepows flow 관련 정리 문서.md",
-    "OS/무제 폴더",
-    "Planner/2024-04/Calender.md",
-    "Planner/2024-05",
-    "README.md",
-    "MEMO",
-    "Vision Board.md",
+    "Portfoilo/김대관 포토폴리오.md",
+    "newsletter/4.23.md",
+    "Planner/2024-04/Daily/2024-04-29(월).md",
     "Planner/2024-04/Daily/2024-04-27(토).md",
     "Planner/2024-04/Daily/2024-04-23(화).md",
-    "newsletter/4.23.md",
-    "Portfoilo/김대관 포토폴리오.md",
-    "Planner/2024-04/Daily/2024-04-22(월).md",
+    "OS/18. 세마포어.md",
+    "OS/17.  동시성.md",
+    "MEMO/Carepows flow 관련 정리 문서.md",
+    "MEMO",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
+    "Conference/네이버 부스트 캠프 라디오.md",
+    "Planner/2024-04/Daily/2024-04-22(월).md",
+    "OS/14. 페이지 선택 및 할당.md",
+    "OS/13. 가상 메모리 관리.md",
+    "OS/12. 페이징.md",
+    "OS/11. 자유 공간 관리(커널 메모리).md",
+    "OS/10. 세그멘테이션.md",
+    "OS/9. 메모리 관리.md",
+    "OS/8. 멀티 프로세서 스케쥴링.md",
+    "OS/7. CPU 스케쥴링.md",
+    "OS/6. IPC.md",
+    "OS/5. 프로세스.md",
+    "OS/15. 쓰레드.md",
     "_images/Pasted image 20240421181134.png",
     "_images/Pasted image 20240421181004.png",
     "_images/Pasted image 20240421180947.png",
@@ -250,22 +250,14 @@
     "_images/Pasted image 20240421180304.png",
     "_images/Pasted image 20240421180257.png",
     "_images/Pasted image 20240421175628.png",
-    "OS/16. 동기화.md",
-    "OS/15. 쓰레드.md",
-    "OS/14. 페이지 선택 및 할당.md",
-    "Conference/네이버 부스트 캠프 라디오.md",
-    "OS/9. 메모리 관리.md",
-    "OS/8. 멀티 프로세서 스케쥴링.md",
-    "OS/7. CPU 스케쥴링.md",
-    "OS/6. IPC.md",
-    "OS/5. 프로세스.md",
-    "OS/13. 가상 메모리 관리.md",
     "Portfoilo",
     "OS",
-    "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/Git을 통한 협업.pdf",
+    "Refactor/Git을 통한 협업 1.pdf",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
-    "fonts"
+    "fonts",
+    "tasksCalendar/view.js",
+    "tasksCalendar/view.css"
   ]
 }
