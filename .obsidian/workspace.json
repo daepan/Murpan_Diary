@@ -1,31 +1,29 @@
 {
   "main": {
-    "id": "8cb4dd6845e26f22",
+    "id": "0760af5b2a9883b8",
     "type": "split",
     "children": [
       {
-        "id": "ecabbd4cc7a960d1",
+        "id": "d0b137f29713b0b3",
         "type": "tabs",
         "children": [
           {
-            "id": "c66322b12c531265",
+            "id": "5fb7846ec7929111",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OS/5. 프로세스.md",
-                "mode": "source",
-                "source": false
+                "file": "Refactor/Git을 통한 협업 1.pdf"
               }
             }
           },
           {
-            "id": "0d258bce93b9d776",
+            "id": "a32173de3b3d258d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/6. IPC.md",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +42,7 @@
             }
           },
           {
-            "id": "d4ad914d93b737d7",
+            "id": "647a1bf578eaff54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "file": "MEMO/Carepows flow 관련 정리 문서.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,15 +84,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3483696c70fdb400",
+    "id": "ca3256c7b1ba9b19",
     "type": "split",
     "children": [
       {
-        "id": "60163bc07d6b0dbf",
+        "id": "55d7ceac05ccc406",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa2e4c78e1c205b",
+            "id": "243e0d49f2068afe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +102,7 @@
             }
           },
           {
-            "id": "81183e73a8f648ba",
+            "id": "3484bd9a51d46e14",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -119,7 +117,7 @@
             }
           },
           {
-            "id": "37cb3aa1cc60d2e1",
+            "id": "a4403ef9e6c3fc04",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,23 +128,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
   "right": {
-    "id": "eefbf0396d5a7078",
+    "id": "fe05a8a319eb2e33",
     "type": "split",
     "children": [
       {
-        "id": "fc4be98547a2f9b7",
+        "id": "af884b58e979a147",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9042833c696cac",
+            "id": "c289301dca0d393b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "file": "MEMO/Carepows flow 관련 정리 문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,19 +156,19 @@
             }
           },
           {
-            "id": "9822675544b4a572",
+            "id": "bca244310fbfe5a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "file": "MEMO/Carepows flow 관련 정리 문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3a8e5e8d67b685c1",
+            "id": "6948464a793f326e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,31 +179,25 @@
             }
           },
           {
-            "id": "d21bb9c1ed26318e",
+            "id": "0ad48d941105f351",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md"
+                "file": "MEMO/Carepows flow 관련 정리 문서.md"
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "ecc8553627b81faf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "3473f5ffa026fa66",
+            "id": "92b921f2ffdefa0d",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,8 +206,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "obsidian-emotion-picker:Emotions Picker": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -223,14 +216,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "531c416417fbd546",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
+    "conflict-files-obsidian-git.md",
     "Planner/2024-04/Daily/2024-04-29(월).md",
     "OS/18. 세마포어.md",
     "Portfoilo/예상 질문지.md",
@@ -245,10 +237,9 @@
     "Vision Board.md",
     "Planner/2024-04/Daily/2024-04-27(토).md",
     "Planner/2024-04/Daily/2024-04-23(화).md",
-    "OS/18. 세마포어.md",
-    "OS/17.  동시성.md",
-    "MEMO/Carepows flow 관련 정리 문서.md",
-    "MEMO",
+    "newsletter/4.23.md",
+    "Portfoilo/김대관 포토폴리오.md",
+    "Planner/2024-04/Daily/2024-04-22(월).md",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
     "_images/Pasted image 20240421181134.png",
@@ -271,12 +262,10 @@
     "OS/13. 가상 메모리 관리.md",
     "Portfoilo",
     "OS",
-    "Refactor/Git을 통한 협업.pdf",
     "Refactor/Git을 통한 협업 1.pdf",
+    "Refactor/Git을 통한 협업.pdf",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
-    "fonts",
-    "tasksCalendar/view.js",
-    "tasksCalendar/view.css"
+    "fonts"
   ]
 }
