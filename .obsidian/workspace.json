@@ -69,9 +69,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
-                "mode": "source",
-                "source": false
+                "file": "Planner/2024-05/Calender.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "file": "Planner/2024-05/Calender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "file": "Planner/2024-05/Calender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md"
+                "file": "Planner/2024-05/Calender.md"
               }
             }
           }
@@ -225,12 +225,17 @@
   },
   "active": "ecc141c4b81c2d5e",
   "lastOpenFiles": [
+    "Planner/Daily Template.md",
+    "Planner/2024-05/Calender.md",
+    "Planner/2024-05/Daily",
+    "Planner/2024-04/Calender.md",
+    "Planner/2024-04/Daily/2024-04-30(화).md",
+    "Planner/2024-05",
     "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
     "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "_images/Pasted Image 20240430235511_302.png",
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Excalidraw/무제 파일.md",
-    "Planner/2024-04/Daily/2024-04-30(화).md",
     "Portfoilo/예상 질문지.md",
     "Portfoilo/김대관 포토폴리오.md",
     "newsletter/4.23.md",
@@ -252,9 +257,6 @@
     "OS/10. 세그멘테이션.md",
     "OS/9. 메모리 관리.md",
     "OS/8. 멀티 프로세서 스케쥴링.md",
-    "OS/7. CPU 스케쥴링.md",
-    "OS/6. IPC.md",
-    "OS/5. 프로세스.md",
     "_images/Pasted image 20240421181134.png",
     "_images/Pasted image 20240421181004.png",
     "_images/Pasted image 20240421180947.png",
@@ -268,8 +270,6 @@
     "Refactor/Git을 통한 협업 1.pdf",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf",
-    "fonts",
-    "tasksCalendar/view.js",
-    "tasksCalendar/view.css"
+    "fonts"
   ]
 }
