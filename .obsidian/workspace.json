@@ -67,9 +67,11 @@
             "id": "ecc141c4b81c2d5e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md"
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md"
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md"
               }
             }
           }
@@ -223,8 +225,8 @@
   },
   "active": "ecc141c4b81c2d5e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "_images/Pasted Image 20240430235511_302.png",
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Excalidraw/무제 파일.md",
