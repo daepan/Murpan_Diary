@@ -52,9 +52,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24d7fc050938c79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/18. 세마포어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "531c416417fbd546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b3894e35e1fa7c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -120,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-04/Daily/2024-04-30(화).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -195,13 +231,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32126bd1a3c4cd9d",
+  "active": "9b3894e35e1fa7c3",
   "lastOpenFiles": [
-    "Planner/Daily Template.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
-    "OS/18. 세마포어.md",
-    "OS/17.  동시성.md",
+    "conflict-files-obsidian-git.md",
     "Planner/2024-04/Daily/2024-04-29(월).md",
+    "OS/18. 세마포어.md",
+    "Portfoilo/예상 질문지.md",
+    "Planner/Daily Template.md",
+    "OS/17.  동시성.md",
     "MEMO/Carepows flow 관련 정리 문서.md",
     "OS/무제 폴더",
     "Planner/2024-04/Calender.md",
@@ -216,7 +254,6 @@
     "Planner/2024-04/Daily/2024-04-22(월).md",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
-    "conflict-files-obsidian-git.md",
     "_images/Pasted image 20240421181134.png",
     "_images/Pasted image 20240421181004.png",
     "_images/Pasted image 20240421180947.png",
@@ -235,7 +272,6 @@
     "OS/6. IPC.md",
     "OS/5. 프로세스.md",
     "OS/13. 가상 메모리 관리.md",
-    "OS/12. 페이징.md",
     "Portfoilo",
     "OS",
     "Refactor/Git을 통한 협업 1.pdf",
