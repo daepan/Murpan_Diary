@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/18. 세마포어.md",
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/18. 세마포어.md",
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/18. 세마포어.md",
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/18. 세마포어.md"
+                "file": "Planner/2024-04/Daily/2024-04-30(화).md"
               }
             }
           },
@@ -197,11 +197,11 @@
   },
   "active": "32126bd1a3c4cd9d",
   "lastOpenFiles": [
-    "OS/17.  동시성.md",
     "Planner/Daily Template.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
-    "Planner/2024-04/Daily/2024-04-29(월).md",
     "OS/18. 세마포어.md",
+    "OS/17.  동시성.md",
+    "Planner/2024-04/Daily/2024-04-29(월).md",
     "MEMO/Carepows flow 관련 정리 문서.md",
     "OS/무제 폴더",
     "Planner/2024-04/Calender.md",
