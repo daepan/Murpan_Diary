@@ -54,31 +54,29 @@
             }
           },
           {
-            "id": "24d7fc050938c79c",
+            "id": "2f010b080bf8ec03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "OS/18. 세마포어.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md"
               }
             }
           },
           {
-            "id": "531c416417fbd546",
+            "id": "ecc141c4b81c2d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
-                "mode": "source",
-                "source": false
+                "file": "Planner/2024-05/Calender.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "Planner/2024-05/Calender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md",
+                "file": "Planner/2024-05/Calender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEMO/Carepows flow 관련 정리 문서.md"
+                "file": "Planner/2024-05/Calender.md"
               }
             }
           },
@@ -219,18 +217,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "531c416417fbd546",
+  "active": "ecc141c4b81c2d5e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "MEMO/Carepows flow 관련 정리 문서.md",
-    "Planner/2024-05/Daily/2024-05-01(수).md",
-    "Planner/2024-05/Daily",
-    "' + currentMoment.format('YYYY.md",
-    "_images/Pasted Image 20240430235511_302.png",
+    "Planner/Daily Template.md",
     "Planner/2024-05/Calender.md",
     "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
     "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
-    "Planner/2024-04/Daily/2024-04-30(화).md",
+    "_images/Pasted Image 20240430235511_302.png",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "Excalidraw/무제 파일.md",
+    "Portfoilo/예상 질문지.md",
+    "Portfoilo/김대관 포토폴리오.md",
+    "newsletter/4.23.md",
     "Planner/2024-04/Daily/2024-04-29(월).md",
     "OS/18. 세마포어.md",
     "Portfoilo/예상 질문지.md",
@@ -249,6 +247,15 @@
     "Planner/2024-04/Daily/2024-04-22(월).md",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
+    "Conference/네이버 부스트 캠프 라디오.md",
+    "Planner/2024-04/Daily/2024-04-22(월).md",
+    "OS/14. 페이지 선택 및 할당.md",
+    "OS/13. 가상 메모리 관리.md",
+    "OS/12. 페이징.md",
+    "OS/11. 자유 공간 관리(커널 메모리).md",
+    "OS/10. 세그멘테이션.md",
+    "OS/9. 메모리 관리.md",
+    "OS/8. 멀티 프로세서 스케쥴링.md",
     "_images/Pasted image 20240421181134.png",
     "_images/Pasted image 20240421181004.png",
     "_images/Pasted image 20240421180947.png",
