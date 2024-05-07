@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/예상 질문지.md",
+                "file": "OS/18. 세마포어.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/예상 질문지.md",
+                "file": "OS/18. 세마포어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/예상 질문지.md",
+                "file": "OS/18. 세마포어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/예상 질문지.md"
+                "file": "OS/18. 세마포어.md"
               }
             }
           },
@@ -221,6 +221,7 @@
   },
   "active": "531c416417fbd546",
   "lastOpenFiles": [
+    "Portfoilo/예상 질문지.md",
     "MEMO/Carepows flow 관련 정리 문서.md",
     "conflict-files-obsidian-git.md",
     "Planner/2024-05/Daily/2024-05-01(수).md",
@@ -233,7 +234,6 @@
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-04/Daily/2024-04-29(월).md",
     "OS/18. 세마포어.md",
-    "Portfoilo/예상 질문지.md",
     "Planner/Daily Template.md",
     "OS/17.  동시성.md",
     "OS/무제 폴더",
