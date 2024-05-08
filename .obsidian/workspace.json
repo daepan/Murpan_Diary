@@ -76,9 +76,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46718ce973ca10df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/18. 세마포어.md",
+                "file": "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/18. 세마포어.md",
+                "file": "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/18. 세마포어.md"
+                "file": "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md"
               }
             }
           },
@@ -219,8 +229,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "531c416417fbd546",
+  "active": "46718ce973ca10df",
   "lastOpenFiles": [
+    "OS/18. 세마포어.md",
+    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
     "Portfoilo/예상 질문지.md",
     "MEMO/Carepows flow 관련 정리 문서.md",
     "conflict-files-obsidian-git.md",
@@ -233,7 +245,6 @@
     "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-04/Daily/2024-04-29(월).md",
-    "OS/18. 세마포어.md",
     "Planner/Daily Template.md",
     "OS/17.  동시성.md",
     "OS/무제 폴더",
@@ -260,7 +271,6 @@
     "OS/15. 쓰레드.md",
     "OS/14. 페이지 선택 및 할당.md",
     "Conference/네이버 부스트 캠프 라디오.md",
-    "OS/9. 메모리 관리.md",
     "Portfoilo",
     "OS",
     "Refactor/Git을 통한 협업 1.pdf",
