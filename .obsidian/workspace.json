@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/문자열 알고리즘.md",
+                "file": "Algorithm/문자열 탐색.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/문자열 알고리즘.md",
+                "file": "Algorithm/문자열 탐색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/문자열 알고리즘.md",
+                "file": "Algorithm/문자열 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/문자열 알고리즘.md"
+                "file": "Algorithm/문자열 탐색.md"
               }
             }
           },
@@ -234,7 +234,7 @@
   "active": "46718ce973ca10df",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
-    "Algorithm/문자열 알고리즘.md",
+    "Algorithm/문자열 탐색.md",
     "OS/18. 세마포어.md",
     "Portfoilo/예상 질문지.md",
     "MEMO/Carepows flow 관련 정리 문서.md",
