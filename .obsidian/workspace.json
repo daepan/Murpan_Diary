@@ -54,14 +54,12 @@
             }
           },
           {
-            "id": "2f010b080bf8ec03",
+            "id": "c88ee12fc65eb0f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "OS/19. 동시성 문제.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md"
               }
             }
           }
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/19. 동시성 문제.md",
+                "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/19. 동시성 문제.md",
+                "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/19. 동시성 문제.md"
+                "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md"
               }
             }
           }
@@ -213,10 +211,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2f010b080bf8ec03",
+  "active": "c88ee12fc65eb0f7",
   "lastOpenFiles": [
-    "Planner/2024-05/Daily/2024-05-01(수).md",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+    "_images/Pasted Image 20240430235511_302.png",
+    "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
     "OS/19. 동시성 문제.md",
+    "Planner/2024-05/Daily/2024-05-14(화).md",
+    "conflict-files-obsidian-git.md",
+    "Planner/Daily Template.md",
+    "Planner/2024-05/Daily/2024-05-01(수).md",
     "_images/Pasted image 20240509142126.png",
     "_images/Pasted image 20240509141841.png",
     "_images/Pasted image 20240509141826.png",
@@ -224,19 +231,13 @@
     "_images/Pasted image 20240509141739.png",
     "_images/Pasted image 20240509141726.png",
     "_images/Pasted image 20240509140623.png",
-    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
     "Algorithm/문자열 탐색.md",
-    "Planner/Daily Template.md",
-    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "' + currentMoment.format('YYYY.md",
     "Planner/2024-05/Calender.md",
     "Planner/2024-05/Daily",
     "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-05",
-    "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
-    "_images/Pasted Image 20240430235511_302.png",
-    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Excalidraw/무제 파일.md",
     "Portfoilo/예상 질문지.md",
     "Portfoilo/김대관 포토폴리오.md",
@@ -250,10 +251,6 @@
     "MEMO",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
-    "Conference/네이버 부스트 캠프 라디오.md",
-    "Planner/2024-04/Daily/2024-04-22(월).md",
-    "OS/14. 페이지 선택 및 할당.md",
-    "OS/13. 가상 메모리 관리.md",
     "Portfoilo",
     "OS",
     "Refactor/Git을 통한 협업.pdf",
