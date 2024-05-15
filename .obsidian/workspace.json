@@ -77,9 +77,11 @@
             "id": "20be804bdffe96fe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md"
+                "file": "Planner/Daily Template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -150,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+                "file": "Planner/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+                "file": "Planner/Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md"
+                "file": "Planner/Daily Template.md"
               }
             }
           }
@@ -233,8 +235,9 @@
   },
   "active": "20be804bdffe96fe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Planner/2024-05/Daily/2024-05-16(목).md",
     "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "_images/Pasted Image 20240516025534_394.png",
     "_images/Pasted Image 20240516025245_449.png",
     "_images/Pasted Image 20240516024303_319.png",
