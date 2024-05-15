@@ -54,37 +54,19 @@
             }
           },
           {
-            "id": "c88ee12fc65eb0f7",
+            "id": "2f010b080bf8ec03",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "63f9d73e20483e2d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "20be804bdffe96fe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md"
+                "file": "OS/19. 동시성 문제.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+                "file": "OS/19. 동시성 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+                "file": "OS/19. 동시성 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md"
+                "file": "OS/19. 동시성 문제.md"
               }
             }
           }
@@ -231,21 +213,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "20be804bdffe96fe",
+  "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
-    "_images/Pasted Image 20240430235511_302.png",
-    "OS/19. 동시성 문제.md",
-    "Planner/2024-05/Daily/2024-05-14(화).md",
-    "conflict-files-obsidian-git.md",
-    "Planner/Daily Template.md",
     "Planner/2024-05/Daily/2024-05-01(수).md",
+    "OS/19. 동시성 문제.md",
     "_images/Pasted image 20240509142126.png",
     "_images/Pasted image 20240509141841.png",
     "_images/Pasted image 20240509141826.png",
@@ -253,13 +227,19 @@
     "_images/Pasted image 20240509141739.png",
     "_images/Pasted image 20240509141726.png",
     "_images/Pasted image 20240509140623.png",
+    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
     "Algorithm/문자열 탐색.md",
+    "Planner/Daily Template.md",
+    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "' + currentMoment.format('YYYY.md",
     "Planner/2024-05/Calender.md",
     "Planner/2024-05/Daily",
     "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-05",
+    "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "_images/Pasted Image 20240430235511_302.png",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Excalidraw/무제 파일.md",
     "Portfoilo/예상 질문지.md",
     "Portfoilo/김대관 포토폴리오.md",
@@ -269,9 +249,11 @@
     "Planner/2024-04/Daily/2024-04-23(화).md",
     "OS/18. 세마포어.md",
     "OS/17.  동시성.md",
+    "MEMO/Carepows flow 관련 정리 문서.md",
     "MEMO",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
+    "Conference/네이버 부스트 캠프 라디오.md",
     "Portfoilo",
     "OS",
     "Refactor/Git을 통한 협업.pdf",
