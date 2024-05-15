@@ -62,9 +62,19 @@
                 "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "63f9d73e20483e2d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md"
               }
             }
           }
@@ -211,14 +221,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c88ee12fc65eb0f7",
+  "active": "63f9d73e20483e2d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
-    "_images/Pasted Image 20240430235511_302.png",
     "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
     "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
+    "_images/Pasted Image 20240430235511_302.png",
     "OS/19. 동시성 문제.md",
     "Planner/2024-05/Daily/2024-05-14(화).md",
     "conflict-files-obsidian-git.md",
