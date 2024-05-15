@@ -72,9 +72,19 @@
                 "file": "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "20be804bdffe96fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md"
               }
             }
           }
@@ -221,10 +231,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "63f9d73e20483e2d",
+  "active": "20be804bdffe96fe",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
     "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
@@ -258,7 +269,6 @@
     "Planner/2024-04/Daily/2024-04-23(화).md",
     "OS/18. 세마포어.md",
     "OS/17.  동시성.md",
-    "MEMO/Carepows flow 관련 정리 문서.md",
     "MEMO",
     "_images/Pasted image 20240423010048.png",
     "_images/Pasted image 20240423005039.png",
