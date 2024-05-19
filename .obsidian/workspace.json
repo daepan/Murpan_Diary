@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/Network.md",
+                "file": "Planner/2024-05-19(일).md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/Network.md",
+                "file": "Planner/2024-05-19(일).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/Network.md",
+                "file": "Planner/2024-05-19(일).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/Network.md"
+                "file": "Planner/2024-05-19(일).md"
               }
             }
           }
@@ -247,8 +247,9 @@
   },
   "active": "7b597b953ffcadfe",
   "lastOpenFiles": [
-    "Portfoilo/예상 질문지.md",
     "Portfoilo/Network.md",
+    "Planner/2024-05-19(일).md",
+    "Portfoilo/예상 질문지.md",
     "Portfoilo/DataBase.md",
     "conflict-files-obsidian-git.md",
     "' + currentMoment.format('YYYY.md",
@@ -284,7 +285,6 @@
     "Portfoilo/김대관 포토폴리오.md",
     "newsletter/4.23.md",
     "Planner/2024-04/Daily/2024-04-29(월).md",
-    "Planner/2024-04/Daily/2024-04-27(토).md",
     "MEMO",
     "Portfoilo",
     "OS",
