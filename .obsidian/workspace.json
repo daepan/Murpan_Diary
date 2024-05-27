@@ -47,9 +47,11 @@
             "id": "d4ad914d93b737d7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md"
+                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/19. 동시성 문제.md",
+                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/19. 동시성 문제.md",
+                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/19. 동시성 문제.md"
+                "file": "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md"
               }
             }
           }
@@ -201,8 +203,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fa2e4c78e1c205b",
+  "active": "d4ad914d93b737d7",
   "lastOpenFiles": [
+    "OS/5. 프로세스.md",
+    "OS/19. 동시성 문제.md",
     "Planner/2024-05-21(화).md",
     "_images/Pasted image 20240520191950.png",
     "_images/Pasted image 20240520191940.png",
@@ -220,7 +224,6 @@
     "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
     "Planner/2024-05/Daily/2024-05-01(수).md",
-    "OS/19. 동시성 문제.md",
     "_images/Pasted image 20240509142126.png",
     "_images/Pasted image 20240509141841.png",
     "_images/Pasted image 20240509141826.png",
@@ -240,7 +243,6 @@
     "Excalidraw/무제 파일.md",
     "Portfoilo/예상 질문지.md",
     "Portfoilo/김대관 포토폴리오.md",
-    "newsletter/4.23.md",
     "MEMO",
     "Portfoilo",
     "OS",
