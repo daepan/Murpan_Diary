@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/19. 동시성 문제.md",
+                "file": "Planner/2024-06/2024-06-03(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/19. 동시성 문제.md",
+                "file": "Planner/2024-06/2024-06-03(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/19. 동시성 문제.md",
+                "file": "Planner/2024-06/2024-06-03(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/19. 동시성 문제.md"
+                "file": "Planner/2024-06/2024-06-03(월).md"
               }
             }
           }
@@ -215,12 +215,15 @@
   },
   "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
+    "Planner/2024-06/2024-06-03(월).md",
+    "Planner/2024-06",
+    "Planner/2024-05/Daily/2024-05-20(월).md",
+    "OS/19. 동시성 문제.md",
     "CSS/블로그.md",
     "Planner/2024-05-21(화).md",
     "_images/Pasted image 20240520191950.png",
     "_images/Pasted image 20240520191940.png",
     "_images/Pasted image 20240520191155.png",
-    "Planner/2024-05/Daily/2024-05-20(월).md",
     "Planner/2024-05/Daily/2024-05-19(일).md",
     "Conference/부캠라디오 5.20.md",
     "Portfoilo/Network.md",
@@ -233,7 +236,6 @@
     "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
     "Planner/2024-05/Daily/2024-05-01(수).md",
-    "OS/19. 동시성 문제.md",
     "_images/Pasted image 20240509142126.png",
     "_images/Pasted image 20240509141841.png",
     "_images/Pasted image 20240509141826.png",
@@ -251,15 +253,12 @@
     "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Excalidraw/무제 파일.md",
-    "Portfoilo/예상 질문지.md",
-    "Portfoilo/김대관 포토폴리오.md",
     "MEMO",
     "Portfoilo",
     "OS",
     "Refactor/Git을 통한 협업.pdf",
     "Refactor/Git을 통한 협업 1.pdf",
     "fonts/나눔손글씨 성실체.ttf",
-    "fonts/나눔손글씨 백의의 천사.ttf",
-    "fonts"
+    "fonts/나눔손글씨 백의의 천사.ttf"
   ]
 }
