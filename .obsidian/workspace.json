@@ -47,9 +47,11 @@
             "id": "d4ad914d93b737d7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Refactor/Git을 통한 협업.pdf"
+                "file": "Portfoilo/김대관 포토폴리오.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactor/Git을 통한 협업.pdf",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactor/Git을 통한 협업.pdf",
+                "file": "Portfoilo/김대관 포토폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/Git을 통한 협업.pdf"
+                "file": "Portfoilo/김대관 포토폴리오.md"
               }
             }
           }
@@ -203,6 +205,7 @@
   },
   "active": "d4ad914d93b737d7",
   "lastOpenFiles": [
+    "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06/2024-06-03(월).md",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
@@ -242,11 +245,9 @@
     "Planner/2024-04/Calender.md",
     "Planner/2024-04/Daily/2024-04-30(화).md",
     "Planner/2024-05",
-    "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
     "MEMO",
     "Portfoilo",
     "OS",
-    "Refactor/Git을 통한 협업.pdf",
     "fonts/나눔손글씨 성실체.ttf",
     "fonts/나눔손글씨 백의의 천사.ttf"
   ]
