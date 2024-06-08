@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/JavaScript.md",
+                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/JavaScript.md",
+                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/JavaScript.md",
+                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/JavaScript.md"
+                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md"
               }
             }
           }
@@ -215,8 +215,10 @@
   },
   "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
-    "Portfoilo/Network.md",
     "Portfoilo/JavaScript.md",
+    "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+    "Portfoilo/예상 질문지.md",
+    "Portfoilo/Network.md",
     "Portfoilo/React.md",
     "Conference/부캠라디오 5.20.md",
     "Conference/네이버 부스트 캠프 라디오.md",
@@ -250,8 +252,6 @@
     "_images/Pasted image 20240509141826.png",
     "_images/Pasted image 20240509141759.png",
     "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
-    "Algorithm/문자열 탐색.md",
-    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "Planner/2024-05/Daily",
     "Planner/2024-05",
     "MEMO",
