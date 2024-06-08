@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/Web.md",
+                "file": "OS/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/Web.md",
+                "file": "OS/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/Web.md",
+                "file": "OS/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/Web.md"
+                "file": "OS/무제 파일.md"
               }
             }
           }
@@ -168,6 +168,14 @@
   },
   "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
+    "OS/25. 오류복구 및 Log-Structured File Systems.md",
+    "OS/무제 파일.md",
+    "OS/24. Fast File Systems.md",
+    "OS/23. 파일 시스템 구현.md",
+    "OS/22. 파일 시스템 개념.md",
+    "OS/21. RAID 구성 및 대용량 저장 시스템.md",
+    "OS/20. 디스크 스케줄링.md",
+    "Portfoilo/Web.md",
     "Portfoilo/JavaSciprt 면접 예상 질문지.md",
     "Portfoilo/Network.md",
     "Portfoilo/React.md",
@@ -176,7 +184,6 @@
     "OS/6. IPC.md",
     "OS/9. 메모리 관리.md",
     "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
-    "Portfoilo/Web.md",
     "Portfoilo/여기어때 질문지.md",
     "React/Redux.md",
     "React/ReactStrict.md",
@@ -187,15 +194,8 @@
     "React/useCallbackuseMemo.md",
     "Portfoilo/DataBase.md",
     "Portfoilo/예상 질문지.md",
-    "Portfoilo/Algorithm.md",
-    "Portfoilo/Data Structure.md",
-    "Portfoilo/Software Engineering.md",
     "_images/Pasted image 20240608195440.png",
     "_images/Pasted image 20240608194615.png",
-    "Portfoilo/Computer Architecture.md",
-    "Conference/부캠라디오 5.20.md",
-    "Conference/네이버 부스트 캠프 라디오.md",
-    "Planner/Daily Template.md",
     "Planner/2024-06",
     "_images/Pasted image 20240520191950.png",
     "_images/Pasted image 20240520191940.png",
