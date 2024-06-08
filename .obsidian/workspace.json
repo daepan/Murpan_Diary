@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+                "file": "Portfoilo/Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+                "file": "Portfoilo/Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+                "file": "Portfoilo/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md"
+                "file": "Portfoilo/Web.md"
               }
             }
           }
@@ -215,8 +215,8 @@
   },
   "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
-    "Portfoilo/JavaScript.md",
     "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+    "Portfoilo/JavaScript.md",
     "Portfoilo/예상 질문지.md",
     "Portfoilo/Network.md",
     "Portfoilo/React.md",
