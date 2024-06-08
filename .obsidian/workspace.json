@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/Web.md",
+                "file": "Portfoilo/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/Web.md",
+                "file": "Portfoilo/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/Web.md",
+                "file": "Portfoilo/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/Web.md"
+                "file": "Portfoilo/React.md"
               }
             }
           }
@@ -215,6 +215,8 @@
   },
   "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
+    "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+    "Portfoilo/Web.md",
     "_images/Pasted image 20240608195440.png",
     "_images/Pasted image 20240608194615.png",
     "Portfoilo/Data Structure.md",
@@ -224,8 +226,6 @@
     "Portfoilo/DataBase.md",
     "Portfoilo/Network.md",
     "Portfoilo/JavaScript.md",
-    "Portfoilo/JavaSciprt 면접 예상 질문지.md",
-    "Portfoilo/Web.md",
     "Portfoilo/예상 질문지.md",
     "Conference/부캠라디오 5.20.md",
     "Conference/네이버 부스트 캠프 라디오.md",
@@ -251,7 +251,6 @@
     "Planner/2024-05/Daily/2024-05-01(수).md",
     "_images/Pasted image 20240509142126.png",
     "_images/Pasted image 20240509141841.png",
-    "_images/Pasted image 20240509141826.png",
     "Planner/2024-05/Daily",
     "Planner/2024-05",
     "MEMO",
