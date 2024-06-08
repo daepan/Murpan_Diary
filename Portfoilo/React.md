@@ -21,7 +21,7 @@
 
 상태를 변경할 때는, `set`으로 준 이름의 함수를 호출한다.
 
-```
+```javascript
 const [posts, setPosts] = useState([]); // 비구조화 할당 문법
 ```
 
@@ -34,7 +34,7 @@ const [posts, setPosts] = useState([]); // 비구조화 할당 문법
 
 > '클래스' 컴포넌트의 componentDidMount()와 componentDidUpdate()의 역할을 동시에 한다고 봐도 된다.
 
-```
+```javascript
 useEffect(() => {
     console.log("렌더링 완료");
     console.log(posts);
