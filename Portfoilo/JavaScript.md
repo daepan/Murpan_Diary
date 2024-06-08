@@ -138,3 +138,94 @@
 - **메서드 호출 시** 객체에서 메서드를 찾지 못하면 프로토타입 체인을 따라가며 메서드를 탐색합니다.
 
 이와 같이 JavaScript의 프로토타입 메커니즘을 이해하면 객체 상속과 메서드 탐색 과정을 명확히 알 수 있습니다.
+
+
+### 클로저 (Closure)
+
+#### 정의
+
+- 클로저는 함수와 그 함수가 선언된 어휘적 환경(Lexical Environment)의 조합입니다.
+- 클로저는 내부 함수가 외부 함수의 스코프에 접근할 수 있게 해줍니다.
+- JavaScript에서 클로저는 함수가 생성될 때마다 만들어집니다.
+
+#### Lexical Scoping
+
+- **어휘적 스코핑**은 중첩된 함수에서 변수 이름이 확인되는 방식을 정의합니다.
+- 내부 함수는 부모 함수가 반환된 후에도 부모 함수의 스코프에 접근할 수 있습니다.
+
+##### 예제
+
+```java
+```
+
+#### 클로저의 활용
+
+- 클로저를 이용하면 데이터와 함수를 연결하여 객체 지향 프로그래밍(OOP)과 유사한 패턴을 구현할 수 있습니다.
+
+##### 예제
+
+
+### 클로저를 이용한 비공개 메서드 구현
+
+- JavaScript는 비공개 메서드를 구현하기 위한 네이티브 방법을 제공하지 않지만, 클로저를 통해 이를 구현할 수 있습니다.
+
+##### 모듈 디자인 패턴 예제
+
+
+
+### 클로저 스코프 체인
+
+모든 클로저는 세 가지 스코프를 가집니다:
+
+1. 로컬 스코프 (자신의 스코프)
+2. 외부 함수 스코프
+3. 전역 스코프
+
+##### 예제
+
+
+
+### 루프에서 클로저 생성 시의 흔한 실수
+
+- 클로저가 루프 내에서 생성될 때 예상치 못한 동작을 할 수 있습니다.
+
+##### 잘못된 예제
+
+javascript
+
+코드 복사
+
+`function setupHelp() {   var helpText = [     { id: 'email', help: 'Your e-mail address' },     { id: 'name', help: 'Your full name' },     { id: 'age', help: 'Your age (you must be over 16)' }   ];    for (var i = 0; i < helpText.length; i++) {     var item = helpText[i];     document.getElementById(item.id).onfocus = function() {       showHelp(item.help);     }   } }`
+
+- 위 코드는 모든 엘리먼트에서 마지막 아이템의 도움말을 표시합니다.
+
+##### 해결 방법
+
+1. **함수를 사용하여 새로운 스코프 생성**
+    
+2. **`let` 키워드 사용**
+
+    
+
+### 성능 고려사항
+
+- 클로저가 필요하지 않을 때 클로저를 사용하면 메모리와 속도에 영향을 미칠 수 있습니다.
+- 예를 들어, 새로운 객체/클래스를 만들 때 메서드는 객체의 생성자 대신 프로토타입에 정의하는 것이 좋습니다.
+
+##### 예제
+
+```javascript
+function MyObject(name, message) {
+  this.name = name.toString();
+  this.message = message.toString();
+}
+MyObject.prototype.getName = function() {
+  return this.name;
+};
+MyObject.prototype.getMessage = function() {
+  return this.message;
+};
+
+```
+
+이와 같이 JavaScript의 클로저를 이해하면 함수와 변수의 스코프를 효과적으로 관리할 수 있으며, 더 나은 코드 구조를 설계할 수 있습니다.
