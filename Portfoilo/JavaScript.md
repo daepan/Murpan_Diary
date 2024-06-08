@@ -196,7 +196,6 @@ myFunc();
 2. 외부 함수 스코프
 3. 전역 스코프
 
-##### 예제
 
 
 
@@ -205,12 +204,6 @@ myFunc();
 - 클로저가 루프 내에서 생성될 때 예상치 못한 동작을 할 수 있습니다.
 
 ##### 잘못된 예제
-
-javascript
-
-코드 복사
-
-`function setupHelp() {   var helpText = [     { id: 'email', help: 'Your e-mail address' },     { id: 'name', help: 'Your full name' },     { id: 'age', help: 'Your age (you must be over 16)' }   ];    for (var i = 0; i < helpText.length; i++) {     var item = helpText[i];     document.getElementById(item.id).onfocus = function() {       showHelp(item.help);     }   } }`
 
 - 위 코드는 모든 엘리먼트에서 마지막 아이템의 도움말을 표시합니다.
 

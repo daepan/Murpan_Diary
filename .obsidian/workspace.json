@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/JavaScript.md",
+                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/JavaScript.md",
+                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/JavaScript.md",
+                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/JavaScript.md"
+                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md"
               }
             }
           }
@@ -168,6 +168,9 @@
   },
   "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
+    "Portfoilo/Network.md",
+    "Portfoilo/React.md",
+    "Portfoilo/JavaScript.md",
     "Portfoilo/JavaSciprt 면접 예상 질문지.md",
     "OS/5. 프로세스.md",
     "OS/6. IPC.md",
@@ -182,9 +185,6 @@
     "React/setState비동기.md",
     "React/State.md",
     "React/useCallbackuseMemo.md",
-    "Portfoilo/React.md",
-    "Portfoilo/Network.md",
-    "Portfoilo/JavaScript.md",
     "Portfoilo/DataBase.md",
     "Portfoilo/예상 질문지.md",
     "Portfoilo/Algorithm.md",
