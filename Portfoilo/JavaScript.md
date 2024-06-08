@@ -49,16 +49,11 @@
 - **Symbol**: `typeof instance === 'symbol'`
 
 **특징**:
-
 - 기본 데이터 타입으로, 값 자체가 변하지 않음 (immutable).
 - 각 타입에 대해 다음과 같은 특징이 있습니다:
     - **Number**: 모든 숫자는 double-precision 64-bit binary 형식을 따릅니다.
-        
     - **BigInt**: Number 타입의 범위를 넘어가는 숫자를 저장하고 연산할 수 있습니다.
-        
     - **Symbol**: 고유하고 변하지 않는 값으로, 주로 객체의 유일한 프로퍼티 키를 만들기 위해 사용됩니다.
-
-        
 
 #### 2. Structural Types
 
