@@ -155,7 +155,16 @@
 
 ##### 예제
 
-```java
+```javascript
+function init() {
+  var name = 'Mozilla'; // name은 init의 로컬 변수
+  function displayName() { // displayName()은 내부 함수, 클로저
+    alert(name); // 부모 함수의 변수를 사용
+  }
+  displayName();
+}
+init();
+
 ```
 
 #### 클로저의 활용
@@ -164,7 +173,18 @@
 
 ##### 예제
 
+```javascript
+function makeFunc() {
+  var name = 'Mozilla';
+  function displayName() {
+    alert(name);
+  }
+  return displayName;
+}
 
+var myFunc = makeFunc();
+myFunc();
+```
 ### 클로저를 이용한 비공개 메서드 구현
 
 - JavaScript는 비공개 메서드를 구현하기 위한 네이티브 방법을 제공하지 않지만, 클로저를 통해 이를 구현할 수 있습니다.
