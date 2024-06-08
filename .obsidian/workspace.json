@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/useCallbackuseMemo.md",
+                "file": "React/Redux.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/useCallbackuseMemo.md",
+                "file": "React/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/useCallbackuseMemo.md",
+                "file": "React/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/useCallbackuseMemo.md"
+                "file": "React/Redux.md"
               }
             }
           }
@@ -215,9 +215,13 @@
   },
   "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
-    "React/State.md",
+    "React/ReactStrict.md",
+    "React/Redering.md",
+    "React/Redux.md",
     "React/short-circuit evaluation.md",
     "React/setState비동기.md",
+    "React/State.md",
+    "React/useCallbackuseMemo.md",
     "Portfoilo/React.md",
     "Portfoilo/Network.md",
     "Portfoilo/JavaSciprt 면접 예상 질문지.md",
@@ -243,13 +247,9 @@
     "_images/Pasted image 20240520191950.png",
     "_images/Pasted image 20240520191940.png",
     "_images/Pasted image 20240520191155.png",
-    "Planner/2024-05/Daily/2024-05-19(일).md",
-    "Planner/2024-05/Daily/2024-05-16(목).md",
     "_images/Pasted Image 20240516025534_394.png",
     "_images/Pasted Image 20240516025245_449.png",
     "_images/Pasted Image 20240516024303_319.png",
-    "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "_images/Pasted image 20240509142126.png",
     "_images/Pasted image 20240509141841.png",
     "Planner/2024-05/Daily",
