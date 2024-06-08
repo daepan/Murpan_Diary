@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+                "file": "React/useCallbackuseMemo.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+                "file": "React/useCallbackuseMemo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+                "file": "React/useCallbackuseMemo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md"
+                "file": "React/useCallbackuseMemo.md"
               }
             }
           }
@@ -215,16 +215,19 @@
   },
   "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
+    "React/State.md",
+    "React/short-circuit evaluation.md",
+    "React/setState비동기.md",
+    "Portfoilo/React.md",
+    "Portfoilo/Network.md",
+    "Portfoilo/JavaSciprt 면접 예상 질문지.md",
     "Portfoilo/Web.md",
     "Portfoilo/JavaScript.md",
-    "Portfoilo/Network.md",
     "Portfoilo/DataBase.md",
     "Portfoilo/예상 질문지.md",
     "Portfoilo/Algorithm.md",
-    "Portfoilo/JavaSciprt 면접 예상 질문지.md",
     "Portfoilo/Data Structure.md",
     "Portfoilo/Software Engineering.md",
-    "Portfoilo/React.md",
     "_images/Pasted image 20240608195440.png",
     "_images/Pasted image 20240608194615.png",
     "Portfoilo/Computer Architecture.md",
@@ -247,8 +250,6 @@
     "_images/Pasted Image 20240516024303_319.png",
     "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
-    "Planner/2024-05/Daily/2024-05-01(수).md",
     "_images/Pasted image 20240509142126.png",
     "_images/Pasted image 20240509141841.png",
     "Planner/2024-05/Daily",
