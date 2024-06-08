@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c66322b12c531265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/5. 프로세스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d258bce93b9d776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/6. IPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d1cb40d19c47337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/9. 메모리 관리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f010b080bf8ec03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+                "file": "Portfoilo/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/9. 메모리 관리.md",
+                "file": "Portfoilo/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/9. 메모리 관리.md",
+                "file": "Portfoilo/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/9. 메모리 관리.md"
+                "file": "Portfoilo/JavaScript.md"
               }
             }
           }
@@ -203,10 +166,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d1cb40d19c47337",
+  "active": "2f010b080bf8ec03",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Portfoilo/JavaSciprt 면접 예상 질문지.md",
+    "OS/5. 프로세스.md",
+    "OS/6. IPC.md",
+    "OS/9. 메모리 관리.md",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "Portfoilo/Web.md",
     "Portfoilo/여기어때 질문지.md",
     "React/Redux.md",
@@ -230,10 +196,7 @@
     "Conference/부캠라디오 5.20.md",
     "Conference/네이버 부스트 캠프 라디오.md",
     "Planner/Daily Template.md",
-    "Planner/2024-06/2024-06-03(월).md",
     "Planner/2024-06",
-    "Planner/2024-05/Daily/2024-05-20(월).md",
-    "OS/19. 동시성 문제.md",
     "_images/Pasted image 20240520191950.png",
     "_images/Pasted image 20240520191940.png",
     "_images/Pasted image 20240520191155.png",
