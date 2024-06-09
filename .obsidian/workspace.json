@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/23. 파일 시스템 구현.md",
+                "file": "OS/14. 페이지 선택 및 할당.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e272c54cd21c72ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/23. 파일 시스템 구현.md",
+                "file": "OS/14. 페이지 선택 및 할당.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/23. 파일 시스템 구현.md",
+                "file": "OS/14. 페이지 선택 및 할당.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/23. 파일 시스템 구현.md"
+                "file": "OS/14. 페이지 선택 및 할당.md"
               }
             }
           }
@@ -166,18 +177,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6c0c98c349409c5f",
+  "active": "e272c54cd21c72ec",
   "lastOpenFiles": [
+    "OS/15. 쓰레드.md",
+    "OS/14. 페이지 선택 및 할당.md",
+    "OS/20. 디스크 스케줄링.md",
+    "OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "OS/22. 파일 시스템 개념.md",
     "OS/23. 파일 시스템 구현.md",
+    "OS/25. 오류복구 및 Log-Structured File Systems.md",
+    "OS/26. Protection과 Security.md",
+    "OS/기말 예상 문제 및 개념.md",
     "OS/24. Fast File Systems.md",
-    "OS/21. RAID 구성 및 대용량 저장 시스템.md",
-    "OS/20. 디스크 스케줄링.md",
     "OS/17.  동시성.md",
     "OS/18. 세마포어.md",
-    "OS/기말 예상 문제 및 개념.md",
-    "OS/26. Protection과 Security.md",
-    "OS/25. 오류복구 및 Log-Structured File Systems.md",
     "OS/19. 동시성 문제.md",
     "OS/16. 동기화.md",
     "Portfoilo/Web.md",
@@ -192,8 +205,6 @@
     "Portfoilo/여기어때 질문지.md",
     "React/Redux.md",
     "React/ReactStrict.md",
-    "React/Redering.md",
-    "React/short-circuit evaluation.md",
     "_images/Pasted image 20240608195440.png",
     "_images/Pasted image 20240608194615.png",
     "Planner/2024-06",
