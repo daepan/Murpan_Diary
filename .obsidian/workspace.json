@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ecabbd4cc7a960d1",
+        "id": "996d262179e43fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "2f010b080bf8ec03",
+            "id": "6c0c98c349409c5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/21. RAID 구성 및 대용량 저장 시스템.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/21. RAID 구성 및 대용량 저장 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/21. RAID 구성 및 대용량 저장 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OS/21. RAID 구성 및 대용량 저장 시스템.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -166,14 +158,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2f010b080bf8ec03",
+  "active": "6c0c98c349409c5f",
   "lastOpenFiles": [
+    "OS/기말 예상 문제 및 개념.md",
+    "OS/26. Protection과 Security.md",
+    "OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "OS/22. 파일 시스템 개념.md",
     "OS/24. Fast File Systems.md",
     "OS/23. 파일 시스템 구현.md",
     "OS/25. 오류복구 및 Log-Structured File Systems.md",
-    "OS/26. Protection과 Security.md",
-    "OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "OS/20. 디스크 스케줄링.md",
     "OS/19. 동시성 문제.md",
     "OS/17.  동시성.md",
@@ -193,7 +186,6 @@
     "React/ReactStrict.md",
     "React/Redering.md",
     "React/short-circuit evaluation.md",
-    "React/setState비동기.md",
     "_images/Pasted image 20240608195440.png",
     "_images/Pasted image 20240608194615.png",
     "Planner/2024-06",
