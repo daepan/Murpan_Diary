@@ -11,8 +11,12 @@
             "id": "6c0c98c349409c5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS/17.  동시성.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS/17.  동시성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OS/17.  동시성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OS/17.  동시성.md"
+              }
             }
           }
         ],
@@ -160,6 +168,7 @@
   },
   "active": "6c0c98c349409c5f",
   "lastOpenFiles": [
+    "OS/18. 세마포어.md",
     "OS/기말 예상 문제 및 개념.md",
     "OS/26. Protection과 Security.md",
     "OS/21. RAID 구성 및 대용량 저장 시스템.md",
@@ -171,7 +180,6 @@
     "OS/19. 동시성 문제.md",
     "OS/17.  동시성.md",
     "OS/16. 동기화.md",
-    "OS/18. 세마포어.md",
     "Portfoilo/Web.md",
     "Portfoilo/JavaSciprt 면접 예상 질문지.md",
     "Portfoilo/Network.md",
