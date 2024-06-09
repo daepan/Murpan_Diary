@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/20. 디스크 스케줄링.md",
+                "file": "OS/21. RAID 구성 및 대용량 저장 시스템.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/20. 디스크 스케줄링.md",
+                "file": "OS/21. RAID 구성 및 대용량 저장 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/20. 디스크 스케줄링.md",
+                "file": "OS/21. RAID 구성 및 대용량 저장 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/20. 디스크 스케줄링.md"
+                "file": "OS/21. RAID 구성 및 대용량 저장 시스템.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "6c0c98c349409c5f",
   "lastOpenFiles": [
-    "OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "OS/20. 디스크 스케줄링.md",
+    "OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "OS/22. 파일 시스템 개념.md",
     "OS/17.  동시성.md",
     "OS/18. 세마포어.md",
