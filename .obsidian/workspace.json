@@ -23,9 +23,11 @@
             "id": "e272c54cd21c72ec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "OS/18. 세마포어.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/14. 페이지 선택 및 할당.md",
+                "file": "OS/18. 세마포어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/14. 페이지 선택 및 할당.md",
+                "file": "OS/18. 세마포어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/14. 페이지 선택 및 할당.md"
+                "file": "OS/18. 세마포어.md"
               }
             }
           }
