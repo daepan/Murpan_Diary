@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/26. Protection과 Security.md",
+                "file": "OS/22. 파일 시스템 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/26. Protection과 Security.md",
+                "file": "OS/22. 파일 시스템 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/26. Protection과 Security.md",
+                "file": "OS/22. 파일 시스템 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/26. Protection과 Security.md"
+                "file": "OS/22. 파일 시스템 개념.md"
               }
             }
           }
@@ -181,19 +181,19 @@
   },
   "active": "e272c54cd21c72ec",
   "lastOpenFiles": [
-    "OS/25. 오류복구 및 Log-Structured File Systems.md",
+    "OS/23. 파일 시스템 구현.md",
     "OS/24. Fast File Systems.md",
+    "OS/25. 오류복구 및 Log-Structured File Systems.md",
+    "OS/기말 예상 문제 및 개념.md",
+    "OS/26. Protection과 Security.md",
     "OS/19. 동시성 문제.md",
     "OS/22. 파일 시스템 개념.md",
-    "OS/23. 파일 시스템 구현.md",
     "OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "OS/18. 세마포어.md",
     "OS/17.  동시성.md",
     "OS/15. 쓰레드.md",
     "OS/14. 페이지 선택 및 할당.md",
     "OS/20. 디스크 스케줄링.md",
-    "OS/26. Protection과 Security.md",
-    "OS/기말 예상 문제 및 개념.md",
     "OS/16. 동기화.md",
     "Portfoilo/Web.md",
     "Portfoilo/JavaSciprt 면접 예상 질문지.md",
