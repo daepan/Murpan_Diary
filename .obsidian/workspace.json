@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/17.  동시성.md",
+                "file": "OS/20. 디스크 스케줄링.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/17.  동시성.md",
+                "file": "OS/20. 디스크 스케줄링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/17.  동시성.md",
+                "file": "OS/20. 디스크 스케줄링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/17.  동시성.md"
+                "file": "OS/20. 디스크 스케줄링.md"
               }
             }
           }
@@ -205,8 +205,9 @@
   },
   "active": "d4ad914d93b737d7",
   "lastOpenFiles": [
-    "OS/16. 동기화.md",
+    "OS/19. 동시성 문제.md",
     "OS/17.  동시성.md",
+    "OS/16. 동기화.md",
     "OS/23. 파일 시스템 구현.md",
     "OS/24. Fast File Systems.md",
     "OS/25. 오류복구 및 Log-Structured File Systems.md",
@@ -235,7 +236,6 @@
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
-    "Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
     "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
     "_images/Pasted image 20240520191950.png",
     "_images/Pasted image 20240520191940.png",
