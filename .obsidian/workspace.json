@@ -49,14 +49,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/백트래킹.md",
+                "file": "Planner/2024-06-11(화).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "beb34775330d5f31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/백트래킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/백트래킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm/백트래킹.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -204,10 +208,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4ad914d93b737d7",
+  "active": "beb34775330d5f31",
   "lastOpenFiles": [
-    "OS/20. 디스크 스케줄링.md",
+    "Planner/2024-06-11(화).md",
     "Algorithm/백트래킹.md",
+    "OS/20. 디스크 스케줄링.md",
     "OS/19. 동시성 문제.md",
     "OS/17.  동시성.md",
     "OS/16. 동기화.md",
@@ -234,7 +239,6 @@
     "Portfoilo/예상 질문지.md",
     "Portfoilo/김대관 포토폴리오.md",
     "Refactor/Git을 통한 협업.pdf",
-    "Planner/2024-06/2024-06-03(월).md",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
     "Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
