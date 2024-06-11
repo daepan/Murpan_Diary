@@ -54,17 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "beb34775330d5f31",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planner/2024-06-11(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Planner/2024-06-11(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Planner/2024-06-11(화).md"
+              }
             }
           }
         ],
@@ -208,7 +204,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "beb34775330d5f31",
+  "active": "d4ad914d93b737d7",
   "lastOpenFiles": [
     "Planner/2024-06-11(화).md",
     "Algorithm/백트래킹.md",
