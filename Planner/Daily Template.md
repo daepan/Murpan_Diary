@@ -77,6 +77,7 @@ tag include #업무
 - [ ] #task 포폴 업데이트 이후 토스 서류 넣어보기기
 - [ ] #task React.memo 100번 써보기기
 - [ ] #task React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기
+- [ ] #task 모노레포 구현 + Skin-ai-server
 
 ### 오늘 완료한 일
 ```tasks
