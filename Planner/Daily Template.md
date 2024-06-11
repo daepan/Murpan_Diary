@@ -68,7 +68,15 @@ tag include #업무
 ```
 
 ### 앞으로 해야할 일
-
+- [ ] #task 포폴이랑 이력서 업데이트
+- [ ] #task React-Portal 전역화 기능 관련 글 정리
+- [ ] #task 네부캠 코테 대비
+- [ ] #task React DeepDive 스터디
+- [ ] #task 영어 졸업 맞추기
+- [ ] #task 네부캠 탈락 시 오픈소스 컨트리뷰터 지원
+- [ ] #task 포폴 업데이트 이후 토스 서류 넣어보기기
+- [ ] #task React.memo 100번 써보기기
+- [ ] #task React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기
 
 ### 오늘 완료한 일
 ```tasks
