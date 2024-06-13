@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-06/2024-06-13(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-06/2024-06-13(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-06/2024-06-13(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/Daily Template.md"
+                "file": "Planner/2024-06/2024-06-13(목).md"
               }
             }
           }
@@ -191,10 +191,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d1cb40d19c47337",
+  "active": "2fa2e4c78e1c205b",
   "lastOpenFiles": [
-    "OS/9. 메모리 관리.md",
     "Planner/Daily Template.md",
+    "Planner/2024-06/2024-06-13(목).md",
+    "OS/9. 메모리 관리.md",
     "tasksCalendar/demo_file.md",
     "Planner/2024-06-11(화).md",
     "Algorithm/백트래킹.md",
@@ -220,7 +221,6 @@
     "Portfoilo/Data Structure.md",
     "Portfoilo/Web.md",
     "Portfoilo/Software Engineering.md",
-    "Portfoilo/Network.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
