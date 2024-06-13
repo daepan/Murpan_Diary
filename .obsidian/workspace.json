@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/24. Fast File Systems.md",
+                "file": "React/전역상태에 대한 고찰.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/24. Fast File Systems.md",
+                "file": "React/전역상태에 대한 고찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/24. Fast File Systems.md",
+                "file": "React/전역상태에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/24. Fast File Systems.md"
+                "file": "React/전역상태에 대한 고찰.md"
               }
             }
           }
@@ -181,12 +181,13 @@
   },
   "active": "e272c54cd21c72ec",
   "lastOpenFiles": [
+    "OS/24. Fast File Systems.md",
+    "React/전역상태에 대한 고찰.md",
     "Planner/2024-06/2024-06-13(목).md",
     "Planner/2024-06-11(화).md",
     "Algorithm/백트래킹.md",
     "OS/22. 파일 시스템 개념.md",
     "OS/21. RAID 구성 및 대용량 저장 시스템.md",
-    "OS/24. Fast File Systems.md",
     "OS/23. 파일 시스템 구현.md",
     "OS/25. 오류복구 및 Log-Structured File Systems.md",
     "OS/기말 예상 문제 및 개념.md",
@@ -206,7 +207,6 @@
     "OS/5. 프로세스.md",
     "OS/6. IPC.md",
     "OS/9. 메모리 관리.md",
-    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "_images/Pasted image 20240608195440.png",
     "_images/Pasted image 20240608194615.png",
     "Planner/2024-06",
