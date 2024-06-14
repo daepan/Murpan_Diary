@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-06/2024-06-13(목).md",
+                "file": "Planner/2024-06/2024-06-14(금).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa758d93c6e58c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-06/2024-06-13(목).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-06/2024-06-13(목).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-06/2024-06-13(목).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -191,9 +203,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d1cb40d19c47337",
+  "active": "fa758d93c6e58c11",
   "lastOpenFiles": [
+    "Planner/2024-06/2024-06-14(금).md",
+    "conflict-files-obsidian-git.md",
     "Planner/2024-06/2024-06-13(목).md",
+    "React/전역상태에 대한 고찰.md",
     "Planner/Daily Template.md",
     "OS/9. 메모리 관리.md",
     "tasksCalendar/demo_file.md",
@@ -218,9 +233,6 @@
     "Portfoilo/React.md",
     "Portfoilo/Computer Architecture.md",
     "Portfoilo/Algorithm.md",
-    "Portfoilo/Data Structure.md",
-    "Portfoilo/Web.md",
-    "Portfoilo/Software Engineering.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
