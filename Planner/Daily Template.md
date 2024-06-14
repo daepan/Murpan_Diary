@@ -26,22 +26,7 @@ tags:
 %>
 
 <% tp.web.daily_quote() %>
-## 나의 현재 볼륨
-* 졸작 페이지 만들기 원격 진료 시스템 구상하고 다음주 수요일까지 준비하기
-* 디공 페이지 관련해서 배포랑 메인 페이지 3D 이미지 관련 만져야함
-## 내일 기억할 일
-- 
-## 오늘 기억할 일
-* 
-
-
-## 아침
-
-### 오늘의 목표
-
-- [ ] 
-
-### 할 일 추가하기
+## 나의 할일
 
 - [ ] #task 포토폴리오 제작
 - [ ] #task 매주 금요일 레거시 그룹회의
@@ -55,6 +40,26 @@ tags:
 - [ ] #task 운체 기말(6/10)
 - [ ] #task 알고리즘 기말 (6/17)
 
+## 오늘의 할 일
+
+
+## 기술 관련 할꺼 메모
+
+- [ ] #task 포폴이랑 이력서 업데이트
+- [ ] #task React-Portal 전역화 기능 관련 글 정리
+- [ ] #task 네부캠 코테 대비
+- [ ] #task React DeepDive 스터디
+- [ ] #task 영어 졸업 맞추기
+- [ ] #task 네부캠 탈락 시 오픈소스 컨트리뷰터 지원
+- [ ] #task 포폴 업데이트 이후 토스 서류 넣어보기기
+- [ ] #task React.memo 100번 써보기기
+- [ ] #task React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기
+- [ ] #task 모노레포 구현 + Skin-ai-server
+
+
+### 할 일 추가하기
+
+
 ## 오늘 끝내야 할 일
 ```tasks
 due on or before <% tp.file.title.slice(0,10) %>
@@ -67,25 +72,11 @@ sort by priority
 tag include #업무 
 ```
 
-### 앞으로 해야할 일
-- [ ] #task 포폴이랑 이력서 업데이트
-- [ ] #task React-Portal 전역화 기능 관련 글 정리
-- [ ] #task 네부캠 코테 대비
-- [ ] #task React DeepDive 스터디
-- [ ] #task 영어 졸업 맞추기
-- [ ] #task 네부캠 탈락 시 오픈소스 컨트리뷰터 지원
-- [ ] #task 포폴 업데이트 이후 토스 서류 넣어보기기
-- [ ] #task React.memo 100번 써보기기
-- [ ] #task React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기
-- [ ] #task 모노레포 구현 + Skin-ai-server
 
 ### 오늘 완료한 일
 ```tasks
 done <% tp.file.title.slice(0,10) %>
 ```
-
-## 운동
-- 
 
 ## 하루 마무리
 ### 오늘 배운 것들

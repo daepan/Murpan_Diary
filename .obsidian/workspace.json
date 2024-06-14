@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-06/2024-06-14(금).md",
+                "file": "Planner/Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-06/2024-06-14(금).md",
+                "file": "Planner/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-06/2024-06-14(금).md",
+                "file": "Planner/Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-06/2024-06-14(금).md"
+                "file": "Planner/Daily Template.md"
               }
             }
           }
@@ -193,11 +193,11 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Planner/Daily Template.md",
     "Planner/2024-06/2024-06-14(금).md",
+    "conflict-files-obsidian-git.md",
     "Planner/2024-06/2024-06-13(목).md",
     "React/전역상태에 대한 고찰.md",
-    "Planner/Daily Template.md",
     "OS/9. 메모리 관리.md",
     "tasksCalendar/demo_file.md",
     "Planner/2024-06-11(화).md",
