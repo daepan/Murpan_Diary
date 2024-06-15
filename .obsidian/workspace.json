@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/자료구조와 알고리즘.md",
+                "file": "Algorithm/그래프.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/자료구조와 알고리즘.md",
+                "file": "Algorithm/그래프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/자료구조와 알고리즘.md",
+                "file": "Algorithm/그래프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/자료구조와 알고리즘.md"
+                "file": "Algorithm/그래프.md"
               }
             }
           }
@@ -193,10 +193,12 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "_images/Pasted image 20240615220013.png",
+    "Algorithm/자료구조와 알고리즘.md",
+    "Algorithm/그래프.md",
     "_images/Pasted image 20240615215628.png",
     "_images/Pasted image 20240615215609.png",
     "Planner/2024-06-15(토).md",
-    "Algorithm/자료구조와 알고리즘.md",
     "Planner/2024-06/2024-06-14(금).md",
     "Planner/Daily Template.md",
     "Planner/2024-06-11(화).md",
@@ -221,7 +223,6 @@
     "Portfoilo/JavaSciprt 면접 예상 질문지.md",
     "OS/기말 예상 문제 및 개념.md",
     "OS/22. 파일 시스템 개념.md",
-    "OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
@@ -231,7 +232,6 @@
     "_images/Pasted image 20240520191155.png",
     "_images/Pasted Image 20240516025534_394.png",
     "_images/Pasted Image 20240516025245_449.png",
-    "_images/Pasted Image 20240516024303_319.png",
     "Planner/2024-05/Daily",
     "Planner/2024-05",
     "MEMO",
