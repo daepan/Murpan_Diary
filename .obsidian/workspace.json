@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-06/2024-06-14(금).md",
+                "file": "Algorithm/자료구조와 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-06/2024-06-14(금).md",
+                "file": "Algorithm/자료구조와 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-06/2024-06-14(금).md",
+                "file": "Algorithm/자료구조와 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-06/2024-06-14(금).md"
+                "file": "Algorithm/자료구조와 알고리즘.md"
               }
             }
           }
@@ -193,8 +193,10 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "Planner/Daily Template.md",
+    "Planner/2024-06-15(토).md",
+    "Algorithm/자료구조와 알고리즘.md",
     "Planner/2024-06/2024-06-14(금).md",
+    "Planner/Daily Template.md",
     "Planner/2024-06-11(화).md",
     "conflict-files-obsidian-git.md",
     "Planner/2024-06/2024-06-13(목).md",
@@ -219,8 +221,6 @@
     "OS/22. 파일 시스템 개념.md",
     "OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "Portfoilo/React.md",
-    "Portfoilo/Computer Architecture.md",
-    "Portfoilo/Algorithm.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
