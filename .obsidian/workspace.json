@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/분할 정복.md",
+                "file": "Algorithm/동적계획법.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/분할 정복.md",
+                "file": "Algorithm/동적계획법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/분할 정복.md",
+                "file": "Algorithm/동적계획법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/분할 정복.md"
+                "file": "Algorithm/동적계획법.md"
               }
             }
           }
@@ -193,19 +193,19 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Algorithm/분할 정복.md",
+    "Algorithm/동적계획법.md",
     "_images/Pasted image 20240616135825.png",
     "_images/Pasted image 20240616135821.png",
     "_images/Pasted image 20240616135033.png",
     "_images/Pasted image 20240616135028.png",
     "Algorithm/그래프.md",
-    "Algorithm/분할 정복.md",
     "_images/Pasted image 20240616134043.png",
     "_images/Pasted image 20240616132537.png",
     "_images/Pasted image 20240616132531.png",
     "_images/Pasted image 20240616132526.png",
     "_images/Pasted image 20240616132519.png",
     "_images/Pasted image 20240616132512.png",
-    "_images/Pasted image 20240616132507.png",
     "Algorithm/자료구조와 알고리즘.md",
     "Planner/2024-06-15(토).md",
     "Planner/2024-06/2024-06-14(금).md",
