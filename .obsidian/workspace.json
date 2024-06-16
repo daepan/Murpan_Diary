@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c66322b12c531265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/5. 프로세스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d258bce93b9d776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/6. IPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d1cb40d19c47337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/백트래킹.md",
+                "file": "Algorithm/그래프.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/백트래킹.md",
+                "file": "Algorithm/그래프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/백트래킹.md",
+                "file": "Algorithm/그래프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/백트래킹.md"
+                "file": "Algorithm/그래프.md"
               }
             }
           }
@@ -193,6 +168,7 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Algorithm/백트래킹.md",
     "Algorithm/탐욕 알고리즘.md",
     "_images/Pasted image 20240616184310.png",
     "_images/Pasted image 20240616184141.png",
@@ -217,7 +193,6 @@
     "React/전역상태에 대한 고찰.md",
     "OS/9. 메모리 관리.md",
     "tasksCalendar/demo_file.md",
-    "Algorithm/백트래킹.md",
     "OS/20. 디스크 스케줄링.md",
     "OS/19. 동시성 문제.md",
     "OS/17.  동시성.md",
