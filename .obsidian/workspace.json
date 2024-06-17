@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/동적계획법.md",
+                "file": "Algorithm/백트래킹.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/동적계획법.md",
+                "file": "Algorithm/백트래킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/동적계획법.md",
+                "file": "Algorithm/백트래킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/동적계획법.md"
+                "file": "Algorithm/백트래킹.md"
               }
             }
           }
@@ -168,11 +168,13 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "_images/Pasted image 20240617115216.png",
-    "Algorithm/그래프.md",
+    "_images/Pasted image 20240617115559.png",
+    "Algorithm/동적계획법.md",
     "Algorithm/리스트와 큐.md",
     "Algorithm/분할 정복.md",
     "Algorithm/브루트포스-순열.md",
+    "_images/Pasted image 20240617115216.png",
+    "Algorithm/그래프.md",
     "Algorithm/스택과 큐.md",
     "Algorithm/백트래킹.md",
     "Algorithm/해시 테이블.md",
@@ -187,8 +189,6 @@
     "_images/Pasted image 20240617113629.png",
     "_images/Pasted image 20240617113621.png",
     "_images/Pasted image 20240617113612.png",
-    "_images/Pasted image 20240617113607.png",
-    "Algorithm/동적계획법.md",
     "Algorithm/탐색.md",
     "Algorithm/자료구조와 알고리즘.md",
     "Planner/2024-06-15(토).md",
