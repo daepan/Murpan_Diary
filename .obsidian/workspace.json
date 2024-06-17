@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-06-17(월).md",
+                "file": "Planner/2024-06/2024-06-17(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-06-17(월).md",
+                "file": "Planner/2024-06/2024-06-17(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-06-17(월).md",
+                "file": "Planner/2024-06/2024-06-17(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-06-17(월).md"
+                "file": "Planner/2024-06/2024-06-17(월).md"
               }
             }
           }
@@ -191,9 +191,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d1cb40d19c47337",
+  "active": "2fa2e4c78e1c205b",
   "lastOpenFiles": [
-    "Planner/2024-06-17(월).md",
+    "Planner/2024-06/2024-06-15(토).md",
+    "Planner/2024-06/2024-06-17(월).md",
+    "Planner/Daily Template.md",
     "Planner/2024-06/2024-06-14(금).md",
     "_images/Pasted image 20240616184310.png",
     "_images/Pasted image 20240616184141.png",
@@ -205,14 +207,12 @@
     "_images/Pasted image 20240616144327.png",
     "_images/Pasted image 20240616144045.png",
     "_images/Pasted image 20240616135825.png",
-    "Planner/2024-06-15(토).md",
     "Algorithm/탐욕 알고리즘.md",
     "Algorithm/자료구조와 알고리즘.md",
     "Algorithm/분할 정복.md",
     "Algorithm/동적계획법.md",
     "Algorithm/그래프.md",
-    "Planner/Daily Template.md",
-    "Planner/2024-06-11(화).md",
+    "Planner/2024-06/2024-06-11(화).md",
     "conflict-files-obsidian-git.md",
     "Planner/2024-06/2024-06-13(목).md",
     "React/전역상태에 대한 고찰.md",

@@ -50,9 +50,6 @@ tags:
 - [ ] #task 모노레포 구현 + Skin-ai-server
 
 
-### 할 일 추가하기
-
-
 ## 오늘 끝내야 할 일
 ```tasks
 due on or before <% tp.file.title.slice(0,10) %>
