@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redering.md",
+                "file": "Refactor/LogIn.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redering.md",
+                "file": "Refactor/LogIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redering.md",
+                "file": "Refactor/LogIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redering.md"
+                "file": "Refactor/LogIn.md"
               }
             }
           }
@@ -193,6 +193,11 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+    "Portfoilo/Software Engineering.md",
+    "Portfoilo/React.md",
+    "React/props.md",
+    "React/Redering.md",
     "React/useCallbackuseMemo.md",
     "React/State.md",
     "React/short-circuit evaluation.md",
@@ -201,14 +206,12 @@
     "React/ErrorBoundaries.md",
     "React/전역상태에 대한 고찰.md",
     "React/조건부렌더링.md",
-    "React/Redering.md",
     "React/setState비동기.md",
     "Tech/코드스플리팅.md",
     "Tech/정적타입과동적타입.md",
     "Tech/이벤트루프와비동기이해.md",
     "Tech/인터넷.md",
     "Tech/반응형에 대한 이해.md",
-    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Planner/2024-06/2024-06-17(월).md",
     "Planner/2024-06/2024-06-15(토).md",
     "Planner/2024-06/2024-06-14(금).md",
@@ -226,9 +229,6 @@
     "Algorithm/자료구조와 알고리즘.md",
     "Algorithm/분할 정복.md",
     "Algorithm/동적계획법.md",
-    "Algorithm/그래프.md",
-    "Planner/2024-06/2024-06-11(화).md",
-    "conflict-files-obsidian-git.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
