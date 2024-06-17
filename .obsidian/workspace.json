@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-06/2024-06-17(월).md",
+                "file": "React/Redering.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-06/2024-06-17(월).md",
+                "file": "React/Redering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-06/2024-06-17(월).md",
+                "file": "React/Redering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-06/2024-06-17(월).md"
+                "file": "React/Redering.md"
               }
             }
           }
@@ -191,11 +191,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fa2e4c78e1c205b",
+  "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "Planner/2024-06/2024-06-15(토).md",
-    "Planner/2024-06/2024-06-17(월).md",
+    "React/useCallbackuseMemo.md",
+    "React/State.md",
+    "React/short-circuit evaluation.md",
+    "React/JSX.md",
     "Planner/Daily Template.md",
+    "React/ErrorBoundaries.md",
+    "React/전역상태에 대한 고찰.md",
+    "React/조건부렌더링.md",
+    "React/Redering.md",
+    "React/setState비동기.md",
+    "Tech/코드스플리팅.md",
+    "Tech/정적타입과동적타입.md",
+    "Tech/이벤트루프와비동기이해.md",
+    "Tech/인터넷.md",
+    "Tech/반응형에 대한 이해.md",
+    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+    "Planner/2024-06/2024-06-17(월).md",
+    "Planner/2024-06/2024-06-15(토).md",
     "Planner/2024-06/2024-06-14(금).md",
     "_images/Pasted image 20240616184310.png",
     "_images/Pasted image 20240616184141.png",
@@ -214,21 +229,6 @@
     "Algorithm/그래프.md",
     "Planner/2024-06/2024-06-11(화).md",
     "conflict-files-obsidian-git.md",
-    "Planner/2024-06/2024-06-13(목).md",
-    "React/전역상태에 대한 고찰.md",
-    "OS/9. 메모리 관리.md",
-    "tasksCalendar/demo_file.md",
-    "Algorithm/백트래킹.md",
-    "OS/20. 디스크 스케줄링.md",
-    "OS/19. 동시성 문제.md",
-    "OS/17.  동시성.md",
-    "OS/16. 동기화.md",
-    "OS/23. 파일 시스템 구현.md",
-    "OS/24. Fast File Systems.md",
-    "OS/25. 오류복구 및 Log-Structured File Systems.md",
-    "OS/26. Protection과 Security.md",
-    "Portfoilo/JavaScript.md",
-    "Portfoilo/여기어때 질문지.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
