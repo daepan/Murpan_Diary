@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/리스트와 큐.md",
+                "file": "Algorithm/문자열 탐색.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/리스트와 큐.md",
+                "file": "Algorithm/문자열 탐색.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/리스트와 큐.md",
+                "file": "Algorithm/문자열 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/리스트와 큐.md"
+                "file": "Algorithm/문자열 탐색.md"
               }
             }
           }
@@ -168,10 +168,16 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "_images/Pasted image 20240617112239.png",
+    "_images/Pasted image 20240617112231.png",
+    "_images/Pasted image 20240617112153.png",
+    "_images/Pasted image 20240617112105.png",
+    "Algorithm/분할 정복.md",
+    "Algorithm/스택과 큐.md",
+    "Algorithm/리스트와 큐.md",
     "Algorithm/문자열 탐색.md",
     "Algorithm/백트래킹.md",
     "Algorithm/동적계획법.md",
-    "Algorithm/리스트와 큐.md",
     "Algorithm/탐색.md",
     "Algorithm/그래프.md",
     "_images/Pasted image 20240617020515.png",
@@ -181,11 +187,7 @@
     "_images/Pasted image 20240617020402.png",
     "_images/Pasted image 20240617020355.png",
     "_images/Pasted image 20240617020349.png",
-    "_images/Pasted image 20240617020343.png",
-    "_images/Pasted image 20240617020334.png",
-    "_images/Pasted image 20240617020329.png",
     "Algorithm/해시 테이블.md",
-    "Algorithm/분할 정복.md",
     "Algorithm/브루트포스-순열.md",
     "Algorithm/탐욕 알고리즘.md",
     "Algorithm/자료구조와 알고리즘.md",
@@ -202,8 +204,6 @@
     "OS/19. 동시성 문제.md",
     "OS/17.  동시성.md",
     "OS/16. 동기화.md",
-    "OS/23. 파일 시스템 구현.md",
-    "OS/24. Fast File Systems.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
