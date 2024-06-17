@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/2024-06/2024-06-17(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/2024-06/2024-06-17(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/2024-06/2024-06-17(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/LogIn.md"
+                "file": "Planner/2024-06/2024-06-17(월).md"
               }
             }
           }
@@ -193,6 +193,9 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Planner/Daily Template.md",
+    "Planner/2024-06/2024-06-17(월).md",
+    "Refactor/LogIn.md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Portfoilo/Software Engineering.md",
     "Portfoilo/React.md",
@@ -202,7 +205,6 @@
     "React/State.md",
     "React/short-circuit evaluation.md",
     "React/JSX.md",
-    "Planner/Daily Template.md",
     "React/ErrorBoundaries.md",
     "React/전역상태에 대한 고찰.md",
     "React/조건부렌더링.md",
@@ -212,7 +214,6 @@
     "Tech/이벤트루프와비동기이해.md",
     "Tech/인터넷.md",
     "Tech/반응형에 대한 이해.md",
-    "Planner/2024-06/2024-06-17(월).md",
     "Planner/2024-06/2024-06-15(토).md",
     "Planner/2024-06/2024-06-14(금).md",
     "_images/Pasted image 20240616184310.png",
@@ -228,7 +229,6 @@
     "Algorithm/탐욕 알고리즘.md",
     "Algorithm/자료구조와 알고리즘.md",
     "Algorithm/분할 정복.md",
-    "Algorithm/동적계획법.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
