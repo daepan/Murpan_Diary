@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c66322b12c531265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/5. 프로세스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d258bce93b9d776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/6. IPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d1cb40d19c47337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-06/2024-06-17(월).md",
+                "file": "Algorithm/백트래킹.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-06/2024-06-17(월).md",
+                "file": "Algorithm/백트래킹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-06/2024-06-17(월).md",
+                "file": "Algorithm/백트래킹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-06/2024-06-17(월).md"
+                "file": "Algorithm/백트래킹.md"
               }
             }
           }
@@ -193,8 +168,22 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Planner/2024-06/2024-06-17(월).md",
+    "Planner/2024-06/2024-06-15(토).md",
+    "Planner/2024-06/2024-06-11(화).md",
+    "Planner/2024-05/Daily/2024-05-21(화).md",
     "_images/Pasted image 20240617115559.png",
+    "Algorithm/동적계획법.md",
+    "Algorithm/리스트와 큐.md",
+    "Algorithm/분할 정복.md",
+    "Algorithm/브루트포스-순열.md",
     "_images/Pasted image 20240617115216.png",
+    "Algorithm/그래프.md",
+    "Algorithm/스택과 큐.md",
+    "Algorithm/백트래킹.md",
+    "Algorithm/해시 테이블.md",
+    "Algorithm/탐욕 알고리즘.md",
+    "Algorithm/문자열 탐색.md",
     "_images/Pasted image 20240617114629.png",
     "_images/Pasted image 20240617114621.png",
     "_images/Pasted image 20240617114607.png",
@@ -203,32 +192,18 @@
     "_images/Pasted image 20240617113635.png",
     "_images/Pasted image 20240617113629.png",
     "_images/Pasted image 20240617113621.png",
-    "_images/Pasted image 20240617113612.png",
-    "Planner/Daily Template.md",
-    "Planner/2024-06/2024-06-17(월).md",
-    "Refactor/LogIn.md",
-    "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
-    "Portfoilo/Software Engineering.md",
-    "Portfoilo/React.md",
-    "React/props.md",
-    "React/Redering.md",
-    "React/useCallbackuseMemo.md",
-    "React/State.md",
-    "React/short-circuit evaluation.md",
-    "React/JSX.md",
-    "React/ErrorBoundaries.md",
-    "React/전역상태에 대한 고찰.md",
-    "React/조건부렌더링.md",
-    "React/setState비동기.md",
-    "Tech/코드스플리팅.md",
-    "Tech/정적타입과동적타입.md",
-    "Tech/이벤트루프와비동기이해.md",
-    "Tech/인터넷.md",
-    "Tech/반응형에 대한 이해.md",
-    "Planner/2024-06/2024-06-15(토).md",
-    "Planner/2024-06/2024-06-14(금).md",
-    "Algorithm/탐욕 알고리즘.md",
+    "Algorithm/탐색.md",
     "Algorithm/자료구조와 알고리즘.md",
+    "Planner/2024-06-15(토).md",
+    "Planner/2024-06/2024-06-14(금).md",
+    "Planner/Daily Template.md",
+    "Planner/2024-06-11(화).md",
+    "conflict-files-obsidian-git.md",
+    "Planner/2024-06/2024-06-13(목).md",
+    "React/전역상태에 대한 고찰.md",
+    "OS/9. 메모리 관리.md",
+    "tasksCalendar/demo_file.md",
+    "OS/20. 디스크 스케줄링.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
