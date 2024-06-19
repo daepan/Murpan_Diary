@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Conference/네이버 부스트 캠프 라디오.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Conference/네이버 부스트 캠프 라디오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Conference/네이버 부스트 캠프 라디오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/Daily Template.md"
+                "file": "Conference/네이버 부스트 캠프 라디오.md"
               }
             }
           }
@@ -193,6 +193,7 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Planner/Daily Template.md",
     "Planner/2024-06/2024-06-17(월).md",
     "_images/Pasted image 20240617115559.png",
     "_images/Pasted image 20240617115216.png",
@@ -204,7 +205,6 @@
     "_images/Pasted image 20240617113635.png",
     "_images/Pasted image 20240617113629.png",
     "_images/Pasted image 20240617113621.png",
-    "Planner/Daily Template.md",
     "Refactor/LogIn.md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Portfoilo/Software Engineering.md",
