@@ -196,7 +196,7 @@ forwardRef는 사용하면 구성 요소가 참조를 사용하여 DOM 노드를
 *  1번의 경우 
 	* React.memo의 경우에는 `React.memo`를 사용함으로써, `name` 값에 변화가 없다면 `<Greeting />` 컴포넌트의 재렌더링을 건너뛰게 됩니다. 이의 경우에는 Address가 변경되어도 name의 상태가 유지됩니다.
 * 2번의 경우
-	* Ref
+	* 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하면서 최적화 합니다.
 
 
 
