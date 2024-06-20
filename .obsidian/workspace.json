@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51f6c4eaf43f5576",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +201,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d1cb40d19c47337",
+  "active": "51f6c4eaf43f5576",
   "lastOpenFiles": [
     "Planner/2024-06/2024-06-19(수).md",
     "React/React-Hook-Form.md",
