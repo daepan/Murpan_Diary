@@ -198,11 +198,18 @@ forwardRef는 사용하면 구성 요소가 참조를 사용하여 DOM 노드를
 * 2번의 경우
 	* 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하면서 최적화 합니다.
 
+
+
 그 중, React 공식문서에서[ React.memo의 사용법](https://react.dev/reference/react/memo#usage)과 관련해서 DeepDive 내용에서 이러한 내용이 있었습니다
 
 >If your app is like this site, and most interactions are coarse (like replacing a page or an entire section), memoization is usually unnecessary. On the other hand, if your app is more like a drawing editor, and most interactions are granular (like moving shapes), then you might find memoization very helpful.
 >
 >"만약 당신의 앱이 이 사이트처럼 대부분의 상호작용이 페이지를 교체하거나 전체 섹션을 대체하는 것과 같은 대략적인(interaction) 형태라면, 메모이제이션은 보통 불필요합니다. 반면에, 당신의 앱이 드로잉 에디터와 같고 대부분의 상호작용이 도형을 이동하는 것과 같이 세밀한(granular) 형태라면, 메모이제이션이 매우 유용할 수 있습니다."
+
+메모이제이션을 적용할지 여부는 애플리케이션의 상호작용 방식에 따라 달라집니다. 
+여기서 우리가 적용하려는 경우에서는 로그인 페이지에서의`input` value에 대한 state 변화를 하는 경우이기 때문에 컴포넌트 자체가 단순했기에 Ref를 선택하여 최적화를 진행하였습니다.
+
+
 
 
 ---
