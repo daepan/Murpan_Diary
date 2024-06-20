@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Portfoilo/여기어때 질문지.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Portfoilo/여기어때 질문지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Portfoilo/여기어때 질문지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/LogIn.md"
+                "file": "Portfoilo/여기어때 질문지.md"
               }
             }
           }
@@ -193,6 +193,9 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Portfoilo/예상 질문지.md",
+    "Portfoilo/김대관 포토폴리오.md",
+    "Refactor/LogIn.md",
     "Planner/2024-06-20(목).md",
     "React/React-Hook-Form.md",
     "Planner/2024-06/2024-06-19(수).md",
@@ -208,7 +211,6 @@
     "_images/Pasted image 20240617113635.png",
     "_images/Pasted image 20240617113629.png",
     "_images/Pasted image 20240617113621.png",
-    "Refactor/LogIn.md",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Portfoilo/Software Engineering.md",
     "Portfoilo/React.md",
@@ -227,8 +229,6 @@
     "Tech/이벤트루프와비동기이해.md",
     "Tech/인터넷.md",
     "Tech/반응형에 대한 이해.md",
-    "Planner/2024-06/2024-06-15(토).md",
-    "Planner/2024-06/2024-06-14(금).md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
