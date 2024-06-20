@@ -15,7 +15,7 @@ state를 필요한 곳에서만 적재적소하게 사용하는 것을 최대 �
 
 
 ```jsx
-import React, { memo, useState } from 'react';
+import React, { useState } from 'react';
 
 export default function MyApp() {
   const [name, setName] = useState('');
@@ -180,6 +180,10 @@ const Greeting = ({ name }) => {
 `useRef` 훅은 React 컴포넌트에서 참조`(ref)`를 생성하고 접근할 수 있게 해줍니다. 이 훅이 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하고 있습니다. 이를 통해 부모 컴포넌트`(MyApp)`가 자식 컴포넌트`(PasswordInput)` 내부의 함수에 접근할 수 있습니다.
 
 
+
+## 그렇다면 어떤 것이 좋을까?
+
+1번과 2번 방법 둘 다 최적화라는 방식에서 결과가 개선된 것을 확인했습니다.
 
 ---
 # 딥다이브: useState
