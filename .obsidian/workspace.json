@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/여기어때 질문지.md",
+                "file": "Refactor/LogIn.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/여기어때 질문지.md",
+                "file": "Refactor/LogIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/여기어때 질문지.md",
+                "file": "Refactor/LogIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/여기어때 질문지.md"
+                "file": "Refactor/LogIn.md"
               }
             }
           }
@@ -193,8 +193,10 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "Portfoilo/예상 질문지.md",
+    "Vue/ComputedAndWatch.md",
     "Portfoilo/김대관 포토폴리오.md",
+    "Portfoilo/여기어때 질문지.md",
+    "Portfoilo/예상 질문지.md",
     "Refactor/LogIn.md",
     "Planner/2024-06-20(목).md",
     "React/React-Hook-Form.md",
@@ -227,8 +229,6 @@
     "Tech/코드스플리팅.md",
     "Tech/정적타입과동적타입.md",
     "Tech/이벤트루프와비동기이해.md",
-    "Tech/인터넷.md",
-    "Tech/반응형에 대한 이해.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
