@@ -198,6 +198,8 @@ forwardRef는 사용하면 구성 요소가 참조를 사용하여 DOM 노드를
 * 2번의 경우
 	* 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하면서 최적화 합니다.
 
+그 중, React 공식문서에서[ React.memo의 사용법](https://react.dev/reference/react/memo#usage)과 관련해서 DeepDive 내용에서 이러한 내용이 있었습니다
+>
 
 
 ---
