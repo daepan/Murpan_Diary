@@ -61,7 +61,7 @@ const Greeting = function Greeting({ name }) {
 > reference: https://react.dev/learn/state-a-components-memory
 
 
-useState 훅을 사용할 때 setState 함수를 호출하면 해당 컴포넌트는 상태가 변경되었다고 판단하여 리렌더링이 발생합니다. 이는 React의 기본 동작 방식 중 하나입니다.
+useState 훅을 사용할 때 setState 함수를 호출하면 해당 컴포넌트는 상태가 변경되었다고 판단하여 리렌더링이 발생합니다. 이는 React의 기본 동작 방식 중 하나입니다. (물론 리액트에서 렌더링 일으키는 건 더 있습니다)
 
 그렇다면 이것을 극복할 방법은 없는 것일까요?
 저희는 이 해결 방안에 대해 총 2가지를 논의하였습니다.
@@ -185,7 +185,7 @@ forwardRef는 사용하면 구성 요소가 참조를 사용하여 DOM 노드를
 
 `useRef` 훅은 React 컴포넌트에서 참조`(ref)`를 생성하고 접근할 수 있게 해줍니다. 이 훅이 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하고 있습니다. 이를 통해 부모 컴포넌트`(MyApp)`가 자식 컴포넌트`(PasswordInput)` 내부의 함수에 접근할 수 있습니다.
 
-이러한 직접적인 변경에 ㄷ
+`useState`의 경우에는 상태가 변경되면 컴포넌트가 리렌더링되지만, `.current` 프로퍼티를 활용함을 통해  직접 접근하여 변경을 일으키기 때문에 리렌더링을 발생 시키지 않습니다.
 
 
 
