@@ -176,15 +176,22 @@ const Greeting = ({ name }) => {
 
 실행예제: https://react-ffejjd.stackblitz.io
 
+### useImpretiveHandle과 forwardRef
+
+useImpretiveHandle과 forewardRef를 활용하게 되는데, useImpretiveHandle은 리액트 훅 중 하나로, 부모 컴포넌트에게 노출할 ref 핸들을 사용자가 직접 정의할 수 있게 (ref로 노출 시키는 노드의 일부 메서드만 노출할 수 있게) 해주는 훅입니다.
+forwardRef는 사용하면 구성 요소가 참조를 사용하여 DOM 노드를 상위 구성 요소에 노출할 수 있습니다.
+
 ### useRef를 활용한 최적화
 
 `useRef` 훅은 React 컴포넌트에서 참조`(ref)`를 생성하고 접근할 수 있게 해줍니다. 이 훅이 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하고 있습니다. 이를 통해 부모 컴포넌트`(MyApp)`가 자식 컴포넌트`(PasswordInput)` 내부의 함수에 접근할 수 있습니다.
 
-추가적으로 useImpretiveHandle과 forewardRef를 활용하게 되는데, useImpretiveHandle은 리액트 훅 중 하나로, 부모 컴포넌트에게 노출할 ref 핸들을 사용자가 직접 정의할 수 있게 (ref로 노출 시키는 노드의 일부 메서드만 노출할 수 있게) 해주는 훅입니다.
+
 
 ## 그렇다면 어떤 것이 좋을까?
 
-1번과 2번 방법 둘 다 최적화라는 방식에서 결과가 개선된 것을 확인했습니다.
+1번과 2번 방법 둘 다 최적화라는 방식에서 결과가 개선된 것을 확인했습니다. 두 기능의 결과에 대한 차별점을 확인해보겠습니다.
+
+1번의 경우 React.memo의 경우에는 `React.memo`를 사용함으로써, `name` 값에 변화가 없다면 `<Greeting />` 컴포넌트의 재렌더링을 건너뛰게 됩니다. 이의 경우에는 Address가 변경되어도name
 
 ---
 # 딥다이브: useState
