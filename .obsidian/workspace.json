@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/React-Hook-Form.md",
+                "file": "Refactor/LogIn.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "51f6c4eaf43f5576",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React-Hook-Form.md",
+                "file": "Refactor/LogIn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React-Hook-Form.md",
+                "file": "Refactor/LogIn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React-Hook-Form.md"
+                "file": "Refactor/LogIn.md"
               }
             }
           }
@@ -201,10 +191,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51f6c4eaf43f5576",
+  "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "Planner/2024-06/2024-06-19(수).md",
+    "Planner/2024-06-20(목).md",
     "React/React-Hook-Form.md",
+    "Planner/2024-06/2024-06-19(수).md",
     "Planner/Daily Template.md",
     "Planner/2024-06/2024-06-17(월).md",
     "_images/Pasted image 20240617115559.png",
@@ -238,7 +229,6 @@
     "Tech/반응형에 대한 이해.md",
     "Planner/2024-06/2024-06-15(토).md",
     "Planner/2024-06/2024-06-14(금).md",
-    "Algorithm/탐욕 알고리즘.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
