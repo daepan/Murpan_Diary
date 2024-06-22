@@ -15,7 +15,7 @@ state를 필요한 곳에서만 적재적소하게 사용하는 것을 최대 �
 
 
 ```jsx
-import React, { memo, useState } from 'react';
+import React, { useState } from 'react';
 
 export default function MyApp() {
   const [name, setName] = useState('');
@@ -61,7 +61,7 @@ const Greeting = function Greeting({ name }) {
 > reference: https://react.dev/learn/state-a-components-memory
 
 
-useState 훅을 사용할 때 setState 함수를 호출하면 해당 컴포넌트는 상태가 변경되었다고 판단하여 리렌더링이 발생합니다. 이는 React의 기본 동작 방식 중 하나입니다.
+useState 훅을 사용할 때 setState 함수를 호출하면 해당 컴포넌트는 상태가 변경되었다고 판단하여 리렌더링이 발생합니다. 이는 React의 기본 동작 방식 중 하나입니다. (물론 리액트에서 렌더링 일으키는 건 더 있습니다)
 
 그렇다면 이것을 극복할 방법은 없는 것일까요?
 저희는 이 해결 방안에 대해 총 2가지를 논의하였습니다.
@@ -176,8 +176,44 @@ const Greeting = ({ name }) => {
 
 실행예제: https://react-ffejjd.stackblitz.io
 
-### useRef 사용
+### useImpretiveHandle과 forwardRef
+
+useImpretiveHandle과 forewardRef를 활용하게 되는데, useImpretiveHandle은 리액트 훅 중 하나로, 부모 컴포넌트에게 노출할 ref 핸들을 사용자가 직접 정의할 수 있게 (ref로 노출 시키는 노드의 일부 메서드만 노출할 수 있게) 해주는 훅입니다.
+forwardRef는 사용하면 구성 요소가 참조를 사용하여 DOM 노드를 상위 구성 요소에 노출할 수 있습니다.
+
+### useRef를 활용한 최적화
+
 `useRef` 훅은 React 컴포넌트에서 참조`(ref)`를 생성하고 접근할 수 있게 해줍니다. 이 훅이 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하고 있습니다. 이를 통해 부모 컴포넌트`(MyApp)`가 자식 컴포넌트`(PasswordInput)` 내부의 함수에 접근할 수 있습니다.
+
+`useState`의 경우에는 상태가 변경되면 컴포넌트가 리렌더링되지만, `.current` 프로퍼티를 활용함을 통해  직접 접근하여 변경을 일으키기 때문에 리렌더링을 발생 시키지 않습니다.
+
+
+
+## 그렇다면 어떤 것이 좋을까?
+
+1번과 2번 방법 둘 다 최적화라는 방식에서 결과가 개선된 것을 확인했습니다. 두 기능의 결과에 대한 차별점을 확인해보겠습니다.
+
+*  1번의 경우 
+	* React.memo의 경우에는 `React.memo`를 사용함으로써, `name` 값에 변화가 없다면 `<Greeting />` 컴포넌트의 재렌더링을 건너뛰게 됩니다. 이의 경우에는 Address가 변경되어도 name의 상태가 유지됩니다.
+* 2번의 경우
+	* 반환하는 객체(`ref` 객체)는 `.current` 프로퍼티를 통해 참조된 DOM 요소나 React 엘리먼트에 직접 접근할 수 있게 해줍니다. 여기서는 `passwordRef`를 생성하여 `PasswordInput` 컴포넌트에 전달하면서 최적화 합니다.
+
+그 중, React 공식문서에서[ React.memo의 사용법](https://react.dev/reference/react/memo#usage)과 관련해서 DeepDive 내용에서 이러한 내용이 있었습니다
+
+>If your app is like this site, and most interactions are coarse (like replacing a page or an entire section), memoization is usually unnecessary. On the other hand, if your app is more like a drawing editor, and most interactions are granular (like moving shapes), then you might find memoization very helpful.
+>
+>"만약 당신의 앱이 이 사이트처럼 대부분의 상호작용이 페이지를 교체하거나 전체 섹션을 대체하는 것과 같은 대략적인(interaction) 형태라면, 메모이제이션은 보통 불필요합니다. 반면에, 당신의 앱이 드로잉 에디터와 같고 대부분의 상호작용이 도형을 이동하는 것과 같이 세밀한(granular) 형태라면, 메모이제이션이 매우 유용할 수 있습니다."
+
+## 결론
+
+메모이제이션을 적용할지 여부는 애플리케이션의 상호작용 방식에 따라 달라집니다. 
+여기서 우리가 적용하려는 경우에서는 로그인 페이지에서의`input` value에 대한 state 변화를 하는 경우이기 때문에 컴포넌트 자체가 단순했기에 Ref를 선택하여 최적화를 진행하였습니다.
+하지만 이런 결론을 산출하는 과정에서 여러가지 의구심을 남겼습니다.
+> React.memo는 언제 써야 베스트 케이스일까?
+> 어디에 메모이제이션되는지?
+> 어떤 성능 문제가 발생하는지?
+
+다음 글에서는 memo와 관련된 내용에 대해 다이브 해보는 경험을 작성해보겠습니다.
 
 
 
