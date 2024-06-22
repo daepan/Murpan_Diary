@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91b3c828451b3225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conference/네이버 부스트 캠프 라디오.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conference/네이버 부스트 캠프 라디오.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conference/네이버 부스트 캠프 라디오.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -191,8 +203,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d1cb40d19c47337",
+  "active": "91b3c828451b3225",
   "lastOpenFiles": [
+    "Conference/네이버 부스트 캠프 라디오.md",
+    "conflict-files-obsidian-git.md",
+    "React/React-Hook-Form.md",
     "Planner/2024-06/2024-06-19(수).md",
     "Planner/Daily Template.md",
     "Planner/2024-06/2024-06-17(월).md",
@@ -226,9 +241,6 @@
     "Tech/인터넷.md",
     "Tech/반응형에 대한 이해.md",
     "Planner/2024-06/2024-06-15(토).md",
-    "Planner/2024-06/2024-06-14(금).md",
-    "Algorithm/탐욕 알고리즘.md",
-    "Algorithm/자료구조와 알고리즘.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
