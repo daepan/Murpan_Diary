@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conference/네이버 부스트 캠프 라디오.md",
+                "file": "Planner/김머판의 방학 생활 계획표.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conference/네이버 부스트 캠프 라디오.md",
+                "file": "Planner/김머판의 방학 생활 계획표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conference/네이버 부스트 캠프 라디오.md",
+                "file": "Planner/김머판의 방학 생활 계획표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conference/네이버 부스트 캠프 라디오.md"
+                "file": "Planner/김머판의 방학 생활 계획표.md"
               }
             }
           }
@@ -193,9 +193,11 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "Planner/2024-06-20(목).md",
-    "conflict-files-obsidian-git.md",
+    "Planner/2024-06/2024-06-03(월).md",
+    "Planner/김머판의 방학 생활 계획표.md",
     "Conference/네이버 부스트 캠프 라디오.md",
+    "Planner/2024-06/2024-06-20(목).md",
+    "conflict-files-obsidian-git.md",
     "React/React-Hook-Form.md",
     "Planner/2024-06/2024-06-19(수).md",
     "Planner/Daily Template.md",
@@ -227,8 +229,6 @@
     "Tech/코드스플리팅.md",
     "Tech/정적타입과동적타입.md",
     "Tech/이벤트루프와비동기이해.md",
-    "Tech/인터넷.md",
-    "Tech/반응형에 대한 이해.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
