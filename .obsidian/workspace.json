@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/김머판의 방학 생활 계획표.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/김머판의 방학 생활 계획표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/김머판의 방학 생활 계획표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/LogIn.md"
+                "file": "Planner/김머판의 방학 생활 계획표.md"
               }
             }
           }
@@ -193,10 +193,11 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "_images/Pasted image 20240624110337.png",
+    "Refactor/LogIn.md",
     "Planner/2024-06-20(목).md",
     "Planner/김머판의 방학 생활 계획표.md",
     "Planner/2024-06/2024-06-20(목).md",
-    "Refactor/LogIn.md",
     "Vue/ComputedAndWatch.md",
     "Portfoilo/김대관 포토폴리오.md",
     "Portfoilo/여기어때 질문지.md",
@@ -228,7 +229,6 @@
     "React/전역상태에 대한 고찰.md",
     "React/조건부렌더링.md",
     "React/setState비동기.md",
-    "Tech/코드스플리팅.md",
     "Refactor/Git을 통한 협업.pdf",
     "Planner/2024-06",
     "Refactor/Git을 통한 협업 1.pdf",
