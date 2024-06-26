@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/2024-06/2024-06-20(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/2024-06/2024-06-20(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactor/LogIn.md",
+                "file": "Planner/2024-06/2024-06-20(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/LogIn.md"
+                "file": "Planner/2024-06/2024-06-20(목).md"
               }
             }
           }
@@ -193,13 +193,13 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Refactor/LogIn.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
     "Planner/2024-06-20(목).md",
     "Planner/김머판의 방학 생활 계획표.md",
     "Planner/2024-06/2024-06-20(목).md",
-    "Refactor/LogIn.md",
     "Vue/ComputedAndWatch.md",
     "Portfoilo/김대관 포토폴리오.md",
     "Portfoilo/여기어때 질문지.md",
@@ -215,7 +215,6 @@
     "_images/Pasted image 20240617114607.png",
     "_images/Pasted image 20240617114603.png",
     "_images/Pasted image 20240617113949.png",
-    "_images/Pasted image 20240617113635.png",
     "Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
     "Portfoilo/Software Engineering.md",
     "Portfoilo/React.md",
