@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/김머판의 방학 생활 계획표.md",
+                "file": "Planner/2024-06/2024-06-28(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/김머판의 방학 생활 계획표.md",
+                "file": "Planner/2024-06/2024-06-28(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/김머판의 방학 생활 계획표.md",
+                "file": "Planner/2024-06/2024-06-28(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/김머판의 방학 생활 계획표.md"
+                "file": "Planner/2024-06/2024-06-28(금).md"
               }
             }
           }
@@ -194,6 +194,7 @@
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
     "Planner/Daily Template.md",
+    "Planner/김머판의 방학 생활 계획표.md",
     "DataStructureStudy/set과map해시테이블.md",
     "CSS/display.md",
     "CSS/Pasted image 20240414211621.png",
@@ -219,7 +220,6 @@
     "React/ReactRotuer.md",
     "Portfoilo/여기어때 질문지.md",
     "Portfoilo/김대관 포토폴리오.md",
-    "Planner/2024-06/2024-06-28(금).md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
