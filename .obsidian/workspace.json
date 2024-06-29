@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
+                "file": "Planner/2024-06-29(토).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
+                "file": "Planner/2024-06-29(토).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
+                "file": "Planner/2024-06-29(토).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md"
+                "file": "Planner/2024-06-29(토).md"
               }
             }
           }
@@ -193,8 +193,9 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "Planner/2024-06/2024-06-28(금).md",
+    "Planner/2024-06-29(토).md",
     "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
+    "Planner/2024-06/2024-06-28(금).md",
     "Planner/Daily Template.md",
     "Planner/김머판의 방학 생활 계획표.md",
     "DataStructureStudy/set과map해시테이블.md",
@@ -219,7 +220,6 @@
     "Tech/HTML.md",
     "Tech/blocking.md",
     "React/NextJS 성능 향상방법.md",
-    "React/ReactRotuer.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
