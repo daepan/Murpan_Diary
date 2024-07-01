@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-07/2024-07-01(월).md",
+                "file": "Planner/Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-07/2024-07-01(월).md",
+                "file": "Planner/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-07/2024-07-01(월).md",
+                "file": "Planner/Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-07/2024-07-01(월).md"
+                "file": "Planner/Daily Template.md"
               }
             }
           }
@@ -166,11 +166,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fa2e4c78e1c205b",
+  "active": "c66322b12c531265",
   "lastOpenFiles": [
+    "Planner/2024-07/2024-07-01(월).md",
     "Planner/2024-07",
     "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
-    "Planner/2024-07/2024-07-01(월).md",
     "Conference/2021FEconf.md",
     "Conference/네이버 부스트 캠프 라디오.md",
     "React/배열렌더링.md",
@@ -212,7 +212,6 @@
     "MEMO",
     "Portfoilo",
     "OS",
-    "fonts/나눔손글씨 성실체.ttf",
-    "fonts/나눔손글씨 백의의 천사.ttf"
+    "fonts/나눔손글씨 성실체.ttf"
   ]
 }
