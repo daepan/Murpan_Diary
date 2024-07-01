@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-06/2024-06-30(일).md",
+                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/배열렌더링.md",
+                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/배열렌더링.md",
+                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-06/2024-06-30(일).md"
+                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md"
               }
             }
           }
@@ -190,24 +191,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c66322b12c531265",
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
-    "OS/5. 프로세스.md",
-    "OS/6. IPC.md",
-    "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
-    "Excalidraw/컨퍼런스 데이터.md",
-    "Planner/2024-06/2024-06-30(일).md",
-    "Conference/개발자는 어떻게 학습하고 성장해야하는가?.md",
-    "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
-    "Planner/2024-06/2024-06-29(토).md",
     "Planner/2024-07-01(월).md",
+    "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+    "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
     "Planner/2024-06/2024-06-30(일).md",
     "Planner/2024-06/2024-06-29(토).md",
     "Planner/2024-06/2024-06-28(금).md",
