@@ -13,48 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/5. 프로세스.md",
+                "file": "React/배열렌더링.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0d258bce93b9d776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/6. IPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d1cb40d19c47337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planner/2024-06/2024-06-30(일).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8dc51a93ee58237",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/컨퍼런스 데이터.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/컨퍼런스 데이터.md",
+                "file": "React/배열렌더링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/컨퍼런스 데이터.md",
+                "file": "React/배열렌더링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/컨퍼런스 데이터.md"
+                "file": "React/배열렌더링.md"
               }
             }
           }
@@ -201,10 +166,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fa2e4c78e1c205b",
+  "active": "c66322b12c531265",
   "lastOpenFiles": [
-    "Planner/2024-06/2024-06-30(일).md",
+    "OS/5. 프로세스.md",
+    "OS/6. IPC.md",
+    "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "Excalidraw/컨퍼런스 데이터.md",
+    "Planner/2024-06/2024-06-30(일).md",
     "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
     "Planner/2024-06/2024-06-29(토).md",
     "Planner/2024-06/2024-06-28(금).md",
@@ -221,15 +195,6 @@
     "BackEnd/NodeJS의Koa프레임워크.md",
     "BackEnd/MongoDB.md",
     "Conference/2021FEconf.md",
-    "Conference/네이버 부스트 캠프 라디오.md",
-    "Conference/부캠라디오 5.20.md",
-    "Vue/ComputedAndWatch.md",
-    "README.md",
-    "Vision Board.md",
-    "Tech/SPA.md",
-    "Tech/lodash.md",
-    "Tech/intersection-observer.md",
-    "Tech/HTML.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
