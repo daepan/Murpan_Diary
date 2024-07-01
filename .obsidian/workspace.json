@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/배열렌더링.md",
+                "file": "Conference/2021FEconf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/배열렌더링.md",
+                "file": "Conference/2021FEconf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/배열렌더링.md",
+                "file": "Conference/2021FEconf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/배열렌더링.md"
+                "file": "Conference/2021FEconf.md"
               }
             }
           }
@@ -168,6 +168,8 @@
   },
   "active": "c66322b12c531265",
   "lastOpenFiles": [
+    "Conference/네이버 부스트 캠프 라디오.md",
+    "React/배열렌더링.md",
     "OS/5. 프로세스.md",
     "OS/6. IPC.md",
     "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
@@ -193,8 +195,6 @@
     "Tech/JWT.md",
     "BackEnd/REST API.md",
     "BackEnd/NodeJS의Koa프레임워크.md",
-    "BackEnd/MongoDB.md",
-    "Conference/2021FEconf.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
