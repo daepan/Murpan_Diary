@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+                "file": "Planner/2024-07/2024-07-01(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+                "file": "Planner/2024-07/2024-07-01(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+                "file": "Planner/2024-07/2024-07-01(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md"
+                "file": "Planner/2024-07/2024-07-01(월).md"
               }
             }
           }
@@ -166,11 +166,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c66322b12c531265",
+  "active": "2fa2e4c78e1c205b",
   "lastOpenFiles": [
-    "Planner/2024-07-01(월).md",
-    "Conference/2021FEconf.md",
+    "Planner/2024-07",
     "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+    "Planner/2024-07/2024-07-01(월).md",
+    "Conference/2021FEconf.md",
     "Conference/네이버 부스트 캠프 라디오.md",
     "React/배열렌더링.md",
     "OS/5. 프로세스.md",
@@ -194,7 +195,6 @@
     "CSS/Pasted image 20240414211621.png",
     "CSS/gltf 파일을 통한 3D 렌더링.md",
     "CSS/블로그.md",
-    "DataStructureStudy/이진검색.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
