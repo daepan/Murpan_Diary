@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-07/2024-07-01(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-07/2024-07-01(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/Daily Template.md",
+                "file": "Planner/2024-07/2024-07-01(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/Daily Template.md"
+                "file": "Planner/2024-07/2024-07-01(월).md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "c66322b12c531265",
   "lastOpenFiles": [
+    "Planner/Daily Template.md",
     "Planner/2024-07/2024-07-01(월).md",
     "Planner/2024-07",
     "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
@@ -188,7 +189,6 @@
     "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
     "Planner/2024-06/2024-06-29(토).md",
     "Planner/2024-06/2024-06-28(금).md",
-    "Planner/Daily Template.md",
     "Planner/김머판의 방학 생활 계획표.md",
     "DataStructureStudy/set과map해시테이블.md",
     "CSS/display.md",
