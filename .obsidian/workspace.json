@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+                "file": "Algorithm/스택과 큐.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "18c4aabf907a461c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+                "file": "Algorithm/스택과 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+                "file": "Algorithm/스택과 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conference/개발자는 어떻게 학습하고 성장해야하는가.md"
+                "file": "Algorithm/스택과 큐.md"
               }
             }
           }
@@ -201,8 +191,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "18c4aabf907a461c",
+  "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "DataStructureStudy/선형자료구조.md",
+    "DataStructureStudy/이진검색.md",
+    "DataStructureStudy/자료구조란.md",
+    "Algorithm/스택과 큐.md",
+    "Vision Board.md",
     "Planner/2024-07/2024-07-01(월).md",
     "Planner/2024-07",
     "Planner/2024-07-01(월).md",
@@ -218,7 +213,6 @@
     "CSS/Pasted image 20240414211621.png",
     "CSS/gltf 파일을 통한 3D 렌더링.md",
     "CSS/블로그.md",
-    "DataStructureStudy/이진검색.md",
     "Tech/JWT.md",
     "BackEnd/REST API.md",
     "BackEnd/NodeJS의Koa프레임워크.md",
@@ -227,10 +221,6 @@
     "Conference/네이버 부스트 캠프 라디오.md",
     "Conference/부캠라디오 5.20.md",
     "Vue/ComputedAndWatch.md",
-    "README.md",
-    "Vision Board.md",
-    "Tech/SPA.md",
-    "Tech/lodash.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
