@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "Planner/2024-07-02(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "Planner/2024-07-02(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/스택과 큐.md",
+                "file": "Planner/2024-07-02(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/스택과 큐.md"
+                "file": "Planner/2024-07-02(화).md"
               }
             }
           }
@@ -193,10 +193,11 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Algorithm/스택과 큐.md",
+    "Planner/2024-07-02(화).md",
     "DataStructureStudy/선형자료구조.md",
     "DataStructureStudy/이진검색.md",
     "DataStructureStudy/자료구조란.md",
-    "Algorithm/스택과 큐.md",
     "Vision Board.md",
     "Planner/2024-07/2024-07-01(월).md",
     "Planner/2024-07",
@@ -220,7 +221,6 @@
     "Conference/2021FEconf.md",
     "Conference/네이버 부스트 캠프 라디오.md",
     "Conference/부캠라디오 5.20.md",
-    "Vue/ComputedAndWatch.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
