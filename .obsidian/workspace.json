@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5540eb1e1e5d627",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-07/2024-07-01(월).md",
+                "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-07/2024-07-01(월).md",
+                "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-07/2024-07-01(월).md"
+                "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md"
               }
             }
           }
@@ -166,10 +177,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c66322b12c531265",
+  "active": "b5540eb1e1e5d627",
   "lastOpenFiles": [
-    "Planner/Daily Template.md",
     "Planner/2024-07/2024-07-01(월).md",
+    "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
+    "Planner/Daily Template.md",
     "Planner/2024-07",
     "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
     "Conference/2021FEconf.md",
