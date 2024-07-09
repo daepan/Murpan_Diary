@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-07-08(월).md",
+                "file": "React/React-Hook-Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "React-h",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planner/2024-07-08(월).md",
+                "file": "React/React-Hook-Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planner/2024-07-08(월).md",
+                "file": "React/React-Hook-Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planner/2024-07-08(월).md"
+                "file": "React/React-Hook-Form.md"
               }
             }
           }
@@ -193,11 +194,15 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Planner/2024-07/2024-07-02(화).md",
+    "Planner/2024-06/2024-06-17(월).md",
+    "React/NextJS.md",
+    "React/무제 파일.md",
+    "Planner/2024-07-09(화).md",
     "Planner/2024-07-08(월).md",
     "Planner/2024-07-04(목).md",
     "Planner/2024-07/2024-07-03(수).md",
     "Planner/Daily Template.md",
-    "Planner/2024-07/2024-07-02(화).md",
     "Algorithm/스택과 큐.md",
     "DataStructureStudy/선형자료구조.md",
     "DataStructureStudy/이진검색.md",
@@ -217,10 +222,6 @@
     "CSS/Pasted image 20240414211621.png",
     "CSS/gltf 파일을 통한 3D 렌더링.md",
     "CSS/블로그.md",
-    "Tech/JWT.md",
-    "BackEnd/REST API.md",
-    "BackEnd/NodeJS의Koa프레임워크.md",
-    "BackEnd/MongoDB.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
