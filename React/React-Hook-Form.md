@@ -45,3 +45,10 @@ react-hook-form은 비제어 컴포넌트의 장점은 그대로 살리면서 �
 - 타입스크립트를 기본으로 제공한다.
 - 공식문서가 잘되어 있다.
 - 지속적인 업데이트
+
+## 우리들의 문제 
+
+
+
+
+참고자료: [velog 블로그](https://velog.io/@jellyjw/React-hook-form-%EC%99%9C-%EC%93%B8%EA%B9%8C-%EC%84%B8%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9A%A9%EA%B8%B0)
