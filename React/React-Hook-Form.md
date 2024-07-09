@@ -54,8 +54,34 @@ react-hook-form은 비제어 컴포넌트의 장점은 그대로 살리면서 �
 
 useWatch 함수는 폼의 입력 값이 변경될 때마다 특정 작업을 수행할 수 있는 함수입니다. 이 함수는 다음과 같은 방식으로 사용됩니다.
 
+```jsx
+import React, { useState, useEffect, useWatch } from "react";
+import { Controller, useForm } from "react-hook-form";
+
+const MyForm = () => {
+ const { control, register, handleSubmit } = useForm();
+ 
+ const watchedUsername = useWatch({
+  name: 'username',
+  control
+ });
+ 
+ return (
+  <form onSubmit={handleSubmit(onSubmit)}>
+   <Controller
+    control={control}
+    name="username"
+    render={({ field }) => (
+     <input
+      value={field.value}
+      onChange={e => field.onChange(e.target.value)}
+     />
+    )}
+   />
+  </form>
+ );
+};
+```
 
 
-
-
-참고자료: [velog 블로그](https://velog.io/@jellyjw/React-hook-form-%EC%99%9C-%EC%93%B8%EA%B9%8C-%EC%84%B8%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9A%A9%EA%B8%B0)출처: [https://toby2009.tistory.com/50](https://toby2009.tistory.com/50) [코딩을 끄적끄적:티스토리]
+참고자료: [velog 블로그](https://velog.io/@jellyjw/React-hook-form-%EC%99%9C-%EC%93%B8%EA%B9%8C-%EC%84%B8%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9A%A9%EA%B8%B0) [https://toby2009.tistory.com/50](https://toby2009.tistory.com/50) [코딩을 끄적끄적:티스토리]
