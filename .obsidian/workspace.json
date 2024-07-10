@@ -11,34 +11,24 @@
             "id": "c66322b12c531265",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/5. 프로세스.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "0d258bce93b9d776",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/6. IPC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "9d1cb40d19c47337",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "React/React-Hook-Form.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -108,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React-Hook-Form.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/React-Hook-Form.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/React-Hook-Form.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -191,6 +177,28 @@
   },
   "active": "2fa2e4c78e1c205b",
   "lastOpenFiles": [
+    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "DB/Drawing/Excalidraw",
+    "DB/Drawing",
+    "Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "Drawing/Excalidraw",
+    "Drawing",
+    "drawing.zip",
+    "drawing",
+    "무제 폴더",
+    "Scheduler",
     "React/React-Hook-Form.md",
     "React/React-Hook-Form.pdf",
     "Planner/2024-07/2024-07-02(화).md",
@@ -204,22 +212,8 @@
     "Planner/Daily Template.md",
     "Algorithm/스택과 큐.md",
     "DataStructureStudy/선형자료구조.md",
-    "DataStructureStudy/이진검색.md",
-    "DataStructureStudy/자료구조란.md",
-    "Vision Board.md",
-    "Planner/2024-07/2024-07-01(월).md",
     "Planner/2024-07",
-    "Planner/2024-07-01(월).md",
-    "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
-    "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
-    "Planner/2024-06/2024-06-30(일).md",
-    "Planner/2024-06/2024-06-29(토).md",
-    "Planner/2024-06/2024-06-28(금).md",
-    "Planner/김머판의 방학 생활 계획표.md",
-    "DataStructureStudy/set과map해시테이블.md",
-    "CSS/display.md",
     "CSS/Pasted image 20240414211621.png",
-    "CSS/gltf 파일을 통한 3D 렌더링.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
@@ -228,14 +222,6 @@
     "_images/Pasted image 20240617114629.png",
     "_images/Pasted image 20240617114621.png",
     "_images/Pasted image 20240617114607.png",
-    "_images/Pasted image 20240617114603.png",
-    "Refactor/Git을 통한 협업.pdf",
-    "Planner/2024-06",
-    "Refactor/Git을 통한 협업 1.pdf",
-    "Planner/2024-05/Daily",
-    "Planner/2024-05",
-    "MEMO",
-    "Portfoilo",
-    "OS"
+    "_images/Pasted image 20240617114603.png"
   ]
 }
