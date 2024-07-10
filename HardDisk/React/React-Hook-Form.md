@@ -84,7 +84,7 @@ const MyForm = () => {
 ```
 
 
-위에 말했던 설계 방식에서는 우리가 했었던 방식에서는 모든 값에 useWatch를 감싸게 되었습니다. 과연 우리가 변경시에만 동작하도록 잘 설계를 했었는지를 고려하지 못하였고, 이를 통해 불필요한 렌더링이 굉장히 느렁
+위에 말했던 설계 방식에서는 우리가 했었던 방식에서는 모든 값에 useWatch를 감싸게 되었습니다. 과연 우리가 변경시에만 동작하도록 잘 설계를 했었는지를 고려하지 못하였고, 이를 통해 불필요한 렌더링이 굉장히 늘어났다고 할 수 있습니다.
 
 
-참고자료: [velog 블로그](https://velog.io/@jellyjw/React-hook-form-%EC%99%9C-%EC%93%B8%EA%B9%8C-%EC%84%B8%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9A%A9%EA%B8%B0) [https://toby2009.tistory.com/50](https://toby2009.tistory.com/50) [코딩을 끄적끄적:티스토리]
+> 참고자료: [velog 블로그](https://velog.io/@jellyjw/React-hook-form-%EC%99%9C-%EC%93%B8%EA%B9%8C-%EC%84%B8%EA%B0%9C%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%81%EC%9A%A9%EA%B8%B0) [https://toby2009.tistory.com/50](https://toby2009.tistory.com/50) [코딩을 끄적끄적:티스토리]
