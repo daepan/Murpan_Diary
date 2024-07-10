@@ -27,8 +27,12 @@
             "id": "9d1cb40d19c47337",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CPU/StackFlow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPU/StackFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CPU/StackFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CPU/StackFlow.md"
+              }
             }
           }
         ],
@@ -175,8 +183,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fa2e4c78e1c205b",
+  "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "CPU/StackFlow.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
@@ -211,7 +220,6 @@
     "Planner/2024-07/2024-07-03(수).md",
     "Planner/Daily Template.md",
     "Algorithm/스택과 큐.md",
-    "DataStructureStudy/선형자료구조.md",
     "Planner/2024-07",
     "CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240624115250.png",
