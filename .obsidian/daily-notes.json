@@ -1,6 +1,6 @@
 {
   "folder": "Scheduler",
   "autorun": false,
-  "template": "DB/TimeTable/Daily Template",
+  "template": "Scheduler/Daily Template",
   "format": "YYYY-MM-DD(ddd)"
 }
