@@ -34,23 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b5540eb1e1e5d627",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md"
-              }
-            }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 1
-=======
         "currentTab": 2
->>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
       }
     ],
     "direction": "vertical"
@@ -116,11 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
-=======
                 "file": "Scheduler/2024-07-11(목).md",
->>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,11 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
-=======
                 "file": "Scheduler/2024-07-11(목).md",
->>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,11 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md"
-=======
                 "file": "Scheduler/2024-07-11(목).md"
->>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
               }
             }
           }
@@ -209,15 +183,9 @@
       "periodic-notes:Open today": false
     }
   },
-<<<<<<< HEAD
-  "active": "b5540eb1e1e5d627",
-  "lastOpenFiles": [
-    "Planner/2024-07/2024-07-01(월).md",
-    "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
-    "Planner/Daily Template.md",
-=======
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
     "Scheduler/2024-07-10(수).md",
     "Scheduler/2024-07-11(목).md",
     "Scheduler/Daily Template.md",
@@ -252,8 +220,6 @@
     "React/React-Hook-Form.pdf",
     "Planner/2024-07/2024-07-02(화).md",
     "Planner/2024-06/2024-06-17(월).md",
-    "React/NextJS.md",
->>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
     "Planner/2024-07",
     "CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240624115250.png",
