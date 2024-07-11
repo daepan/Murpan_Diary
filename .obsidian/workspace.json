@@ -11,9 +11,25 @@
             "id": "c66322b12c531265",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d258bce93b9d776",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d1cb40d19c47337",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Planner/2024-07/2024-07-01(월).md",
+                "file": "Scheduler/2024-07-11(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +46,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+        "currentTab": 2
+>>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
       }
     ],
     "direction": "vertical"
@@ -59,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "React-h",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +116,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
+=======
+                "file": "Scheduler/2024-07-11(목).md",
+>>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
+=======
+                "file": "Scheduler/2024-07-11(목).md",
+>>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +164,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md"
+=======
+                "file": "Scheduler/2024-07-11(목).md"
+>>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
               }
             }
           }
@@ -177,36 +209,53 @@
       "periodic-notes:Open today": false
     }
   },
+<<<<<<< HEAD
   "active": "b5540eb1e1e5d627",
   "lastOpenFiles": [
     "Planner/2024-07/2024-07-01(월).md",
     "Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
     "Planner/Daily Template.md",
+=======
+  "active": "9d1cb40d19c47337",
+  "lastOpenFiles": [
+    "Scheduler/2024-07-10(수).md",
+    "Scheduler/2024-07-11(목).md",
+    "Scheduler/Daily Template.md",
+    "Memory/코인 오너 관련.md",
+    "Memory/메인 코인.md",
+    "CPU/퍼디 계산기.md",
+    "CPU/StackFlow.md",
+    "Scheduler/무제 파일.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "DB/Drawing/Excalidraw",
+    "DB/Drawing",
+    "Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
+    "Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "Drawing/Excalidraw",
+    "Drawing",
+    "drawing.zip",
+    "drawing",
+    "무제 폴더",
+    "Scheduler",
+    "React/React-Hook-Form.md",
+    "React/React-Hook-Form.pdf",
+    "Planner/2024-07/2024-07-02(화).md",
+    "Planner/2024-06/2024-06-17(월).md",
+    "React/NextJS.md",
+>>>>>>> 2c20775b366bac1205eb0c1ae7ccaa7661747c44
     "Planner/2024-07",
-    "Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
-    "Conference/2021FEconf.md",
-    "Conference/네이버 부스트 캠프 라디오.md",
-    "React/배열렌더링.md",
-    "OS/5. 프로세스.md",
-    "OS/6. IPC.md",
-    "Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
-    "Excalidraw/컨퍼런스 데이터.md",
-    "Planner/2024-06/2024-06-30(일).md",
-    "Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
-    "Planner/2024-06/2024-06-29(토).md",
-    "Planner/2024-06/2024-06-28(금).md",
-    "Planner/김머판의 방학 생활 계획표.md",
-    "DataStructureStudy/set과map해시테이블.md",
-    "CSS/display.md",
     "CSS/Pasted image 20240414211621.png",
-    "CSS/gltf 파일을 통한 3D 렌더링.md",
-    "CSS/블로그.md",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
@@ -215,15 +264,6 @@
     "_images/Pasted image 20240617114629.png",
     "_images/Pasted image 20240617114621.png",
     "_images/Pasted image 20240617114607.png",
-    "_images/Pasted image 20240617114603.png",
-    "Refactor/Git을 통한 협업.pdf",
-    "Planner/2024-06",
-    "Refactor/Git을 통한 협업 1.pdf",
-    "Planner/2024-05/Daily",
-    "Planner/2024-05",
-    "MEMO",
-    "Portfoilo",
-    "OS",
-    "fonts/나눔손글씨 성실체.ttf"
+    "_images/Pasted image 20240617114603.png"
   ]
 }
