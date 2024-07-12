@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-07-11(목).md",
+                "file": "Scheduler/2024-07-12(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-07-11(목).md",
+                "file": "Scheduler/2024-07-12(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-07-11(목).md",
+                "file": "Scheduler/2024-07-12(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-07-11(목).md"
+                "file": "Scheduler/2024-07-12(금).md"
               }
             }
           }
@@ -185,9 +185,10 @@
   },
   "active": "9d1cb40d19c47337",
   "lastOpenFiles": [
+    "Scheduler/2024-07-11(목).md",
+    "Scheduler/2024-07-12(금).md",
     "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
     "Scheduler/2024-07-10(수).md",
-    "Scheduler/2024-07-11(목).md",
     "Scheduler/Daily Template.md",
     "Memory/코인 오너 관련.md",
     "Memory/메인 코인.md",
@@ -219,7 +220,6 @@
     "React/React-Hook-Form.md",
     "React/React-Hook-Form.pdf",
     "Planner/2024-07/2024-07-02(화).md",
-    "Planner/2024-06/2024-06-17(월).md",
     "Planner/2024-07",
     "CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240624115250.png",
