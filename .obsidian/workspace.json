@@ -11,8 +11,12 @@
             "id": "b9523a124b881717",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Scheduler/2024-07-18(목).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scheduler/2024-07-18(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scheduler/2024-07-18(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scheduler/2024-07-18(목).md"
+              }
             }
           }
         ]
@@ -153,6 +161,14 @@
   },
   "active": "b9523a124b881717",
   "lastOpenFiles": [
+    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "README.md",
+    "CPU/StackFlow.md",
+    "CPU/퍼디 계산기.md",
+    "Scheduler/2024-07-18(목).md",
     "Scheduler/2024-07-15(월).md",
     "Scheduler/2024-07-12(금).md"
   ]
