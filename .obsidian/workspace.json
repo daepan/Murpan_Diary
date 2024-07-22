@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU/Ko.JavaScript.md",
+                "file": "Scheduler/2024-07-22(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/Ko.JavaScript.md",
+                "file": "Scheduler/2024-07-22(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU/Ko.JavaScript.md",
+                "file": "Scheduler/2024-07-22(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU/Ko.JavaScript.md"
+                "file": "Scheduler/2024-07-22(월).md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "acfc413e0c048650",
   "lastOpenFiles": [
-    "Scheduler/2024-07-22(월).md",
     "CPU/Ko.JavaScript.md",
+    "Scheduler/2024-07-22(월).md",
     "Scheduler/2024-07-19(금).md",
     "CPU/퍼디 계산기.md",
     "CPU/StackFlow.md",
