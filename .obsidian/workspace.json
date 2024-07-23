@@ -19,24 +19,16 @@
             "id": "0d258bce93b9d776",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d1cb40d19c47337",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-07-15(월).md",
+                "file": "Scheduler/2024-07-23(화).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-07-15(월).md",
+                "file": "Scheduler/2024-07-23(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-07-15(월).md",
+                "file": "Scheduler/2024-07-23(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-07-15(월).md"
+                "file": "Scheduler/2024-07-23(화).md"
               }
             }
           }
@@ -183,13 +175,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9d1cb40d19c47337",
+  "active": "0d258bce93b9d776",
   "lastOpenFiles": [
+    "Scheduler/2024-07-23(화).md",
+    "Scheduler/2024-07-15(월).md",
     "Scheduler/2024-07-22(월).md",
     "Scheduler/2024-07-19(금).md",
     "CPU/정처기 준비.md",
-    "Scheduler/2024-07-23(화).md",
-    "Scheduler/2024-07-15(월).md",
     "Scheduler/2024-07-18(목).md",
     "Scheduler/2024-07-12(금).md",
     "Scheduler/2024-07-11(목).md",
