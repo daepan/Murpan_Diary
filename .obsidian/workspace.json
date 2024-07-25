@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-07-23(화).md",
+                "file": "Scheduler/2024-07-25(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-07-23(화).md",
+                "file": "Scheduler/2024-07-25(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-07-23(화).md",
+                "file": "Scheduler/2024-07-25(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-07-23(화).md"
+                "file": "Scheduler/2024-07-25(목).md"
               }
             }
           }
@@ -178,6 +178,7 @@
   "active": "0d258bce93b9d776",
   "lastOpenFiles": [
     "Scheduler/2024-07-23(화).md",
+    "Scheduler/2024-07-25(목).md",
     "Scheduler/2024-07-15(월).md",
     "Scheduler/2024-07-22(월).md",
     "Scheduler/2024-07-19(금).md",
@@ -204,7 +205,6 @@
     "DB/Drawing",
     "Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
-    "Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
     "Drawing/Excalidraw",
     "Drawing",
     "drawing.zip",
