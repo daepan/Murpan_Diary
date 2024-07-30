@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76416df8019a04e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scheduler/2024-07-29(월).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e3bb5ab1fb5e17d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scheduler/2024-07-30(화).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-07-29(월).md",
+                "file": "Scheduler/2024-07-30(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-07-29(월).md",
+                "file": "Scheduler/2024-07-30(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-07-29(월).md"
+                "file": "Scheduler/2024-07-30(화).md"
               }
             }
           }
@@ -184,9 +208,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5babe12f17e13eb6",
+  "active": "2e3bb5ab1fb5e17d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Scheduler/2024-07-30(화).md",
     "Scheduler/2024-07-29(월).md",
     "Scheduler/2024-07-25(목).md",
     "Scheduler/2024-07-23(화).md",
