@@ -1,26 +1,22 @@
 {
   "main": {
-    "id": "9cb4f11aade84b0a",
+    "id": "8cb4dd6845e26f22",
     "type": "split",
     "children": [
       {
-        "id": "b8d97f53038b43e0",
+        "id": "ecabbd4cc7a960d1",
         "type": "tabs",
         "children": [
           {
-            "id": "b9523a124b881717",
+            "id": "c66322b12c531265",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU/정처기 준비.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "acfc413e0c048650",
+            "id": "0d258bce93b9d776",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,59 +26,23 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5babe12f17e13eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/2024-07-29(월).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76416df8019a04e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/2024-07-29(월).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e3bb5ab1fb5e17d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/2024-07-30(화).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f2adbdbe6430d6dd",
+    "id": "3483696c70fdb400",
     "type": "split",
     "children": [
       {
-        "id": "2b5e9cfbae05be4c",
+        "id": "60163bc07d6b0dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "3d773d1b37c6c918",
+            "id": "2fa2e4c78e1c205b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,12 +52,12 @@
             }
           },
           {
-            "id": "b2314ecc487a604a",
+            "id": "81183e73a8f648ba",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "React-h",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +67,7 @@
             }
           },
           {
-            "id": "dbb1efdd25aab90f",
+            "id": "37cb3aa1cc60d2e1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,31 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "right": {
-    "id": "4f963ef592cbd784",
+    "id": "eefbf0396d5a7078",
     "type": "split",
     "children": [
       {
-        "id": "36f29288baacede2",
+        "id": "fc4be98547a2f9b7",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0ad6d49e0f7159",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f05a953c3c1c6e8",
+            "id": "fe9042833c696cac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-07-30(화).md",
+                "file": "Scheduler/2024-07-25(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,19 +106,19 @@
             }
           },
           {
-            "id": "15294620cfe0df45",
+            "id": "9822675544b4a572",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-07-30(화).md",
+                "file": "Scheduler/2024-07-25(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "51a577ba9e45f331",
+            "id": "3a8e5e8d67b685c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,20 +129,35 @@
             }
           },
           {
-            "id": "17ec8cc4f4cf8f04",
+            "id": "d21bb9c1ed26318e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-07-30(화).md"
+                "file": "Scheduler/2024-07-25(목).md"
               }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ecc8553627b81faf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3473f5ffa026fa66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -198,40 +165,63 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e3bb5ab1fb5e17d",
+  "active": "0d258bce93b9d776",
   "lastOpenFiles": [
-    "Scheduler/Daily Template.md",
     "Scheduler/2024-07-30(화).md",
     "Scheduler/2024-07-29(월).md",
-    "conflict-files-obsidian-git.md",
-    "Scheduler/2024-07-25(목).md",
     "Scheduler/2024-07-23(화).md",
+    "Scheduler/2024-07-25(목).md",
+    "Scheduler/2024-07-15(월).md",
     "Scheduler/2024-07-22(월).md",
-    "CPU/Ko.JavaScript.md",
     "Scheduler/2024-07-19(금).md",
-    "CPU/퍼디 계산기.md",
-    "CPU/StackFlow.md",
-    "DB/TimeTable/김머판의 방학 생활 계획표.md",
-    "Memory/메인 코인.md",
-    "Memory/코인 오너 관련.md",
     "CPU/정처기 준비.md",
     "Scheduler/2024-07-18(목).md",
+    "Scheduler/2024-07-12(금).md",
+    "Scheduler/2024-07-11(목).md",
+    "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
+    "Scheduler/2024-07-10(수).md",
+    "Scheduler/Daily Template.md",
+    "Memory/코인 오너 관련.md",
+    "Memory/메인 코인.md",
+    "CPU/퍼디 계산기.md",
+    "CPU/StackFlow.md",
+    "Scheduler/무제 파일.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
-    "README.md",
-    "Scheduler/2024-07-15(월).md",
-    "Scheduler/2024-07-12(금).md"
+    "DB/Drawing/Excalidraw",
+    "DB/Drawing",
+    "Drawing/Excalidraw",
+    "Drawing",
+    "drawing.zip",
+    "drawing",
+    "무제 폴더",
+    "Scheduler",
+    "React/React-Hook-Form.pdf",
+    "Planner/2024-07",
+    "CSS/Pasted image 20240414211621.png",
+    "_images/Pasted image 20240624115250.png",
+    "_images/Pasted image 20240624110651.png",
+    "_images/Pasted image 20240624110337.png",
+    "_images/Pasted image 20240617115559.png",
+    "_images/Pasted image 20240617115216.png",
+    "_images/Pasted image 20240617114629.png",
+    "_images/Pasted image 20240617114621.png",
+    "_images/Pasted image 20240617114607.png",
+    "_images/Pasted image 20240617114603.png"
   ]
 }
