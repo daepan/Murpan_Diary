@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "492bdc7391f41cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scheduler/2024-07-31(수).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-07-25(목).md",
+                "file": "Scheduler/2024-07-31(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-07-25(목).md",
+                "file": "Scheduler/2024-07-31(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-07-25(목).md"
+                "file": "Scheduler/2024-07-31(수).md"
               }
             }
           }
@@ -175,8 +187,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d258bce93b9d776",
+  "active": "492bdc7391f41cbf",
   "lastOpenFiles": [
+    "Scheduler/2024-07-31(수).md",
     "Scheduler/2024-07-30(화).md",
     "Scheduler/2024-07-29(월).md",
     "Scheduler/2024-07-23(화).md",
@@ -202,7 +215,6 @@
     "DB/Drawing/Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "DB/Drawing/Excalidraw",
     "DB/Drawing",
     "Drawing/Excalidraw",
