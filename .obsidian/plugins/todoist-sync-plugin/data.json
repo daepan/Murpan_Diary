@@ -9,6 +9,6 @@
   "renderProjectIcon": true,
   "renderLabels": true,
   "renderLabelsIcon": true,
-  "shouldWrapLinksInParens": false,
+  "shouldWrapLinksInParens": true,
   "debugLogging": false
 }
