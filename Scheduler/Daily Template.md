@@ -33,31 +33,32 @@ tags:
 - [ ] 9:00 ~ 10:00 기상 
 	- [ ] 세수
 	- [ ] 아침식사
-- [ ] 10:
-- [ ] #task 12:00 ~ 13:00 점심식사
-- [ ] #task 14:00 ~ 채워넣기
+- [ ] 10:00 ~ 12:00 헬스
+	- [ ] 근력
+	- [ ] 유산소
+- [ ] 12:00 ~ 13:00 점심식사 
+- [ ] 14:00 ~ 채워넣기
 
 ## 일정 정리
-- [ ] #task 매주 자바스크립트 스터디 월요일 저녁 8시
-- [ ] #task 퍼스트디센던트 프로토페이지 만들기
+- [ ] 자바스크립트 스터디 매주 금요일 #공부 [link](https://todoist.com/app/task/8256909541) #todoist %%[todoist_id:: 8256909541]%%
+- [ ] 퍼스트디센던트 프로토타입 페이지 만들기 #작업 [link](https://todoist.com/app/task/8256911077) #todoist  %%[todoist_id:: 8256911077]%%
 
 
  ## 나의 할일
 
-- [ ] #task 포토폴리오 제작
-- [ ] #task 매주 금요일 레거시 그룹회의
-- [ ] #task 취준 대비 NEXT 대비 알고리즘 공부
+- [ ] 포토폴리오 만들기 #공부 [link](https://todoist.com/app/task/8256912253) #todoist  %%[todoist_id:: 8256912253]%%
+- [ ] 레거시 그룹 활동 #작업 [link](https://todoist.com/app/task/8256913090) #todoist  %%[todoist_id:: 8256913090]%%
+- [ ] 알고리즘 대회 대비 알고리즘 공부 #공부 [link](https://todoist.com/app/task/8256914243) #todoist  %%[todoist_id:: 8256914243]%%
 
 ## 오늘의 할 일
 - [ ] 
 
 ## 기술 관련 할꺼 메모
 
-- [ ] #task 포폴이랑 이력서 업데이트
-- [ ] #task React-Portal 전역화 기능 관련 글 정리
-- [ ] #task 네부캠 코테 대비
-- [ ] #task React DeepDive 스터디
-- [ ] #task 영어 졸업 맞추기
+- [ ] 포토폴리오 + 이력서 업데이트 #공부 [link](https://todoist.com/app/task/8256916769) #todoist  %%[todoist_id:: 8256916769]%%
+- [ ] React-Portal 전역화 기능 관련 글 정리 #공부 [link](https://todoist.com/app/task/8256917396) #todoist  %%[todoist_id:: 8256917396]%%
+- [ ] React DeepDive 스터디 #공부 [link](https://todoist.com/app/task/8256918201) #todoist  %%[todoist_id:: 8256918201]%%
+- [ ] 영어 오픽이나 토익 졸업조건 맞추기 #공부 #ㅅ
 - [ ] #task 포폴 업데이트 이후 토스 서류 넣어보기
 - [ ] #task React.memo 100번 써보기
 - [ ] #task React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기
