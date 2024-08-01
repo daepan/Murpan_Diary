@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng Converter/무제 파일.md",
+                "file": "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eng Converter/무제 파일.md",
+                "file": "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eng Converter/무제 파일.md",
+                "file": "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eng Converter/무제 파일.md"
+                "file": "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ecc8553627b81faf",
@@ -188,8 +188,8 @@
   },
   "active": "c66322b12c531265",
   "lastOpenFiles": [
+    "Eng Converter/기술 영어 용어 정리.md",
     "DB/TimeTable/2024-07/2024-07 DB.md",
-    "Eng Converter/무제 파일.md",
     "Eng Converter",
     "DB/TimeTable/2024-07/2024-07.md",
     "Scheduler/2024-07-25(목).md",
