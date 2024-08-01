@@ -11,9 +11,11 @@
             "id": "c66322b12c531265",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "DB/TimeTable/2024-07/2024-07 DB.md"
+                "file": "Eng Converter/무제 파일.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/TimeTable/2024-07/2024-07 DB.md",
+                "file": "Eng Converter/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/TimeTable/2024-07/2024-07 DB.md",
+                "file": "Eng Converter/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/TimeTable/2024-07/2024-07 DB.md"
+                "file": "Eng Converter/무제 파일.md"
               }
             }
           },
@@ -184,9 +186,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2fa2e4c78e1c205b",
+  "active": "c66322b12c531265",
   "lastOpenFiles": [
     "DB/TimeTable/2024-07/2024-07 DB.md",
+    "Eng Converter/무제 파일.md",
+    "Eng Converter",
     "DB/TimeTable/2024-07/2024-07.md",
     "Scheduler/2024-07-25(목).md",
     "Memory/메인 코인.md",
@@ -212,14 +216,12 @@
     "Memory/코인 오너 관련.md",
     "Scheduler/무제 파일.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "DB/Drawing/Excalidraw",
     "DB/Drawing",
     "Drawing/Excalidraw",
     "Drawing",
     "drawing.zip",
     "drawing",
-    "무제 폴더",
     "Scheduler",
     "React/React-Hook-Form.pdf",
     "CSS/Pasted image 20240414211621.png",
