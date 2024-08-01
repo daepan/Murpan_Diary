@@ -248,7 +248,7 @@
         "order": 20,
         "content": "14:00 ~ 채워넣기",
         "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": true,
+        "isCompleted": false,
         "labels": [
           "todoist"
         ],
@@ -1671,6 +1671,25 @@
         },
         "extra_data_id": 24868862277,
         "id": 24782548642,
+        "initiator_id": null,
+        "object_id": "8256945851",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr6pMcgQJV95PM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-08-01T12:53:58.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "14:00 ~ 채워넣기",
+          "note_count": 0
+        },
+        "extra_data_id": 24869489482,
+        "id": 24783175827,
         "initiator_id": null,
         "object_id": "8256945851",
         "object_type": "item",

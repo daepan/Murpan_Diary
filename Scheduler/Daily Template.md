@@ -29,7 +29,7 @@ tags:
 
 ```todoist
 name: Todoist 할 일 {{task_count}}
-filter: "due after:<% tp.file.title.slice(0,10) %> & due before:<%* const extractedDate = tp.file.title.slice(0, 10); const currentDate = new Date(extractedDate); currentDate.setDate(currentDate.getDate() + 5); const formattedDate = currentDate.toISOString().split('T')[0]; tR += formattedDate; %>"
+filter: "due after: <% tp.file.title.slice(0,10) %> & due before:<%* const extractedDate = tp.file.title.slice(0, 10); const currentDate = new Date(extractedDate); currentDate.setDate(currentDate.getDate() + 3); const formattedDate = currentDate.toISOString().split('T')[0]; tR += formattedDate; %>"
 ```
 
 ## 일정 계획표
@@ -41,7 +41,7 @@ filter: "due after:<% tp.file.title.slice(0,10) %> & due before:<%* const extrac
 	- [ ] 근력 [link](https://todoist.com/app/task/8256945719) #todoist %%[todoist_id:: 8256945719]%%
 	- [ ] 유산소 [link](https://todoist.com/app/task/8256945758) #todoist %%[todoist_id:: 8256945758]%%
 - [ ] 12:00 ~ 13:00 점심식사  [link](https://todoist.com/app/task/8256945788) #todoist %%[todoist_id:: 8256945788]%%
-- [x] 14:00 ~ 채워넣기 [link](https://todoist.com/app/task/8256945851) #todoist %%[todoist_id:: 8256945851]%%
+- [ ] 14:00 ~ 채워넣기 [link](https://todoist.com/app/task/8256945851) #todoist %%[todoist_id:: 8256945851]%%
 
 ## 일정 정리
 - [ ] 자바스크립트 스터디 매주 금요일 #study  [link](https://todoist.com/app/task/8256909541) #todoist %%[todoist_id:: 8256909541]%%
