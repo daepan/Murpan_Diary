@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-07-30(화).md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-07-30(화).md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-07-30(화).md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-07-30(화).md"
+                "file": "Scheduler/2024-08-01(목).md"
               }
             }
           }
@@ -210,8 +210,9 @@
   },
   "active": "2e3bb5ab1fb5e17d",
   "lastOpenFiles": [
-    "Scheduler/Daily Template.md",
     "Scheduler/2024-07-30(화).md",
+    "Scheduler/2024-08-01(목).md",
+    "Scheduler/Daily Template.md",
     "Scheduler/2024-07-29(월).md",
     "conflict-files-obsidian-git.md",
     "Scheduler/2024-07-25(목).md",
