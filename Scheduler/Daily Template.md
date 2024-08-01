@@ -58,30 +58,10 @@ tags:
 - [ ] 포토폴리오 + 이력서 업데이트 #공부 [link](https://todoist.com/app/task/8256916769) #todoist  %%[todoist_id:: 8256916769]%%
 - [ ] React-Portal 전역화 기능 관련 글 정리 #공부 [link](https://todoist.com/app/task/8256917396) #todoist  %%[todoist_id:: 8256917396]%%
 - [ ] React DeepDive 스터디 #공부 [link](https://todoist.com/app/task/8256918201) #todoist  %%[todoist_id:: 8256918201]%%
-- [ ] 영어 오픽이나 토익 졸업조건 맞추기 #공부 #ㅅ
-- [ ] #task 포폴 업데이트 이후 토스 서류 넣어보기
-- [ ] #task React.memo 100번 써보기
-- [ ] #task React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기
-- [ ] #task 모노레포 구현 + Skin-ai-server
-
-
-## 오늘 끝내야 할 일
-```tasks
-due on or before <% tp.file.title.slice(0,10) %>
-filter by function task.file.folder.includes("10. Planner")
-filter by function !task.file.folder.includes("templates")
-not done
-sort by priority
-```
-```tasks
-tag include #업무 
-```
-
-
-### 오늘 완료한 일
-```tasks
-done <% tp.file.title.slice(0,10) %>
-```
+- [ ] 영어 오픽이나 토익 졸업조건 맞추기 #공부 [link](https://todoist.com/app/task/8256919131) #todoist  %%[todoist_id:: 8256919131]%%
+- [ ] React.memo 100번 써보기 #공부 [link](https://todoist.com/app/task/8256919668) #todoist  %%[todoist_id:: 8256919668]%%
+- [ ] React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기 #공부 [link](https://todoist.com/app/task/8256920123) #todoist  %%[todoist_id:: 8256920123]%%
+- [ ] 디공 페이지 모노레포 구성 및 CI/CD 작업하기 #작업 [link](https://todoist.com/app/task/8256921156) #todoist  %%[todoist_id:: 8256921156]%%
 
 ## 하루 마무리
 ### 오늘 배운 것들

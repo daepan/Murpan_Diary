@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,11 +195,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bd62b22cf20c55a1",
+  "active": "31d86bac87882705",
   "lastOpenFiles": [
-    "todoist-backup-202481202318.json",
     "Scheduler/2024-08-01(목).md",
     "Scheduler/Daily Template.md",
+    "todoist-backup-202481202318.json",
     "DB/TimeTable/2024-07/2024-07-31(수).md",
     "wallpaper/1st_Anniversary_WallPaper.png",
     "1st_Anniversary_WallPaper.png",
@@ -242,7 +241,6 @@
     "DB/Drawing",
     "Drawing/Excalidraw",
     "Drawing",
-    "drawing.zip",
-    "drawing"
+    "drawing.zip"
   ]
 }
