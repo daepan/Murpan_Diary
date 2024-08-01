@@ -3,3 +3,7 @@
 "SmartBlock:README.md#": {"key":"README.md#","path":"README.md#","embeddings":{},"text":null,"length":103,"class_name":"SmartBlock","heading":null,"lines":[2,6]}
 "SmartBlock:README.md#💻 CPU": {"key":"README.md#💻 CPU","path":"README.md#💻 CPU","embeddings":{},"text":null,"length":111,"class_name":"SmartBlock","heading":"💻 CPU","lines":[9,12]}
 "SmartBlock:README.md#💾 Memory": {"key":"README.md#💾 Memory","path":"README.md#💾 Memory","embeddings":{},"text":null,"length":106,"class_name":"SmartBlock","heading":"💾 Memory","lines":[13,16]}
+"SmartNote:README.md": null
+"SmartBlock:README.md#": {"key":"README.md#","path":"README.md#","embeddings":{},"text":null,"length":233,"class_name":"SmartBlock","heading":null,"lines":[2,9],"embedding":{}}
+"SmartBlock:README.md#💻 CPU": {"key":"README.md#💻 CPU","path":"README.md#💻 CPU","embeddings":{},"text":null,"length":111,"class_name":"SmartBlock","heading":"💻 CPU","lines":[12,15]}
+"SmartBlock:README.md#💾 Memory": {"key":"README.md#💾 Memory","path":"README.md#💾 Memory","embeddings":{},"text":null,"length":106,"class_name":"SmartBlock","heading":"💾 Memory","lines":[16,19]}
