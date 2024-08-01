@@ -3,5 +3,5 @@
   "digitalRainBrightness": 0.7,
   "enableDynamicEffect": true,
   "backgroundImageFile": "wallpaper/er_1.png",
-  "blur": 47
+  "blur": 100
 }

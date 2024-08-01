@@ -10,6 +10,7 @@ settings:
   -
     id: anp-theme-ext-dark
     title: Toggle extended dark theme
+    opacity: true
     type: class-toggle
   -
     id: anp-theme-ext-amoled
@@ -20,6 +21,7 @@ settings:
     title: Light theme flavor
     description: Select your preferred light mode flavor
     type: class-select
+    opacity: true
     allowEmpty: false
     default: ctp-nord-light
     options:
@@ -55,6 +57,7 @@ settings:
     title: Dark theme flavor
     description: Select your preferred dark mode flavor
     type: class-select
+    opacity: true
     allowEmpty: false
     default: ctp-nord-dark
     options:
