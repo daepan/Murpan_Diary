@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#공부",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +195,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "31d86bac87882705",
+  "active": "81183e73a8f648ba",
   "lastOpenFiles": [
     "Scheduler/2024-08-01(목).md",
     "Scheduler/Daily Template.md",

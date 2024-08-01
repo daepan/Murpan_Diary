@@ -40,28 +40,28 @@ tags:
 - [ ] 14:00 ~ 채워넣기 [link](https://todoist.com/app/task/8256945851) #todoist %%[todoist_id:: 8256945851]%%
 
 ## 일정 정리
-- [ ] 자바스크립트 스터디 매주 금요일 #공부 [link](https://todoist.com/app/task/8256909541) #todoist %%[todoist_id:: 8256909541]%%
-- [ ] 퍼스트디센던트 프로토타입 페이지 만들기 #작업 [link](https://todoist.com/app/task/8256911077) #todoist  %%[todoist_id:: 8256911077]%%
+- [ ] 자바스크립트 스터디 매주 금요일 #study  [link](https://todoist.com/app/task/8256909541) #todoist %%[todoist_id:: 8256909541]%%
+- [ ] 퍼스트디센던트 프로토타입 페이지 만들기 #work  [link](https://todoist.com/app/task/8256911077) #todoist  %%[todoist_id:: 8256911077]%%
 
 
  ## 나의 할일
 
-- [ ] 포토폴리오 만들기 #공부 [link](https://todoist.com/app/task/8256912253) #todoist  %%[todoist_id:: 8256912253]%%
-- [ ] 레거시 그룹 활동 #작업 [link](https://todoist.com/app/task/8256913090) #todoist  %%[todoist_id:: 8256913090]%%
-- [ ] 알고리즘 대회 대비 알고리즘 공부 #공부 [link](https://todoist.com/app/task/8256914243) #todoist  %%[todoist_id:: 8256914243]%%
+- [ ] 포토폴리오 만들기 #study  [link](https://todoist.com/app/task/8256912253) #todoist  %%[todoist_id:: 8256912253]%%
+- [ ] 레거시 그룹 활동 #work  [link](https://todoist.com/app/task/8256913090) #todoist  %%[todoist_id:: 8256913090]%%
+- [ ] 알고리즘 대회 대비 알고리즘 공부 #study  [link](https://todoist.com/app/task/8256914243) #todoist  %%[todoist_id:: 8256914243]%%
 
 ## 오늘의 할 일
 - [ ] 
 
 ## 기술 관련 할꺼 메모
 
-- [ ] 포토폴리오 + 이력서 업데이트 #공부 [link](https://todoist.com/app/task/8256916769) #todoist  %%[todoist_id:: 8256916769]%%
-- [ ] React-Portal 전역화 기능 관련 글 정리 #공부 [link](https://todoist.com/app/task/8256917396) #todoist  %%[todoist_id:: 8256917396]%%
-- [ ] React DeepDive 스터디 #공부 [link](https://todoist.com/app/task/8256918201) #todoist  %%[todoist_id:: 8256918201]%%
-- [ ] 영어 오픽이나 토익 졸업조건 맞추기 #공부 [link](https://todoist.com/app/task/8256919131) #todoist  %%[todoist_id:: 8256919131]%%
-- [ ] React.memo 100번 써보기 #공부 [link](https://todoist.com/app/task/8256919668) #todoist  %%[todoist_id:: 8256919668]%%
-- [ ] React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기 #공부 [link](https://todoist.com/app/task/8256920123) #todoist  %%[todoist_id:: 8256920123]%%
-- [ ] 디공 페이지 모노레포 구성 및 CI/CD 작업하기 #작업 [link](https://todoist.com/app/task/8256921156) #todoist  %%[todoist_id:: 8256921156]%%
+- [ ] 포토폴리오 + 이력서 업데이트 #study [link](https://todoist.com/app/task/8256916769) #todoist  %%[todoist_id:: 8256916769]%%
+- [ ] React-Portal 전역화 기능 관련 글 정리 #study  [link](https://todoist.com/app/task/8256917396) #todoist  %%[todoist_id:: 8256917396]%%
+- [ ] React DeepDive 스터디 #study  [link](https://todoist.com/app/task/8256918201) #todoist  %%[todoist_id:: 8256918201]%%
+- [ ] 영어 오픽이나 토익 졸업조건 맞추기 #study  [link](https://todoist.com/app/task/8256919131) #todoist  %%[todoist_id:: 8256919131]%%
+- [ ] React.memo 100번 써보기 #study  [link](https://todoist.com/app/task/8256919668) #todoist  %%[todoist_id:: 8256919668]%%
+- [ ] React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기 #study  [link](https://todoist.com/app/task/8256920123) #todoist  %%[todoist_id:: 8256920123]%%
+- [ ] 디공 페이지 모노레포 구성 및 CI/CD 작업하기 #work [link](https://todoist.com/app/task/8256921156) #todoist  %%[todoist_id:: 8256921156]%%
 
 ## 하루 마무리
 ### 오늘 배운 것들
