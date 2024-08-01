@@ -27,8 +27,12 @@ tags:
 
 <% tp.web.daily_quote() %>
 
-## 일정 계획표
+```todoist
+name: Todoist 할 일 {{task_count}}
+filter: "due after:<% tp.file.title.slice(0,10) %> & due before:<%* const extractedDate = tp.file.title.slice(0, 10); const currentDate = new Date(extractedDate); currentDate.setDate(currentDate.getDate() + 5); const formattedDate = currentDate.toISOString().split('T')[0]; tR += formattedDate; %>"
+```
 
+## 일정 계획표
 
 - [ ] 9:00 ~ 10:00 기상  [link](https://todoist.com/app/task/8256945595) #todoist %%[todoist_id:: 8256945595]%%
 	- [ ] 세수 [link](https://todoist.com/app/task/8256945638) #todoist %%[todoist_id:: 8256945638]%%

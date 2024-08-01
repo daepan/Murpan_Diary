@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md"
+                "file": "Scheduler/Daily Template.md"
               }
             }
           },
@@ -196,9 +196,9 @@
   },
   "active": "3f69a2cf3a68784f",
   "lastOpenFiles": [
-    "이름 없는 보드.md",
     "Scheduler/2024-08-01(목).md",
     "Scheduler/Daily Template.md",
+    "이름 없는 보드.md",
     "todoist-backup-202481202318.json",
     "DB/TimeTable/2024-07/2024-07-31(수).md",
     "wallpaper/1st_Anniversary_WallPaper.png",
