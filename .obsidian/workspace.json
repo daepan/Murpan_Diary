@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ecabbd4cc7a960d1",
+        "id": "36bbfceaa6940e02",
         "type": "tabs",
         "children": [
           {
-            "id": "2576a3f27d44ba9b",
+            "id": "d24352db9ce69aee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/2024-08-01(목).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
   "right": {
     "id": "eefbf0396d5a7078",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scheduler/2024-08-01(목).md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 361
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,7 +178,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2576a3f27d44ba9b",
+  "active": "d24352db9ce69aee",
   "lastOpenFiles": [
     "wallpaper/1st_Anniversary_WallPaper.png",
     "Scheduler/2024-08-01(목).md",
