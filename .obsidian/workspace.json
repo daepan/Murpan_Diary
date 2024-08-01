@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU/퍼디 계산기.md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/퍼디 계산기.md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU/퍼디 계산기.md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU/퍼디 계산기.md"
+                "file": "Scheduler/2024-08-01(목).md"
               }
             }
           },
@@ -178,25 +178,27 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "smart-connections-visualizer:Open smart connections visualizer": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "obsidian-kanban:새 보드 만들기": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "2576a3f27d44ba9b",
   "lastOpenFiles": [
-    "_images/1st_Anniversary_WallPaper.png",
+    "wallpaper/1st_Anniversary_WallPaper.png",
+    "Scheduler/2024-08-01(목).md",
+    "wallpaper",
+    "smart-chats",
+    "CPU/퍼디 계산기.md",
     "1st_Anniversary_WallPaper 2.png",
     "1st_Anniversary_WallPaper.png",
     "_images/1st Anniversary_Sticker.png",
     "1st Anniversary_Sticker.png",
     "CPU/StackFlow.md",
-    "CPU/퍼디 계산기.md",
     "Memory/메인 코인.md",
-    "Scheduler/2024-08-01(목).md",
     "SSD/Algorithm/그래프.md",
     "SSD/Algorithm/동적계획법.md",
     "README.md",
@@ -226,13 +228,10 @@
     "Drawing",
     "drawing.zip",
     "drawing",
-    "Scheduler",
-    "React/React-Hook-Form.pdf",
     "CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
     "_images/Pasted image 20240624110337.png",
-    "_images/Pasted image 20240617115559.png",
-    "_images/Pasted image 20240617115216.png"
+    "_images/Pasted image 20240617115559.png"
   ]
 }
