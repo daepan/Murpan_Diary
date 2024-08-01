@@ -11,36 +11,13 @@
             "id": "c66322b12c531265",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0d258bce93b9d776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Scheduler/2024-07-25(목).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "492bdc7391f41cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory/메인 코인.md",
-                "mode": "source",
-                "source": false
+                "file": "DB/TimeTable/2024-07/2024-07 DB.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory/메인 코인.md",
+                "file": "DB/TimeTable/2024-07/2024-07 DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory/메인 코인.md",
+                "file": "DB/TimeTable/2024-07/2024-07 DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory/메인 코인.md"
+                "file": "DB/TimeTable/2024-07/2024-07 DB.md"
               }
             }
           },
@@ -207,11 +184,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "492bdc7391f41cbf",
+  "active": "2fa2e4c78e1c205b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "DB/TimeTable/2024-07/2024-07 DB.md",
+    "DB/TimeTable/2024-07/2024-07.md",
+    "Scheduler/2024-07-25(목).md",
     "Memory/메인 코인.md",
-    "smart-chats",
+    "conflict-files-obsidian-git.md",
+    "AI",
     "Scheduler/2024-08-01(목).md",
     "CPU/퍼디 계산기.md",
     "CPU/StackFlow.md",
@@ -220,7 +200,6 @@
     "Scheduler/2024-07-30(화).md",
     "Scheduler/2024-07-29(월).md",
     "Scheduler/2024-07-23(화).md",
-    "Scheduler/2024-07-25(목).md",
     "Scheduler/2024-07-15(월).md",
     "Scheduler/2024-07-22(월).md",
     "Scheduler/2024-07-19(금).md",
@@ -234,7 +213,6 @@
     "Scheduler/무제 파일.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
     "DB/Drawing/Excalidraw",
     "DB/Drawing",
     "Drawing/Excalidraw",
