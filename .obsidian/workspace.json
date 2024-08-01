@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU/StackFlow.md",
+                "file": "CPU/퍼디 계산기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/StackFlow.md",
+                "file": "CPU/퍼디 계산기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU/StackFlow.md",
+                "file": "CPU/퍼디 계산기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU/StackFlow.md"
+                "file": "CPU/퍼디 계산기.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "2576a3f27d44ba9b",
   "lastOpenFiles": [
+    "CPU/StackFlow.md",
     "CPU/퍼디 계산기.md",
     "Memory/메인 코인.md",
     "Scheduler/2024-08-01(목).md",
@@ -210,7 +211,6 @@
     "DB/TimeTable/2024-07/2024-07-10(수).md",
     "Scheduler/2024-07-11(목).md",
     "Scheduler/2024-07-15(월).md",
-    "CPU/StackFlow.md",
     "HardDisk/JavaScript/JSthis.md",
     "Memory/코인 오너 관련.md",
     "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
