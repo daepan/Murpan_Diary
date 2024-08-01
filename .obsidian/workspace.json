@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "React-h",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md"
+                "file": "Scheduler/Daily Template.md"
               }
             }
           },
@@ -189,9 +190,9 @@
   },
   "active": "31d86bac87882705",
   "lastOpenFiles": [
+    "Scheduler/2024-08-01(목).md",
     "Scheduler/Daily Template.md",
     "DB/TimeTable/2024-07/2024-07-31(수).md",
-    "Scheduler/2024-08-01(목).md",
     "wallpaper/1st_Anniversary_WallPaper.png",
     "1st_Anniversary_WallPaper.png",
     "wallpaper/white_cat.jpg",
