@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36bbfceaa6940e02",
+        "id": "5e8f569af140fbb5",
         "type": "tabs",
         "children": [
           {
-            "id": "d24352db9ce69aee",
+            "id": "e47c5294ee037de2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/Daily Template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265
   },
   "right": {
     "id": "eefbf0396d5a7078",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/Daily Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/Daily Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Scheduler/Daily Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +179,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d24352db9ce69aee",
+  "active": "e47c5294ee037de2",
   "lastOpenFiles": [
+    "Memory/메인 코인.md",
+    "Scheduler/Daily Template.md",
     "Scheduler/2024-08-01(목).md",
     "wallpaper/er_1.png",
     "wallpaper/1st_Anniversary_WallPaper.png",
@@ -200,7 +194,6 @@
     "_images/1st Anniversary_Sticker.png",
     "1st Anniversary_Sticker.png",
     "CPU/StackFlow.md",
-    "Memory/메인 코인.md",
     "SSD/Algorithm/그래프.md",
     "SSD/Algorithm/동적계획법.md",
     "README.md",
