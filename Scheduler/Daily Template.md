@@ -37,7 +37,7 @@ tags:
 	- [ ] 근력 [link](https://todoist.com/app/task/8256945719) #todoist %%[todoist_id:: 8256945719]%%
 	- [ ] 유산소 [link](https://todoist.com/app/task/8256945758) #todoist %%[todoist_id:: 8256945758]%%
 - [ ] 12:00 ~ 13:00 점심식사  [link](https://todoist.com/app/task/8256945788) #todoist %%[todoist_id:: 8256945788]%%
-- [ ] 14:00 ~ 채워넣기 [link](https://todoist.com/app/task/8256945851) #todoist %%[todoist_id:: 8256945851]%%
+- [x] 14:00 ~ 채워넣기 [link](https://todoist.com/app/task/8256945851) #todoist %%[todoist_id:: 8256945851]%%
 
 ## 일정 정리
 - [ ] 자바스크립트 스터디 매주 금요일 #study  [link](https://todoist.com/app/task/8256909541) #todoist %%[todoist_id:: 8256909541]%%
