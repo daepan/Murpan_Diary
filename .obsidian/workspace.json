@@ -145,9 +145,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "bd62b22cf20c55a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "ecc8553627b81faf",
@@ -165,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -188,8 +196,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "31d86bac87882705",
+  "active": "bd62b22cf20c55a1",
   "lastOpenFiles": [
+    "todoist-backup-202481202318.json",
     "Scheduler/2024-08-01(목).md",
     "Scheduler/Daily Template.md",
     "DB/TimeTable/2024-07/2024-07-31(수).md",

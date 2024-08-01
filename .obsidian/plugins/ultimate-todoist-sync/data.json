@@ -1,0 +1,92 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 60,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2337177125",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2337177125",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2337183101",
+        "parentId": null,
+        "order": 1,
+        "color": "blue",
+        "name": "코인",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2337183101",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2337183107",
+        "parentId": null,
+        "order": 2,
+        "color": "charcoal",
+        "name": "개인 공부",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2337183107",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2337183124",
+        "parentId": null,
+        "order": 4,
+        "color": "magenta",
+        "name": "운동 및 식사",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2337183124",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2337183132",
+        "parentId": null,
+        "order": 5,
+        "color": "violet",
+        "name": "약속",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2337183132",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [],
+    "events": []
+  },
+  "fileMetadata": {
+    "Scheduler/Daily Template.md": {
+      "todoistTasks": [],
+      "todoistCount": 0
+    }
+  },
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "c4fb80a829f5ee8b8ed512e83f66dc3e27a94433"
+}
