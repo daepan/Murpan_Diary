@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-07-31(수).md",
+                "file": "Memory/메인 코인.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-07-31(수).md",
+                "file": "Memory/메인 코인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-07-31(수).md",
+                "file": "Memory/메인 코인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-07-31(수).md"
+                "file": "Memory/메인 코인.md"
               }
             }
           }
@@ -189,7 +189,10 @@
   },
   "active": "492bdc7391f41cbf",
   "lastOpenFiles": [
+    "CPU/퍼디 계산기.md",
+    "CPU/StackFlow.md",
     "Scheduler/2024-07-31(수).md",
+    "CPU/정처기 준비.md",
     "Scheduler/2024-07-30(화).md",
     "Scheduler/2024-07-29(월).md",
     "Scheduler/2024-07-23(화).md",
@@ -197,7 +200,6 @@
     "Scheduler/2024-07-15(월).md",
     "Scheduler/2024-07-22(월).md",
     "Scheduler/2024-07-19(금).md",
-    "CPU/정처기 준비.md",
     "Scheduler/2024-07-18(목).md",
     "Scheduler/2024-07-12(금).md",
     "Scheduler/2024-07-11(목).md",
@@ -206,8 +208,6 @@
     "Scheduler/Daily Template.md",
     "Memory/코인 오너 관련.md",
     "Memory/메인 코인.md",
-    "CPU/퍼디 계산기.md",
-    "CPU/StackFlow.md",
     "Scheduler/무제 파일.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
