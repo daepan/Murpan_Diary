@@ -30,14 +30,14 @@ tags:
 ## 일정 계획표
 
 
-- [ ] 9:00 ~ 10:00 기상 
-	- [ ] 세수
-	- [ ] 아침식사
-- [ ] 10:00 ~ 12:00 헬스
-	- [ ] 근력
-	- [ ] 유산소
-- [ ] 12:00 ~ 13:00 점심식사 
-- [ ] 14:00 ~ 채워넣기
+- [ ] 9:00 ~ 10:00 기상  [link](https://todoist.com/app/task/8256945595) #todoist %%[todoist_id:: 8256945595]%%
+	- [ ] 세수 [link](https://todoist.com/app/task/8256945638) #todoist %%[todoist_id:: 8256945638]%%
+	- [ ] 아침식사 [link](https://todoist.com/app/task/8256945669) #todoist %%[todoist_id:: 8256945669]%%
+- [ ] 10:00 ~ 12:00 헬스 [link](https://todoist.com/app/task/8256945694) #todoist %%[todoist_id:: 8256945694]%%
+	- [ ] 근력 [link](https://todoist.com/app/task/8256945719) #todoist %%[todoist_id:: 8256945719]%%
+	- [ ] 유산소 [link](https://todoist.com/app/task/8256945758) #todoist %%[todoist_id:: 8256945758]%%
+- [ ] 12:00 ~ 13:00 점심식사  [link](https://todoist.com/app/task/8256945788) #todoist %%[todoist_id:: 8256945788]%%
+- [ ] 14:00 ~ 채워넣기 [link](https://todoist.com/app/task/8256945851) #todoist %%[todoist_id:: 8256945851]%%
 
 ## 일정 정리
 - [ ] 자바스크립트 스터디 매주 금요일 #공부 [link](https://todoist.com/app/task/8256909541) #todoist %%[todoist_id:: 8256909541]%%

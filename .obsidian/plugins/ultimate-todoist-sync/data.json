@@ -329,6 +329,190 @@
         "url": "https://todoist.com/app/task/8256921156",
         "duration": null,
         "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256945595",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337177125",
+        "sectionId": null,
+        "parentId": null,
+        "order": 13,
+        "content": "9:00 ~ 10:00 기상",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:42:56.890704Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256945595",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256945638",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337177125",
+        "sectionId": null,
+        "parentId": null,
+        "order": 14,
+        "content": "세수",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:42:57.887589Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256945638",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256945669",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337177125",
+        "sectionId": null,
+        "parentId": null,
+        "order": 15,
+        "content": "아침식사",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:42:58.803475Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256945669",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256945694",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337177125",
+        "sectionId": null,
+        "parentId": null,
+        "order": 16,
+        "content": "10:00 ~ 12:00 헬스",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:42:59.310925Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256945694",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256945719",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337177125",
+        "sectionId": null,
+        "parentId": null,
+        "order": 17,
+        "content": "근력",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:42:59.828325Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256945719",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256945758",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337177125",
+        "sectionId": null,
+        "parentId": null,
+        "order": 18,
+        "content": "유산소",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:43:00.978390Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256945758",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256945788",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337177125",
+        "sectionId": null,
+        "parentId": null,
+        "order": 19,
+        "content": "12:00 ~ 13:00 점심식사",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:43:02.176671Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256945788",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256945851",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337177125",
+        "sectionId": null,
+        "parentId": null,
+        "order": 20,
+        "content": "14:00 ~ 채워넣기",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:43:03.904948Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256945851",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
       }
     ],
     "events": [
@@ -578,9 +762,17 @@
         "8256918201",
         "8256919668",
         "8256920123",
-        "8256921156"
+        "8256921156",
+        "8256945595",
+        "8256945638",
+        "8256945669",
+        "8256945694",
+        "8256945719",
+        "8256945758",
+        "8256945788",
+        "8256945851"
       ],
-      "todoistCount": 11
+      "todoistCount": 19
     }
   },
   "enableFullVaultSync": true,
