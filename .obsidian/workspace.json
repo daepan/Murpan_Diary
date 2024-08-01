@@ -149,9 +149,25 @@
                 "file": "Memory/메인 코인.md"
               }
             }
+          },
+          {
+            "id": "415d62e705ae3c3f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "63065e69ac3fd408",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "ecc8553627b81faf",
@@ -169,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +199,20 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "492bdc7391f41cbf",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Memory/메인 코인.md",
+    "smart-chats",
+    "Scheduler/2024-08-01(목).md",
     "CPU/퍼디 계산기.md",
     "CPU/StackFlow.md",
     "Scheduler/2024-07-31(수).md",
@@ -207,14 +231,10 @@
     "Scheduler/2024-07-10(수).md",
     "Scheduler/Daily Template.md",
     "Memory/코인 오너 관련.md",
-    "Memory/메인 코인.md",
     "Scheduler/무제 파일.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "DB/Drawing/Excalidraw",
     "DB/Drawing",
     "Drawing/Excalidraw",
@@ -224,7 +244,6 @@
     "무제 폴더",
     "Scheduler",
     "React/React-Hook-Form.pdf",
-    "Planner/2024-07",
     "CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240624115250.png",
     "_images/Pasted image 20240624110651.png",
