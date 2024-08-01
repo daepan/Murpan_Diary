@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/Daily Template.md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/Daily Template.md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/Daily Template.md",
+                "file": "Scheduler/2024-08-01(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/Daily Template.md"
+                "file": "Scheduler/2024-08-01(목).md"
               }
             }
           },
@@ -196,6 +196,8 @@
   },
   "active": "3f69a2cf3a68784f",
   "lastOpenFiles": [
+    "Converter/기술 영어 용어 정리.md",
+    "Memory/메인 코인.md",
     "Scheduler/2024-08-01(목).md",
     "Scheduler/Daily Template.md",
     "이름 없는 보드.md",
@@ -209,7 +211,6 @@
     "color_cat.jpg",
     "white_cat.jpg",
     "black_cat.jpg",
-    "Memory/메인 코인.md",
     "wallpaper/er_1.png",
     "wallpaper",
     "smart-chats",
@@ -234,7 +235,6 @@
     "DB/TimeTable/2024-07/2024-07-10(수).md",
     "Scheduler/2024-07-11(목).md",
     "Scheduler/2024-07-15(월).md",
-    "HardDisk/JavaScript/JSthis.md",
     "Converter",
     "AI",
     "DB/Drawing/Excalidraw",

@@ -29,7 +29,7 @@ tags:
 
 ```todoist
 name: Todoist 할 일 {{task_count}}
-filter: "due after: <% tp.file.title.slice(0,10) %> & due before:<%* const extractedDate = tp.file.title.slice(0, 10); const currentDate = new Date(extractedDate); currentDate.setDate(currentDate.getDate() + 3); const formattedDate = currentDate.toISOString().split('T')[0]; tR += formattedDate; %>"
+filter: "today | overdue"
 ```
 
 ## 일정 계획표
