@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c66322b12c531265",
+            "id": "2576a3f27d44ba9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md"
+                "file": "README.md"
               }
             }
           },
@@ -186,36 +186,36 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "c66322b12c531265",
+  "active": "2576a3f27d44ba9b",
   "lastOpenFiles": [
+    "Scheduler/2024-07-12(금).md",
+    "Scheduler/2024-07-10(수).md",
+    "DB/TimeTable/2024-07/2024-07-31(수).md",
+    "DB/TimeTable/2024-07/2024-07-30(화).md",
+    "DB/TimeTable/2024-07/2024-07-29(월).md",
+    "DB/TimeTable/2024-07/2024-07-25(목).md",
+    "DB/TimeTable/2024-07/2024-07-23(화).md",
+    "DB/TimeTable/2024-07/2024-07-22(월).md",
+    "DB/TimeTable/2024-07/2024-07-19(금).md",
+    "DB/TimeTable/2024-07/2024-07-18(목).md",
+    "DB/TimeTable/2024-07/2024-07-15(월).md",
+    "DB/TimeTable/2024-07/2024-07-12(금).md",
+    "DB/TimeTable/2024-07/2024-07-11(목).md",
+    "DB/TimeTable/2024-07/2024-07-10(수).md",
+    "Scheduler/2024-07-11(목).md",
+    "Scheduler/2024-07-15(월).md",
+    "CPU/퍼디 계산기.md",
+    "CPU/StackFlow.md",
+    "Memory/메인 코인.md",
+    "HardDisk/JavaScript/JSthis.md",
+    "Memory/코인 오너 관련.md",
+    "Scheduler/2024-08-01(목).md",
+    "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
     "Eng Converter/기술 영어 용어 정리.md",
     "DB/TimeTable/2024-07/2024-07 DB.md",
     "Eng Converter",
     "DB/TimeTable/2024-07/2024-07.md",
-    "Scheduler/2024-07-25(목).md",
-    "Memory/메인 코인.md",
-    "conflict-files-obsidian-git.md",
     "AI",
-    "Scheduler/2024-08-01(목).md",
-    "CPU/퍼디 계산기.md",
-    "CPU/StackFlow.md",
-    "Scheduler/2024-07-31(수).md",
-    "CPU/정처기 준비.md",
-    "Scheduler/2024-07-30(화).md",
-    "Scheduler/2024-07-29(월).md",
-    "Scheduler/2024-07-23(화).md",
-    "Scheduler/2024-07-15(월).md",
-    "Scheduler/2024-07-22(월).md",
-    "Scheduler/2024-07-19(금).md",
-    "Scheduler/2024-07-18(목).md",
-    "Scheduler/2024-07-12(금).md",
-    "Scheduler/2024-07-11(목).md",
-    "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
-    "Scheduler/2024-07-10(수).md",
-    "Scheduler/Daily Template.md",
-    "Memory/코인 오너 관련.md",
-    "Scheduler/무제 파일.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "DB/Drawing/Excalidraw",
     "DB/Drawing",
     "Drawing/Excalidraw",
