@@ -87,7 +87,7 @@
         "order": 13,
         "content": "9:00 ~ 10:00 기상",
         "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -110,7 +110,7 @@
         "order": 14,
         "content": "세수",
         "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -133,7 +133,7 @@
         "order": 15,
         "content": "아침식사",
         "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -156,7 +156,7 @@
         "order": 16,
         "content": "10:00 ~ 12:00 헬스",
         "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -179,7 +179,7 @@
         "order": 17,
         "content": "근력",
         "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -225,7 +225,7 @@
         "order": 19,
         "content": "12:00 ~ 13:00 점심식사",
         "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist"
         ],
@@ -910,30 +910,6 @@
         "path": "Scheduler/Daily Template.md"
       },
       {
-        "id": "8256921156",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 12,
-        "content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:32:51.752530Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256921156",
-        "duration": null,
-        "path": "Scheduler/Daily Template.md"
-      },
-      {
         "id": "8256914243",
         "assignerId": null,
         "assigneeId": null,
@@ -1052,6 +1028,54 @@
         "url": "https://todoist.com/app/task/8256909541",
         "duration": null,
         "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8259420247",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183101",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "15:00 ~ 16:00 코인 리코드 작업",
+        "description": "[Scheduler/2024-08-02(금).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-02(%EA%B8%88).md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-02T06:59:42.983096Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8259420247",
+        "duration": null,
+        "path": "Scheduler/2024-08-02(금).md"
+      },
+      {
+        "id": "8256921156",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183101",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:32:51.752530Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256921156",
+        "duration": null,
+        "path": "Scheduler/2024-08-02(금).md"
       }
     ],
     "events": [
@@ -1698,6 +1722,26 @@
         "v2_object_id": "6Vrr6pMcgQJV95PM",
         "v2_parent_item_id": null,
         "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-08-02T06:59:58.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24877605555,
+        "id": 24791291764,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
       }
     ]
   },
@@ -1752,6 +1796,12 @@
         "8256968021"
       ],
       "todoistCount": 22
+    },
+    "Scheduler/2024-08-02(금).md": {
+      "todoistTasks": [
+        "8259420247"
+      ],
+      "todoistCount": 1
     }
   },
   "enableFullVaultSync": false,
