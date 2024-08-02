@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acfc413e0c048650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/2024-07-25(목).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5babe12f17e13eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/2024-07-29(월).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76416df8019a04e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/2024-07-29(월).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2e3bb5ab1fb5e17d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/2024-08-02(금).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/2024-08-02(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md",
+                "file": "Scheduler/2024-08-02(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-01(목).md"
+                "file": "Scheduler/2024-08-02(금).md"
               }
             }
           }
@@ -183,6 +146,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "dbfolder:Create a new database table": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -193,37 +159,45 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "2e3bb5ab1fb5e17d",
   "lastOpenFiles": [
-    "Eng Converter/기술 영어 용어 정리.md",
-    "Eng Converter",
-    "DB/TimeTable/2024-07/2024-07 DB.md",
     "conflict-files-obsidian-git.md",
+    "Scheduler/2024-08-02(금).md",
     "Scheduler/2024-08-01(목).md",
-    "Scheduler/2024-07-31(수).md",
-    "Scheduler/2024-07-30(화).md",
-    "Scheduler/Daily Template.md",
-    "Scheduler/2024-07-29(월).md",
-    "Scheduler/2024-07-25(목).md",
-    "Scheduler/2024-07-23(화).md",
-    "Scheduler/2024-07-22(월).md",
-    "CPU/Ko.JavaScript.md",
-    "Scheduler/2024-07-19(금).md",
-    "CPU/퍼디 계산기.md",
-    "CPU/StackFlow.md",
-    "DB/TimeTable/김머판의 방학 생활 계획표.md",
-    "Memory/메인 코인.md",
-    "Memory/코인 오너 관련.md",
-    "CPU/정처기 준비.md",
-    "Scheduler/2024-07-18(목).md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
-    "README.md",
-    "Scheduler/2024-07-15(월).md"
+    "wallpaper/er_1.png",
+    "wallpaper",
+    "SSD/OS/기말 예상 문제 및 개념.md",
+    "SSD/OS/9. 메모리 관리.md",
+    "SSD/OS/8. 멀티 프로세서 스케쥴링.md",
+    "SSD/OS/6. IPC.md",
+    "SSD/OS/7. CPU 스케쥴링.md",
+    "SSD/OS/5. 프로세스.md",
+    "SSD/OS/4. OS 구현방식.md",
+    "SSD/OS/3. OS 서비스 및 시스템 콜.md",
+    "SSD/OS/26. Protection과 Security.md",
+    "SSD/OS/25. 오류복구 및 Log-Structured File Systems.md",
+    "SSD/OS/23. 파일 시스템 구현.md",
+    "SSD/OS/24. Fast File Systems.md",
+    "SSD/OS/22. 파일 시스템 개념.md",
+    "SSD/OS/20. 디스크 스케줄링.md",
+    "SSD/OS/21. RAID 구성 및 대용량 저장 시스템.md",
+    "SSD/OS/2. 운영체제 구성요소.md",
+    "SSD/OS/19. 동시성 문제.md",
+    "SSD/OS/18. 세마포어.md",
+    "SSD/OS/17.  동시성.md",
+    "SSD/OS/16. 동기화.md",
+    "SSD/OS/15. 쓰레드.md",
+    "SSD/OS/14. 페이지 선택 및 할당.md",
+    "SSD/OS/13. 가상 메모리 관리.md",
+    "SSD/OS",
+    "SSD/Algorithm",
+    "SSD",
+    "Converter",
+    "Eng Converter"
   ]
 }

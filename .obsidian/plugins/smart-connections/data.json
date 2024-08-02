@@ -28,5 +28,8 @@
   "log_render": false,
   "log_render_files": false,
   "recently_sent_retry_notice": false,
-  "version": "2.1.86"
+  "version": "2.1.86",
+  "muted_notices": {
+    "done embedding": true
+  }
 }
