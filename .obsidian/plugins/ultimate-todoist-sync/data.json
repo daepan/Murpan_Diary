@@ -1039,7 +1039,7 @@
         "order": 3,
         "content": "15:00 ~ 16:00 코인 리코드 작업",
         "description": "[Scheduler/2024-08-02(금).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-02(%EA%B8%88).md)",
-        "isCompleted": false,
+        "isCompleted": true,
         "labels": [
           "todoist",
           "work"
@@ -1061,7 +1061,7 @@
         "sectionId": null,
         "parentId": null,
         "order": 2,
-        "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+        "content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
         "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
         "isCompleted": false,
         "labels": [
@@ -1734,6 +1734,65 @@
         },
         "extra_data_id": 24877605555,
         "id": 24791291764,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-02T07:00:33.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "15:00 ~ 16:00 코인 리코드 작업",
+          "note_count": 0
+        },
+        "extra_data_id": 24877610256,
+        "id": 24791296466,
+        "initiator_id": null,
+        "object_id": "8259420247",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vv47PCQFqj5R3C9",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-02T07:00:33.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24877610488,
+        "id": 24791296698,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-02T07:00:32.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24877609729,
+        "id": 24791295940,
         "initiator_id": null,
         "object_id": "8256921156",
         "object_type": "item",
