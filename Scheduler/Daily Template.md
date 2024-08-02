@@ -27,58 +27,45 @@ tags:
 
 <% tp.web.daily_quote() %>
 
+```todoist
+name: Todoist 할 일 {{task_count}}
+filter: "today | overdue"
+```
+
 ## 일정 계획표
 
-
-- [ ] #task 9:00 ~ 10:00 기상 및 간단 식사
-- [ ] #task 10:00 ~ 12:00 헬스
-- [ ] #task 12:00 ~ 13:00 점심식사
-- [ ] #task 14:00 ~ 채워넣기
+- [ ] 9:00 ~ 10:00 기상  [link](https://todoist.com/app/task/8256945595) #todoist %%[todoist_id:: 8256945595]%%
+	- [ ] 세수 [link](https://todoist.com/app/task/8256945638) #todoist %%[todoist_id:: 8256945638]%%
+	- [ ] 아침식사 [link](https://todoist.com/app/task/8256945669) #todoist %%[todoist_id:: 8256945669]%%
+- [ ] 10:00 ~ 12:00 헬스 [link](https://todoist.com/app/task/8256945694) #todoist %%[todoist_id:: 8256945694]%%
+	- [ ] 근력 [link](https://todoist.com/app/task/8256945719) #todoist %%[todoist_id:: 8256945719]%%
+	- [ ] 유산소 [link](https://todoist.com/app/task/8256945758) #todoist %%[todoist_id:: 8256945758]%%
+- [ ] 12:00 ~ 13:00 점심식사  [link](https://todoist.com/app/task/8256945788) #todoist %%[todoist_id:: 8256945788]%%
+- [ ] 14:00 ~ 채워넣기 [link](https://todoist.com/app/task/8256945851) #todoist %%[todoist_id:: 8256945851]%%
 
 ## 일정 정리
-- [ ] #task 매주 자바스크립트 스터디 월요일 저녁 8시
-- [ ] #task 퍼스트디센던트 프로토페이지 만들기
+- [ ] 자바스크립트 스터디 매주 금요일 #study  [link](https://todoist.com/app/task/8256909541) #todoist %%[todoist_id:: 8256909541]%%
+- [ ] 퍼스트디센던트 프로토타입 페이지 만들기 #work  [link](https://todoist.com/app/task/8256911077) #todoist  %%[todoist_id:: 8256911077]%%
 
 
  ## 나의 할일
 
-- [ ] #task 포토폴리오 제작
-- [ ] #task 매주 금요일 레거시 그룹회의
-- [ ] #task 취준 대비 NEXT 대비 알고리즘 공부
+- [ ] 포토폴리오 만들기 #study  [link](https://todoist.com/app/task/8256912253) #todoist  %%[todoist_id:: 8256912253]%%
+- [ ] 레거시 그룹 활동 #work  [link](https://todoist.com/app/task/8256913090) #todoist  %%[todoist_id:: 8256913090]%%
+- [ ] 알고리즘 대회 대비 알고리즘 공부 #study  [link](https://todoist.com/app/task/8256914243) #todoist  %%[todoist_id:: 8256914243]%%
 
 ## 오늘의 할 일
 - [ ] 
 
 ## 기술 관련 할꺼 메모
 
-- [ ] #task 포폴이랑 이력서 업데이트
-- [ ] #task React-Portal 전역화 기능 관련 글 정리
-- [ ] #task 네부캠 코테 대비
-- [ ] #task React DeepDive 스터디
-- [ ] #task 영어 졸업 맞추기
-- [ ] #task 포폴 업데이트 이후 토스 서류 넣어보기
-- [ ] #task React.memo 100번 써보기
-- [ ] #task React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기
-- [ ] #task 모노레포 구현 + Skin-ai-server
-
-
-## 오늘 끝내야 할 일
-```tasks
-due on or before <% tp.file.title.slice(0,10) %>
-filter by function task.file.folder.includes("10. Planner")
-filter by function !task.file.folder.includes("templates")
-not done
-sort by priority
-```
-```tasks
-tag include #업무 
-```
-
-
-### 오늘 완료한 일
-```tasks
-done <% tp.file.title.slice(0,10) %>
-```
+- [ ] 포토폴리오 + 이력서 업데이트 #study [link](https://todoist.com/app/task/8256916769) #todoist  %%[todoist_id:: 8256916769]%%
+- [ ] React-Portal 전역화 기능 관련 글 정리 #study  [link](https://todoist.com/app/task/8256917396) #todoist  %%[todoist_id:: 8256917396]%%
+- [ ] React DeepDive 스터디 #study  [link](https://todoist.com/app/task/8256918201) #todoist  %%[todoist_id:: 8256918201]%%
+- [ ] 영어 오픽이나 토익 졸업조건 맞추기 #study  [link](https://todoist.com/app/task/8256919131) #todoist  %%[todoist_id:: 8256919131]%%
+- [ ] React.memo 100번 써보기 #study  [link](https://todoist.com/app/task/8256919668) #todoist  %%[todoist_id:: 8256919668]%%
+- [ ] React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기 #study  [link](https://todoist.com/app/task/8256920123) #todoist  %%[todoist_id:: 8256920123]%%
+- [ ] 디공 페이지 모노레포 구성 및 CI/CD 작업하기 #work [link](https://todoist.com/app/task/8256921156) #todoist  %%[todoist_id:: 8256921156]%%
 
 ## 하루 마무리
 ### 오늘 배운 것들

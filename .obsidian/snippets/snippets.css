@@ -10,6 +10,7 @@ settings:
   -
     id: anp-theme-ext-dark
     title: Toggle extended dark theme
+    opacity: true
     type: class-toggle
   -
     id: anp-theme-ext-amoled
@@ -20,6 +21,7 @@ settings:
     title: Light theme flavor
     description: Select your preferred light mode flavor
     type: class-select
+    opacity: true
     allowEmpty: false
     default: ctp-nord-light
     options:
@@ -55,6 +57,7 @@ settings:
     title: Dark theme flavor
     description: Select your preferred dark mode flavor
     type: class-select
+    opacity: true
     allowEmpty: false
     default: ctp-nord-dark
     options:
@@ -3908,4 +3911,18 @@ settings:
   	10
   ,
   10 ;
+  --icon-color: black;
+--icon-color-hover: white;
+--vault-name-color: white;
+--search-icon-color: white;
+--search-result-background: #4b6481;
+--search-clear-button-color: white;
+--text-normal: white;
+--text-muted: white;
+--text-faint: white;
+--font-ui-smaller: 14px;
+--font-ui-small: 14px;
+--font-ui-medium: 18px;
+--sidebar-markdown-font-size: 10px;
+
 }
