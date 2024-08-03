@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b8d97f53038b43e0",
+        "id": "d088ac006e17ef67",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3bb5ab1fb5e17d",
+            "id": "dc3c6512539bf098",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "wallpaper/black_cat.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -157,12 +155,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "2e3bb5ab1fb5e17d",
+  "active": "3d773d1b37c6c918",
   "lastOpenFiles": [
     "Scheduler/2024-08-02(금).md",
     "Scheduler/Daily Template.md",
