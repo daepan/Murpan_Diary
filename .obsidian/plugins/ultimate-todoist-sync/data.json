@@ -406,30 +406,6 @@
         "path": "Scheduler/2024-08-01(목).md"
       },
       {
-        "id": "8256967573",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 22,
-        "content": "21:00 ~ 알고리즘 대회 대비 문제 풀기",
-        "description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
-        "isCompleted": false,
-        "labels": [
-          "task",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:50:24.833008Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256967573",
-        "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
-      },
-      {
         "id": "8256967594",
         "assignerId": null,
         "assigneeId": null,
@@ -1734,7 +1710,6 @@
         "8256967355",
         "8256967460",
         "8256967530",
-        "8256967573",
         "8256967594",
         "8256967631",
         "8256967648",
@@ -1751,7 +1726,7 @@
         "8256967971",
         "8256968021"
       ],
-      "todoistCount": 22
+      "todoistCount": 21
     }
   },
   "enableFullVaultSync": false,
