@@ -1630,6 +1630,66 @@
         "v2_object_id": "6Vrr5639F4PcGfJM",
         "v2_parent_item_id": null,
         "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-04T10:11:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24894983606,
+        "id": 24808669687,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-04T10:12:06.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24894987764,
+        "id": 24808673844,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-04T10:12:05.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24894987658,
+        "id": 24808673738,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
       }
     ]
   },
