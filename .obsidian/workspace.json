@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-03(토).md",
+                "file": "Scheduler/2024-08-04(일).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-03(토).md",
+                "file": "Scheduler/2024-08-04(일).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-03(토).md",
+                "file": "Scheduler/2024-08-04(일).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-03(토).md"
+                "file": "Scheduler/2024-08-04(일).md"
               }
             }
           }
@@ -158,12 +158,16 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "dc3c6512539bf098",
   "lastOpenFiles": [
     "Scheduler/2024-08-03(토).md",
+    "Scheduler/2024-08-04(일).md",
     "Scheduler/2024-08-02(금).md",
     "Scheduler/Daily Template.md",
     "wallpaper/white_cat.jpg",
@@ -194,7 +198,6 @@
     "SSD/OS/18. 세마포어.md",
     "SSD/OS/17.  동시성.md",
     "SSD/OS/16. 동기화.md",
-    "SSD/OS/15. 쓰레드.md",
     "SSD/OS",
     "SSD/Algorithm",
     "SSD",
