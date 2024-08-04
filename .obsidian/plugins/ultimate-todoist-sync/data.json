@@ -702,30 +702,6 @@
         "path": "Scheduler/Daily Template.md"
       },
       {
-        "id": "8256921156",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 12,
-        "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:32:51.752530Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256921156",
-        "duration": null,
-        "path": "Scheduler/Daily Template.md"
-      },
-      {
         "id": "8256914243",
         "assignerId": null,
         "assigneeId": null,
@@ -842,6 +818,30 @@
         "createdAt": "2024-08-01T11:29:12.098599Z",
         "due": null,
         "url": "https://todoist.com/app/task/8256909541",
+        "duration": null,
+        "path": "Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256921156",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183101",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:32:51.752530Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256921156",
         "duration": null,
         "path": "Scheduler/Daily Template.md"
       }
@@ -1542,6 +1542,86 @@
         },
         "extra_data_id": 24877605555,
         "id": 24791291764,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-04T09:31:45.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24894797173,
+        "id": 24808483255,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-04T09:33:08.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24894803646,
+        "id": 24808489728,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-04T09:33:07.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24894803427,
+        "id": 24808489508,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-08-04T09:32:30.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "last_content": "\b디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "note_count": 0
+        },
+        "extra_data_id": 24894800802,
+        "id": 24808486883,
         "initiator_id": null,
         "object_id": "8256921156",
         "object_type": "item",
