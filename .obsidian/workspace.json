@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0526a171b8fe5973",
+        "id": "20185341ac4c3db2",
         "type": "tabs",
         "children": [
           {
-            "id": "3f69a2cf3a68784f",
+            "id": "4ec1f28f00ec45a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-04(일).md",
+                "file": "Scheduler/2024-08-05(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-04(일).md",
+                "file": "Scheduler/2024-08-05(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-04(일).md",
+                "file": "Scheduler/2024-08-05(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-04(일).md"
+                "file": "Scheduler/2024-08-05(월).md"
               }
             }
           },
@@ -194,10 +194,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3f69a2cf3a68784f",
+  "active": "4ec1f28f00ec45a4",
   "lastOpenFiles": [
-    "Scheduler/Daily Template.md",
+    "Scheduler/2024-08-05(월).md",
     "Scheduler/2024-08-04(일).md",
+    "Scheduler/Daily Template.md",
     "Scheduler/2024-08-03(토).md",
     "Scheduler/2024-08-02(금).md",
     "Scheduler/2024-08-01(목).md",
@@ -234,7 +235,6 @@
     "DB/TimeTable/2024-07/2024-07-18(목).md",
     "DB/TimeTable/2024-07/2024-07-15(월).md",
     "DB/TimeTable/2024-07/2024-07-12(금).md",
-    "DB/TimeTable/2024-07/2024-07-11(목).md",
     "Converter",
     "AI",
     "DB/Drawing/Excalidraw",
