@@ -41,7 +41,6 @@ export const useFunnel = (defaultStep: string) => {
     - **Funnel**: 현재 단계와 일치하는 `Step` 컴포넌트를 렌더링합니다.
 3. **상태 관리**: `setStep`을 통해 현재 단계를 변경할 수 있습니다.
 
-
 ## Toss의 useFunnel
 
 [Github 라이브러리 링크](https://github.com/toss/slash/blob/main/packages/react/use-funnel/src/useFunnel.tsx)
@@ -78,8 +77,8 @@ export const useFunnel = (defaultStep: string) => {
 
 ## 고찰
 
-물론 Toss와의 구현 격차는 당연히 n년차 개발자와 구현 수준을 비교하는 것은 의미가 없다. 하지만 이것을 통해서 우리의 코드를 추가적으로 개선할 하나의 방향을 구할 수 있다.
-일단 현재 코드의 문제점을 꼽자면 "state를 통한 상태관리가 불완전하다"를 알 수 있다. 하지만 이러한 문제를 해결하는 방법을 많이 고민해보았고 Toss와의 해결할 방법을 쿼리파라미터를 통해 이를 해결해보겠다.
+물론 Toss와의 구현 격차는 당연히 n년차 개발자와 구현 수준을 비교하는 것은 의미가 없다. 하지만 이것을 통해서 우리의 코드를 추가적으로 개선할 하나의 방향을 구할 수 있습니다.
+일단 현재 코드의 문제점을 꼽자면 "state를 통한 상태관리가 불완전하다"를 알 수 있다. 하지만 이러한 문제를 해결하는 방법을 많이 고민해보았고 Toss와의 해결할 방법을 쿼리파라미터를 통해 이를 해결해보겠습니다.
 
 ```js
 import { ReactElement, useState, useEffect, useCallback } from 'react';
@@ -245,4 +244,4 @@ export const useFunnel = (defaultStep: string, validSteps: string[]) => {
 ```
 
 
-이런 식으로 사용된다면 이제 실제 Funnel 작업 중 새로고침을 해도 상태를 유지하며 state라는 메모리에서만 관리한다는 문제를 해결할 수 있다.
+이런 식으로 우리들의 useFunnel을 리팩토링 함으로써, 실제 사용자가 퍼널 스탭 중에 작업 중 새로고침을 해도 상태를 유지하며 state라는 메모리에서만 관리한다는 문제를 해결하여 해당 상태를 그대로 유지할 수 있습니다.
