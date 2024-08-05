@@ -243,3 +243,6 @@ export const useFunnel = (defaultStep: string, validSteps: string[]) => {
   } as const;
 };
 ```
+
+
+이런 식으로 사용된다면 이제 실제 Funnel 작업 중 새로고침을 해도 상태를 유지하며 state라는 메모리에서만 관리한다는 문제를 해결할 수 있다.
