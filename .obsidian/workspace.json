@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-05(월).md",
+                "file": "CPU/소그룹 useFunnel과 React-Hook-Form 을 활용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-05(월).md",
+                "file": "CPU/소그룹 useFunnel과 React-Hook-Form 을 활용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-05(월).md",
+                "file": "CPU/소그룹 useFunnel과 React-Hook-Form 을 활용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-05(월).md"
+                "file": "CPU/소그룹 useFunnel과 React-Hook-Form 을 활용하기.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   "active": "4ec1f28f00ec45a4",
   "lastOpenFiles": [
     "Scheduler/2024-08-05(월).md",
+    "CPU/소그룹 useFunnel과 React-Hook-Form 을 활용하기.md",
     "Scheduler/2024-08-04(일).md",
     "Scheduler/Daily Template.md",
     "Scheduler/2024-08-03(토).md",
@@ -234,7 +235,6 @@
     "DB/TimeTable/2024-07/2024-07-19(금).md",
     "DB/TimeTable/2024-07/2024-07-18(목).md",
     "DB/TimeTable/2024-07/2024-07-15(월).md",
-    "DB/TimeTable/2024-07/2024-07-12(금).md",
     "Converter",
     "AI",
     "DB/Drawing/Excalidraw",
