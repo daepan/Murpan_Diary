@@ -62,8 +62,17 @@
 
 또한 FrontEnd 트랙에서는 소그룹 활동을 진행합니다. 다양하게 Slack 내에 있는 Slack 봇을 개발하는 그룹이나 따로 사이드 프로젝트에 대한 아이디어를 얻어서 사이드 프로젝트를 진행하는 그룹도 있습니다. 저는 리팩토링 그룹이라는 우리가 작성한 기능 중에 오래된 코드나 구조적인 변화가 필요하는 곳을 작업하는 리팩토링 그룹을 진행하고 있습니다.
 
+<div style="display: flex; width: 100%; height">
+		<img src="https://i.imgur.com/rpXR4hw.png" width="50%" height="120%"/>
+	<div style="width: 50%">
+		<img src="https://i.imgur.com/aLmaIQu.png" width="100%" height="50%"/>
+		<img src="https://i.imgur.com/A571lbQ.png" width="100%" height="50%"/>
+	</div>
+</div>
 
-![](https://i.imgur.com/A571lbQ.png)
+
+
+![]()
 
 
 
