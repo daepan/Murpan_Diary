@@ -20,10 +20,16 @@
 
 ### Business 팀에서의 활동
 
-먼저, 제가 활동하는 Team.Business에서는 주요한 활동으로 현재 7월에 집중했던 작업으로는 주변 상점 정보의 최신화와 주변 상점에 대한 사용성 증대가 있습니다.
+먼저, 제가 활동하는 Team.Business에서는 주요한 활동으로 현재 7월에 집중했던 작업으로는 주변 상점 정보의 최신화와 주변 상점에 대한 사용성 증대, 코인 사장님 어플 쪽을 담당해서 진행핬습니다.
+
+<div> </div>
+
+<img src="https://i.imgur.com/Tmpxvis.png" width="50%" height="50%"/> 
+
+<video src="https://github.com/user-attachments/assets/7ca1904a-0087-4626-bdc0-08c63e40d521" width="50%" height="50%"/>
 
 
-![[Pasted image 20240806163139.png|200]] <!--⚠️Imgur upload failed, check dev console-->
+
 
 
 <!--⚠️Imgur upload failed, check dev console-->
