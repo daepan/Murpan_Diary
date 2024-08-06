@@ -21,8 +21,8 @@
 ### Business 팀에서의 활동
 
 먼저, 제가 활동하는 Team.Business에서는 주요한 활동으로 현재 7월에 집중했던 작업으로는 주변 상점 정보의 최신화와 주변 상점에 대한 사용성 증대가 있습니다.
-![[Pasted image 20240806163607.png]] 
-![[Pasted image 20240806163718.png]]
+
+
 ![[Pasted image 20240806163139.png|200]] <!--⚠️Imgur upload failed, check dev console-->
 
 
