@@ -29,9 +29,20 @@
 우리가 기능과 기획의 방향성을 결정할 때 우리가 사용하는 서비스에 대해서 많은 추적을 진행하고 있고 언제나 "유저들이 원하는 서비스란 무엇일까?"를 고민하고 그에 대한 기반한 데이터 등을 구축하기 위해 Google Analytics를 직접 설정하고 실제 유저들이 우리 어플을 어떻게 활용하는지를 분석하고, 어떤 기능이 필요할지를 고민합니다.
 
 물론 그 과정에서 위에 같이 간단한 사용성 증대나 최신화를 진행하게 되는 것에는 많은 근거를 기반합니다.
-1. GA에서 분석된 데이터
-![](https://i.imgur.com/LhcXGgV.png)
 
+1. GA에서 분석된 데이터를 기반한 기능 기획의 방향성 선정
+2. User Test를 통한 실제 사용자 인터뷰
+
+
+<div style="width: 100%; heigth: 100%"> 
+	<div>
+	</div>
+</div>
+
+<img src="https://i.imgur.com/5ECk719.png" width="70%" height="50%"/>
+
+
+<img src="https://i.imgur.com/InPsXah.png" width="70%" height="70%"/>
 
 
 
