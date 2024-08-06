@@ -22,11 +22,15 @@
 
 먼저, 제가 활동하는 Team.Business에서는 주요한 활동으로 현재 7월에 집중했던 작업으로는 주변 상점 정보의 최신화와 주변 상점에 대한 사용성 증대, 코인 사장님 어플 쪽을 담당해서 진행핬습니다.
 
-<div> </div>
+<div style="widht: 100%; height: 300px; display:flex;"> 
+<img src="https://i.imgur.com/Tmpxvis.png" width="60%" height="75%"/> 
+<video src="https://github.com/user-attachments/assets/7ca1904a-0087-4626-bdc0-08c63e40d521" width="30%" height="300px"/>
+</div>
+우리가 기능과 기획의 방향성을 결정할 때 우리가 사용하는 서비스에 대해서 많은 추적을 진행하고 있고 언제나 "유저들이 원하는 서비스란 무엇일까?"를 고민하고 그에 대한 기반한 데이터 등을 구축하기 위해 Google Analytics를 직접 설정하고 실제 유저들이 우리 어플을 어떻게 활용하는지를 분석하고 
 
-<img src="https://i.imgur.com/Tmpxvis.png" width="50%" height="50%"/> 
 
-<video src="https://github.com/user-attachments/assets/7ca1904a-0087-4626-bdc0-08c63e40d521" width="50%" height="50%"/>
+
+
 
 
 
