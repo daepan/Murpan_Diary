@@ -34,15 +34,23 @@
 2. User Test를 통한 실제 사용자 인터뷰
 
 
-<div style="width: 100%; heigth: 100%"> 
-	<div>
+<div style="width: 100%; height: 100%"> 
+	<div style="width: 100% height:30%; display: flex;">
+		<img src="https://i.imgur.com/5ECk719.png" width="48%" height="30%"/>
+		<img src="https://i.imgur.com/InPsXah.png" width="48%" height="100%"/ >
 	</div>
+	<img src="https://i.imgur.com/LhcXGgV.png" width="100%" height="70%"/>
+	
 </div>
+// *넘나 고생하는 우리 DA, PM 분들!*
 
-<img src="https://i.imgur.com/5ECk719.png" width="70%" height="50%"/>
+해당 분석이 마무리 되면은 개발, DA, PM, 디자이너 들이 모여서 앞으로 이런 데이터를 기반으로 어떤 기능으로 진행하면 좋을지를 서로의 의견을 공유하고 함께 협업하는 형태로 진행하고 있습니다.
+
+### 트랙에서 하는 활동
+
+앞에서 말한 것
 
 
-<img src="https://i.imgur.com/InPsXah.png" width="70%" height="70%"/>
 
 
 
