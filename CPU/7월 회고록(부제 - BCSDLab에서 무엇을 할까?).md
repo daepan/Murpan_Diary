@@ -22,7 +22,7 @@
 
 먼저, 제가 활동하는 Team.Business에서는 주요한 활동으로 현재 7월에 집중했던 작업으로는 주변 상점 정보의 최신화와 주변 상점에 대한 사용성 증대, 코인 사장님 어플 쪽을 담당해서 진행핬습니다.
 
-<div style="widht: 100%; height: 300px; display:flex;"> 
+<div style="widht: 100%; height: 300px; display:flex; justify-content: center;"> 
 <img src="https://i.imgur.com/Tmpxvis.png" width="60%" height="75%"/> 
 <video src="https://github.com/user-attachments/assets/7ca1904a-0087-4626-bdc0-08c63e40d521" width="30%" height="300px"/>
 </div>
@@ -48,7 +48,14 @@
 
 ### 트랙에서 하는 활동
 
-앞에서 말한 것
+앞에서 말한 것 처럼 위에서의 활동은 Team 단위에서 마무리하는 것이 아닌 새롭게 트랙 내부에서도 많은 활똥을 진행합니다.
+
+#### 스터디 활동
+저는 현재 웹에서 가장 근간이 되고 있는 JavaScript에 대해서 더 Deep 하게 알기 위해서 ko.javascript 내용을 기반으로 스터디를 진행하고 있습니다. 혼자서 공부하는 것이 아닌 다른 인원들과 함께하는 것으로 동기부여를 촉진하고 서로가 놓친 부분을 보완할 수 있습니다.
+
+<img src="https://i.imgur.com/HZ5RCga.png" width="70%" height="60%" />
+![]()
+
 
 
 
