@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-06(화).md",
+                "file": "Scheduler/2024-08-07(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-06(화).md",
+                "file": "Scheduler/2024-08-07(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-06(화).md",
+                "file": "Scheduler/2024-08-07(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-06(화).md"
+                "file": "Scheduler/2024-08-07(수).md"
               }
             }
           },
@@ -196,6 +196,8 @@
   },
   "active": "4ec1f28f00ec45a4",
   "lastOpenFiles": [
+    "Scheduler/2024-08-06(화).md",
+    "Scheduler/2024-08-07(수).md",
     "Memory/7월 회고록(부제 - BCSDLab에서 무엇을 할까?).md",
     "_images/Pasted image 20240806163718.png",
     "_images/Pasted image 20240806163607.png",
@@ -213,7 +215,6 @@
     "DB/TimeTable/2024-07/2024-07-10(수).md",
     "DB/TimeTable/2024-07/2024-07-03(수).md",
     "Memory/소그룹 useFunnel에 대한 구현 고찰.md",
-    "Scheduler/2024-08-06(화).md",
     "Scheduler/2024-08-05(월).md",
     "Scheduler/2024-08-04(일).md",
     "Scheduler/Daily Template.md",
