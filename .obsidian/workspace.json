@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0e1c4cf4751608f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scheduler/2024-08-07(수).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-04(일).md",
+                "file": "Scheduler/2024-08-07(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-04(일).md",
+                "file": "Scheduler/2024-08-07(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-04(일).md"
+                "file": "Scheduler/2024-08-07(수).md"
               }
             }
           }
@@ -164,17 +177,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "dc3c6512539bf098",
+  "active": "c0e1c4cf4751608f",
   "lastOpenFiles": [
-    "Scheduler/2024-08-03(토).md",
+    "conflict-files-obsidian-git.md",
+    "Scheduler/2024-08-07(수).md",
     "Scheduler/2024-08-04(일).md",
+    "Scheduler/2024-08-03(토).md",
     "Scheduler/2024-08-02(금).md",
     "Scheduler/Daily Template.md",
     "wallpaper/white_cat.jpg",
     "wallpaper/color_cat.jpg",
     "wallpaper/black_cat.jpg",
     "todoist-backup-202481202318.json",
-    "conflict-files-obsidian-git.md",
     "Scheduler/2024-08-01(목).md",
     "wallpaper/er_1.png",
     "wallpaper",
@@ -197,7 +211,6 @@
     "SSD/OS/19. 동시성 문제.md",
     "SSD/OS/18. 세마포어.md",
     "SSD/OS/17.  동시성.md",
-    "SSD/OS/16. 동기화.md",
     "SSD/OS",
     "SSD/Algorithm",
     "SSD",
