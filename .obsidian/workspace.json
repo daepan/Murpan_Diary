@@ -1,14 +1,34 @@
 {
   "main": {
-    "id": "8cb4dd6845e26f22",
+    "id": "9cb4f11aade84b0a",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "20185341ac4c3db2",
         "type": "tabs",
         "children": [
           {
             "id": "4ec1f28f00ec45a4",
+=======
+        "id": "d088ac006e17ef67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3c6512539bf098",
+>>>>>>> 15f652fe977ba858354e512a70cc65be7df788e5
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scheduler/2024-08-07(수).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e1c4cf4751608f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +39,22 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3483696c70fdb400",
+    "id": "f2adbdbe6430d6dd",
     "type": "split",
     "children": [
       {
-        "id": "60163bc07d6b0dbf",
+        "id": "2b5e9cfbae05be4c",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa2e4c78e1c205b",
+            "id": "3d773d1b37c6c918",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +64,7 @@
             }
           },
           {
-            "id": "81183e73a8f648ba",
+            "id": "b2314ecc487a604a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +79,7 @@
             }
           },
           {
-            "id": "37cb3aa1cc60d2e1",
+            "id": "dbb1efdd25aab90f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +90,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 300
   },
   "right": {
-    "id": "eefbf0396d5a7078",
+    "id": "4f963ef592cbd784",
     "type": "split",
     "children": [
       {
-        "id": "fc4be98547a2f9b7",
+        "id": "36f29288baacede2",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9042833c696cac",
+            "id": "2e0ad6d49e0f7159",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f05a953c3c1c6e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +126,7 @@
             }
           },
           {
-            "id": "9822675544b4a572",
+            "id": "15294620cfe0df45",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +138,7 @@
             }
           },
           {
-            "id": "3a8e5e8d67b685c1",
+            "id": "51a577ba9e45f331",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +149,7 @@
             }
           },
           {
-            "id": "d21bb9c1ed26318e",
+            "id": "17ec8cc4f4cf8f04",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -128,72 +157,35 @@
                 "file": "Scheduler/2024-08-07(수).md"
               }
             }
-          },
-          {
-            "id": "415d62e705ae3c3f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "63065e69ac3fd408",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "bd62b22cf20c55a1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "ecc8553627b81faf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3473f5ffa026fa66",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "dbfolder:Create a new database table": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
-      "smart-connections-visualizer:Open smart connections visualizer": false,
-      "obsidian-kanban:새 보드 만들기": false,
-      "dbfolder:Create a new database table": false,
       "periodic-notes:Open today": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
+<<<<<<< HEAD
   "active": "4ec1f28f00ec45a4",
   "lastOpenFiles": [
     "Scheduler/2024-08-06(화).md",
@@ -216,10 +208,17 @@
     "DB/TimeTable/2024-07/2024-07-03(수).md",
     "Memory/소그룹 useFunnel에 대한 구현 고찰.md",
     "Scheduler/2024-08-05(월).md",
+=======
+  "active": "c0e1c4cf4751608f",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Scheduler/2024-08-07(수).md",
+>>>>>>> 15f652fe977ba858354e512a70cc65be7df788e5
     "Scheduler/2024-08-04(일).md",
     "Scheduler/Daily Template.md",
     "Scheduler/2024-08-03(토).md",
     "Scheduler/2024-08-02(금).md",
+<<<<<<< HEAD
     "Scheduler/2024-08-01(목).md",
     "Converter/기술 영어 용어 정리.md",
     "Memory/메인 코인.md",
@@ -235,12 +234,39 @@
     "wallpaper",
     "smart-chats",
     "CPU/퍼디 계산기.md",
+=======
+    "Scheduler/Daily Template.md",
+    "wallpaper/white_cat.jpg",
+    "wallpaper/color_cat.jpg",
+    "wallpaper/black_cat.jpg",
+    "todoist-backup-202481202318.json",
+    "Scheduler/2024-08-01(목).md",
+    "wallpaper/er_1.png",
+    "wallpaper",
+    "SSD/OS/기말 예상 문제 및 개념.md",
+    "SSD/OS/9. 메모리 관리.md",
+    "SSD/OS/8. 멀티 프로세서 스케쥴링.md",
+    "SSD/OS/6. IPC.md",
+    "SSD/OS/7. CPU 스케쥴링.md",
+    "SSD/OS/5. 프로세스.md",
+    "SSD/OS/4. OS 구현방식.md",
+    "SSD/OS/3. OS 서비스 및 시스템 콜.md",
+    "SSD/OS/26. Protection과 Security.md",
+    "SSD/OS/25. 오류복구 및 Log-Structured File Systems.md",
+    "SSD/OS/23. 파일 시스템 구현.md",
+    "SSD/OS/24. Fast File Systems.md",
+    "SSD/OS/22. 파일 시스템 개념.md",
+    "SSD/OS/20. 디스크 스케줄링.md",
+    "SSD/OS/21. RAID 구성 및 대용량 저장 시스템.md",
+    "SSD/OS/2. 운영체제 구성요소.md",
+    "SSD/OS/19. 동시성 문제.md",
+    "SSD/OS/18. 세마포어.md",
+    "SSD/OS/17.  동시성.md",
+    "SSD/OS",
+    "SSD/Algorithm",
+    "SSD",
+>>>>>>> 15f652fe977ba858354e512a70cc65be7df788e5
     "Converter",
-    "AI",
-    "DB/Drawing/Excalidraw",
-    "DB/Drawing",
-    "Drawing/Excalidraw",
-    "Drawing",
-    "drawing.zip"
+    "Eng Converter"
   ]
 }
