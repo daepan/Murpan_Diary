@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-07(수).md",
+                "file": "Scheduler/2024-08-09(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-07(수).md",
+                "file": "Scheduler/2024-08-09(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-07(수).md",
+                "file": "Scheduler/2024-08-09(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-07(수).md"
+                "file": "Scheduler/2024-08-09(금).md"
               }
             }
           }
@@ -179,8 +179,9 @@
   },
   "active": "c0e1c4cf4751608f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Scheduler/2024-08-07(수).md",
+    "Scheduler/2024-08-09(금).md",
+    "conflict-files-obsidian-git.md",
     "Scheduler/2024-08-04(일).md",
     "Scheduler/2024-08-03(토).md",
     "Scheduler/2024-08-02(금).md",
@@ -210,7 +211,6 @@
     "SSD/OS/2. 운영체제 구성요소.md",
     "SSD/OS/19. 동시성 문제.md",
     "SSD/OS/18. 세마포어.md",
-    "SSD/OS/17.  동시성.md",
     "SSD/OS",
     "SSD/Algorithm",
     "SSD",
