@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/Daily Template.md",
+                "file": "Scheduler/2024-08-12(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/Daily Template.md",
+                "file": "Scheduler/2024-08-12(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/Daily Template.md",
+                "file": "Scheduler/2024-08-12(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/Daily Template.md"
+                "file": "Scheduler/2024-08-12(월).md"
               }
             }
           }
@@ -167,6 +167,8 @@
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
     "Scheduler/2024-08-10(토).md",
-    "Scheduler/2024-08-08(목).md"
+    "Scheduler/2024-08-12(월).md",
+    "Scheduler/2024-08-08(목).md",
+    "Scheduler/Daily Template.md"
   ]
 }
