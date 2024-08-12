@@ -1,0 +1,64 @@
+
+/* settings */
+.emotion-section-setting {
+	display: block;
+}
+
+.emotion-section-setting > .setting-item-control {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+}
+
+.emotion-section-setting > .setting-item-control > span {
+	margin-right: 5px;
+}
+
+.emotion-section-setting > .setting-item-control > input, .emotion-section-setting > .setting-item-control > textarea {
+	margin-right: 30px;
+}
+
+.emotion-section-setting textarea {
+	max-height: 200px;
+}
+
+/* modal */
+/* override default Modal styles */
+.modal {
+	min-width: 230px !important;
+}
+
+.modal-body > div {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.toggles-section {
+	justify-content: flex-start !important;
+}
+
+.emotion-toggle-label {
+	position: relative;
+	padding-left: 5px;
+	padding-right: 30px;
+	bottom: 5px;
+}
+
+.emotion-section {
+	padding: 0.5rem;
+	width: 130px;
+}
+
+.emotion-element {
+	text-decoration: underline solid 1px;
+	cursor: pointer;
+	transition: linear 0.1s;
+}
+
+.emotion-element:hover {
+	/* text-decoration: underline solid 1px; */
+	font-size: 103%;
+	text-decoration: underline solid 2px;
+}
