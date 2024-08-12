@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-12(월).md",
+                "file": "Memory/문서화의 중요성.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-12(월).md",
+                "file": "Memory/문서화의 중요성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-12(월).md",
+                "file": "Memory/문서화의 중요성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-12(월).md"
+                "file": "Memory/문서화의 중요성.md"
               }
             }
           }
@@ -179,16 +179,20 @@
   },
   "active": "c0e1c4cf4751608f",
   "lastOpenFiles": [
+    "CPU/퍼디 계산기.md",
+    "CPU/StackFlow.md",
+    "SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
+    "SSD/Study",
+    "Memory/문서화의 중요성.md",
+    "Scheduler/2024-08-12(월).md",
     "Scheduler/2024-08-09(금).md",
     "Scheduler/2024-08-10(토).md",
     "_images/Pasted image 20240806163718.png",
     "_images/Pasted image 20240806163607.png",
     "_images/Pasted image 20240806163139.png",
-    "Scheduler/2024-08-12(월).md",
     "Scheduler/2024-08-08(목).md",
     "Scheduler/2024-08-06(화).md",
     "Scheduler/2024-08-05(월).md",
-    "Memory/소그룹 useFunnel에 대한 구현 고찰.md",
     "Scheduler/2024-08-07(수).md",
     "conflict-files-obsidian-git.md",
     "Scheduler/2024-08-04(일).md",
@@ -211,8 +215,6 @@
     "SSD/OS/4. OS 구현방식.md",
     "SSD/OS/3. OS 서비스 및 시스템 콜.md",
     "SSD/OS/26. Protection과 Security.md",
-    "SSD/OS/25. 오류복구 및 Log-Structured File Systems.md",
-    "SSD/OS/23. 파일 시스템 구현.md",
     "SSD/OS",
     "SSD/Algorithm",
     "SSD",
