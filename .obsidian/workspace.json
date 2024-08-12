@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "9cb4f11aade84b0a",
+    "id": "92c862c8692ac55f",
     "type": "split",
     "children": [
       {
-        "id": "d088ac006e17ef67",
+        "id": "75541127b4cb4b35",
         "type": "tabs",
         "children": [
           {
-            "id": "dc3c6512539bf098",
+            "id": "92255315ae8aaf05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-04(일).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0e1c4cf4751608f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduler/2024-08-09(금).md",
+                "file": "Scheduler/2024-08-12(월).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f2adbdbe6430d6dd",
+    "id": "c6d6240e7da25fd3",
     "type": "split",
     "children": [
       {
-        "id": "2b5e9cfbae05be4c",
+        "id": "64868a513f42029f",
         "type": "tabs",
         "children": [
           {
-            "id": "3d773d1b37c6c918",
+            "id": "28104fd584f211b4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "b2314ecc487a604a",
+            "id": "70f01acf562705ee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "dbb1efdd25aab90f",
+            "id": "ac193a38ed9534f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "4f963ef592cbd784",
+    "id": "2708827604e131d9",
     "type": "split",
     "children": [
       {
-        "id": "36f29288baacede2",
+        "id": "236c1455c0b39220",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0ad6d49e0f7159",
+            "id": "63024992807db8fb",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -101,12 +88,12 @@
             }
           },
           {
-            "id": "4f05a953c3c1c6e8",
+            "id": "3b065aa5488482f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-09(금).md",
+                "file": "Scheduler/2024-08-12(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +105,19 @@
             }
           },
           {
-            "id": "15294620cfe0df45",
+            "id": "9318480ed2ea4685",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-09(금).md",
+                "file": "Scheduler/2024-08-12(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "51a577ba9e45f331",
+            "id": "ffa7da214ed05338",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,12 +128,12 @@
             }
           },
           {
-            "id": "17ec8cc4f4cf8f04",
+            "id": "0829c9311798fc40",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-09(금).md"
+                "file": "Scheduler/2024-08-12(월).md"
               }
             }
           }
@@ -159,13 +146,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-emotion-picker:Emotions Picker": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "smart-connections-visualizer:Open smart connections visualizer": false,
       "obsidian-kanban:새 보드 만들기": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-emotion-picker:Emotions Picker": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -177,44 +164,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c0e1c4cf4751608f",
+  "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "Scheduler/2024-08-07(수).md",
     "Scheduler/2024-08-09(금).md",
-    "conflict-files-obsidian-git.md",
-    "Scheduler/2024-08-04(일).md",
-    "Scheduler/2024-08-03(토).md",
-    "Scheduler/2024-08-02(금).md",
-    "Scheduler/Daily Template.md",
-    "wallpaper/white_cat.jpg",
-    "wallpaper/color_cat.jpg",
-    "wallpaper/black_cat.jpg",
-    "todoist-backup-202481202318.json",
-    "Scheduler/2024-08-01(목).md",
-    "wallpaper/er_1.png",
-    "wallpaper",
-    "SSD/OS/기말 예상 문제 및 개념.md",
-    "SSD/OS/9. 메모리 관리.md",
-    "SSD/OS/8. 멀티 프로세서 스케쥴링.md",
-    "SSD/OS/6. IPC.md",
-    "SSD/OS/7. CPU 스케쥴링.md",
-    "SSD/OS/5. 프로세스.md",
-    "SSD/OS/4. OS 구현방식.md",
-    "SSD/OS/3. OS 서비스 및 시스템 콜.md",
-    "SSD/OS/26. Protection과 Security.md",
-    "SSD/OS/25. 오류복구 및 Log-Structured File Systems.md",
-    "SSD/OS/23. 파일 시스템 구현.md",
-    "SSD/OS/24. Fast File Systems.md",
-    "SSD/OS/22. 파일 시스템 개념.md",
-    "SSD/OS/20. 디스크 스케줄링.md",
-    "SSD/OS/21. RAID 구성 및 대용량 저장 시스템.md",
-    "SSD/OS/2. 운영체제 구성요소.md",
-    "SSD/OS/19. 동시성 문제.md",
-    "SSD/OS/18. 세마포어.md",
-    "SSD/OS",
-    "SSD/Algorithm",
-    "SSD",
-    "Converter",
-    "Eng Converter"
+    "Scheduler/2024-08-10(토).md",
+    "Scheduler/2024-08-08(목).md",
+    "Scheduler/2024-08-12(월).md",
+    "Scheduler/Daily Template.md"
   ]
 }
