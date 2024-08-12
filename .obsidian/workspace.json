@@ -179,6 +179,7 @@
   },
   "active": "c0e1c4cf4751608f",
   "lastOpenFiles": [
+    "Memory/소그룹 useFunnel에 대한 구현 고찰.md",
     "CPU/퍼디 계산기.md",
     "CPU/StackFlow.md",
     "SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
@@ -214,7 +215,6 @@
     "SSD/OS/5. 프로세스.md",
     "SSD/OS/4. OS 구현방식.md",
     "SSD/OS/3. OS 서비스 및 시스템 콜.md",
-    "SSD/OS/26. Protection과 Security.md",
     "SSD/OS",
     "SSD/Algorithm",
     "SSD",
