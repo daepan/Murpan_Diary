@@ -1,6 +1,0 @@
-{
-  "folder": "Scheduler",
-  "autorun": true,
-  "template": "Scheduler/Daily Template",
-  "format": "YYYY-MM-DD(ddd)"
-}
