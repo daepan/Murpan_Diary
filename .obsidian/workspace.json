@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-12(월).md",
+                "file": "Scheduler/2024-08-13(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-12(월).md",
+                "file": "Scheduler/2024-08-13(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-12(월).md",
+                "file": "Scheduler/2024-08-13(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-12(월).md"
+                "file": "Scheduler/2024-08-13(화).md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
+    "Scheduler/Daily Template.md",
     "Scheduler/2024-08-13(화).md",
+    "Scheduler/2024-08-12(월).md",
     "SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
     "SSD/Study",
     "Memory/문서화의 중요성.md",
     "Memory/7월 회고록부제BCSDLab에서 무엇을 할까.md",
     "Scheduler/2024-08-09(금).md",
     "Scheduler/2024-08-10(토).md",
-    "Scheduler/2024-08-08(목).md",
-    "Scheduler/2024-08-12(월).md",
-    "Scheduler/Daily Template.md"
+    "Scheduler/2024-08-08(목).md"
   ]
 }
