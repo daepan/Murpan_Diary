@@ -1,17 +1,31 @@
 ---
-date_daily: Daily Temp
+date_daily: <% tp.file.title.slice(0,10) %>
 achievement: 
 emotion: 
 important_date: false
 tags:
   - daily
 ---
-❮ [[Invalid date]] / [[Invalid date]] / [[Invalid date|Invalid date]] ❯
-❮❮ [[Invalid date]] | Invalid date | [[Invalid date]] ❯❯
+<%*
+    const currentMoment = moment(tp.file.title, "YYYY-MM-DD");
+    tR += '❮ ';
+	tR += '[[' + currentMoment.format('YYYY|YYYY년') + ']]' + ' / ';
+	tR += '[[' + currentMoment.format('YYYY-MM|MM월') + ']]' + ' / ';
+	tR += '[[' + currentMoment.format('gggg-[W]ww') + '|' + currentMoment.format('ww[주]') + ']]';
+	tR += ' ❯';
+	tR += '\n';
+    tR += '❮❮ ';
+    currentMoment.add(-1,'days');
+    tR += '[[' + currentMoment.format('YYYY-MM-DD(ddd)') + ']]' + ' | ';
+    currentMoment.add(1,'days');
+    tR += currentMoment.format('YYYY-MM-DD(ddd)') + ' | ';
+    currentMoment.add(1,'days');
+    tR += '[[' + currentMoment.format('YYYY-MM-DD(ddd)') + ']]';
+    currentMoment.add(-1,'days');
+    tR += ' ❯❯';
+%>
 
-> [!quote] There is only one success - to be able to spend your life in your own way.
-> 당신의 인생을 당신만의 방식으로 보낼 수 있는 것은 오직 하나의 성공입니다.
-> — Christopher Morley
+<% tp.web.daily_quote() %>
 
 ```todoist
 name: Todoist 할 일 {{task_count}}
@@ -20,12 +34,12 @@ filter: "today | overdue"
 
 ## 일정 계획표
 
-- [x] 9:00 ~ 10:00 기상 
-	- [x] 세수
-	- [x] 아침식사
-- [x] 10:00 ~ 12:00 헬스
-	- [x] 근력
-	- [x] 유산소
+- [ ] 9:00 ~ 10:00 기상 
+	- [ ] 세수
+	- [ ] 아침식사
+- [ ] 10:00 ~ 12:00 헬스
+	- [ ] 근력
+	- [ ] 유산소
 - [ ] 12:00 ~ 13:00 점심식사
 - [ ] 14:00 ~ 채워넣기
 
@@ -55,10 +69,7 @@ filter: "today | overdue"
 
 ## 하루 마무리
 ### 오늘 배운 것들
-- 자바스크립트 클래스
-	- 확장을 위해서는 extend라는 키워드를 활용한다.
-		- 메서드 오버라이딩 : 클래스에서 상속을 받은 경우 메서드를 작성할 때 부모의 클래스에 있는 메서드를 확장하거나 수정할 경우 super 키워드를 통해 가능하다.
-		- 생성자 오버라이딩 : 생성자의 경우에도 super를 통해서 부모의 생성자를 가져와서 활용할 수 있다.
+- 
 - 
 ### 오늘 감사한 일
 >[!note]
@@ -67,13 +78,13 @@ filter: "today | overdue"
 
 ## 오늘 작성한 노트
 ```dataview
-List FROM "" WHERE file.cday = date("2024-08-10") SORT file.ctime desc
+List FROM "" WHERE file.cday = date("<% tp.date.now('YYYY-MM-DD') %>") SORT file.ctime desc
 
 ```
 
 ## 오늘 수정한 노트
 ```dataview
-List FROM "" WHERE file.mday = date("2024-08-10") SORT file.mtime desc
+List FROM "" WHERE file.mday = date("<% tp.date.now('YYYY-MM-DD') %>") SORT file.mtime desc
 
 
 ```

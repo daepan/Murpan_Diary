@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "154c76e5ad17ac97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory/문서화의 중요성.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory/문서화의 중요성.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory/문서화의 중요성.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -164,8 +177,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "58552b9ed290423c",
+  "active": "154c76e5ad17ac97",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Memory/문서화의 중요성.md",
     "Memory/7월 회고록부제BCSDLab에서 무엇을 할까.md",
     "Scheduler/Daily Template.md",
     "Scheduler/2024-08-13(화).md"
