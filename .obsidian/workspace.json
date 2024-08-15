@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory/RSC가 이슈가 되는 이유.md",
+                "file": "Memory/문서화가 힘든 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory/RSC가 이슈가 되는 이유.md",
+                "file": "Memory/문서화가 힘든 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory/RSC가 이슈가 되는 이유.md",
+                "file": "Memory/문서화가 힘든 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory/RSC가 이슈가 되는 이유.md"
+                "file": "Memory/문서화가 힘든 이유.md"
               }
             }
           }
@@ -166,13 +166,13 @@
   },
   "active": "58552b9ed290423c",
   "lastOpenFiles": [
+    "Memory/RSC가 이슈가 되는 이유.md",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
     "_images/Pasted image 20240815173946.png",
     "_images/Pasted image 20240815173700.png",
     "Scheduler/2024-08-15(목).md",
     "Scheduler/2024-08-14(수).md",
-    "Memory/RSC가 이슈가 되는 이유.md",
     "conflict-files-obsidian-git.md",
     "Memory/문서화가 힘든 이유.md",
     "Memory/소그룹 useFunnel에 대한 구현 고찰.md",
