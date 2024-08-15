@@ -20,16 +20,16 @@
 	* 또한 부모 컴포넌트는 렌더링 된 후 필요한 데이터를 받아오기 시작하고 이 과정이 끝나기 전까지 자식 컴포넌트의 렌더링과 API 호출 또한 지연됩니다. 
 	* 결국 연속된 client-server API 요청과 중첩된 컴포넌트 내 API 호출 지연으로 인한 waterfall은 사용자 경험을 떨어트릴 수 있습니다
 
-Relay와 GraphQL로 waterfall 문제를 하고 있다고 하지만 이는 모든 리액트 애플리케이션에 적용하기에 적합한 솔루션은 아님.
- React 팀은 Relay와 GraphQL의 도움 없이 리액트 애플리케이션의 waterfall을 줄일 수 있는 해결책으로 React Server Component가 등장하게 된 것이다.
+* Relay와 GraphQL로 waterfall 문제를 하고 있다고 하지만 이는 모든 리액트 애플리케이션에 적용하기에 적합한 솔루션은 아님.
+* React 팀은 Relay와 GraphQL의 도움 없이 리액트 애플리케이션의 waterfall을 줄일 수 있는 해결책으로 React Server Component가 등장하게 된 것이다.
+ *  클라이언트 컴포넌트에서의 비동기 data fetching은 client-server waterfall을 야기하고 성능을 저하시키는 원인이다 이러한 워터폴을 줄이는 것이 RSC이다.
 
 1. 그렇다면 RSC는 이런 문제들을 어떻게 해결했을까?
 	1. 기존 리액트 컴포넌트의 비동기적 data fetching의 가장 큰 문제점은 클라이언트와 서버 간 요청의 high latency와 연속된 Client-Server API 요청으로 발생하는 waterfall이다.
 
 
-* 위 방식으로 데이터를 불러오는 부모와 자식 컴포넌트가 있다고 했을 때, 각 컴포넌트에서 데이터를 요청하는 경우 실제 컴포넌트가 렌더링 될 때 필요한 데이터만 가져와 보여줄 수 있다는 장점이 있지만 클라이언트와 서버 사이의 API 요청은 늘어나게 됩니다. 
-* 부모 컴포넌트는 컴포넌트 렌더링 후 필요한 데이터를 받아오기 시작하고 이 과정이 끝나기 전까지 자식 컴포넌트의 렌더링과 API 호출이 지연되며 불필요한 렌더링이 발생합니다.
-*  클라이언트 컴포넌트에서의 비동기 data fetching은 client-server waterfall을 야기하고 성능을 저하시키는 원인이다 이러한 워터
+
+
 
 
 
