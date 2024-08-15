@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "92c862c8692ac55f",
+    "id": "fe3809a3ec804bf7",
     "type": "split",
     "children": [
       {
-        "id": "75541127b4cb4b35",
+        "id": "7598f9a7901a82ec",
         "type": "tabs",
         "children": [
           {
-            "id": "92255315ae8aaf05",
+            "id": "58552b9ed290423c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "Memory/RSC 욕만 하지 말자.md",
-=======
-                "file": "Scheduler/2024-08-14(수).md",
->>>>>>> dbf4faed0a715221da6769d91d2297cefeaf27e0
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c6d6240e7da25fd3",
+    "id": "b8f9eee058e2f420",
     "type": "split",
     "children": [
       {
-        "id": "64868a513f42029f",
+        "id": "bc85ddfcaca43d6e",
         "type": "tabs",
         "children": [
           {
-            "id": "28104fd584f211b4",
+            "id": "df34187d10aeebce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "70f01acf562705ee",
+            "id": "845197c9edd2c6ba",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "ac193a38ed9534f7",
+            "id": "3364b39f1a9df913",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "2708827604e131d9",
+    "id": "b170515d8cd485e8",
     "type": "split",
     "children": [
       {
-        "id": "236c1455c0b39220",
+        "id": "cbf24b37b8199e27",
         "type": "tabs",
         "children": [
           {
-            "id": "63024992807db8fb",
+            "id": "12941bcce9cf3468",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -92,16 +88,12 @@
             }
           },
           {
-            "id": "3b065aa5488482f8",
+            "id": "9700ae40056b7d3c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Memory/RSC 욕만 하지 말자.md",
-=======
-                "file": "Scheduler/2024-08-14(수).md",
->>>>>>> dbf4faed0a715221da6769d91d2297cefeaf27e0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,23 +105,19 @@
             }
           },
           {
-            "id": "9318480ed2ea4685",
+            "id": "30d05e720a4717d6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "Memory/RSC 욕만 하지 말자.md",
-=======
-                "file": "Scheduler/2024-08-14(수).md",
->>>>>>> dbf4faed0a715221da6769d91d2297cefeaf27e0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ffa7da214ed05338",
+            "id": "e805f0a1f6f3e0e0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,16 +128,12 @@
             }
           },
           {
-            "id": "0829c9311798fc40",
+            "id": "e1590280bec013b2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "Memory/RSC 욕만 하지 말자.md"
-=======
-                "file": "Scheduler/2024-08-14(수).md"
->>>>>>> dbf4faed0a715221da6769d91d2297cefeaf27e0
               }
             }
           }
@@ -162,8 +146,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-emotion-picker:Emotions Picker": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "smart-connections-visualizer:Open smart connections visualizer": false,
@@ -180,30 +164,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92255315ae8aaf05",
+  "active": "58552b9ed290423c",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "conflict-files-obsidian-git.md",
+    "Scheduler/2024-08-15(목).md",
+    "Scheduler/2024-08-14(수).md",
     "Memory/RSC 욕만 하지 말자.md",
+    "conflict-files-obsidian-git.md",
     "Memory/문서화가 힘든 이유.md",
     "Memory/소그룹 useFunnel에 대한 구현 고찰.md",
     "Memory/7월 회고록부제BCSDLab에서 무엇을 할까.md",
     "Memory/메인 코인.md",
-    "Scheduler/2024-08-15(목).md",
-    "Scheduler/2024-08-14(수).md",
-=======
-    "Memory/문서화의 중요성.md",
-    "Scheduler/2024-08-14(수).md",
-    "Memory/메인 코인.md",
-    "Memory/7월 회고록부제BCSDLab에서 무엇을 할까.md",
-    "Scheduler/2024-08-13(화).md",
->>>>>>> dbf4faed0a715221da6769d91d2297cefeaf27e0
     "Scheduler/Daily Template.md",
-    "Scheduler/2024-08-12(월).md",
-    "SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
-    "SSD/Study",
-    "Scheduler/2024-08-09(금).md",
-    "Scheduler/2024-08-10(토).md",
-    "Scheduler/2024-08-08(목).md"
+    "Scheduler/2024-08-13(화).md"
   ]
 }
