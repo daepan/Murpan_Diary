@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-16(금).md",
+                "file": "DB/TimeTable/2024-07/2024-07-30(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-16(금).md",
+                "file": "DB/TimeTable/2024-07/2024-07-30(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-16(금).md",
+                "file": "DB/TimeTable/2024-07/2024-07-30(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-16(금).md"
+                "file": "DB/TimeTable/2024-07/2024-07-30(화).md"
               }
             }
           }
@@ -166,8 +166,18 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "Scheduler/2024-08-15(목).md",
+    "DB/TimeTable/2024-07/2024-07-23(화).md",
+    "DB/TimeTable/2024-07/2024-07-25(목).md",
+    "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
+    "DB/Drawing/Excalidraw/Drawing 2024-05-01 00.06.57.excalidraw.md",
+    "CPU/퍼디 계산기.md",
+    "Converter/기술 영어 용어 정리.md",
+    "CPU/StackFlow.md",
+    "README.md",
     "Scheduler/2024-08-16(금).md",
+    "Scheduler/2024-08-15(목).md",
     "Scheduler/2024-08-13(화).md",
     "Scheduler/2024-08-14(수).md",
     "_images/Pasted image 20240815191351.png",
