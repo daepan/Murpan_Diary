@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/TimeTable/2024-07/2024-07-30(화).md",
+                "file": "HardDisk/Portfoilo/김대관 포토폴리오.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/TimeTable/2024-07/2024-07-30(화).md",
+                "file": "HardDisk/Portfoilo/김대관 포토폴리오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/TimeTable/2024-07/2024-07-30(화).md",
+                "file": "HardDisk/Portfoilo/김대관 포토폴리오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/TimeTable/2024-07/2024-07-30(화).md"
+                "file": "HardDisk/Portfoilo/김대관 포토폴리오.md"
               }
             }
           }
@@ -166,6 +166,31 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
+    "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
+    "HardDisk/Refactor/Pasted image 20240410230329.png",
+    "HardDisk/Refactor/Pasted image 20240410230217.png",
+    "HardDisk/Refactor/Pasted image 20240410230215.png",
+    "HardDisk/Refactor/Pasted image 20240410182603.png",
+    "HardDisk/Refactor/Pasted image 20240406163057.png",
+    "HardDisk/Refactor/Pasted image 20240406153053.png",
+    "HardDisk/Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
+    "HardDisk/Refactor/Git을 통한 협업.pdf",
+    "HardDisk/Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
+    "HardDisk/Refactor/LogIn.md",
+    "HardDisk/Refactor/Git을 통한 협업 1.pdf",
+    "HardDisk/Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
+    "HardDisk/Conference/2021FEconf.md",
+    "HardDisk/Conference/부캠라디오 5.20.md",
+    "HardDisk/Conference/kakaoConf.md",
+    "HardDisk/Conference/네이버 부스트 캠프 라디오.md",
+    "HardDisk/Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
+    "HardDisk/CSS/블로그.md",
+    "HardDisk/CSS/display.md",
+    "HardDisk/CSS/gltf 파일을 통한 3D 렌더링.md",
+    "HardDisk/CSS/Pasted image 20240414211621.png",
+    "HardDisk/MEMO/Carepows flow 관련 정리 문서.md",
+    "Scheduler/2024-08-19(월).md",
+    "DB/TimeTable/2024-07/2024-07-30(화).md",
     "DB/TimeTable/2024-07/2024-07-23(화).md",
     "DB/TimeTable/2024-07/2024-07-25(목).md",
     "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
@@ -177,24 +202,8 @@
     "CPU/StackFlow.md",
     "README.md",
     "Scheduler/2024-08-16(금).md",
-    "Scheduler/2024-08-15(목).md",
-    "Scheduler/2024-08-13(화).md",
-    "Scheduler/2024-08-14(수).md",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
-    "_images/Pasted image 20240815173946.png",
-    "_images/Pasted image 20240815173700.png",
-    "Memory/문서화가 힘든 이유.md",
-    "Memory/RSC가 이슈가 되는 이유.md",
-    "Memory/문서화의 중요성.md",
-    "Memory/메인 코인.md",
-    "Memory/7월 회고록부제BCSDLab에서 무엇을 할까.md",
-    "Scheduler/Daily Template.md",
-    "Scheduler/2024-08-12(월).md",
-    "SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
-    "SSD/Study",
-    "Scheduler/2024-08-09(금).md",
-    "Scheduler/2024-08-10(토).md",
-    "Scheduler/2024-08-08(목).md"
+    "SSD/Study"
   ]
 }
