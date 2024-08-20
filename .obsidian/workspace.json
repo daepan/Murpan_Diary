@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory/문서화가 힘든 이유.md",
+                "file": "Scheduler/2024-08-20(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory/문서화가 힘든 이유.md",
+                "file": "Scheduler/2024-08-20(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory/문서화가 힘든 이유.md",
+                "file": "Scheduler/2024-08-20(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory/문서화가 힘든 이유.md"
+                "file": "Scheduler/2024-08-20(화).md"
               }
             }
           }
@@ -166,6 +166,8 @@
   },
   "active": "58552b9ed290423c",
   "lastOpenFiles": [
+    "Memory/문서화가 힘든 이유.md",
+    "Scheduler/2024-08-20(화).md",
     "Memory/RSC가 이슈가 되는 이유.md",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
@@ -174,7 +176,6 @@
     "Scheduler/2024-08-15(목).md",
     "Scheduler/2024-08-14(수).md",
     "conflict-files-obsidian-git.md",
-    "Memory/문서화가 힘든 이유.md",
     "Memory/소그룹 useFunnel에 대한 구현 고찰.md",
     "Memory/7월 회고록부제BCSDLab에서 무엇을 할까.md",
     "Memory/메인 코인.md",
