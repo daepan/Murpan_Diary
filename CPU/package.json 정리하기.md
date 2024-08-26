@@ -3,4 +3,8 @@
 하지만 이러한 업데이트는 우리가 프로젝트에서의 패키지에 대한 의존성의 명확한 정의와 일관성을 더욱 요구하게 되었습니다. Plug'n'Play(PnP) 모드의 도입으로 의존성 충돌 방지와 설정 관리의 중요성이 커졌습니다. 또한, 플러그인 기반 구조와 Zero-Installs 기능이 추가되면서, 보안 유지와 호환성 관리가 더욱 중요한 과제가 되었습니다. 따라서, package.json을 체계적으로 관리하지 않으면 프로젝트의 안정성과 보안이 위협받을 수 있습니다.
 이에 따라서 현재 BCSD Lab에서 활동하고 있는 레거시 그룹에서, 이러한 Yarn Berry 업데이트 이후에 package.json에 대한 관리가 소홀했음을 확인하고 이에 대해 의존성을 정리하고, 정리 방식에 대해 작성해보겠습니다.
 
-## 현재 우리의 package.json
+## 현재 우리의 package.json 문제점
+
+### `dependencies`와 `devDependencies` 의 이해
+현재 우리 프로젝트에서의 dependecies에 문제가 있었습니다.
+dependecies의 `@types/~`나 `@testing/~`과 같은 
