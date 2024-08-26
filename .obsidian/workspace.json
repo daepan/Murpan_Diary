@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory/관심 있는 회사 리스트업.md",
+                "file": "Scheduler/2024-08-26(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory/관심 있는 회사 리스트업.md",
+                "file": "Scheduler/2024-08-26(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory/관심 있는 회사 리스트업.md",
+                "file": "Scheduler/2024-08-26(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory/관심 있는 회사 리스트업.md"
+                "file": "Scheduler/2024-08-26(월).md"
               }
             }
           }
@@ -166,8 +166,9 @@
   },
   "active": "58552b9ed290423c",
   "lastOpenFiles": [
-    "Scheduler/2024-08-20(화).md",
     "Memory/관심 있는 회사 리스트업.md",
+    "Scheduler/2024-08-26(월).md",
+    "Scheduler/2024-08-20(화).md",
     "Scheduler/2024-08-19(월).md",
     "Scheduler/2024-08-16(금).md",
     "Memory/문서화가 힘든 이유.md",
