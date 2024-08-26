@@ -7,4 +7,8 @@
 
 ### `dependencies`와 `devDependencies` 의 이해
 현재 우리 프로젝트에서의 dependecies에 문제가 있었습니다.
-dependecies의 `@types/~`나 `@testing/~`과 같은 
+dependecies에 `@types/~`나 `@testing/~`과 같은 개발 환경에서 코드 작성, 테스트, 타입 검사를 위해 필요한 내용을 넣었습니다. 이렇게 넣게 될 경우에는 발생할 수 있는 문제는 아래와 같습니다.
+
+* 프로덕션 빌드 크기의 증가
+	* 
+* 의존성 충돌, 보안 취약점 증가
