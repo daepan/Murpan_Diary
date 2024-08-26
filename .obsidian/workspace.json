@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HardDisk/Portfoilo/김대관 포토폴리오.md",
+                "file": "Scheduler/2024-08-26(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HardDisk/Portfoilo/김대관 포토폴리오.md",
+                "file": "Scheduler/2024-08-26(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HardDisk/Portfoilo/김대관 포토폴리오.md",
+                "file": "Scheduler/2024-08-26(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HardDisk/Portfoilo/김대관 포토폴리오.md"
+                "file": "Scheduler/2024-08-26(월).md"
               }
             }
           }
@@ -166,6 +166,8 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
+    "HardDisk/Portfoilo/김대관 포토폴리오.md",
+    "Scheduler/2024-08-26(월).md",
     "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
     "HardDisk/Refactor/Pasted image 20240410230329.png",
     "HardDisk/Refactor/Pasted image 20240410230217.png",
@@ -200,8 +202,6 @@
     "CPU/퍼디 계산기.md",
     "Converter/기술 영어 용어 정리.md",
     "CPU/StackFlow.md",
-    "README.md",
-    "Scheduler/2024-08-16(금).md",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
     "SSD/Study"
