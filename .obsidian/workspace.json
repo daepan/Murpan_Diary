@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-08-28(수).md",
+                "file": "CPU/package.json 정리하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-08-28(수).md",
+                "file": "CPU/package.json 정리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-08-28(수).md",
+                "file": "CPU/package.json 정리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-08-28(수).md"
+                "file": "CPU/package.json 정리하기.md"
               }
             }
           }
@@ -166,8 +166,10 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "CPU/package.json 정리하기.md",
+    "CPU/StackFlow.md",
+    "CPU/퍼디 계산기.md",
     "Scheduler/2024-08-28(수).md",
+    "CPU/package.json 정리하기.md",
     "Scheduler/2024-08-26(월).md",
     "Scheduler/2024-08-20(화).md",
     "Memory/관심 있는 회사 리스트업.md",
@@ -200,8 +202,6 @@
     "DB/TimeTable/2024-07/2024-07-23(화).md",
     "DB/TimeTable/2024-07/2024-07-25(목).md",
     "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
     "SSD/Study"

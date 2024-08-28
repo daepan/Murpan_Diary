@@ -54,6 +54,11 @@ Recoil은 프로젝트를 처음 시작했을때 사용했던 전역 상태관�
 
 ```js
 // 이전 Content-Type의 경우
-if (request.method === HTTP_METHOD.POST || request.method === HTTP_METHOD.PUT)
-
+if (request.method === HTTP_METHOD.POST 
+	|| request.method === HTTP_METHOD.PUT) {
+	headers['Content-Type'] = 'application/json'
+}
 ```
+
+일단 아직은 사진 업로드와 관련된 기능과 관련해서는 url 기준으로 처리를 했습니다.
+아직 더
