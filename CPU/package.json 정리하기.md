@@ -103,3 +103,7 @@ export class UploadFile<R extends UploadImage> implements APIRequest<R> {
 	constructor() : ~~
 }
 ```
+
+이외에도 다양한 [버전업 과정](https://github.com/bmuenzenmeyer/axios-1.0.0-migration-guide/)에 대한 이야기가 있지만, 프로젝트에 해당되는 에러가 엄청 많이 있지는 않았습니다.
+하지만 항상 이런 버전업 업데이트 과정에서 예상치 못한 에러에 대해서 많은 고민도 하고 불안감이 생깁니다.
+"잘 되던 코드를 다시 검증해야한다" 라는 것에서 많은 두려움이 개선되
