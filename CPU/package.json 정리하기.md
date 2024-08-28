@@ -64,33 +64,42 @@ TypeScript에 맞게 적용하는 방법을 해봤습니다.
 먼저 기본적으로 직접 관리하는 API Request에 대한 bodyType에 대한 타입을 변경하여 다른 부원들도 하드 코딩을 지양하도록 이를 수정하였습니다. 
 
 ```js
+export const BODY_TYPE = {
+	MULTIPART: 'multipart',
+	JSON: 'json',
+} as const;
+// ...
+
 export type HTTPBodyType = typeof BODY_TYPE[keyof typeof BODY_TYPE];
-
   
-
+//...
 export type APIRequest<R extends APIResponse> = {
-
-response: R
-
-path: string
-
-method: HTTPMethod
-
-params?: any
-
-data?: any
-
-baseURL?: string
-
-authorization?: string;
-
-bodyType?: HTTPBodyType;
-
-headers?: Record<string, string>
-
-parse?: (data: AxiosResponse<R>) => R
-
-convertBody?: (data: any) => any
-
+	response: R
+	path: string
+	method: HTTPMethod
+	params?: any
+	data?: any
+	baseURL?: string
+	authorization?: string;
+	bodyType?: HTTPBodyType;
+	headers?: Record<string, string>
+	parse?: (data: AxiosResponse<R>) => R
+	convertBody?: (data: any) => any
 };
+
+// 사용 시
+
+export class UploadFile<R extends UploadImage> implements APIRequest<R> {
+	method = HTTP_METHOD.POST;
+	
+	response!: R;
+
+	path = '~~';
+
+	bodyType = BODY_TYPE.MULTIPART; // 간단하게 추가 가능!
+
+	data: ~~;
+
+	constructor() : ~~
+}
 ```
