@@ -50,7 +50,7 @@ Recoil은 프로젝트를 처음 시작했을때 사용했던 전역 상태관�
 1.x.x 버전으로 올린다고 생각했지만, 잠시 주춤했습니다. 왜냐하면 앞에 1이 붙은 순간 메이저 업데이트를 진행한 것으로 현재 있는 프로젝트에서 많은 이슈가 있을꺼라는 생각이 들었습니다. 그래서 천천히 메이저 업데이트 이후에 발생할 수 있는 이슈를 먼저 정리해두기로 하였습니다.
 
 ### headers에 대한 Content-Type에 대한 정의
-코인은 원래 단순 정보 전달용으로 일방적인 수신의 입장에서 웹을 구성해뒀습니다. 하지만 이제는 실제로 리뷰하기 기능이라는 사용자가 직접 내용을 올릴 수 있는 기능이 추가 됨으로써 Content-Type에 대한 변경이 필요했습니다.
+`코인 - 한기대 사람들`은 원래 단순 정보 전달용으로 일방적인 수신의 입장에서 웹을 구성해뒀습니다. 하지만 이제는 실제로 리뷰하기 기능이라는 사용자가 직접 내용을 올릴 수 있는 기능이 추가 됨으로써 Content-Type에 대한 변경이 필요했습니다.
 
 ```js
 // 이전 Content-Type의 경우
@@ -60,6 +60,37 @@ if (request.method === HTTP_METHOD.POST
 }
 ```
 
-일단 아직은 사진 업로드와 관련된 기능과 관련해서는 url 기준으로 처리를 했습니다.
-
 TypeScript에 맞게 적용하는 방법을 해봤습니다.
+먼저 기본적으로 직접 관리하는 API Request에 대한 bodyType에 대한 타입을 변경하여 다른 부원들도 하드 코딩을 지양하도록 이를 수정하였습니다. 
+
+```js
+export type HTTPBodyType = typeof BODY_TYPE[keyof typeof BODY_TYPE];
+
+  
+
+export type APIRequest<R extends APIResponse> = {
+
+response: R
+
+path: string
+
+method: HTTPMethod
+
+params?: any
+
+data?: any
+
+baseURL?: string
+
+authorization?: string;
+
+bodyType?: HTTPBodyType;
+
+headers?: Record<string, string>
+
+parse?: (data: AxiosResponse<R>) => R
+
+convertBody?: (data: any) => any
+
+};
+```
