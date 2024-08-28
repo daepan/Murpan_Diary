@@ -61,4 +61,5 @@ if (request.method === HTTP_METHOD.POST
 ```
 
 일단 아직은 사진 업로드와 관련된 기능과 관련해서는 url 기준으로 처리를 했습니다.
-아직 더
+
+TypeScript에 맞게 적용하는 방법을 해봤습니다.
