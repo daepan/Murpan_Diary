@@ -54,6 +54,6 @@ Recoil은 프로젝트를 처음 시작했을때 사용했던 전역 상태관�
 
 ```js
 // 이전 Content-Type의 경우
-if ()
+if (request.method === HTTP_METHOD.POST || request.method === HTTP_METHOD.PUT)
 
 ```
