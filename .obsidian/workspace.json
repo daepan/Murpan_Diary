@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU/package.json 정리하기.md",
+                "file": "SSD/DataBase/Database의 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/package.json 정리하기.md",
+                "file": "SSD/DataBase/Database의 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU/package.json 정리하기.md",
+                "file": "SSD/DataBase/Database의 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU/package.json 정리하기.md"
+                "file": "SSD/DataBase/Database의 개념.md"
               }
             }
           }
@@ -166,10 +166,13 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
+    "Scheduler/2024-09-02(월).md",
+    "SSD/DataBase/Database의 개념.md",
+    "SSD/DataBase",
+    "CPU/package.json 정리하기.md",
     "CPU/StackFlow.md",
     "CPU/퍼디 계산기.md",
     "Scheduler/2024-08-28(수).md",
-    "CPU/package.json 정리하기.md",
     "Scheduler/2024-08-26(월).md",
     "Scheduler/2024-08-20(화).md",
     "Memory/관심 있는 회사 리스트업.md",
@@ -200,8 +203,6 @@
     "Scheduler/2024-08-19(월).md",
     "DB/TimeTable/2024-07/2024-07-30(화).md",
     "DB/TimeTable/2024-07/2024-07-23(화).md",
-    "DB/TimeTable/2024-07/2024-07-25(목).md",
-    "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
     "SSD/Study"
