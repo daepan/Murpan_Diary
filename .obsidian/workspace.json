@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-09-04(수).md",
+                "file": "SSD/OS/1. 운영체제란.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-09-04(수).md",
+                "file": "SSD/OS/1. 운영체제란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-09-04(수).md",
+                "file": "SSD/OS/1. 운영체제란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-09-04(수).md"
+                "file": "SSD/OS/1. 운영체제란.md"
               }
             }
           }
@@ -166,12 +166,12 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "DB/TimeTable/2024-08/2024-08-01(목).md",
-    "DB/TimeTable/2024-08/2024-08-28(수).md",
-    "Scheduler/2024-09-04(수).md",
-    "DB/TimeTable/2024-08",
     "SSD/DataBase/Database의 개념.md",
     "Scheduler/2024-09-02(월).md",
+    "Scheduler/2024-09-04(수).md",
+    "DB/TimeTable/2024-08/2024-08-01(목).md",
+    "DB/TimeTable/2024-08/2024-08-28(수).md",
+    "DB/TimeTable/2024-08",
     "SSD/DataBase",
     "CPU/package.json 정리하기.md",
     "CPU/StackFlow.md",
