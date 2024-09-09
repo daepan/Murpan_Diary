@@ -8,7 +8,10 @@ Genenration: Fabricate the structure
 Optimization: Improve the resulting structure
 
 
-# 온라인 강좌 올라올 예정
+# 추석 때 온라인 강좌 올라올 예정
 
 * Source Code => Lexical Analysis,Syntax Analysis, Semantic analysis, IR Genenration : FrontEnd => IR Optimization, Genenration, Optimization: BackEnd => 
 
+
+## Lexical Analysis
+* T_While : Token_While
