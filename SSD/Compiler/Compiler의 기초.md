@@ -15,3 +15,9 @@ Optimization: Improve the resulting structure
 
 ## Lexical Analysis
 * T_While : Token_While
+
+## Syntax Analysis
+
+## Semantic Analysis
+
+## IR Generation
