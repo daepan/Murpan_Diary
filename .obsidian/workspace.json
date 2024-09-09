@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSD/AI/CNN's.md",
+                "file": "SSD/Compiler/Compiler의 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSD/AI/CNN's.md",
+                "file": "SSD/Compiler/Compiler의 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSD/AI/CNN's.md",
+                "file": "SSD/Compiler/Compiler의 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSD/AI/CNN's.md"
+                "file": "SSD/Compiler/Compiler의 기초.md"
               }
             }
           }
@@ -166,8 +166,10 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "SSD/OS/1. 운영체제란.md",
     "SSD/AI/CNN's.md",
+    "SSD/Compiler/Compiler의 기초.md",
+    "SSD/Compiler",
+    "SSD/OS/1. 운영체제란.md",
     "SSD/AI",
     "SSD/DataBase/Database의 개념.md",
     "Scheduler/2024-09-02(월).md",
@@ -203,7 +205,6 @@
     "HardDisk/Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
     "HardDisk/CSS/블로그.md",
     "HardDisk/CSS/display.md",
-    "HardDisk/CSS/gltf 파일을 통한 3D 렌더링.md",
     "HardDisk/CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
