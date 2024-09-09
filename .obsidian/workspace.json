@@ -137,12 +137,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +164,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92255315ae8aaf05",
+  "active": "0829c9311798fc40",
   "lastOpenFiles": [
     "SSD/AI/CNN's.md",
     "SSD/Compiler/Compiler의 기초.md",

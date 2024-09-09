@@ -7,9 +7,6 @@ IR Optimization: Simplify the intended structure
 Genenration: Fabricate the structure
 Optimization: Improve the resulting structure
 
-
-# 추석 때 온라인 강좌 올라올 예정
-
 * Source Code => Lexical Analysis,Syntax Analysis, Semantic analysis, IR Genenration : FrontEnd => IR Optimization, Genenration, Optimization: BackEnd => 
 
 
@@ -21,3 +18,6 @@ Optimization: Improve the resulting structure
 ## Semantic Analysis
 
 ## IR Generation
+
+
+# Scannig a Source File
