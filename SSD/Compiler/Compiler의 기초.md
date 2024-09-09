@@ -21,3 +21,7 @@ Optimization: Improve the resulting structure
 
 
 # Scannig a Source File
+
+
+## Scannig is Hard
+* C++ : Nested template declaration
