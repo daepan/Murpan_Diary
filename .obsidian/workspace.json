@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/코인 리코드 - Team.business.md",
+                "file": "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/코인 리코드 - Team.business.md",
+                "file": "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/코인 리코드 - Team.business.md",
+                "file": "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/코인 리코드 - Team.business.md"
+                "file": "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md"
               }
             }
           },
@@ -174,15 +174,15 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
+    "Area of responsibility/CPU/StackFlow.md",
     "Project/코인 리코드 - Team.business.md",
+    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "README.md",
     "Area of responsibility",
     "Resource",
     "Archive",
     "Project",
     "Resource/SSD/Compiler/Compiler의 기초.md",
-    "Area of responsibility/CPU/StackFlow.md",
     "Resource/SSD/Study/package.json 정리하기.md",
     "Resource/SSD/AI/CNN's.md",
     "Resource/SSD/Compiler",
