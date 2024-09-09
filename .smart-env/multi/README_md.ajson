@@ -2,3 +2,10 @@
 "SmartBlock:README.md#": {"key":"README.md#","path":"README.md#","embeddings":{},"text":null,"length":233,"class_name":"SmartBlock","heading":null,"lines":[2,9]}
 "SmartBlock:README.md#💻 CPU": {"key":"README.md#💻 CPU","path":"README.md#💻 CPU","embeddings":{},"text":null,"length":111,"class_name":"SmartBlock","heading":"💻 CPU","lines":[12,15]}
 "SmartBlock:README.md#💾 Memory": {"key":"README.md#💾 Memory","path":"README.md#💾 Memory","embeddings":{},"text":null,"length":106,"class_name":"SmartBlock","heading":"💾 Memory","lines":[16,19]}
+"SmartNote:README.md": null
+"SmartBlock:README.md#": {"key":"README.md#","path":"README.md#","embeddings":{},"text":null,"length":284,"class_name":"SmartBlock","heading":null,"lines":[2,9],"embedding":{}}
+"SmartBlock:README.md#Project (프로젝트)": {"key":"README.md#Project (프로젝트)","path":"README.md#Project (프로젝트)","embeddings":{},"text":null,"length":161,"class_name":"SmartBlock","heading":"Project (프로젝트)","lines":[12,15]}
+"SmartBlock:README.md#Area of responsibility (책임 영역)": {"key":"README.md#Area of responsibility (책임 영역)","path":"README.md#Area of responsibility (책임 영역)","embeddings":{},"text":null,"length":168,"class_name":"SmartBlock","heading":"Area of responsibility (책임 영역)","lines":[16,18]}
+"SmartBlock:README.md#Area of responsibility (책임 영역)#💻 CPU": {"key":"README.md#Area of responsibility (책임 영역)#💻 CPU","path":"README.md#Area of responsibility (책임 영역)#💻 CPU","embeddings":{},"text":null,"length":111,"class_name":"SmartBlock","heading":"💻 CPU","lines":[19,22]}
+"SmartBlock:README.md#Resource (리소스)": {"key":"README.md#Resource (리소스)","path":"README.md#Resource (리소스)","embeddings":{},"text":null,"length":144,"class_name":"SmartBlock","heading":"Resource (리소스)","lines":[23,25]}
+"SmartBlock:README.md#Resource (리소스)#💾 Memory": {"key":"README.md#Resource (리소스)#💾 Memory","path":"README.md#Resource (리소스)#💾 Memory","embeddings":{},"text":null,"length":106,"class_name":"SmartBlock","heading":"💾 Memory","lines":[26,28]}

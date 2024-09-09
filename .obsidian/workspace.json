@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Project/코인 리코드 - Team.business.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Project/코인 리코드 - Team.business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Project/코인 리코드 - Team.business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +133,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Project/코인 리코드 - Team.business.md"
               }
+            }
+          },
+          {
+            "id": "305c40f4b099c77b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,13 +172,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "28104fd584f211b4",
+  "active": "92255315ae8aaf05",
   "lastOpenFiles": [
+    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
+    "Project/코인 리코드 - Team.business.md",
+    "README.md",
     "Area of responsibility",
     "Resource",
     "Archive",
     "Project",
-    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
     "Area of responsibility/CPU/StackFlow.md",
     "Resource/SSD/Study/package.json 정리하기.md",
@@ -207,10 +217,8 @@
     "Archive/HardDisk/Conference/부캠라디오 5.20.md",
     "Archive/HardDisk/Conference/kakaoConf.md",
     "Archive/HardDisk/Conference/네이버 부스트 캠프 라디오.md",
-    "Archive/HardDisk/Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
     "Archive/HardDisk/CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240815191351.png",
-    "_images/Pasted image 20240815174009.png",
-    "Resource/SSD/Study"
+    "_images/Pasted image 20240815174009.png"
   ]
 }

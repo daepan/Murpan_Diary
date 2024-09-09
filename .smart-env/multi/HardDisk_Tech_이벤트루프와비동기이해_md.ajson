@@ -2,3 +2,7 @@
 "SmartBlock:HardDisk/Tech/이벤트루프와비동기이해.md#": {"key":"HardDisk/Tech/이벤트루프와비동기이해.md#","path":"HardDisk/Tech/이벤트루프와비동기이해.md#","embeddings":{},"text":null,"length":743,"class_name":"SmartBlock","heading":null,"lines":[10,49]}
 "SmartBlock:HardDisk/Tech/이벤트루프와비동기이해.md#1. 콜스택": {"key":"HardDisk/Tech/이벤트루프와비동기이해.md#1. 콜스택","path":"HardDisk/Tech/이벤트루프와비동기이해.md#1. 콜스택","embeddings":{},"text":null,"length":952,"class_name":"SmartBlock","heading":"1. 콜스택","lines":[50,83]}
 "SmartBlock:HardDisk/Tech/이벤트루프와비동기이해.md#2. 에러핸들링": {"key":"HardDisk/Tech/이벤트루프와비동기이해.md#2. 에러핸들링","path":"HardDisk/Tech/이벤트루프와비동기이해.md#2. 에러핸들링","embeddings":{},"text":null,"length":959,"class_name":"SmartBlock","heading":"2. 에러핸들링","lines":[84,126]}
+"SmartNote:HardDisk/Tech/이벤트루프와비동기이해.md": null
+"SmartBlock:HardDisk/Tech/이벤트루프와비동기이해.md#": {"key":"HardDisk/Tech/이벤트루프와비동기이해.md#","path":"HardDisk/Tech/이벤트루프와비동기이해.md#","embeddings":{},"text":null,"length":743,"class_name":"SmartBlock","heading":null,"lines":[10,49]}
+"SmartBlock:HardDisk/Tech/이벤트루프와비동기이해.md#1. 콜스택": {"key":"HardDisk/Tech/이벤트루프와비동기이해.md#1. 콜스택","path":"HardDisk/Tech/이벤트루프와비동기이해.md#1. 콜스택","embeddings":{},"text":null,"length":952,"class_name":"SmartBlock","heading":"1. 콜스택","lines":[50,83]}
+"SmartBlock:HardDisk/Tech/이벤트루프와비동기이해.md#2. 에러핸들링": {"key":"HardDisk/Tech/이벤트루프와비동기이해.md#2. 에러핸들링","path":"HardDisk/Tech/이벤트루프와비동기이해.md#2. 에러핸들링","embeddings":{},"text":null,"length":959,"class_name":"SmartBlock","heading":"2. 에러핸들링","lines":[84,126]}
