@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU/내가 쓰는 이력서에 대한 고찰.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/내가 쓰는 이력서에 대한 고찰.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU/내가 쓰는 이력서에 대한 고찰.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU/내가 쓰는 이력서에 대한 고찰.md"
+                "file": "README.md"
               }
             }
           }
@@ -164,11 +164,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92255315ae8aaf05",
+  "active": "28104fd584f211b4",
   "lastOpenFiles": [
+    "Area of responsibility",
+    "Resource",
+    "Archive",
+    "Project",
+    "Project/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "SSD/Compiler/Compiler의 기초.md",
-    "CPU/내가 쓰는 이력서에 대한 고찰.md",
-    "CPU/StackFlow.md",
+    "Project/CPU/StackFlow.md",
     "SSD/Study/package.json 정리하기.md",
     "SSD/AI/CNN's.md",
     "SSD/Compiler",
@@ -204,7 +208,6 @@
     "HardDisk/Conference/kakaoConf.md",
     "HardDisk/Conference/네이버 부스트 캠프 라디오.md",
     "HardDisk/Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
-    "HardDisk/CSS/블로그.md",
     "HardDisk/CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
