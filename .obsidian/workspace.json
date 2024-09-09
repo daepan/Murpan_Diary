@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSD/Compiler/Compiler의 기초.md",
+                "file": "CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSD/Compiler/Compiler의 기초.md",
+                "file": "CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSD/Compiler/Compiler의 기초.md",
+                "file": "CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSD/Compiler/Compiler의 기초.md"
+                "file": "CPU/내가 쓰는 이력서에 대한 고찰.md"
               }
             }
           }
@@ -164,10 +164,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0829c9311798fc40",
+  "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "SSD/AI/CNN's.md",
+    "CPU/StackFlow.md",
+    "CPU/내가 쓰는 이력서에 대한 고찰.md",
+    "SSD/Study/package.json 정리하기.md",
     "SSD/Compiler/Compiler의 기초.md",
+    "SSD/AI/CNN's.md",
     "SSD/Compiler",
     "SSD/OS/1. 운영체제란.md",
     "SSD/AI",
@@ -178,8 +181,6 @@
     "DB/TimeTable/2024-08/2024-08-28(수).md",
     "DB/TimeTable/2024-08",
     "SSD/DataBase",
-    "CPU/package.json 정리하기.md",
-    "CPU/StackFlow.md",
     "CPU/퍼디 계산기.md",
     "DB/TimeTable/2024-08/2024-08-26(월).md",
     "DB/TimeTable/2024-08/2024-08-20(화).md",
@@ -204,7 +205,6 @@
     "HardDisk/Conference/네이버 부스트 캠프 라디오.md",
     "HardDisk/Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
     "HardDisk/CSS/블로그.md",
-    "HardDisk/CSS/display.md",
     "HardDisk/CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png",
