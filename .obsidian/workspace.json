@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/AI/텐서 플로우.md",
+                "file": "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/AI/텐서 플로우.md",
+                "file": "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/AI/텐서 플로우.md",
+                "file": "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/AI/텐서 플로우.md"
+                "file": "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md"
               }
             }
           },
@@ -172,10 +172,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92255315ae8aaf05",
+  "active": "28104fd584f211b4",
   "lastOpenFiles": [
-    "Resource/SSD/Algorithm/동적계획법.md",
     "Resource/SSD/AI/텐서 플로우.md",
+    "Resource/SSD/Algorithm/동적계획법.md",
     "Resource/SSD/AI/CNN's.md",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Area of responsibility/CPU/StackFlow.md",
