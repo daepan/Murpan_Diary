@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
+                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
+                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
+                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md"
+                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
     "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
-    "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
     "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+    "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
     "Resource/SSD/AI/텐서 플로우.md",
     "Resource/SSD/컴퓨터보안",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
