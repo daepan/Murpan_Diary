@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92255315ae8aaf05",
+  "active": "0829c9311798fc40",
   "lastOpenFiles": [
     "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "Resource/SSD/컴퓨터보안/침입탐지와 차단 시스템.md",
