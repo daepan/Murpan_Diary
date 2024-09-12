@@ -1710,6 +1710,342 @@
         "v2_object_id": "6Vrr5639F4PcGfJM",
         "v2_parent_item_id": null,
         "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-09-09T06:40:54.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "자바스크립트 스터디 매주 금요일",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273901117,
+        "id": 25187583639,
+        "initiator_id": null,
+        "object_id": "8256909541",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr4RWppMJqcPwv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:54.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "알고리즘 대회 대비 알고리즘 공부",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273899912,
+        "id": 25187582418,
+        "initiator_id": null,
+        "object_id": "8256914243",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr4m632grRr46M",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:53.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "퍼스트디센던트 프로토타입 페이지 만들기",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273899786,
+        "id": 25187582290,
+        "initiator_id": null,
+        "object_id": "8256911077",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr4Whc6HhmcWCv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-09-09T06:40:53.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "레거시 그룹 활동",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273899757,
+        "id": 25187582280,
+        "initiator_id": null,
+        "object_id": "8256913090",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr4gR272QHMHqv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:49.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "React DeepDive 스터디",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273899456,
+        "id": 25187581965,
+        "initiator_id": null,
+        "object_id": "8256918201",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr4w43JRpJ2VRM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "포토폴리오 만들기",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273899968,
+        "id": 25187582477,
+        "initiator_id": null,
+        "object_id": "8256912253",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr4cR59P9hfxPM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:46.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "React-Portal 전역화 기능 관련 글 정리",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273898205,
+        "id": 25187580729,
+        "initiator_id": null,
+        "object_id": "8256917396",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr4rhX4F2CCwpv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:45.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273899820,
+        "id": 25187582329,
+        "initiator_id": null,
+        "object_id": "8256920123",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr542Fjj2Vgrcv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:45.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "포토폴리오 + 이력서 업데이트",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273899652,
+        "id": 25187582161,
+        "initiator_id": null,
+        "object_id": "8256916769",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr4qc7wggMxpqM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:45.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273898363,
+        "id": 25187580870,
+        "initiator_id": null,
+        "object_id": "8256921156",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183101",
+        "v2_object_id": "6Vrr5639F4PcGfJM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
+      },
+      {
+        "event_date": "2024-09-09T06:40:44.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "React.memo 100번 써보기",
+          "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+          "last_description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273897776,
+        "id": 25187580288,
+        "initiator_id": null,
+        "object_id": "8256919668",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337183107",
+        "v2_object_id": "6Vrr5338pW5qJrXM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrr2wJ3VPjx7whF"
+      },
+      {
+        "event_date": "2024-09-09T06:40:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "15:00 ~ 18:30 옵시디언 세컨드 브레인 세팅 ✅ 2024-08-01",
+          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273898531,
+        "id": 25187581051,
+        "initiator_id": null,
+        "object_id": "8256967355",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr837QfcG8gwvM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-09T06:40:36.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "11:00 ~ 12:00 기상 및 간단 식사 ✅ 2024-08-01",
+          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273897848,
+        "id": 25187580352,
+        "initiator_id": null,
+        "object_id": "8256967058",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr82RV7PgVgCfv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-09T06:40:35.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "12:00 ~ 14:00 헬스 ✅ 2024-08-01",
+          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273896093,
+        "id": 25187578611,
+        "initiator_id": null,
+        "object_id": "8256967160",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr82gRqh8CwrMv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-09T06:40:33.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "19:00 ~ 20:00 휴식 ✅ 2024-08-01",
+          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273896177,
+        "id": 25187578691,
+        "initiator_id": null,
+        "object_id": "8256967460",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr83J8PCRF3mQM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-09T06:40:33.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "14:00 ~ 15:00 점심식사 ✅ 2024-08-01",
+          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273895447,
+        "id": 25187577957,
+        "initiator_id": null,
+        "object_id": "8256967263",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr82w86p4cpWcv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
       }
     ]
   },
