@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,7 +171,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92255315ae8aaf05",
+  "active": "63024992807db8fb",
   "lastOpenFiles": [
     "Resource/SSD/AI/텐서 플로우.md",
     "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
