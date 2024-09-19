@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+                "file": "Resource/SSD/컴퓨터보안/OSINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+                "file": "Resource/SSD/컴퓨터보안/OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+                "file": "Resource/SSD/컴퓨터보안/OSINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md"
+                "file": "Resource/SSD/컴퓨터보안/OSINT.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
     "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+    "Resource/SSD/컴퓨터보안/OSINT.md",
+    "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
     "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
     "Resource/SSD/AI/텐서 플로우.md",
     "Resource/SSD/컴퓨터보안",
@@ -216,7 +217,6 @@
     "Archive/HardDisk/Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
     "Archive/HardDisk/Refactor/Git을 통한 협업.pdf",
     "Archive/HardDisk/Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
-    "Archive/HardDisk/Refactor/LogIn.md",
     "Archive/HardDisk/CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240815191351.png",
     "_images/Pasted image 20240815174009.png"
