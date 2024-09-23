@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "75541127b4cb4b35",
+        "id": "0d50845155a1d4ce",
         "type": "tabs",
         "children": [
           {
-            "id": "92255315ae8aaf05",
+            "id": "61fe717caa83d0b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/SSD/DataBase/관계형 데이터 모델.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/DataBase/관계형 데이터 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/DataBase/관계형 데이터 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resource/SSD/DataBase/관계형 데이터 모델.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,10 +164,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92255315ae8aaf05",
+  "active": "61fe717caa83d0b6",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/Database의 개념.md",
+    "이름 없는 보드.md",
     "Resource/SSD/DataBase/관계형 데이터 모델.md",
+    "Resource/SSD/DataBase/Database의 개념.md",
     "Resource/SSD/Compiler/Top-Down Parsing.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
     "Resource/SSD/DataBase/DataBase 관리 시스템.md",
@@ -208,7 +201,6 @@
     "CPU/퍼디 계산기.md",
     "Archive/DB/TimeTable/2024-08/2024-08-26(월).md",
     "Archive/DB/TimeTable/2024-08/2024-08-20(화).md",
-    "Resource/Memory/관심 있는 회사 리스트업.md",
     "Archive/HardDisk/Refactor/Pasted image 20240410230329.png",
     "Archive/HardDisk/Refactor/Pasted image 20240410230217.png",
     "Archive/HardDisk/Refactor/Pasted image 20240410230215.png",
