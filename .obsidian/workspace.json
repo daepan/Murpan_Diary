@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/Compiler/Top-Down Parsing.md",
+                "file": "Resource/SSD/DataBase/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/Compiler/Top-Down Parsing.md",
+                "file": "Resource/SSD/DataBase/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/Compiler/Top-Down Parsing.md",
+                "file": "Resource/SSD/DataBase/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/Compiler/Top-Down Parsing.md"
+                "file": "Resource/SSD/DataBase/무제 파일.md"
               }
             }
           },
@@ -174,10 +174,11 @@
   },
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
-    "Resource/SSD/Compiler/Compiler의 기초.md",
-    "Resource/SSD/Compiler/Top-Down Parsing.md",
-    "Resource/SSD/DataBase/DataBase 관리 시스템.md",
     "Resource/SSD/DataBase/Database의 개념.md",
+    "Resource/SSD/DataBase/무제 파일.md",
+    "Resource/SSD/Compiler/Top-Down Parsing.md",
+    "Resource/SSD/Compiler/Compiler의 기초.md",
+    "Resource/SSD/DataBase/DataBase 관리 시스템.md",
     "Resource/SSD/컴퓨터보안/OSINT.md",
     "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
@@ -208,7 +209,6 @@
     "Archive/DB/TimeTable/2024-08/2024-08-26(월).md",
     "Archive/DB/TimeTable/2024-08/2024-08-20(화).md",
     "Resource/Memory/관심 있는 회사 리스트업.md",
-    "Archive/HardDisk/Portfoilo/김대관 포토폴리오.md",
     "Archive/HardDisk/Refactor/Pasted image 20240410230329.png",
     "Archive/HardDisk/Refactor/Pasted image 20240410230217.png",
     "Archive/HardDisk/Refactor/Pasted image 20240410230215.png",
