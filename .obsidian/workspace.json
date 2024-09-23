@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/무제 파일.md",
+                "file": "Resource/SSD/DataBase/관계형 데이터 모델.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/DataBase/무제 파일.md",
+                "file": "Resource/SSD/DataBase/관계형 데이터 모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/DataBase/무제 파일.md",
+                "file": "Resource/SSD/DataBase/관계형 데이터 모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/DataBase/무제 파일.md"
+                "file": "Resource/SSD/DataBase/관계형 데이터 모델.md"
               }
             }
           },
@@ -175,7 +175,7 @@
   "active": "92255315ae8aaf05",
   "lastOpenFiles": [
     "Resource/SSD/DataBase/Database의 개념.md",
-    "Resource/SSD/DataBase/무제 파일.md",
+    "Resource/SSD/DataBase/관계형 데이터 모델.md",
     "Resource/SSD/Compiler/Top-Down Parsing.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
     "Resource/SSD/DataBase/DataBase 관리 시스템.md",
