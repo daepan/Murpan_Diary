@@ -23,6 +23,12 @@ Pmodel = 주어진 데이터셋으로부터 추정한 확률분포
 
 • GAN의 모드 붕괴mode collapse 현상 § 학습률 조정 – 생성망과 분별망의 학습률을 적절히 조절하여 네트워크가 균형있게 학습하도 록 함 § 다양한 정규화 방법 – Batch Norm과 같은 정규화 기법을 이용하여 학습의 안정성을 높이고, 특정 모드 에 과도하게 수렴하는 것을 방지 § Alternative Loss function – Wasserstein GAN (WGAN)과 같은 대안적 손실 함수 제안
 
+
+### GAN – WGAN
+Wasserstein GAN (WGAN) § 2017년 아르좁스키의 논문에서 제안됨 – WGAN은 GAN을 안정적으로 학습하기 위해 제안됨 § 다음 두 가지 속성이 있는 GAN을 학습하기 위한 방법 – 생성자가 수렴하는 것과 샘플의 품질을 연관 짓는 의미 있는 손실 측정 방법 – 최적화 과정의 안정성 향상 § Wasserstein Distance를 이용
+
+Wasserstein Distance는 결합 분포 �(�, �)를 통해 � → �로 변환하는 작업량 을 최소화함
+
 ## 다룸 가능(tractable)
 에서 무수히 많이 샘플링하여 데이터셋 를 무한히 크게 하면 로 추정한 은 와 같게 됨
 
