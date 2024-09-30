@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
+                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "2708827604e131d9",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
+                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
+                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md"
+                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md"
               }
             }
           },
@@ -174,10 +173,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0829c9311798fc40",
+  "active": "61fe717caa83d0b6",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
+    "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+    "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
     "Resource/SSD/AI/GAN's.md",
     "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
     "Resource/SSD/DataBase/관계대수 연산자.md",
@@ -208,7 +208,6 @@
     "Resource/SSD/Compiler",
     "Resource/SSD/OS/1. 운영체제란.md",
     "Resource/SSD/AI",
-    "Resource/Scheduler/2024-09-02(월).md",
     "Archive/DB/TimeTable/2024-08",
     "Resource/SSD/DataBase",
     "Archive/HardDisk/Refactor/Pasted image 20240410230329.png",
