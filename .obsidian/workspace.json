@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2708827604e131d9",
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +174,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "61fe717caa83d0b6",
+  "active": "0829c9311798fc40",
   "lastOpenFiles": [
     "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
