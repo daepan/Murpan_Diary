@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
+                "file": "Resource/SSD/AI/GAN's.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
+                "file": "Resource/SSD/AI/GAN's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
+                "file": "Resource/SSD/AI/GAN's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md"
+                "file": "Resource/SSD/AI/GAN's.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "61fe717caa83d0b6",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/관계대수 연산자.md",
     "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
+    "Resource/SSD/AI/GAN's.md",
+    "Resource/SSD/DataBase/관계대수 연산자.md",
     "Resource/SSD/DataBase/관계대수.md",
     "Resource/SSD/DataBase/관계형 데이터 모델.md",
     "Resource/SSD/DataBase/DataBase 관리 시스템.md",
@@ -206,7 +207,6 @@
     "Resource/Scheduler/2024-09-02(월).md",
     "Resource/Scheduler/2024-09-04(수).md",
     "Archive/DB/TimeTable/2024-08/2024-08-01(목).md",
-    "Archive/DB/TimeTable/2024-08/2024-08-28(수).md",
     "Archive/DB/TimeTable/2024-08",
     "Resource/SSD/DataBase",
     "Archive/HardDisk/Refactor/Pasted image 20240410230329.png",
