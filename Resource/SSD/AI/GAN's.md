@@ -28,7 +28,10 @@ Pmodel = 주어진 데이터셋으로부터 추정한 확률분포
 Wasserstein GAN (WGAN) § 2017년 아르좁스키의 논문에서 제안됨 – WGAN은 GAN을 안정적으로 학습하기 위해 제안됨 § 다음 두 가지 속성이 있는 GAN을 학습하기 위한 방법 – 생성자가 수렴하는 것과 샘플의 품질을 연관 짓는 의미 있는 손실 측정 방법 – 최적화 과정의 안정성 향상 § Wasserstein Distance를 이용
 
 Wasserstein Distance는 결합 분포 �(�, �)를 통해 � → �로 변환하는 작업량 을 최소화함
+Wasserstein Distance를 사용해야 하는 이유 § 기존의 GAN (DCGAN)은 JS-Divergence를 최소화하는 손실 함수로 학습 – p, q 즉 실제 데이터 분포와 생성 데이터 분포가 겹치지 않을 때 상수값을 가짐.
+GAN은 불안정한 학습을 보이는 반면, WGAN은 안정적인 학습을 보임
 
+WGAN 손실 함수 § Wasserstein loss function은 [0, 1] 대신 [-1, 1]을 사용 – 따라서, DCGAN의 Discriminator에서 사용한 마지막 sigmoid를 삭제 (Sigmoid는 결과 값을 (0, 1) 사이로 만들기 때문) – WGAN은 Discriminator (Critic)에 활성함수를 사용하지 않아, [−∞, ∞]범위의 숫자 가 될 수 있도록 만듦
 ## 다룸 가능(tractable)
 에서 무수히 많이 샘플링하여 데이터셋 를 무한히 크게 하면 로 추정한 은 와 같게 됨
 
