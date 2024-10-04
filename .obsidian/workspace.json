@@ -11,12 +11,8 @@
             "id": "5f4e0a8529e475e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Memory/React.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,10 +156,23 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "28104fd584f211b4",
+  "active": "5f4e0a8529e475e7",
   "lastOpenFiles": [
-    "Resource/Memory/React.md",
+    "이름 없는 보드.md",
+    "Resource/SSD/컴퓨터보안/OSINT.md",
+    "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
+    "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
+    "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
+    "Resource/SSD/DataBase/관계형 데이터 모델.md",
+    "Resource/SSD/DataBase/관계대수.md",
+    "Resource/SSD/DataBase/관계대수 연산자.md",
+    "Resource/SSD/DataBase/DataBase 관리 시스템.md",
+    "Resource/SSD/Compiler/Top-Down Parsing.md",
+    "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+    "Resource/SSD/AI/GAN's.md",
+    "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
     "conflict-files-obsidian-git.md",
+    "Resource/Memory/React.md",
     "Project/코인 리코드 - Team.business.md",
     "Project",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
@@ -180,19 +187,6 @@
     "Resource/SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
     "Resource/SSD/Study/package.json 정리하기.md",
     "Resource/SSD/OS/기말 예상 문제 및 개념.md",
-    "Resource/SSD/OS/9. 메모리 관리.md",
-    "Resource/SSD/OS/8. 멀티 프로세서 스케쥴링.md",
-    "Resource/SSD/OS/7. CPU 스케쥴링.md",
-    "Resource/SSD/OS/6. IPC.md",
-    "Resource/SSD/OS/5. 프로세스.md",
-    "Resource/SSD/OS/4. OS 구현방식.md",
-    "Resource/SSD/OS/3. OS 서비스 및 시스템 콜.md",
-    "Resource/SSD/OS/26. Protection과 Security.md",
-    "Resource/SSD/OS/25. 오류복구 및 Log-Structured File Systems.md",
-    "Resource/SSD/OS/24. Fast File Systems.md",
-    "Resource/SSD/OS/23. 파일 시스템 구현.md",
-    "Resource/SSD/OS/22. 파일 시스템 개념.md",
-    "Resource/SSD/OS/21. RAID 구성 및 대용량 저장 시스템.md",
     "Resource/SSD/컴퓨터보안",
     "Resource/SSD/DataBase",
     "Resource/SSD/Study",
