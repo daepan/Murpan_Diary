@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Memory/무제 파일.md",
+                "file": "Area of responsibility/CPU/윤섭 분석 글.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/Memory/무제 파일.md",
+                "file": "Area of responsibility/CPU/윤섭 분석 글.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/Memory/무제 파일.md",
+                "file": "Area of responsibility/CPU/윤섭 분석 글.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Memory/무제 파일.md"
+                "file": "Area of responsibility/CPU/윤섭 분석 글.md"
               }
             }
           }
@@ -166,6 +166,8 @@
   },
   "active": "5f4e0a8529e475e7",
   "lastOpenFiles": [
+    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
+    "Area of responsibility/CPU/윤섭 분석 글.md",
     "Resource/Memory/무제 파일.md",
     "이름 없는 보드.md",
     "Resource/SSD/컴퓨터보안/OSINT.md",
@@ -184,7 +186,6 @@
     "Resource/Memory/React.md",
     "Project/코인 리코드 - Team.business.md",
     "Project",
-    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Area of responsibility/CPU/StackFlow.md",
     "Area of responsibility/CPU",
     "Area of responsibility",
@@ -194,7 +195,6 @@
     "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
     "Resource/SSD/DataBase/Database의 개념.md",
     "Resource/SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
-    "Resource/SSD/Study/package.json 정리하기.md",
     "Resource/SSD/컴퓨터보안",
     "Resource/SSD/DataBase",
     "Resource/SSD/Study",
