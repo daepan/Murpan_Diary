@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75541127b4cb4b35",
+        "id": "a4c6ee5c649b2d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "92255315ae8aaf05",
+            "id": "5f4e0a8529e475e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scheduler/2024-09-12(목).md",
+                "file": "Resource/Memory/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scheduler/2024-09-12(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scheduler/2024-09-12(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scheduler/2024-09-12(목).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -164,46 +162,53 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92255315ae8aaf05",
+  "active": "28104fd584f211b4",
   "lastOpenFiles": [
-    "CPU/package.json 정리하기.md",
+    "Resource/Memory/React.md",
+    "conflict-files-obsidian-git.md",
+    "Project/코인 리코드 - Team.business.md",
+    "Project",
+    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
+    "Area of responsibility/CPU/StackFlow.md",
+    "Area of responsibility/CPU",
+    "Area of responsibility",
     "Scheduler/2024-09-12(목).md",
-    "Scheduler/2024-08-26(월).md",
-    "Scheduler/2024-08-20(화).md",
-    "Memory/관심 있는 회사 리스트업.md",
-    "HardDisk/Portfoilo/김대관 포토폴리오.md",
-    "HardDisk/Portfoilo/24년 상반기 회고록=그대들은 무엇을하고 살것인가.md",
-    "HardDisk/Refactor/Pasted image 20240410230329.png",
-    "HardDisk/Refactor/Pasted image 20240410230217.png",
-    "HardDisk/Refactor/Pasted image 20240410230215.png",
-    "HardDisk/Refactor/Pasted image 20240410182603.png",
-    "HardDisk/Refactor/Pasted image 20240406163057.png",
-    "HardDisk/Refactor/Pasted image 20240406153053.png",
-    "HardDisk/Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
-    "HardDisk/Refactor/Git을 통한 협업.pdf",
-    "HardDisk/Refactor/KOIN 프로젝트 - 이미지 에러처리에 관한 고찰.md",
-    "HardDisk/Refactor/LogIn.md",
-    "HardDisk/Refactor/Git을 통한 협업 1.pdf",
-    "HardDisk/Refactor/Git을 통한 협업 (Merge 대신 Rebase, Squash Merge).md",
-    "HardDisk/Conference/2021FEconf.md",
-    "HardDisk/Conference/부캠라디오 5.20.md",
-    "HardDisk/Conference/kakaoConf.md",
-    "HardDisk/Conference/네이버 부스트 캠프 라디오.md",
-    "HardDisk/Conference/개발자는 어떻게 학습하고 성장해야하는가.md",
-    "HardDisk/CSS/블로그.md",
-    "HardDisk/CSS/display.md",
-    "HardDisk/CSS/gltf 파일을 통한 3D 렌더링.md",
-    "HardDisk/CSS/Pasted image 20240414211621.png",
-    "HardDisk/MEMO/Carepows flow 관련 정리 문서.md",
-    "Scheduler/2024-08-19(월).md",
-    "DB/TimeTable/2024-07/2024-07-30(화).md",
-    "DB/TimeTable/2024-07/2024-07-23(화).md",
-    "DB/TimeTable/2024-07/2024-07-25(목).md",
-    "DB/Drawing/Excalidraw/Drawing 2024-07-05 14.41.46.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
-    "DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
-    "_images/Pasted image 20240815191351.png",
-    "_images/Pasted image 20240815174009.png",
-    "SSD/Study"
+    "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
+    "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+    "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
+    "Resource/SSD/DataBase/Database의 개념.md",
+    "Resource/SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
+    "Resource/SSD/Study/package.json 정리하기.md",
+    "Resource/SSD/OS/기말 예상 문제 및 개념.md",
+    "Resource/SSD/OS/9. 메모리 관리.md",
+    "Resource/SSD/OS/8. 멀티 프로세서 스케쥴링.md",
+    "Resource/SSD/OS/7. CPU 스케쥴링.md",
+    "Resource/SSD/OS/6. IPC.md",
+    "Resource/SSD/OS/5. 프로세스.md",
+    "Resource/SSD/OS/4. OS 구현방식.md",
+    "Resource/SSD/OS/3. OS 서비스 및 시스템 콜.md",
+    "Resource/SSD/OS/26. Protection과 Security.md",
+    "Resource/SSD/OS/25. 오류복구 및 Log-Structured File Systems.md",
+    "Resource/SSD/OS/24. Fast File Systems.md",
+    "Resource/SSD/OS/23. 파일 시스템 구현.md",
+    "Resource/SSD/OS/22. 파일 시스템 개념.md",
+    "Resource/SSD/OS/21. RAID 구성 및 대용량 저장 시스템.md",
+    "Resource/SSD/컴퓨터보안",
+    "Resource/SSD/DataBase",
+    "Resource/SSD/Study",
+    "Resource/SSD/OS",
+    "Resource/SSD/Compiler",
+    "Resource/SSD/Algorithm",
+    "Resource/SSD/AI",
+    "Archive/HardDisk/Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240410230329.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240410230217.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240410230215.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240410230130.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240410182603.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240406162616.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240406162602.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240406163057.png",
+    "Archive/HardDisk/Refactor/Pasted image 20240406162446.png"
   ]
 }
