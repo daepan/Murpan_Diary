@@ -11,8 +11,12 @@
             "id": "5f4e0a8529e475e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Memory/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resource/Memory/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resource/Memory/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Resource/Memory/무제 파일.md"
+              }
             }
           }
         ]
@@ -158,6 +166,7 @@
   },
   "active": "5f4e0a8529e475e7",
   "lastOpenFiles": [
+    "Resource/Memory/무제 파일.md",
     "이름 없는 보드.md",
     "Resource/SSD/컴퓨터보안/OSINT.md",
     "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
@@ -186,7 +195,6 @@
     "Resource/SSD/DataBase/Database의 개념.md",
     "Resource/SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
     "Resource/SSD/Study/package.json 정리하기.md",
-    "Resource/SSD/OS/기말 예상 문제 및 개념.md",
     "Resource/SSD/컴퓨터보안",
     "Resource/SSD/DataBase",
     "Resource/SSD/Study",
