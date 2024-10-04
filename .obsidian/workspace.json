@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+                "file": "Area of responsibility/CPU/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+                "file": "Area of responsibility/CPU/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+                "file": "Area of responsibility/CPU/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md"
+                "file": "Area of responsibility/CPU/무제 파일.md"
               }
             }
           },
@@ -175,8 +175,9 @@
   },
   "active": "61fe717caa83d0b6",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
     "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+    "Area of responsibility/CPU/무제 파일.md",
+    "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
     "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
     "Resource/SSD/AI/GAN's.md",
     "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
@@ -206,7 +207,6 @@
     "Project",
     "Resource/SSD/Study/package.json 정리하기.md",
     "Resource/SSD/Compiler",
-    "Resource/SSD/OS/1. 운영체제란.md",
     "Resource/SSD/AI",
     "Archive/DB/TimeTable/2024-08",
     "Resource/SSD/DataBase",
