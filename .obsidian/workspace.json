@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
+                "file": "Resource/SSD/AI/AutoEncoder.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
+                "file": "Resource/SSD/AI/AutoEncoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
+                "file": "Resource/SSD/AI/AutoEncoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md"
+                "file": "Resource/SSD/AI/AutoEncoder.md"
               }
             }
           },
@@ -175,11 +175,12 @@
   },
   "active": "61fe717caa83d0b6",
   "lastOpenFiles": [
+    "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
+    "Resource/SSD/AI/AutoEncoder.md",
     "Resource/Memory/무제 파일.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
     "Archive/DB/TimeTable/2024-08/2024-09-12(목).md",
     "Resource/SSD/Compiler/Bottom-Up Parsing.md",
-    "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
     "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
     "Resource/SSD/AI/GAN's.md",
@@ -201,7 +202,6 @@
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Resource/SSD/Algorithm/동적계획법.md",
     "Resource/SSD/AI/CNN's.md",
-    "Area of responsibility/CPU/StackFlow.md",
     "Area of responsibility",
     "Resource",
     "Archive",
