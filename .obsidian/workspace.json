@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md",
+                "file": "Area of responsibility/CPU/글또 10기를 시작하며.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md",
+                "file": "Area of responsibility/CPU/글또 10기를 시작하며.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md",
+                "file": "Area of responsibility/CPU/글또 10기를 시작하며.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md"
+                "file": "Area of responsibility/CPU/글또 10기를 시작하며.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "61fe717caa83d0b6",
   "lastOpenFiles": [
-    "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
     "Resource/SSD/AI/AutoEncoder.md",
+    "Area of responsibility/CPU/글또 10기를 시작하며.md",
     "Resource/Memory/무제 파일.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
     "Archive/DB/TimeTable/2024-08/2024-09-12(목).md",
