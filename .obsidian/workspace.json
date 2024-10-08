@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md",
+                "file": "Area of responsibility/CPU/리액트 상태 분석.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md",
+                "file": "Area of responsibility/CPU/리액트 상태 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md",
+                "file": "Area of responsibility/CPU/리액트 상태 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md"
+                "file": "Area of responsibility/CPU/리액트 상태 분석.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/데이터 모델링.md",
     "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md",
+    "Resource/SSD/DataBase/데이터 모델링.md",
     "Resource/SSD/AI/AutoEncoder.md",
     "Resource/Memory/무제 파일.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
