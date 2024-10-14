@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md",
+                "file": "Resource/SSD/DataBase/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md",
+                "file": "Resource/SSD/DataBase/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md",
+                "file": "Resource/SSD/DataBase/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md"
+                "file": "Resource/SSD/DataBase/무제 파일.md"
               }
             }
           },
@@ -188,6 +188,8 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
+    "Resource/SSD/AI/AutoEncoder.md",
+    "Resource/SSD/DataBase/무제 파일.md",
     "_images/Pasted image 20241014101940.png",
     "Area of responsibility/CPU/StackFlow.md",
     "Resource/SSD/AI/무제 파일.md",
@@ -196,7 +198,6 @@
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
     "Resource/SSD/DataBase/데이터 모델링.md",
-    "Resource/SSD/AI/AutoEncoder.md",
     "Resource/Memory/무제 파일.md",
     "Archive/DB/TimeTable/2024-08/2024-09-12(목).md",
     "Resource/SSD/Compiler/Bottom-Up Parsing.md",
@@ -232,7 +233,6 @@
     "Archive/HardDisk/Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
     "Archive/HardDisk/Refactor/Git을 통한 협업.pdf",
     "Archive/HardDisk/CSS/Pasted image 20240414211621.png",
-    "_images/Pasted image 20240815191351.png",
-    "_images/Pasted image 20240815174009.png"
+    "_images/Pasted image 20240815191351.png"
   ]
 }
