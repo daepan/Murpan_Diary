@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
+                "file": "Resource/SSD/증강현실/Unity.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
+                "file": "Resource/SSD/증강현실/Unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
+                "file": "Resource/SSD/증강현실/Unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md"
+                "file": "Resource/SSD/증강현실/Unity.md"
               }
             }
           },
@@ -189,8 +189,10 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/ER 다이어그램의 표기법.md",
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
+    "Resource/SSD/증강현실/Unity.md",
+    "Resource/SSD/증강현실",
+    "Resource/SSD/DataBase/ER 다이어그램의 표기법.md",
     "Resource/SSD/AI/AutoEncoder.md",
     "_images/Pasted image 20241014101940.png",
     "Area of responsibility/CPU/StackFlow.md",
@@ -215,7 +217,6 @@
     "이름 없는 보드.md",
     "Resource/SSD/Compiler/Top-Down Parsing.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
-    "Resource/SSD/컴퓨터보안/OSINT.md",
     "Resource/SSD/컴퓨터보안",
     "Area of responsibility",
     "Resource",
@@ -232,7 +233,6 @@
     "Archive/HardDisk/Refactor/Pasted image 20240406163057.png",
     "Archive/HardDisk/Refactor/Pasted image 20240406153053.png",
     "Archive/HardDisk/Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
-    "Archive/HardDisk/Refactor/Git을 통한 협업.pdf",
     "Archive/HardDisk/CSS/Pasted image 20240414211621.png",
     "_images/Pasted image 20240815191351.png"
   ]
