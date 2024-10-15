@@ -49,4 +49,20 @@
 - 충돌체라는 뜻
 - 종류
 	- 연산량 :  구 < 캡슐 < 박스 <<< 매쉬
-	- 
+- Collision
+	- Collider의 Is Trigger를 사용하지 않을 경우
+	- Collision을 함
+	- 물리적인 충돌을 한다
+
+## Enter/Stay/Exit
+- Enter : 충돌을 시작할 때 
+- Stay : 충돌 중일 때 
+- Exit : 충돌이 끝날 때
+
+- OntriggerEnter(충돌되는 오브젝트) 
+- OntriggerStay(충돌되는 오브젝트) => 충돌하지 않고 그냥 지나감
+- OntriggerExit(충돌되는 오브젝트) 
+
+- OncollisionEnter(충돌되는 오브젝트) 
+- OncollisionStay(충돌되는 오브젝트) => 두 물체가 충돌함
+- OncollisionExit(충돌되는 오브젝트)
