@@ -114,6 +114,67 @@ abstract
 	- Augment bison rules to do checking durgin parsing
 - Recursive AST Walk
 
+### Challenges in Semantic Analysis  
+A. Reject the largest number of ( incorrect ) programs.
+B. Accept the largest number of ( correct ) programs. 
+C. Do so ( quickly ).
+
+### Other Goals of Semantic Analysis
+Gather useful information about program for later phases:
+
+1. Determine what variables are meant by each ( identifier ).
+    
+2. Build an internal ( representation ) of inheritance hierarchies.
+    
+3. Count how many variables are in ( scope ) at each point.
+    
+
+### Implementing Semantic Analysis
+
+( Attribute ) Grammars
+
+1. Augment bison rules to do checking during parsing.
+    
+2. Approach suggested in the Compilers book.
+    
+3. Has its limitations; more on that later.
+    
+
+( Recursive ) AST Walk
+
+1. Construct the AST, then use virtual functions and recursion to explore the tree.
+    
+2. The approach we'll take in this class.
+    
+
+### Two kinds of checking in Sematic Analysis
+( Scope )-Checking
+
+1. How can we tell what object a particular identifier refers to?
+    
+2. How do we store this information?
+    
+
+( Type )-Checking
+
+1. How can we tell whether expressions have valid types?
+    
+2. How do we know all function calls have valid arguments?
+    
+
+<Scope & Symbol Tables>
+
+A. The scope of an entity is the set of ( locations ) in a program where that entity's name refers to that entity.
+
+B. A symbol table is a ( mapping ) from a name to the thing that name
+
+refers to.
+
+### Spaghetti Stacks 
+A. Treat the symbol table as a ( linked ) structure of scopes.  
+B. Each scope stores a pointer to its ( parents ), but not vice-versa.  
+C. From any point in the program, symbol table appears to be a ( stack ).
+
 ## IR Generation
 
 
