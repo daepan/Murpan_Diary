@@ -24,8 +24,11 @@ Optimization: Improve the resulting structure
 * Regular expressions are a family of descriptions that can be used to capture certain languages (the regular languages)
 
 ### Atomic Regular Expression
-- The symbol ε is a regular expreession matches the empty string
-- For any symbol a, the symbol a is a regular expression tha
+- The symbol **ε** is a regular expreession matches the empty string
+- For any symbol a, the symbol **a** is a regular expression that just matches a.
+
+### Compound Regular Expressions
+- if R1 and R2 are regular expressions, R1R2 is a regular expreesion represents the **concatenation** of the languages of R1 
 
 ## Syntax Analysis
 
