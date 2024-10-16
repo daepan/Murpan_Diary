@@ -60,7 +60,9 @@ Optimization: Improve the resulting structure
 
 ### Context-Free Grammars
 - A context-free grammar is a formalism for defining languages.
-- Can define the context-free languages,
+- Can define the context-free languages, a strict superset of the the regular languages.
+
+### Derivations
 
 ## Semantic Analysis
 
