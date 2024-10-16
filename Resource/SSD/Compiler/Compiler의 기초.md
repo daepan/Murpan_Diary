@@ -36,6 +36,14 @@ Optimization: Improve the resulting structure
 * There ar two main kinds of finite automata
 	* NFAs (nondeterministic finite automata)
 	* DFAs (deterministic finite automata)
+		* A DFA is like NFA, but with tighter restrictions:
+			* Every state must have **exactly one** transition defined for every letter
+
+### Whitespace Tokens
+- NEWLINE marks the end of a line
+- INDENT indicates an increase in indentaion
+- DEDENT indicates a decrease in indentation
+
 
 ## Syntax Analysis
 
