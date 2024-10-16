@@ -16,7 +16,9 @@ Optimization: Improve the resulting structure
 * here we store which integer is represented
 
 ### Goals of Lexical Analysis
-- Convert from physical description of a program into sequence of
+- Convert from physical description of a program into sequence of of **tokens**
+- Each token is associated with a **lexeme**
+- Each token may have optional **attrubutes**
 
 ### Formal Languages
 - A **formal language** is a set of strings
@@ -30,10 +32,14 @@ Optimization: Improve the resulting structure
 
 ### Compound Regular Expressions
 - if R1 and R2 are regular expressions, R1R2 is a regular expreesion represents the **concatenation** of the languages of R1 and R2
-- If R1 and R2 are regular expressions R1 | R2 is a regular expression representing the **union** of R1 and R2
+- If R1 and R2 are regular expressions **R1 | R2** is a regular expression representing the **union** of R1 and R2
 - If R is regular expression, R* is a reuglar expreession for the Kleene closure of R
 - If R is a regualr expression, **(R)** is a regular expression with the same meaning as R
 
+외울 것
+concatenation
+union
+kleene co
 ### Implementing Regular Expressions
 * Regular expressions can be implemented using **finite automata**
 * There are two main kinds of finite automata
@@ -66,7 +72,7 @@ Optimization: Improve the resulting structure
 - Can define the context-free languages, a strict superset of the the regular languages.
 
 ### Derivations
-- This sequence of steps is called a derivatino
+- This sequence of steps is called a derivations
 
 ### Leftmost derivations
 - A leftmost derivation is a derivation in which exch step expands the leftmost nonterminal
