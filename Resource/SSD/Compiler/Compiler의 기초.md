@@ -109,6 +109,11 @@ layering
 abstract
 ## Semantic Analysis
 
+### Implementing Semantic Analysis
+- Attribute Grammars
+	- Augment bison rules to do checking durgin parsing
+- Recursive AST Walk
+
 ## IR Generation
 
 
