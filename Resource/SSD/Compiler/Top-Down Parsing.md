@@ -30,4 +30,22 @@
 	- Easy to implement
 
 ### Predictive Parsing
-- The leftmost DFS/BFS algori
+- The leftmost DFS/BFS algorithms are **backtracking** algo
+- There is another class of parsing algorithms called **predictive** algo
+
+### Exploiting Lookahead
+- Idea: Use lookahead tokens
+
+## Summary
+- Top-down parsing tries to derive the user's program from the start symbol.
+    
+- Leftmost BFS is one approach to top-down parsing; it is mostly of theoretical interest.
+    
+- Leftmost DFS is another approach to top-down parsing that is uncommon in practice.
+    
+- LL(1) parsing scans from left-to-right, using one token of lookahead to find a leftmost derivation.
+    
+- FIRST sets contain terminals that may be the first symbol of a production.
+-  FOLLOW sets contain terminals that may follow a nonterminal in a production.
+    
+- ●  Left recursion and left factorability cause LL(1) to fail and can be mechanically eliminated in some cases.
