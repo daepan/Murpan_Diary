@@ -80,6 +80,10 @@ Optimization: Improve the resulting structure
 
 ### Resolving Ambiguity
 - If a grammar can be made unambiguous at all, it is usually made unambiguous through **layering**
+
+### Abstract Syntax Trees
+- A parse tree is a **concrete syntax tree**; it shows exactly how the text was derived
+- A more useful structure is an **abstract syntax tree**, which retains only the essential structure of the input
 ## Semantic Analysis
 
 ## IR Generation
