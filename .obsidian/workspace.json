@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/증강현실/Unity.md",
+                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "2708827604e131d9",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/증강현실/Unity.md",
+                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/증강현실/Unity.md",
+                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/증강현실/Unity.md"
+                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md"
               }
             }
           },
@@ -188,8 +189,9 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/증강현실/Unity.md",
+    "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
+    "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/증강현실",
     "Resource/SSD/DataBase/ER 다이어그램의 표기법.md",
     "Resource/SSD/AI/AutoEncoder.md",
@@ -215,7 +217,6 @@
     "Resource/SSD/DataBase/Database의 개념.md",
     "이름 없는 보드.md",
     "Resource/SSD/Compiler/Top-Down Parsing.md",
-    "Resource/SSD/Compiler/Compiler의 기초.md",
     "Resource/SSD/컴퓨터보안",
     "Area of responsibility",
     "Resource",
