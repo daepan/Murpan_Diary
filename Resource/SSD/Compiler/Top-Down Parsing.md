@@ -9,3 +9,25 @@
 - Each node is a **sentential form**
 
 ### Our First Top-Down Algorithm
+- Breadth-First Search
+
+
+### BFS is Slow
+- Enormus time and memory usage
+	- Lots of wasted effort
+	- High branching factor
+
+### Leftmost Derivations
+- Recall: A leftmost derivation is one where we always expand the leftmost symbol first
+- Updated algorithm
+	- Do a breadth-first search, only considering left most derivations
+
+### Leftmost DFS
+- Idea: Use depth-first search
+- advantages
+	- Lower memory usage
+	- High performance
+	- Easy to implement
+
+### Predictive Parsing
+- The leftmost DFS/BFS algori
