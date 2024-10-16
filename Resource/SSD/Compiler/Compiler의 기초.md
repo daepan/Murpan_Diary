@@ -28,7 +28,8 @@ Optimization: Improve the resulting structure
 - For any symbol a, the symbol **a** is a regular expression that just matches a.
 
 ### Compound Regular Expressions
-- if R1 and R2 are regular expressions, R1R2 is a regular expreesion represents the **concatenation** of the languages of R1 
+- if R1 and R2 are regular expressions, R1R2 is a regular expreesion represents the **concatenation** of the languages of R1 and R2
+- If R1 and R2 are regular expressions R1 | R2 is a regular
 
 ## Syntax Analysis
 
