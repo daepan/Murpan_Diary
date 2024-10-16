@@ -18,7 +18,14 @@ Optimization: Improve the resulting structure
 ### Choosing Tokens
 
 ### Formal Languages
+- A **formal language** is a set of strings
 
+### Regular Expreessions
+* Regular expressions are a family of descriptions that can be used to capture certain languages (the regular languages)
+
+### Atomic Regular Expression
+- The symbol ε is a regular expreession matches the empty string
+- For any symbol a, the symbol a is a regular expression tha
 
 ## Syntax Analysis
 
