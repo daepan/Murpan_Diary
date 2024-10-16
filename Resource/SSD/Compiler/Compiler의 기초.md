@@ -15,6 +15,9 @@ Optimization: Improve the resulting structure
 * Some tokens can have **attributes** that store extra information about the token
 * here we store which integer is represented
 
+### Goals of Lexical Analysis
+- Convert from physical description of a program into sequence of
+
 ### Formal Languages
 - A **formal language** is a set of strings
 
