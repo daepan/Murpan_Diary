@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/SQL기초.md",
+                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/DataBase/SQL기초.md",
+                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/DataBase/SQL기초.md",
+                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/DataBase/SQL기초.md"
+                "file": "Resource/SSD/Compiler/Compiler의 기초.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/DataBase/SQL기초.md",
+    "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/증강현실/Unity.md",
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/증강현실",

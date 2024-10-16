@@ -9,9 +9,10 @@ Optimization: Improve the resulting structure
 
 * Source Code => Lexical Analysis,Syntax Analysis, Semantic analysis, IR Genenration : FrontEnd => IR Optimization, Genenration, Optimization: BackEnd => 
 
+![](https://i.imgur.com/tbiZVxF.png)
 
 ## Lexical Analysis
-* T_While : Token_While
+* 
 
 ## Syntax Analysis
 
