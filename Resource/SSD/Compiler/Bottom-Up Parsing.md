@@ -12,4 +12,15 @@
 	- Contrast with the LL(1) **predict/match** parser
 - At each point, decide whether to:
 	- Move a terminal across the split( **shift** )
-	- Reduce a handl
+	- Reduce a handle ( **reduce** )
+
+### An Important Corollary
+- Consequently, shift/reduce parsing means
+	- Shift
+		- Move a terminal from the right to the left area
+	- Reduce
+		- Replace some number fo symbols at the right side of the left area
+
+### Finding Handles
+- Where do we look for handles?
+	- **At the top of the stack**
