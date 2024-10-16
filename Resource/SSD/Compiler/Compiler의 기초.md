@@ -15,8 +15,6 @@ Optimization: Improve the resulting structure
 * Some tokens can have **attributes** that store extra information about the token
 * here we store which integer is represented
 
-### Choosing Tokens
-
 ### Formal Languages
 - A **formal language** is a set of strings
 
