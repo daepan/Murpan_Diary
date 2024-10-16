@@ -31,6 +31,12 @@ Optimization: Improve the resulting structure
 - If R is regular expression, R* is a reuglar expreession for the Kleene closure of R
 - If R is a regualr expression, **(R)** is a regular expression with the same meaning as R
 
+### Implementing Regular Expressions
+* Regular expressions can be implemented using **finite automata**
+* There ar two main kinds of finite automata
+	* NFAs (nondeterministic finite automata)
+	* DFAs (deterministic finite automata)
+
 ## Syntax Analysis
 
 ## Semantic Analysis
