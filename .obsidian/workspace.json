@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+                "file": "Resource/SSD/Compiler/중간 대비 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+                "file": "Resource/SSD/Compiler/중간 대비 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+                "file": "Resource/SSD/Compiler/중간 대비 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/Compiler/Bottom-Up Parsing.md"
+                "file": "Resource/SSD/Compiler/중간 대비 정리.md"
               }
             }
           },
@@ -200,9 +200,10 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
-    "Resource/SSD/Compiler/Top-Down Parsing.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
+    "Resource/SSD/Compiler/중간 대비 정리.md",
     "Resource/SSD/Compiler/Bottom-Up Parsing.md",
+    "Resource/SSD/Compiler/Top-Down Parsing.md",
     "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/Compiler/Syntax Analysis.md",
@@ -227,7 +228,6 @@
     "Archive/DB/TimeTable/2024-08/2024-09-12(목).md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
     "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
-    "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
     "Resource/SSD/컴퓨터보안",
     "Area of responsibility",
     "Resource",
