@@ -63,7 +63,23 @@ Optimization: Improve the resulting structure
 - Can define the context-free languages, a strict superset of the the regular languages.
 
 ### Derivations
+- This sequence of steps is called a derivatino
 
+### Leftmost derivations
+- A leftmost derivation is a derivation in which exch step expands the leftmost nonterminal
+- A rightmost derivation is a derivation in which each step expands the rightmost nonterminal
+
+### Parse Trees
+- A parse tree is a tree encoding the steps in a derivation
+
+### The Goal of Parsing
+- Goal of syntax analysis: Recover the structure dexcribed by a series of tokens
+
+### Ambiguity
+- A CFG is said to be **ambiguous** if there is at least one string with two or more parse trees
+
+### Resolving Ambiguity
+- If a grammar can be made unambiguous at all, it is usually made unambiguous through **layering**
 ## Semantic Analysis
 
 ## IR Generation
