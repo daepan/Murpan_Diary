@@ -33,7 +33,7 @@ Optimization: Improve the resulting structure
 
 ### Implementing Regular Expressions
 * Regular expressions can be implemented using **finite automata**
-* There ar two main kinds of finite automata
+* There are two main kinds of finite automata
 	* NFAs (nondeterministic finite automata)
 	* DFAs (deterministic finite automata)
 		* A DFA is like NFA, but with tighter restrictions:
@@ -44,7 +44,11 @@ Optimization: Improve the resulting structure
 - INDENT indicates an increase in indentaion
 - DEDENT indicates a decrease in indentation
 
-
+### Summary
+- Lexical analysis splits input text into tokens holding a lexeme and an attribute
+- Lexemes are sets of strings often defined with regular expression
+- Regular expressions can be converted to NFAs and from there to DFAs
+- Maximal-munch using an automaton allows for fast scanning
 ## Syntax Analysis
 
 ## Semantic Analysis

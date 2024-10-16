@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
+                "file": "Resource/SSD/Compiler/Lexical Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
+                "file": "Resource/SSD/Compiler/Lexical Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
+                "file": "Resource/SSD/Compiler/Lexical Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/Compiler/Compiler의 기초.md"
+                "file": "Resource/SSD/Compiler/Lexical Analysis.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
-    "Resource/SSD/Compiler/Lexical Analysis.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
+    "Resource/SSD/Compiler/Lexical Analysis.md",
     "Resource/SSD/DataBase/SQL기초.md",
     "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/증강현실/Unity.md",
