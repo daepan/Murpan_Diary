@@ -19,7 +19,10 @@ Optimization: Improve the resulting structure
 - Convert from physical description of a program into sequence of of **tokens**
 - Each token is associated with a **lexeme**
 - Each token may have optional **attrubutes**
-
+외울 것
+tokens
+lexeme
+attributes
 ### Formal Languages
 - A **formal language** is a set of strings
 
@@ -39,7 +42,7 @@ Optimization: Improve the resulting structure
 외울 것
 concatenation
 union
-kleene co
+kleene closure
 ### Implementing Regular Expressions
 * Regular expressions can be implemented using **finite automata**
 * There are two main kinds of finite automata
@@ -58,6 +61,11 @@ kleene co
 - Lexemes are sets of strings often defined with regular expression
 - Regular expressions can be converted to NFAs and from there to DFAs
 - Maximal-munch using an automaton allows for fast scanning
+
+외울 것 
+lexemes
+regular
+maximal-munch
 ## Syntax Analysis
 
 ### What is Syntax Analysis?
@@ -70,29 +78,35 @@ kleene co
 ### Context-Free Grammars
 - A context-free grammar is a formalism for defining languages.
 - Can define the context-free languages, a strict superset of the the regular languages.
-
+외울 것
+context-free grammer
 ### Derivations
 - This sequence of steps is called a derivations
-
 ### Leftmost derivations
 - A leftmost derivation is a derivation in which exch step expands the leftmost nonterminal
 - A rightmost derivation is a derivation in which each step expands the rightmost nonterminal
 
 ### Parse Trees
 - A parse tree is a tree encoding the steps in a derivation
-
+외울 것 
+derivation
 ### The Goal of Parsing
-- Goal of syntax analysis: Recover the structure dexcribed by a series of tokens
-
+- Goal of syntax analysis: Recover the structure described by a series of tokens
+외울 것
+structure
 ### Ambiguity
 - A CFG is said to be **ambiguous** if there is at least one string with two or more parse trees
-
+외울 것
+ambiguous
 ### Resolving Ambiguity
 - If a grammar can be made unambiguous at all, it is usually made unambiguous through **layering**
-
+외울 것
+layering
 ### Abstract Syntax Trees
 - A parse tree is a **concrete syntax tree**; it shows exactly how the text was derived
 - A more useful structure is an **abstract syntax tree**, which retains only the essential structure of the input
+외울 것 
+abstract
 ## Semantic Analysis
 
 ## IR Generation

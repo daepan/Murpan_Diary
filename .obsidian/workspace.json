@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
+                "file": "Resource/SSD/Compiler/Top-Down Parsing.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
+                "file": "Resource/SSD/Compiler/Top-Down Parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/Compiler/Compiler의 기초.md",
+                "file": "Resource/SSD/Compiler/Top-Down Parsing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/Compiler/Compiler의 기초.md"
+                "file": "Resource/SSD/Compiler/Top-Down Parsing.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
+    "Resource/SSD/Compiler/Compiler의 기초.md",
     "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/Compiler/Syntax Analysis.md",
@@ -207,7 +208,6 @@
     "Resource/SSD/AI/텐서 플로우.md",
     "Resource/SSD/AI/GAN's.md",
     "Resource/SSD/AI/CNN's.md",
-    "Resource/SSD/Compiler/Compiler의 기초.md",
     "Resource/SSD/Compiler/Lexical Analysis.md",
     "Resource/SSD/DataBase/SQL기초.md",
     "Resource/SSD/증강현실/Unity.md",
