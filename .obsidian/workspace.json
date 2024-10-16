@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md",
+                "file": "Resource/SSD/Compiler/Syntax Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md",
+                "file": "Resource/SSD/Compiler/Syntax Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/AI/AutoEncoder.md"
+                "file": "Resource/SSD/Compiler/Syntax Analysis.md"
               }
             }
           },
@@ -199,10 +199,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b9eb557eda572fae",
+  "active": "ec91e13ea3510457",
   "lastOpenFiles": [
-    "Resource/SSD/AI/텐서 플로우.md",
     "Resource/SSD/AI/AutoEncoder.md",
+    "Resource/SSD/AI/텐서 플로우.md",
     "Resource/SSD/AI/GAN's.md",
     "Resource/SSD/AI/CNN's.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
