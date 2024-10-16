@@ -12,7 +12,13 @@ Optimization: Improve the resulting structure
 ![](https://i.imgur.com/tbiZVxF.png)
 
 ## Lexical Analysis
-* 
+* Some tokens can have **attributes** that store extra information about the token
+* here we store which integer is represented
+
+### Choosing Tokens
+
+### Formal Languages
+
 
 ## Syntax Analysis
 
