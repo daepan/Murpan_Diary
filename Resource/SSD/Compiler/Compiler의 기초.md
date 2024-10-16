@@ -51,6 +51,17 @@ Optimization: Improve the resulting structure
 - Maximal-munch using an automaton allows for fast scanning
 ## Syntax Analysis
 
+### What is Syntax Analysis?
+- In syntax analysis (or parsing), we wnat to interpret what those tokens mean.
+
+### Formal Languages
+- An alphabet is a set Σ of symbols that act as letters
+- A language over Σ is a set of strings made from symbols in Σ
+
+### Context-Free Grammars
+- A context-free grammar is a formalism for defining languages.
+- Can define the context-free languages,
+
 ## Semantic Analysis
 
 ## IR Generation
