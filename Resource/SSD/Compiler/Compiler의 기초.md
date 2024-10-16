@@ -29,7 +29,9 @@ Optimization: Improve the resulting structure
 
 ### Compound Regular Expressions
 - if R1 and R2 are regular expressions, R1R2 is a regular expreesion represents the **concatenation** of the languages of R1 and R2
-- If R1 and R2 are regular expressions R1 | R2 is a regular
+- If R1 and R2 are regular expressions R1 | R2 is a regular expression representing the **union** of R1 and R2
+- If R is regular expression, R* is a reuglar expreession for the Kleene closure of R
+- If R is a regualr expression, **(R)** is a regular expression with the same meaning as R
 
 ## Syntax Analysis
 
