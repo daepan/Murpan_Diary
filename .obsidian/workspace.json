@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/데이터 모델링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec91e13ea3510457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/SSD/Compiler/중간 대비 정리.md",
+                "file": "Resource/SSD/컴퓨터보안/Smurf 공격.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2708827604e131d9",
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/Compiler/중간 대비 정리.md",
+                "file": "Resource/SSD/컴퓨터보안/Smurf 공격.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/Compiler/중간 대비 정리.md",
+                "file": "Resource/SSD/컴퓨터보안/Smurf 공격.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/Compiler/중간 대비 정리.md"
+                "file": "Resource/SSD/컴퓨터보안/Smurf 공격.md"
               }
             }
           },
@@ -199,9 +185,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ec91e13ea3510457",
+  "active": "61fe717caa83d0b6",
   "lastOpenFiles": [
     "Resource/SSD/DataBase/데이터 모델링.md",
+    "Resource/SSD/컴퓨터보안/Smurf 공격.md",
     "Resource/SSD/Compiler/중간 대비 정리.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
     "Resource/SSD/Compiler/Lexical Analysis.md",
@@ -228,7 +215,6 @@
     "Resource/Memory/무제 파일.md",
     "Archive/DB/TimeTable/2024-08/2024-09-12(목).md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
-    "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
     "Resource/SSD/컴퓨터보안",
     "Area of responsibility",
     "Resource",
