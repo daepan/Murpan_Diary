@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2708827604e131d9",
@@ -200,9 +201,10 @@
   },
   "active": "ec91e13ea3510457",
   "lastOpenFiles": [
+    "Resource/SSD/DataBase/데이터 모델링.md",
+    "Resource/SSD/Compiler/중간 대비 정리.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
     "Resource/SSD/Compiler/Lexical Analysis.md",
-    "Resource/SSD/Compiler/중간 대비 정리.md",
     "Resource/SSD/Compiler/Top-Down Parsing.md",
     "Resource/SSD/Compiler/Syntax Analysis.md",
     "Resource/SSD/Compiler/Bottom-Up Parsing.md",
@@ -223,7 +225,6 @@
     "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
-    "Resource/SSD/DataBase/데이터 모델링.md",
     "Resource/Memory/무제 파일.md",
     "Archive/DB/TimeTable/2024-08/2024-09-12(목).md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
