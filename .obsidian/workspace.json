@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md",
+                "file": "Resource/SSD/DataBase/데이터 모델링.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md",
+                "file": "Resource/SSD/DataBase/데이터 모델링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md",
+                "file": "Resource/SSD/DataBase/데이터 모델링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md"
+                "file": "Resource/SSD/DataBase/데이터 모델링.md"
               }
             }
           },
@@ -195,13 +195,13 @@
   },
   "active": "e8a5ba7116b3e9c0",
   "lastOpenFiles": [
+    "Resource/SSD/DataBase/중간정리.md",
     "Resource/SSD/DataBase/관계형 데이터 모델.md",
     "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
     "Resource/SSD/DataBase/데이터 모델링.md",
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
-    "Resource/SSD/DataBase/중간정리.md",
     "Resource/SSD/DataBase/DataBase 관리 시스템.md",
     "Resource/SSD/DataBase/SQL기초.md",
     "Resource/SSD/DataBase/ER 다이어그램의 표기법.md",
