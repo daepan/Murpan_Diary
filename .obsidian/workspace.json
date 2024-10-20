@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
+                "file": "Resource/SSD/DataBase/중간정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "799d14f0a5b17e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/SSD/DataBase/DataBase 관리 시스템.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
+                "file": "Resource/SSD/DataBase/중간정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
+                "file": "Resource/SSD/DataBase/중간정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md"
+                "file": "Resource/SSD/DataBase/중간정리.md"
               }
             }
           },
@@ -183,8 +195,13 @@
   },
   "active": "e8a5ba7116b3e9c0",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
+    "Resource/SSD/DataBase/DataBase 관리 시스템.md",
+    "Resource/SSD/DataBase/중간정리.md",
+    "Resource/SSD/DataBase/관계형 데이터 모델.md",
     "Resource/SSD/DataBase/관계대수.md",
+    "Resource/SSD/DataBase/관계대수 연산자.md",
+    "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
+    "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
     "Resource/SSD/컴퓨터보안/Smurf 공격.md",
     "Resource/SSD/DataBase/데이터 모델링.md",
     "Resource/SSD/Compiler/중간 대비 정리.md",
@@ -193,7 +210,6 @@
     "Resource/SSD/Compiler/Top-Down Parsing.md",
     "Resource/SSD/Compiler/Syntax Analysis.md",
     "Resource/SSD/Compiler/Bottom-Up Parsing.md",
-    "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/AI/AutoEncoder.md",
     "Resource/SSD/AI/텐서 플로우.md",
@@ -207,10 +223,6 @@
     "Area of responsibility/CPU/StackFlow.md",
     "Resource/SSD/AI/무제 파일.md",
     "Area of responsibility/CPU/알고리즘 대비.md",
-    "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md",
-    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
-    "Area of responsibility/CPU/리액트 상태 분석.md",
-    "Resource/Memory/무제 파일.md",
     "Resource/SSD/컴퓨터보안",
     "Area of responsibility",
     "Resource",
