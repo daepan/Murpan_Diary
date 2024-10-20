@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md",
+                "file": "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
+                "file": "Resource/SSD/DataBase/중간정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,14 +194,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e8a5ba7116b3e9c0",
+  "active": "799d14f0a5b17e07",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/데이터 모델링.md",
-    "Resource/SSD/DataBase/중간정리.md",
-    "Resource/SSD/DataBase/관계형 데이터 모델.md",
-    "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
-    "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
+    "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
+    "Resource/SSD/DataBase/중간정리.md",
+    "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
+    "Resource/SSD/Compiler/중간 대비 정리.md",
+    "Resource/SSD/DataBase/데이터 모델링.md",
+    "Resource/SSD/DataBase/관계형 데이터 모델.md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
     "Resource/SSD/DataBase/DataBase 관리 시스템.md",
     "Resource/SSD/DataBase/SQL기초.md",
@@ -209,7 +211,6 @@
     "Resource/SSD/DataBase/관계대수 연산자.md",
     "Resource/SSD/DataBase/관계대수.md",
     "Resource/SSD/컴퓨터보안/Smurf 공격.md",
-    "Resource/SSD/Compiler/중간 대비 정리.md",
     "Resource/SSD/Compiler/Compiler의 기초.md",
     "Resource/SSD/Compiler/Lexical Analysis.md",
     "Resource/SSD/Compiler/Top-Down Parsing.md",
