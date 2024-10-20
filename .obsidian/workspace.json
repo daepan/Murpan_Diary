@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/Database의 개념.md",
+                "file": "Resource/SSD/DataBase/중간정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/DataBase 관리 시스템.md",
+                "file": "Resource/SSD/DataBase/Database의 개념.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,10 +194,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e8a5ba7116b3e9c0",
+  "active": "799d14f0a5b17e07",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/DataBase 관리 시스템.md",
     "Resource/SSD/DataBase/중간정리.md",
+    "Resource/SSD/DataBase/Database의 개념.md",
+    "Resource/SSD/DataBase/DataBase 관리 시스템.md",
     "Resource/SSD/DataBase/관계형 데이터 모델.md",
     "Resource/SSD/DataBase/관계대수.md",
     "Resource/SSD/DataBase/관계대수 연산자.md",
@@ -222,7 +224,6 @@
     "_images/Pasted image 20241014101940.png",
     "Area of responsibility/CPU/StackFlow.md",
     "Resource/SSD/AI/무제 파일.md",
-    "Area of responsibility/CPU/알고리즘 대비.md",
     "Resource/SSD/컴퓨터보안",
     "Area of responsibility",
     "Resource",
