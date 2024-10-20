@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/Database의 개념.md",
+                "file": "Resource/SSD/DataBase/DataBase 관리 시스템.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md",
+                "file": "Resource/SSD/DataBase/DataBase 관리 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md",
+                "file": "Resource/SSD/DataBase/DataBase 관리 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md"
+                "file": "Resource/SSD/DataBase/DataBase 관리 시스템.md"
               }
             }
           },
@@ -193,7 +194,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e8a5ba7116b3e9c0",
+  "active": "799d14f0a5b17e07",
   "lastOpenFiles": [
     "Resource/SSD/DataBase/Database의 개념.md",
     "Resource/SSD/DataBase/중간정리.md",
