@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/관계대수.md",
+                "file": "Resource/SSD/DataBase/관계대수 연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,10 +195,10 @@
   },
   "active": "e8a5ba7116b3e9c0",
   "lastOpenFiles": [
-    "Resource/SSD/DataBase/관계대수.md",
-    "Resource/SSD/DataBase/중간정리.md",
-    "Resource/SSD/DataBase/DataBase 관리 시스템.md",
     "Resource/SSD/DataBase/관계대수 연산자.md",
+    "Resource/SSD/DataBase/중간정리.md",
+    "Resource/SSD/DataBase/관계대수.md",
+    "Resource/SSD/DataBase/DataBase 관리 시스템.md",
     "Resource/SSD/DataBase/Database의 개념.md",
     "Resource/SSD/DataBase/관계형 데이터 모델.md",
     "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
