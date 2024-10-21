@@ -49,21 +49,64 @@ const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
 React의 `useMemo`와 `useCallback` 훅은 컴포넌트가 **재렌더링될 때마다 불필요한 재계산을 방지**하기 위해 메모이제이션을 사용합니다. 이를 위해 클로저를 활용해 이전 값을 기억하고, 필요 시 저장된 값을 다시 사용할 수 있게 합니다.
 
 아래 `useMemo`의 React 내부 구현 예시에서 클로저가 어떻게 작동하는지 살펴보겠습니다.
+```ts
+function mountMemo<T>(
+  nextCreate: () => T, // 메모이제이션할 값을 생성하는 함수
+  deps: Array<mixed> | void | null, // 의존성 배열
+): T {
+  const hook = mountWorkInProgressHook(); 
+  // 현재 훅의 상태를 가져옵니다. 이 훅의 상태는 클로저로 묶인 데이터입니다.
 
+  const nextDeps = deps === undefined ? null : deps; 
+  // 의존성 배열을 처리합니다. 이 배열은 클로저 안에서 기억되고, 렌더링마다 참조됩니다.
 
+  const nextValue = nextCreate(); 
+  // `nextCreate`는 클로저로 감싸져 이전 환경에 있는 값들에 접근할 수 있습니다. 
+  // 여기서 새로운 값을 계산합니다.
+
+  hook.memoizedState = [nextValue, nextDeps]; 
+  // 새로 계산된 값(nextValue)과 의존성 배열(nextDeps)을 저장하여, 다음 렌더링 시 사용합니다.
+  return nextValue; 
+}
 ```
+
 ### 클로저와 메모리의 관계
 
 위 코드에서 `nextCreate` 함수가 클로저를 통해 의존성 배열과 현재 상태를 **기억**합니다. 그 결과, **값과 의존성 배열은 메모리에 저장**되고, 이후 렌더링에서도 동일한 값을 사용하거나, 의존성 배열이 변할 때만 재계산을 수행합니다.
 
 클로저는 함수가 선언된 환경을 기억하기 때문에, React의 훅 시스템에서 메모이제이션할 값이나 함수를 기억하고 그 값들이 다시 필요할 때 사용될 수 있습니다.
 
-js
+```ts
+function updateMemo<T>(
+  nextCreate: () => T, // 메모이제이션할 값을 생성하는 함수
+  deps: Array<mixed> | void | null, // 의존성 배열
+): T {
+  const hook = updateWorkInProgressHook(); 
+  // 현재 훅의 상태를 가져옵니다. 클로저를 통해 이전 값과 의존성 배열을 참조할 수 있습니다.
 
-코드 복사
+  const nextDeps = deps === undefined ? null : deps; 
+  // 새로운 의존성 배열이 전달되었는지 확인합니다.
 
-`function updateMemo<T>(   nextCreate: () => T, // 메모이제이션할 값을 생성하는 함수   deps: Array<mixed> | void | null, // 의존성 배열 ): T {   const hook = updateWorkInProgressHook();    // 현재 훅의 상태를 가져옵니다. 클로저를 통해 이전 값과 의존성 배열을 참조할 수 있습니다.    const nextDeps = deps === undefined ? null : deps;    // 새로운 의존성 배열이 전달되었는지 확인합니다.    const prevState = hook.memoizedState;    // 이전에 메모이제이션된 값과 의존성 배열을 가져옵니다.    if (nextDeps !== null) {     const prevDeps: Array<mixed> | null = prevState[1];      if (areHookInputsEqual(nextDeps, prevDeps)) {       return prevState[0];        // 클로저를 통해 이전 값과 의존성 배열을 기억하고, 값이 변경되지 않았으면 메모이제이션된 값을 반환합니다.     }   }    const nextValue = nextCreate();    // 의존성 배열이 변경되었으므로 새로운 값을 계산합니다.    hook.memoizedState = [nextValue, nextDeps];    // 새로 계산된 값과 새로운 의존성 배열을 메모이제이션합니다.   return nextValue; }`
+  const prevState = hook.memoizedState; 
+  // 이전에 메모이제이션된 값과 의존성 배열을 가져옵니다.
 
+  if (nextDeps !== null) {
+    const prevDeps: Array<mixed> | null = prevState[1]; 
+    if (areHookInputsEqual(nextDeps, prevDeps)) {
+      return prevState[0]; 
+      // 클로저를 통해 이전 값과 의존성 배열을 기억하고, 값이 변경되지 않았으면 메모이제이션된 값을 반환합니다.
+    }
+  }
+
+  const nextValue = nextCreate(); 
+  // 의존성 배열이 변경되었으므로 새로운 값을 계산합니다.
+
+  hook.memoizedState = [nextValue, nextDeps]; 
+  // 새로 계산된 값과 새로운 의존성 배열을 메모이제이션합니다.
+  return nextValue;
+}
+
+```
 ### 메모리 사용 측면에서의 문제
 
 이처럼 클로저는 메모이제이션된 값과 그 값이 사용된 환경을 메모리에 계속해서 저장합니다. 의존성 배열이 변경되지 않으면 이 값들이 계속 메모리에 남아 있게 되므로, **메모리 사용량이 증가**할 수 있습니다.
