@@ -20,10 +20,21 @@
 React로 개발하면서 위에 제시된 최적화가 필요한 상황을 맞이하였을 때, 생각할 수 있는 것은 여러가지가 있을 수 있습니다. Throttle, debounce 같은 처리방식도 있고, React에서는 `useCallback`, `useMemo`와 같은 메모이제이션 훅을 통해 성능을 향상시킬 수 있습니다.
 
 간단하게 두 개의 훅이 어떤 것인지 정리해보겠습니다.
-> useCallback
+>1.  useCallback
 > `useCallback`은 **함수를 메모이제이션**하여, 의존성 배열이 변경되지 않는 한 동일한 함수 객체를 반환합니다. 주로 자식 컴포넌트에 함수를 props로 넘길 때, 불필요한 리렌더링을 방지하기 위해 사용합니다
 
+```js
+const memoizedCallback = useCallback(() => {
+  doSomething(a, b);
+}, [a, b]);
+```
 
+> 2. useMemo
+> `useMemo`는 **값을 메모이제이션**하여, 의존성 배열이 변경되지 않는 한 계산을 다시 하지 않고 저장된 값을 반환합니다. 주로 **비용이 많이 드는 계산**을 반복하지 않도록 할 때 사용합니다.
+
+```js
+const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
+```
 ### 사용 시 주의점
 
 ## 이런 고민할 필요가 없는걸 개발하고 있다!?
