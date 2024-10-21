@@ -16,6 +16,7 @@
 위의 코드에서 themeColor가 드래그를 통해 변경하면 themeColor를 상속 받고 있는 TodoList가 불필요하게 계속해서 재렌더링되는 성능 이슈가 발생합니다.
 이에 대해서 `memoization`이나 `debounce`등의 테크닉을 활용하는게 좋아 보인다고 생각하고 우리는 열심히 구현할 것입니다.
 
+구현 예시 : [React Conf: React without memo](https://www.youtube.com/watch?v=lGEMwh32soc)
 ### 최적화를 위한 useCallback과 useMemo
 React로 개발하면서 위에 제시된 최적화가 필요한 상황을 맞이하였을 때, 생각할 수 있는 것은 여러가지가 있을 수 있습니다. Throttle, debounce 같은 처리방식도 있고, React에서는 `useCallback`, `useMemo`와 같은 메모이제이션 훅을 통해 성능을 향상시킬 수 있습니다.
 
@@ -37,8 +38,11 @@ const memoizedCallback = useCallback(() => {
 const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
 ```
 
-
+둘 다 성능 최적화 용도로 사용되지만, **useCallback은 함수 재생성 방지**에, **useMemo는 값 재계산 방지**에 초점이 맞춰져 있습니다.
 ### 사용 시 주의점
+
+
+
 
 ## 이런 고민할 필요가 없는걸 개발하고 있다!?
 
