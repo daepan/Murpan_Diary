@@ -5,8 +5,12 @@
 
 ![](https://i.imgur.com/gJUQahL.png)
 
-위의 코드에서 themeColor를 상속 받고 있는 TodoList
+위의 코드에서 themeColor가 드래그를 통해 변경하면서 themeColor를 상속 받고 있는 TodoList가 계속해서 재렌더링되는 성능 이슈가 발생합니다. 
+이에 대해서 `memoization`이나 `debounce`등의 테크닉이 사용됩니다.
 ### 최적화를 위한 useCallback과 useMemo
+
+
+
 
 ### 사용 시 주의점
 
