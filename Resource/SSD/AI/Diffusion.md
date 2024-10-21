@@ -8,3 +8,14 @@
 - 비평형 열역학
 	- 기체 운동을 모델링하는 학문 분야
 	- 확산 모델은 비평형 열역학에서 아이디어를 얻어 개발된 생성모델
+- 생성 확산 과정을 해석하는 두 가지 방법
+	- Score-based model: 노이즈 조건부 점수 네트워크 
+	- Evidence Lower bound maximization: Denoising Diffusion Probabilistic Models
+- 확산 모델의 원리
+	- 전방 확산 과정
+	- 역 디노이징 과정
+- 전방 확산
+- 역 디노이징
+- DDPM
+	- 학습 알고리즘
+	- 
