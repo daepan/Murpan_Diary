@@ -1,4 +1,5 @@
 ## 들어가며
+
 리액트에서는 상위 노드가 `re-render`되면, 하위 컴포넌트들이 전부 `re-render` 됩니다.  
 `virtual DOM`이 변경을 감지를 위한 작업을 하는데, 이 비교연산을 스킵하기 위해 `memoization`을 사용할 수 있습니다.
 ![](https://i.imgur.com/LF2kHl9.png)
