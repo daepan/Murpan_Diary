@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area of responsibility/CPU/리액트 상태 분석.md",
+                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area of responsibility/CPU/리액트 상태 분석.md",
+                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area of responsibility/CPU/리액트 상태 분석.md",
+                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area of responsibility/CPU/리액트 상태 분석.md"
+                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md"
               }
             }
           }
@@ -158,13 +158,17 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "5f4e0a8529e475e7",
   "lastOpenFiles": [
-    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
+    "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
+    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Resource/Memory/무제 파일.md",
     "이름 없는 보드.md",
     "Resource/SSD/컴퓨터보안/OSINT.md",
@@ -188,7 +192,6 @@
     "Area of responsibility",
     "Scheduler/2024-09-12(목).md",
     "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
-    "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
     "Resource/SSD/DataBase/Database의 개념.md",
     "Resource/SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
