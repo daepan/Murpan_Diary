@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/중간정리.md",
+                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/중간정리.md",
+                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/중간정리.md"
+                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md"
               }
             }
           }
@@ -182,10 +182,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5f4e0a8529e475e7",
+  "active": "e7fe21789999217f",
   "lastOpenFiles": [
-    "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "Resource/SSD/컴퓨터보안/중간정리.md",
+    "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
