@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
+                "file": "Resource/SSD/컴퓨터보안/Smurf 공격.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,12 +184,13 @@
   },
   "active": "f3ad9feedb412666",
   "lastOpenFiles": [
+    "Resource/SSD/컴퓨터보안/Smurf 공격.md",
+    "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
     "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
     "Resource/SSD/컴퓨터보안/중간정리.md",
     "Resource/SSD/컴퓨터보안/OSINT.md",
     "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "_images/Pasted image 20241014101940.png",
-    "Resource/SSD/컴퓨터보안/Smurf 공격.md",
     "Resource/SSD/증강현실/Unity.md",
     "Resource/SSD/증강현실",
     "Resource/SSD/DataBase/중간정리.md",
@@ -209,7 +210,6 @@
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Resource/Memory/무제 파일.md",
     "이름 없는 보드.md",
-    "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
     "Project",
     "Area of responsibility/CPU",
