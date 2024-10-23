@@ -16,7 +16,21 @@
                 "file": "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?"
+            }
+          },
+          {
+            "id": "4e39461b23b1d346",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -28,7 +42,9 @@
                 "file": "Resource/SSD/AI/Diffusion.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Diffusion"
             }
           }
         ]
@@ -51,7 +67,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -66,7 +84,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -74,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -96,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -113,7 +137,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?의 백링크"
             }
           },
           {
@@ -125,7 +151,9 @@
                 "file": "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?의 나가는 링크"
             }
           },
           {
@@ -136,7 +164,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,7 +176,9 @@
               "type": "outline",
               "state": {
                 "file": "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까? 개요"
             }
           },
           {
@@ -154,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -162,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
