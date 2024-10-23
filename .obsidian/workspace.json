@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+                "file": "Resource/SSD/컴퓨터보안/OSINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+                "file": "Resource/SSD/컴퓨터보안/중간정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+                "file": "Resource/SSD/컴퓨터보안/중간정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md"
+                "file": "Resource/SSD/컴퓨터보안/중간정리.md"
               }
             }
           }
@@ -182,8 +182,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e7fe21789999217f",
+  "active": "5f4e0a8529e475e7",
   "lastOpenFiles": [
+    "Resource/SSD/컴퓨터보안/OSINT.md",
+    "Resource/SSD/컴퓨터보안/중간정리.md",
+    "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "_images/Pasted image 20241014101940.png",
     "Resource/SSD/컴퓨터보안/Smurf 공격.md",
     "Resource/SSD/증강현실/Unity.md",
@@ -201,14 +204,11 @@
     "Resource/SSD/AI/Diffusion.md",
     "Resource/SSD/AI/AutoEncoder.md",
     "Area of responsibility/CPU/알고리즘 대비.md",
-    "Resource/SSD/컴퓨터보안/중간정리.md",
-    "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
     "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Resource/Memory/무제 파일.md",
     "이름 없는 보드.md",
-    "Resource/SSD/컴퓨터보안/OSINT.md",
     "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
     "Project",
@@ -228,7 +228,6 @@
     "Archive/HardDisk/Refactor/Pasted image 20240410182603.png",
     "Archive/HardDisk/Refactor/Pasted image 20240406162616.png",
     "Archive/HardDisk/Refactor/Pasted image 20240406162602.png",
-    "Archive/HardDisk/Refactor/Pasted image 20240406163057.png",
-    "Archive/HardDisk/Refactor/Pasted image 20240406162446.png"
+    "Archive/HardDisk/Refactor/Pasted image 20240406163057.png"
   ]
 }
