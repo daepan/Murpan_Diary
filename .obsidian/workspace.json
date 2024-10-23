@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c6ee5c649b2d1d",
+        "id": "c7c25c6ec978143d",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
+                "file": "Resource/SSD/컴퓨터보안/중간정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fae423923b14ee6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7fe21789999217f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
+                "file": "Resource/SSD/컴퓨터보안/중간정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
+                "file": "Resource/SSD/컴퓨터보안/중간정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md"
+                "file": "Resource/SSD/컴퓨터보안/중간정리.md"
               }
             }
           }
@@ -167,6 +185,8 @@
   "active": "5f4e0a8529e475e7",
   "lastOpenFiles": [
     "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
+    "Resource/SSD/컴퓨터보안/중간정리.md",
+    "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Resource/Memory/무제 파일.md",
@@ -191,10 +211,8 @@
     "Area of responsibility/CPU",
     "Area of responsibility",
     "Scheduler/2024-09-12(목).md",
-    "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
     "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
     "Resource/SSD/DataBase/Database의 개념.md",
-    "Resource/SSD/Study/소그룹 useFunnel에 대한 구현 고찰.md",
     "Resource/SSD/컴퓨터보안",
     "Resource/SSD/DataBase",
     "Resource/SSD/Study",
