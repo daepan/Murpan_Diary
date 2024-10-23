@@ -67,8 +67,20 @@ SSH(포트 22)에 대해 들어오는 TCP 연결을 허용
 체인의 기본 정책을 설정
 >sudo iptables -P INPUT DROP
 
-이 명령은 들어오는 모든 트래픽을 기본적으로 차단(DROP)하는 규칙 을 설정
+이 명령은 들어오는 모든 트래픽을 기본적으로 차단(DROP)하는 규칙을 설정
 
 
 조건: 필터링할 패킷의 조건 (예: IP 주소, 포트 번호)  
 액션: 패킷에 대해 수행할 작업 (ACCEPT, DROP, REJECT 등)
+
+## iptables 저장 및 복원
+- Ubuntu에서 iptables 규칙은 재부팅 시 사라지기에 저장 및 복원 작업이 필요하다.
+- iptables 규칙 저장
+>sudo apt install iptables-persistent sudo netfilter-persistent save
+
+-  iptables 규칙 복원  
+> sudo netfilter-persistent reload
+
+- iptables 규칙 초기화
+> sudo iptables -F
+
