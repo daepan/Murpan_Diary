@@ -177,12 +177,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +203,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e8a5ba7116b3e9c0",
+  "active": "3b065aa5488482f8",
   "lastOpenFiles": [
     "Resource/SSD/AI/CNN's.md",
     "Resource/SSD/AI/중간 정리.md",
