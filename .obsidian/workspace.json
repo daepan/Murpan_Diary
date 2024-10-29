@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "2708827604e131d9",
@@ -205,9 +206,10 @@
   },
   "active": "e8a5ba7116b3e9c0",
   "lastOpenFiles": [
+    "Resource/SSD/AI/GAN's.md",
+    "Resource/SSD/AI/Diffusion.md",
     "Resource/SSD/AI/AutoEncoder.md",
     "Resource/SSD/AI/중간 정리.md",
-    "Resource/SSD/AI/GAN's.md",
     "Resource/SSD/AI/CNN's.md",
     "Resource/SSD/AI/영상인식.md",
     "Resource/SSD/컴퓨터보안/OSINT.md",
@@ -219,7 +221,6 @@
     "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
     "Resource/SSD/AI/텐서 플로우.md",
     "conflict-files-obsidian-git.md",
-    "Resource/SSD/AI/Diffusion.md",
     "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?.md",
     "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md",
     "Resource/SSD/DataBase/중간정리.md",
