@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/AI/중간 정리.md",
+                "file": "Resource/SSD/AI/응용 인공지능 학습 중간 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "중간 정리"
+              "title": "응용 인공지능 학습 중간 정리"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/SSD/AI/중간 정리.md",
+                "file": "Resource/SSD/AI/응용 인공지능 학습 중간 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "중간 정리의 백링크"
+              "title": "응용 인공지능 학습 중간 정리의 백링크"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/SSD/AI/중간 정리.md",
+                "file": "Resource/SSD/AI/응용 인공지능 학습 중간 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "중간 정리의 나가는 링크"
+              "title": "응용 인공지능 학습 중간 정리의 나가는 링크"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/SSD/AI/중간 정리.md"
+                "file": "Resource/SSD/AI/응용 인공지능 학습 중간 정리.md"
               },
               "icon": "lucide-list",
-              "title": "중간 정리 개요"
+              "title": "응용 인공지능 학습 중간 정리 개요"
             }
           },
           {
@@ -207,7 +207,7 @@
   "active": "e8a5ba7116b3e9c0",
   "lastOpenFiles": [
     "Resource/SSD/AI/영상인식.md",
-    "Resource/SSD/AI/중간 정리.md",
+    "Resource/SSD/AI/응용 인공지능 학습 중간 정리.md",
     "Resource/SSD/AI/GAN's.md",
     "Resource/SSD/AI/Diffusion.md",
     "Resource/SSD/AI/AutoEncoder.md",
