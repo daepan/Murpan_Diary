@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Resource/SSD/컴퓨터보안/Heart Bleed 공격.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "2708827604e131d9",

@@ -18,6 +18,44 @@
 - Heartbleed 취약점이 공개된 후 OpenSSL에서는 하트비트 기능에서 입력 값 검증을 강화하여 메모리 범위를 초과하는 요청을 차단
 
 
-```
+```mermaid
+flowchart TD
+    A[main() start] --> B[Option parsing and setup check]
+    B --> C{Validate arguments}
+    C -- No arguments --> D[Print help and exit]
+    C -- Valid arguments --> E[Set server and port]
+    E --> F[for loop: call check()]
 
+    F --> G[check() start]
+    G --> H{STARTTLS option enabled?}
+    H -- Enabled --> I[Check STARTTLS with SMTP]
+    I --> J{Is STARTTLS supported?}
+    J -- Not supported --> K[Print error and exit]
+    J -- Supported --> L[Confirm STARTTLS and close SMTP]
+    H -- Not enabled --> L
+    L --> M[connect() to server]
+    M --> N[Set socket timeout]
+    N --> O[Call tls() to start TLS handshake]
+
+    O --> P[parseresp() to parse server response]
+    P --> Q{Check server version}
+    Q -- Error --> R[Print error and exit]
+    Q -- Version confirmed --> S[Print server TLS version]
+
+    S --> T{Send heartbeat request by version}
+    T -- Version 1 --> U[Send hbv10]
+    T -- Version 2 --> V[Send hbv11]
+    T -- Version 3 --> W[Send hbv12]
+    U --> X[Call hit_hb() to check response]
+    V --> X
+    W --> X
+
+    X --> Y{Analyze response}
+    Y -- Excessive data returned --> Z[Print vulnerability found]
+    Y -- Normal data returned --> AA[Print not vulnerable]
+    Y -- Warning message received --> AB[Print warning]
+    Z --> AC[Close socket and return result]
+    AA --> AC
+    AB --> AC
+    AC --> AD[End program after loop]
 ```
