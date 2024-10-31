@@ -17,6 +17,9 @@
 ### Response
 - Heartbleed 취약점이 공개된 후 OpenSSL에서는 하트비트 기능에서 입력 값 검증을 강화하여 메모리 범위를 초과하는 요청을 차단
 
+![](https://i.imgur.com/bJcWxDB.png)
+
+
 
 ```mermaid
 flowchart TD
