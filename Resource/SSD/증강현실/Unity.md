@@ -4,6 +4,22 @@
 ![](https://i.imgur.com/BtWQe5U.png)
 
 
+## UI 컴포넌트
+- Image: 그림을 표현하거나 나타날때 사용되는 컴포넌트
+- Text: 글씨를 나타낼때 사용되는 컴포넌트
+- Button: 버튼을 통해 이벤트를 실행시키고 싶을때 사용되는 컴포넌트
+- UI들은 기본적으로 Canvas의 자식 오브젝트로 지정된다
+	- Canvas의 Render Mode를 통해 UI가 Unity 가상환경 내에 배치되는 방식을 정할 수 있다.
+	- UI들은 3D 오브젝트와 달리 RectTransform 컴포넌트를 사용
+
+## 호출 순위
+![](https://i.imgur.com/j1UjHSZ.png)
+
+
+## 증강현실 이란?
+![](https://i.imgur.com/UHrExoL.png)
+
+- 실제 세계에 가상의 이미지를 실시간으로 증강 시키는 기술
 ## 유니티 물리엔진
 - 유니티는 물리엔진이 내장되어 컴포넌트의 형태로 제공됨
 - 따라서 물리를 구현하지 않고 컴포넌트를 사용 가능하다
