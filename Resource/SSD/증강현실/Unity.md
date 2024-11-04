@@ -1,5 +1,7 @@
 ## 초기 화면
 ![](https://i.imgur.com/irQFZvG.png)
+![](https://i.imgur.com/6VbJJX8.png)
+![](https://i.imgur.com/BtWQe5U.png)
 
 
 ## 유니티 물리엔진
