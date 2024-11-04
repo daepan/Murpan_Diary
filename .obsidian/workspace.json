@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/Study/package.json 정리하기.md",
+                "file": "Resource/SSD/증강현실/Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "package.json 정리하기"
+              "title": "Unity"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "2708827604e131d9",
@@ -206,6 +205,7 @@
   },
   "active": "e8a5ba7116b3e9c0",
   "lastOpenFiles": [
+    "Resource/SSD/Study/package.json 정리하기.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
     "Area of responsibility/CPU/알고리즘 대비.md",
     "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?.md",
@@ -232,7 +232,6 @@
     "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/DataBase/데이터베이스 무결성 제약조건.md",
-    "Resource/SSD/Compiler/중간 대비 정리.md",
     "Resource/SSD/증강현실",
     "_images/Pasted image 20241014101940.png",
     "Resource/SSD/컴퓨터보안",
