@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/Heart Bleed 공격.md",
+                "file": "Resource/SSD/증강현실/Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heart Bleed 공격"
+              "title": "Unity"
             }
           }
         ]
@@ -205,9 +205,9 @@
   },
   "active": "e8a5ba7116b3e9c0",
   "lastOpenFiles": [
+    "Resource/SSD/컴퓨터보안/Heart Bleed 공격.md",
     "Resource/SSD/컴퓨터보안/test.puml",
     "Resource/SSD/AI/응용 인공지능 학습 중간 정리.md",
-    "Resource/SSD/컴퓨터보안/Heart Bleed 공격.md",
     "Resource/SSD/AI/영상인식.md",
     "Resource/SSD/AI/GAN's.md",
     "Resource/SSD/AI/Diffusion.md",
@@ -241,7 +241,6 @@
     "Resource/SSD/Compiler",
     "Resource/SSD/AI",
     "Archive/DB/TimeTable/2024-08",
-    "Resource/SSD/DataBase",
     "Archive/HardDisk/Refactor/Pasted image 20240410230329.png",
     "Archive/HardDisk/Refactor/Pasted image 20240410230217.png",
     "Archive/HardDisk/Refactor/Pasted image 20240410230215.png",
