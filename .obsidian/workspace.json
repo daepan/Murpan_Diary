@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/HardDisk/CSS/블로그.md",
+                "file": "Resource/Memory/관심 있는 회사 리스트업.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "블로그"
+              "title": "관심 있는 회사 리스트업"
             }
           }
         ]
@@ -205,6 +205,9 @@
   },
   "active": "e8a5ba7116b3e9c0",
   "lastOpenFiles": [
+    "Resource/Memory/메인 코인.md",
+    "Resource/Memory/무제 파일.md",
+    "Archive/HardDisk/CSS/블로그.md",
     "Archive/HardDisk/MEMO/Carepows flow 관련 정리 문서.md",
     "Archive/HardDisk/Portfoilo/김대관 포토폴리오.md",
     "Archive/HardDisk/Portfoilo/Computer Architecture.md",
@@ -229,9 +232,6 @@
     "Resource/SSD/컴퓨터보안/침입탐지와 차단시스템.md",
     "Resource/SSD/컴퓨터보안/Iptables 이용 보호.md",
     "Resource/SSD/컴퓨터보안/Smurf 공격.md",
-    "Resource/SSD/컴퓨터보안/중간정리.md",
-    "Resource/SSD/컴퓨터보안/정보보호의 개념.md",
-    "Resource/SSD/컴퓨터보안/SNORT(오픈 소스 네트워크 침입탐지 시스템).md",
     "Resource/SSD/증강현실",
     "_images/Pasted image 20241014101940.png",
     "Resource/SSD/컴퓨터보안",
