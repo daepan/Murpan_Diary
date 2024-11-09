@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "글또 10기 - 캐싱 아는거 맞죠"
             }
-          },
-          {
-            "id": "5540867676a33bea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +176,13 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5540867676a33bea",
+  "active": "e79392e2fa84250c",
   "lastOpenFiles": [
     "Resource/SSD/컴퓨터보안/test.puml",
     "Resource/SSD/컴퓨터보안/Heart Bleed 공격.md",
