@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
+                "file": "Project/알고리즘 학습.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "글또 10기 - 캐싱 아는거 맞죠"
+              "title": "알고리즘 학습"
             }
           }
         ]
@@ -177,11 +177,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "e79392e2fa84250c",
   "lastOpenFiles": [
+    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
+    "Project/알고리즘 학습.md",
     "Resource/SSD/컴퓨터보안/test.puml",
     "Resource/SSD/컴퓨터보안/Heart Bleed 공격.md",
     "Resource/SSD/컴퓨터보안/APT (Advanced persistent threat).md",
@@ -190,7 +194,6 @@
     "Resource/Memory/무제 파일 1.md",
     "Area of responsibility/CPU/글또 10기 - NextJS 캐싱 패턴에 대해 배워보자.md",
     "Area of responsibility/CPU/알고리즘 대비.md",
-    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
@@ -218,7 +221,6 @@
     "Resource/SSD/Study",
     "Resource/SSD/OS",
     "Resource/SSD/Compiler",
-    "Resource/SSD/Algorithm",
     "Archive/HardDisk/Refactor/스크린샷 2024-04-10 오후 6.18.58.png",
     "Archive/HardDisk/Refactor/Pasted image 20240410230329.png",
     "Archive/HardDisk/Refactor/Pasted image 20240410230217.png",
