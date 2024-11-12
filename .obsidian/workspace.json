@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "APT (Advanced persistent threat)"
             }
+          },
+          {
+            "id": "87b1a80a2bb25b8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e8a5ba7116b3e9c0",
+  "active": "87b1a80a2bb25b8a",
   "lastOpenFiles": [
     "Area of responsibility/CPU/글또 10기 - NextJS 캐싱 패턴에 대해 배워보자.md",
     "Resource/SSD/컴퓨터보안/APT (Advanced persistent threat).md",
