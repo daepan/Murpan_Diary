@@ -4,37 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "e768dbb184e6f134",
+        "id": "95c38f9818d7cb02",
         "type": "tabs",
         "children": [
           {
-            "id": "e8a5ba7116b3e9c0",
+            "id": "6b68104022564343",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/APT (Advanced persistent threat).md",
-                "mode": "preview",
+                "file": "Project/알고리즘 학습.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APT (Advanced persistent threat)"
+              "title": "알고리즘 학습"
             }
           },
           {
-            "id": "87b1a80a2bb25b8a",
+            "id": "48c8c96d4c10d7e4",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.5"
+                "currentVersion": "1.7.6"
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "8f36e13750cd1508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "2708827604e131d9",
@@ -217,10 +230,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "87b1a80a2bb25b8a",
+  "active": "8f36e13750cd1508",
   "lastOpenFiles": [
-    "Area of responsibility/CPU/글또 10기 - NextJS 캐싱 패턴에 대해 배워보자.md",
+    "conflict-files-obsidian-git.md",
+    "Project/알고리즘 학습.md",
+    "Area of responsibility/CPU/알고리즘 대비.md",
     "Resource/SSD/컴퓨터보안/APT (Advanced persistent threat).md",
+    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
+    "Area of responsibility/CPU/글또 10기 - NextJS 캐싱 패턴에 대해 배워보자.md",
     "Resource/Memory/무제 파일 1.md",
     "Resource/Memory/관심 있는 회사 리스트업.md",
     "Resource/Memory/메인 코인.md",
@@ -235,7 +252,6 @@
     "Resource/SSD/증강현실/Unity.md",
     "Resource/SSD/Study/package.json 정리하기.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
-    "Area of responsibility/CPU/알고리즘 대비.md",
     "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까?.md",
     "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까?.md",
     "Resource/SSD/컴퓨터보안/Heart Bleed 공격.md",
@@ -243,9 +259,6 @@
     "Resource/SSD/AI/응용 인공지능 학습 중간 정리.md",
     "Resource/SSD/AI/영상인식.md",
     "Resource/SSD/AI/GAN's.md",
-    "Resource/SSD/AI/Diffusion.md",
-    "Resource/SSD/AI/AutoEncoder.md",
-    "Resource/SSD/AI/CNN's.md",
     "Resource/SSD/증강현실",
     "_images/Pasted image 20241014101940.png",
     "Resource/SSD/컴퓨터보안",
