@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "코인 워크숍 대비 발표"
             }
+          },
+          {
+            "id": "5f3365566730bbbd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "48c8c96d4c10d7e4",
+  "active": "5f3365566730bbbd",
   "lastOpenFiles": [
     "Project/알고리즘 학습.md",
     "Area of responsibility/CPU/코인 워크숍 대비 발표.md",
