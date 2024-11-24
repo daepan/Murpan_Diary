@@ -25,25 +25,10 @@ React의 **Suspense**는 데이터 로딩, 코드 분할 등과 같은 비동기
 
 - **기존 방식과의 차이점**  
     기존에는 `isLoading`이나 `isFetching` 같은 상태 플래그를 사용해 데이터가 준비되었는지 확인하고 UI를 조건부 렌더링했습니다. 반면, Suspense는 이 모든 과정을 단순화해 fallback 컴포넌트를 통해 로딩 상태를 처리할 수 있습니다.
-## 우리가 Suspense 기능을 추가하게 된 이유
 
 ## useQuery vs. useSuspenseQuery
 
 React-Query의 `useQuery`와 `useSuspenseQuery`는 비슷한 목적을 가진 훅이지만, 사용 방식과 처리 방식에서 큰 차이가 있습니다.
-
-- **useQuery**  
-    `useQuery`는 로딩 상태, 에러 상태, 데이터 상태를 개별적으로 다룹니다. 사용자가 `isLoading`, `isError`와 같은 플래그를 직접 관리해야 하기 때문에 로직이 복잡해질 수 있습니다.
-    
-- **useSuspenseQuery**  
-    `useSuspenseQuery`는 React의 Suspense와 결합되어 로딩 및 에러 처리를 더 직관적으로 할 수 있게 합니다. 로딩 상태와 에러 처리가 Suspense와 ErrorBoundary로 위임되므로, 컴포넌트 내부의 로직이 간소화됩니다.
-    
-- **장단점 비교**
-    - **useQuery**: 세부적인 상태 제어가 가능하지만 코드 복잡도가 높아질 수 있음.
-    - **useSuspenseQuery**: 코드가 깔끔하고 관리가 쉬워지지만, Suspense에 대한 추가 학습이 필요.
-
-Suspense를 도입하면서 더 간결한 코드와 일관된 상태 관리를 기대할 수 있었기에 `useSuspenseQuery`로 전환을 결정하게 되었습니다.
-
----
 
 # Suspense 도입의 고려 사항
 
