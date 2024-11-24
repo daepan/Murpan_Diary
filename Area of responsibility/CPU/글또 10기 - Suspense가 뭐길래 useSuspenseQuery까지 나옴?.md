@@ -33,7 +33,16 @@ React의 **Suspense**는 데이터 로딩, 코드 분할 등과 같은 비동기
 ### 비동기 처리에 대한 선언적 처리
 
 Suspense는 복잡한 비동기 데이터 처리를 더 선언적이고 간단한 방식으로 관리할 수 있도록 도와줍니다.
-이전에 데이터를 처리하기 위해서는 `useEffect`나 `try..catch`와 같은 비동기 작업 중간에 제어할 수 있는 기능을 통해 로직을 간결하게 처리할 수 있다고 생각합니다.
+이전에 데이터를 처리하기 위해서는 `useEffect`나 `try..catch`와 같은 비동기 작업 중간에 제어할 수 있는 기능을 통해 로직을 선언적으로 처리하여 좀 더 관리가 편해졌다고 생각합니다.
+
+```javascript
+const { data, isLoading, isError, error } = useQuery("fetchData", fetchData);
+
+if (isLoading) return <Loader />;
+if (isError) return <div>Error: {error.message}</div>;
+
+return <div>Data: {data.title}</div>;
+```
 
 ```javascript
 <React.Suspense fallback={<Loader />}>
