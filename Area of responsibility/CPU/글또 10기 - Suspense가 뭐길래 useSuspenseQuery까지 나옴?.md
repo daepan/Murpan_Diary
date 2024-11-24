@@ -4,7 +4,19 @@
 
 ## What is Suspense?
 
-React의 **Suspense**는 데이터 로딩, 코드 분할 등과 같은 비동기 작업을 보다 직관적이고 깔끔하게 처리하기 위해 고안된 기능입니다. 기존의 로딩 상태 관리 방식은 종종 복잡한 조건문과 state 관리를 요구했으나, Suspense는 이러한 문제를 단순화합니다.,
+>`<Suspense>` 는 자식 요소가 로드되기 전까지 화면에 대체 UI를 보여줍니다. 
+>from. [React 공식 문서](https://ko.react.dev/reference/react/Suspense)
+
+```javascript
+<Suspense fallback={<Loading />}>  
+	<SomeComponent />  
+</Suspense>
+```
+
+React의 **Suspense**는 데이터 로딩, 코드 분할 등과 같은 비동기 작업을 보다 직관적이고 깔끔하게 처리하기 위해 고안된 기능입니다. 기존의 로딩 상태 관리 방식은 종종 복잡한 조건문과 state 관리를 요구했으나, Suspense는 이러한 문제를 단순화합니다.
+
+쉽게 위 코드를 해석하면 `<Suspense>` 태그에 감싸진 자식 요소에 필요한 모든 코드와 데이터가 로드될 때까지 fallback에 선언된 컴포넌트를 보여주게 됩니다.
+이 Suspense의 기능을 요약하면 다음과 같습니다.
 
 - **Suspense의 주요 역할**
     1. 컴포넌트가 비동기 작업을 완료할 때까지 UI 렌더링을 유예.
