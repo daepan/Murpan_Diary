@@ -35,29 +35,48 @@ React의 **Suspense**는 데이터 로딩, 코드 분할 등과 같은 비동기
 Suspense는 복잡한 비동기 데이터 처리를 더 선언적이고 간단한 방식으로 관리할 수 있도록 도와줍니다.
 이전에 데이터를 처리하기 위해서는 `useEffect`나 `try..catch`와 같은 비동기 작업 중간에 제어할 수 있는 기능을 통해 로직을 선언적으로 처리하여 좀 더 관리가 편해졌다고 생각합니다.
 
+아래에 코드를 통해 2개의 차이를 보시면 좋을 것 같습니다.
 ```javascript
-const { data, isLoading, isError, error } = useQuery("fetchData", fetchData);
+import { useQuery } from "react-query";
 
-if (isLoading) return <Loader />;
-if (isError) return <div>Error: {error.message}</div>;
+async function fetchData() {
+  const response = await fetch("https://api.example.com/data");
+  if (!response.ok) throw new Error("Failed to fetch data");
+  return response.json();
+}
 
-return <div>Data: {data.title}</div>;
+function MyComponent() {
+  const { data, isLoading, isError, error } = useQuery("fetchData", fetchData);
+
+  if (isLoading) return <div>Loading...</div>; // 로딩 상태 처리
+  if (isError) return <div>Error: {error.message}</div>; // 에러 상태 처리
+
+  return <div>Data: {data.title}</div>; // 데이터 렌더링
+}
+
+function MySuspenseComponent() { 
+  const { data } = useQuery("fetchData", fetchData, { suspense: true }); 
+  return <div>Data: {data.title}</div>;
+}
 ```
 
+ErrorBoundary와 Suspense를 통해 데이터를 받고 로딩과 에러 처리까지 선언적 처리가 아래와 같이 가능해집니다.
 ```javascript
-<React.Suspense fallback={<Loader />}>
-  <MyComponent />
-</React.Suspense>
+function App() { 
+	return ( 
+		<ErrorBoundary FallbackComponent={({ error }) => <div>Error: {error.message}</div>}> 
+		<React.Suspense fallback={<div>Loading...</div>}> 
+			<MySuspenseComponent /> 
+		</React.Suspense> 
+	</ErrorBoundary> 
+	); 
+}
 ```
     
-### 에러 처리와의 통합
-추가적으로 Suspense와 ErrroBoundary를 활용함으로, 비동기 처리 실패 시에 대한 기능에 
-
-
 
 ## Suspense 도입의 고려 사항
 
-Suspense를 도입하려면 기존 코드베이스에 몇 가지 중요한 변경 작업이 필요합니다.
+Suspense가 좋다고 생각하거나 위와 를 도입하려면 기존 코드베이스에 몇 가지 중요한 변경 작업이 필요합니다.
 
 1. **ErrorBoundary 설정**  
     Suspense는 비동기 작업에서 에러를 처리하기 위해 반드시 ErrorBoundary와 함께 사용해야 합니다. 이를 통해 비동기 작업 실패 시 graceful fallback을 제공할 수 있습니다.
