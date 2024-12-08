@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/중간정리.md",
+                "file": "Area of responsibility/CPU/코인 워크숍 대비 발표.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "중간정리"
+              "title": "코인 워크숍 대비 발표"
             }
           }
         ]
@@ -221,15 +221,22 @@
   },
   "active": "48c8c96d4c10d7e4",
   "lastOpenFiles": [
+    "Area of responsibility/CPU/StackFlow.md",
+    "Area of responsibility/CPU/코인 워크숍 대비 발표.md",
+    "Area of responsibility/CPU/알고리즘 대비.md",
+    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
+    "Area of responsibility/CPU/리액트 상태 분석.md",
+    "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
+    "Area of responsibility/CPU/글또 10기 - NextJS 캐싱 패턴에 대해 배워보자.md",
+    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
+    "Resource/SSD/DataBase/중간정리.md",
     "Resource/SSD/DataBase/기말 정리.md",
     "Resource/SSD/AI/무제 파일.md",
-    "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
     "Archive/HardDisk/Portfoilo/여기어때 질문지.md",
     "Resource/SSD/DataBase/트랜잭션과 뷰.md",
     "Resource/SSD/DataBase/조인과 중첩 질의문.md",
     "Resource/SSD/DataBase/조인 연산자와 확장된 관계 연산자.md",
     "Resource/SSD/DataBase/데이터 검색.md",
-    "Resource/SSD/DataBase/중간정리.md",
     "Resource/SSD/DataBase/제 3정규형, BCNF 그리고 기타 정규형.md",
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/DataBase/연산자의 구현.md",
@@ -250,13 +257,6 @@
     "Resource/SSD/DataBase/장애와 회복.md",
     "Resource/SSD/DataBase/프로시저, 사용자 정의 함수, 트리거.md",
     "Resource/SSD/DataBase/사용자 관리.md",
-    "Resource/SSD/DataBase/질의 최적화.md",
-    "Resource/SSD/DataBase/색인.md",
-    "Area of responsibility/CPU/알고리즘 대비.md",
-    "Area of responsibility/CPU/비사프 발표 대비.md",
-    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
-    "Area of responsibility/CPU/리액트 상태 분석.md",
-    "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
     "Excalidraw",
     "Resource/SSD/컴퓨터보안/test.puml",
     "Resource/SSD/증강현실",
