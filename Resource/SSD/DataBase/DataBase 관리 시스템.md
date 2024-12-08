@@ -17,9 +17,9 @@
 데이터 제어 기능  
 데이터베이스의 내용을 일관되고 정확하게 유지할 수 있는 기능
 데이터 일관성(Consistency)과 무결성(Integrity), 보안(Security)을 유지하는 기능
-01 백업과 파손 회복(Recovery)  
-02 인증(Authorization)과 보안(Security)
-03 병행 제어(Concurrency Control)
+- 백업과 파손 회복(Recovery)  
+- 인증(Authorization)과 보안(Security)
+- 병행 제어(Concurrency Control)
 
 ## 발전 과정
 
