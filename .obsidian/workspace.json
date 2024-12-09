@@ -197,10 +197,7 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "48c8c96d4c10d7e4",
