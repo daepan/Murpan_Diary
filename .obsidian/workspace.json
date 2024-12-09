@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/DataBase/기말 정리.md",
+                "file": "Area of responsibility/CPU/비사프 대비 발표.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기말 정리"
+              "title": "비사프 대비 발표"
             }
           }
         ]
@@ -197,27 +197,31 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "48c8c96d4c10d7e4",
   "lastOpenFiles": [
-    "_images/Pasted image 20241209050430.png",
-    "_images/Pasted image 20241209045038.png",
-    "Resource/SSD/DataBase/기말 정리.md",
-    "Resource/SSD/DataBase/관계대수.md",
+    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
+    "Area of responsibility/CPU/비사프 대비 발표.md",
     "Area of responsibility/CPU/코인 워크숍 대비 발표.md",
-    "conflict-files-obsidian-git.md",
-    "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까.md",
-    "Area of responsibility/CPU/글또 10기 - Suspense가 뭐길래 useSuspenseQuery까지 나옴.md",
-    "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까.md",
     "Area of responsibility/CPU/StackFlow.md",
     "Area of responsibility/CPU/알고리즘 대비.md",
+    "Area of responsibility/CPU/글또 10기 - Suspense가 뭐길래 useSuspenseQuery까지 나옴.md",
     "Area of responsibility/CPU/내가 쓰는 이력서에 대한 고찰.md",
+    "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까.md",
     "Area of responsibility/CPU/리액트 상태 분석.md",
+    "Resource/SSD/DataBase/기말 정리.md",
+    "_images/Pasted image 20241209050430.png",
+    "_images/Pasted image 20241209045038.png",
+    "Resource/SSD/DataBase/관계대수.md",
+    "conflict-files-obsidian-git.md",
+    "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까.md",
     "Area of responsibility/CPU/글또 10기에 참여하는 마음가짐.md",
     "Area of responsibility/CPU/글또 10기 - NextJS 캐싱 패턴에 대해 배워보자.md",
-    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
     "Resource/SSD/DataBase/중간정리.md",
     "Resource/SSD/AI/무제 파일.md",
     "Archive/HardDisk/Portfoilo/여기어때 질문지.md",
@@ -237,7 +241,6 @@
     "_images/Pasted image 20241207234526.png",
     "_images/Pasted image 20241207234518.png",
     "_images/Pasted image 20241207234512.png",
-    "_images/Pasted image 20241207234504.png",
     "Excalidraw",
     "Resource/SSD/컴퓨터보안/test.puml",
     "Resource/SSD/증강현실",
