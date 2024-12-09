@@ -78,126 +78,6 @@
     ],
     "tasks": [
       {
-        "id": "8256967058",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 21,
-        "content": "11:00 ~ 12:00 기상 및 간단 식사 ✅ 2024-08-01",
-        "description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
-        "isCompleted": true,
-        "labels": [
-          "task",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:50:12.550143Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256967058",
-        "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
-      },
-      {
-        "id": "8256967160",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 21,
-        "content": "12:00 ~ 14:00 헬스 ✅ 2024-08-01",
-        "description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
-        "isCompleted": true,
-        "labels": [
-          "task",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:50:14.917198Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256967160",
-        "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
-      },
-      {
-        "id": "8256967263",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 21,
-        "content": "14:00 ~ 15:00 점심식사 ✅ 2024-08-01",
-        "description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
-        "isCompleted": true,
-        "labels": [
-          "task",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:50:17.264974Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256967263",
-        "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
-      },
-      {
-        "id": "8256967355",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 21,
-        "content": "15:00 ~ 18:30 옵시디언 세컨드 브레인 세팅 ✅ 2024-08-01",
-        "description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
-        "isCompleted": true,
-        "labels": [
-          "task",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:50:19.660353Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256967355",
-        "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
-      },
-      {
-        "id": "8256967460",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 21,
-        "content": "19:00 ~ 20:00 휴식 ✅ 2024-08-01",
-        "description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
-        "isCompleted": true,
-        "labels": [
-          "task",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:50:22.010958Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256967460",
-        "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
-      },
-      {
         "id": "8256967530",
         "assignerId": null,
         "assigneeId": null,
@@ -219,7 +99,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967530",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967594",
@@ -243,7 +123,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967594",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967631",
@@ -267,7 +147,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967631",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967648",
@@ -291,7 +171,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967648",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967694",
@@ -315,7 +195,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967694",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967717",
@@ -339,7 +219,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967717",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967742",
@@ -363,7 +243,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967742",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967772",
@@ -387,7 +267,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967772",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967811",
@@ -411,7 +291,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967811",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967843",
@@ -435,7 +315,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967843",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967879",
@@ -459,7 +339,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967879",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967897",
@@ -483,7 +363,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967897",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967916",
@@ -507,7 +387,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967916",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967952",
@@ -531,7 +411,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967952",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256967971",
@@ -555,7 +435,7 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256967971",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256968021",
@@ -579,210 +459,143 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256968021",
         "duration": null,
-        "path": "Scheduler/2024-08-01(목).md"
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
-        "id": "8256916769",
+        "id": "8256967058",
         "assignerId": null,
         "assigneeId": null,
         "projectId": "2337177125",
         "sectionId": null,
         "parentId": null,
-        "order": 7,
-        "content": "포토폴리오 + 이력서 업데이트",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "order": 21,
+        "content": "11:00 ~ 12:00 기상 및 간단 식사 ✅ 2024-08-01",
+        "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+        "isCompleted": true,
         "labels": [
-          "study",
+          "task",
           "todoist"
         ],
         "priority": 1,
         "commentCount": 0,
         "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:31:16.013730Z",
+        "createdAt": "2024-08-01T11:50:12.550143Z",
         "due": null,
-        "url": "https://todoist.com/app/task/8256916769",
+        "url": "https://todoist.com/app/task/8256967058",
         "duration": null,
-        "path": "Scheduler/Daily Template.md"
+        "deadline": null,
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
-        "id": "8256917396",
+        "id": "8256967263",
         "assignerId": null,
         "assigneeId": null,
         "projectId": "2337177125",
         "sectionId": null,
         "parentId": null,
-        "order": 8,
-        "content": "React-Portal 전역화 기능 관련 글 정리",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "order": 21,
+        "content": "14:00 ~ 15:00 점심식사 ✅ 2024-08-01",
+        "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+        "isCompleted": true,
         "labels": [
-          "study",
+          "task",
           "todoist"
         ],
         "priority": 1,
         "commentCount": 0,
         "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:31:28.385775Z",
+        "createdAt": "2024-08-01T11:50:17.264974Z",
         "due": null,
-        "url": "https://todoist.com/app/task/8256917396",
+        "url": "https://todoist.com/app/task/8256967263",
         "duration": null,
-        "path": "Scheduler/Daily Template.md"
+        "deadline": null,
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
-        "id": "8256918201",
+        "id": "8256967355",
         "assignerId": null,
         "assigneeId": null,
         "projectId": "2337177125",
         "sectionId": null,
         "parentId": null,
-        "order": 9,
-        "content": "React DeepDive 스터디",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "order": 21,
+        "content": "15:00 ~ 18:30 옵시디언 세컨드 브레인 세팅 ✅ 2024-08-01",
+        "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+        "isCompleted": true,
         "labels": [
-          "study",
+          "task",
           "todoist"
         ],
         "priority": 1,
         "commentCount": 0,
         "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:31:43.769434Z",
+        "createdAt": "2024-08-01T11:50:19.660353Z",
         "due": null,
-        "url": "https://todoist.com/app/task/8256918201",
+        "url": "https://todoist.com/app/task/8256967355",
         "duration": null,
-        "path": "Scheduler/Daily Template.md"
+        "deadline": null,
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
-        "id": "8256919668",
+        "id": "8256967460",
         "assignerId": null,
         "assigneeId": null,
         "projectId": "2337177125",
         "sectionId": null,
         "parentId": null,
-        "order": 10,
-        "content": "React.memo 100번 써보기",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "order": 21,
+        "content": "19:00 ~ 20:00 휴식 ✅ 2024-08-01",
+        "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+        "isCompleted": true,
         "labels": [
-          "study",
+          "task",
           "todoist"
         ],
         "priority": 1,
         "commentCount": 0,
         "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:32:17.149077Z",
+        "createdAt": "2024-08-01T11:50:22.010958Z",
         "due": null,
-        "url": "https://todoist.com/app/task/8256919668",
+        "url": "https://todoist.com/app/task/8256967460",
         "duration": null,
-        "path": "Scheduler/Daily Template.md"
+        "deadline": null,
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
-        "id": "8256920123",
+        "id": "8256967160",
         "assignerId": null,
         "assigneeId": null,
         "projectId": "2337177125",
         "sectionId": null,
         "parentId": null,
-        "order": 11,
-        "content": "React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
+        "order": 21,
+        "content": "12:00 ~ 14:00 헬스 ✅ 2024-08-01",
+        "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+        "isCompleted": true,
         "labels": [
-          "study",
+          "task",
           "todoist"
         ],
         "priority": 1,
         "commentCount": 0,
         "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:32:28.917787Z",
+        "createdAt": "2024-08-01T11:50:14.917198Z",
         "due": null,
-        "url": "https://todoist.com/app/task/8256920123",
+        "url": "https://todoist.com/app/task/8256967160",
         "duration": null,
-        "path": "Scheduler/Daily Template.md"
-      },
-      {
-        "id": "8256914243",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 6,
-        "content": "알고리즘 대회 대비 알고리즘 공부",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
-        "labels": [
-          "study",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:30:48.130208Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256914243",
-        "duration": null,
-        "path": "Scheduler/Daily Template.md"
-      },
-      {
-        "id": "8256913090",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 5,
-        "content": "레거시 그룹 활동",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist",
-          "work"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:30:18.539100Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256913090",
-        "duration": null,
-        "path": "Scheduler/Daily Template.md"
-      },
-      {
-        "id": "8256912253",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2337177125",
-        "sectionId": null,
-        "parentId": null,
-        "order": 4,
-        "content": "포토폴리오 만들기",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
-        "isCompleted": false,
-        "labels": [
-          "study",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "50110036",
-        "createdAt": "2024-08-01T11:29:56.433554Z",
-        "due": null,
-        "url": "https://todoist.com/app/task/8256912253",
-        "duration": null,
-        "path": "Scheduler/Daily Template.md"
+        "deadline": null,
+        "path": "Archive/DB/TimeTable/2024-08/2024-08-01(목).md"
       },
       {
         "id": "8256911077",
         "assignerId": null,
         "assigneeId": null,
-        "projectId": "2337177125",
+        "projectId": "2337183101",
         "sectionId": null,
         "parentId": null,
-        "order": 3,
+        "order": 1,
         "content": "퍼스트디센던트 프로토타입 페이지 만들기",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
         "isCompleted": false,
         "labels": [
           "todoist",
@@ -795,7 +608,33 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256911077",
         "duration": null,
-        "path": "Scheduler/Daily Template.md"
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256919668",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183107",
+        "sectionId": null,
+        "parentId": null,
+        "order": 8,
+        "content": "React.memo 100번 써보기",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:32:17.149077Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256919668",
+        "duration": null,
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
       },
       {
         "id": "8256909541",
@@ -806,7 +645,7 @@
         "parentId": null,
         "order": 1,
         "content": "자바스크립트 스터디 매주 금요일",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
         "isCompleted": false,
         "labels": [
           "study",
@@ -819,7 +658,158 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256909541",
         "duration": null,
-        "path": "Scheduler/Daily Template.md"
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256914243",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183107",
+        "sectionId": null,
+        "parentId": null,
+        "order": 4,
+        "content": "알고리즘 대회 대비 알고리즘 공부",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:30:48.130208Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256914243",
+        "duration": null,
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256913090",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183107",
+        "sectionId": null,
+        "parentId": null,
+        "order": 3,
+        "content": "레거시 그룹 활동",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "todoist",
+          "work"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:30:18.539100Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256913090",
+        "duration": null,
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256912253",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183107",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "포토폴리오 만들기",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:29:56.433554Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256912253",
+        "duration": null,
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256917396",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183107",
+        "sectionId": null,
+        "parentId": null,
+        "order": 7,
+        "content": "React-Portal 전역화 기능 관련 글 정리",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:31:28.385775Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256917396",
+        "duration": null,
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256920123",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183107",
+        "sectionId": null,
+        "parentId": null,
+        "order": 9,
+        "content": "React-query와 zustand, jotai 라이브러리의 차이점이랑 장점 공부하기",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:32:28.917787Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256920123",
+        "duration": null,
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256916769",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183107",
+        "sectionId": null,
+        "parentId": null,
+        "order": 5,
+        "content": "포토폴리오 + 이력서 업데이트",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:31:16.013730Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256916769",
+        "duration": null,
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
       },
       {
         "id": "8256921156",
@@ -830,7 +820,7 @@
         "parentId": null,
         "order": 2,
         "content": "디공 페이지 모노레포 구성 및 CI/CD 작업하기",
-        "description": "[Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Scheduler/Daily%20Template.md)",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
         "isCompleted": false,
         "labels": [
           "todoist",
@@ -843,7 +833,33 @@
         "due": null,
         "url": "https://todoist.com/app/task/8256921156",
         "duration": null,
-        "path": "Scheduler/Daily Template.md"
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
+      },
+      {
+        "id": "8256918201",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2337183107",
+        "sectionId": null,
+        "parentId": null,
+        "order": 6,
+        "content": "React DeepDive 스터디",
+        "description": "[Resource/Scheduler/Daily Template.md](obsidian://open?vault=TIL&file=Resource/Scheduler/Daily%20Template.md)",
+        "isCompleted": false,
+        "labels": [
+          "study",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "50110036",
+        "createdAt": "2024-08-01T11:31:43.769434Z",
+        "due": null,
+        "url": "https://todoist.com/app/task/8256918201",
+        "duration": null,
+        "deadline": null,
+        "path": "Resource/Scheduler/Daily Template.md"
       }
     ],
     "events": [
@@ -1712,6 +1728,174 @@
         "v2_parent_project_id": "6Vrr2vjfGF388Mfh"
       },
       {
+        "event_date": "2024-09-04T00:01:40.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "12:00 ~ 14:00 헬스 ✅ 2024-08-01",
+          "description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25218514663,
+        "id": 25132197590,
+        "initiator_id": null,
+        "object_id": "8256967160",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr82gRqh8CwrMv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-04T00:01:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "11:00 ~ 12:00 기상 및 간단 식사 ✅ 2024-08-01",
+          "description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25218514548,
+        "id": 25132197478,
+        "initiator_id": null,
+        "object_id": "8256967058",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr82RV7PgVgCfv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-04T00:01:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "19:00 ~ 20:00 휴식 ✅ 2024-08-01",
+          "description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25218514487,
+        "id": 25132197413,
+        "initiator_id": null,
+        "object_id": "8256967460",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr83J8PCRF3mQM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-04T00:01:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "15:00 ~ 18:30 옵시디언 세컨드 브레인 세팅 ✅ 2024-08-01",
+          "description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25218514478,
+        "id": 25132197403,
+        "initiator_id": null,
+        "object_id": "8256967355",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr837QfcG8gwvM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-04T00:01:38.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "14:00 ~ 15:00 점심식사 ✅ 2024-08-01",
+          "description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[Scheduler/2024-08-01(목).md](obsidian://open?vault=TIL&file=Scheduler/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25218514469,
+        "id": 25132197394,
+        "initiator_id": null,
+        "object_id": "8256967263",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr82w86p4cpWcv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-09T06:40:35.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "12:00 ~ 14:00 헬스 ✅ 2024-08-01",
+          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273896093,
+        "id": 25187578611,
+        "initiator_id": null,
+        "object_id": "8256967160",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr82gRqh8CwrMv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-09T06:40:33.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "19:00 ~ 20:00 휴식 ✅ 2024-08-01",
+          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273896177,
+        "id": 25187578691,
+        "initiator_id": null,
+        "object_id": "8256967460",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr83J8PCRF3mQM",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
+        "event_date": "2024-09-09T06:40:33.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "14:00 ~ 15:00 점심식사 ✅ 2024-08-01",
+          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
+          "note_count": 0
+        },
+        "extra_data_id": 25273895447,
+        "id": 25187577957,
+        "initiator_id": null,
+        "object_id": "8256967263",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2337177125",
+        "v2_object_id": "6Vrr82w86p4cpWcv",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
+      },
+      {
         "event_date": "2024-09-09T06:40:54.000000Z",
         "event_type": "updated",
         "extra_data": {
@@ -1983,90 +2167,11 @@
         "v2_object_id": "6Vrr82RV7PgVgCfv",
         "v2_parent_item_id": null,
         "v2_parent_project_id": "6Vrq967mj4HgWmWM"
-      },
-      {
-        "event_date": "2024-09-09T06:40:35.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "12:00 ~ 14:00 헬스 ✅ 2024-08-01",
-          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
-          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
-          "note_count": 0
-        },
-        "extra_data_id": 25273896093,
-        "id": 25187578611,
-        "initiator_id": null,
-        "object_id": "8256967160",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2337177125",
-        "v2_object_id": "6Vrr82gRqh8CwrMv",
-        "v2_parent_item_id": null,
-        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
-      },
-      {
-        "event_date": "2024-09-09T06:40:33.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "19:00 ~ 20:00 휴식 ✅ 2024-08-01",
-          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
-          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
-          "note_count": 0
-        },
-        "extra_data_id": 25273896177,
-        "id": 25187578691,
-        "initiator_id": null,
-        "object_id": "8256967460",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2337177125",
-        "v2_object_id": "6Vrr83J8PCRF3mQM",
-        "v2_parent_item_id": null,
-        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
-      },
-      {
-        "event_date": "2024-09-09T06:40:33.000000Z",
-        "event_type": "updated",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "14:00 ~ 15:00 점심식사 ✅ 2024-08-01",
-          "description": "[Archive/DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=Archive/DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
-          "last_description": "[DB/TimeTable/2024-08/2024-08-01(목).md](obsidian://open?vault=TIL&file=DB/TimeTable/2024-08/2024-08-01(%EB%AA%A9).md)",
-          "note_count": 0
-        },
-        "extra_data_id": 25273895447,
-        "id": 25187577957,
-        "initiator_id": null,
-        "object_id": "8256967263",
-        "object_type": "item",
-        "parent_item_id": null,
-        "parent_project_id": "2337177125",
-        "v2_object_id": "6Vrr82w86p4cpWcv",
-        "v2_parent_item_id": null,
-        "v2_parent_project_id": "6Vrq967mj4HgWmWM"
       }
     ]
   },
   "fileMetadata": {
-    "Scheduler/Daily Template.md": {
-      "todoistTasks": [
-        "8256909541",
-        "8256911077",
-        "8256912253",
-        "8256913090",
-        "8256914243",
-        "8256916769",
-        "8256917396",
-        "8256918201",
-        "8256919668",
-        "8256920123",
-        "8256921156"
-      ],
-      "todoistCount": 11
-    },
-    "Scheduler/2024-08-01(목).md": {
+    "Archive/DB/TimeTable/2024-08/2024-08-01(목).md": {
       "todoistTasks": [
         "8256967058",
         "8256967160",
@@ -2091,6 +2196,22 @@
         "8256968021"
       ],
       "todoistCount": 21
+    },
+    "Resource/Scheduler/Daily Template.md": {
+      "todoistTasks": [
+        "8256909541",
+        "8256911077",
+        "8256912253",
+        "8256913090",
+        "8256914243",
+        "8256916769",
+        "8256917396",
+        "8256918201",
+        "8256919668",
+        "8256920123",
+        "8256921156"
+      ],
+      "todoistCount": 11
     }
   },
   "enableFullVaultSync": false,

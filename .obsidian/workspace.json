@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "95c38f9818d7cb02",
+        "id": "a9cebdde00071028",
         "type": "tabs",
         "children": [
           {
-            "id": "48c8c96d4c10d7e4",
+            "id": "b04de617e2b2ee7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/SSD/DataBase/기말 정리.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "기말 정리"
+              "title": "새 탭"
             }
           }
         ]
@@ -203,13 +199,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "48c8c96d4c10d7e4",
+  "active": "b04de617e2b2ee7b",
   "lastOpenFiles": [
+    "Area of responsibility/CPU/코인 워크숍 대비 발표.md",
     "_images/Pasted image 20241209050430.png",
     "_images/Pasted image 20241209045038.png",
     "Resource/SSD/DataBase/기말 정리.md",
-    "Resource/SSD/DataBase/관계대수.md",
-    "Area of responsibility/CPU/코인 워크숍 대비 발표.md",
     "conflict-files-obsidian-git.md",
     "Area of responsibility/CPU/글또 10기를 시작하며 - 나는 무슨 생각으로 글을 쓸까.md",
     "Area of responsibility/CPU/글또 10기 - Suspense가 뭐길래 useSuspenseQuery까지 나옴.md",
@@ -232,6 +227,7 @@
     "Resource/SSD/DataBase/정규화와 제 1, 2 정규형.md",
     "Resource/SSD/DataBase/연산자의 구현.md",
     "Resource/SSD/DataBase/동시성 제어.md",
+    "Resource/SSD/Compiler/기말 대비 준비.md",
     "_images/Pasted image 20241207234623.png",
     "_images/Pasted image 20241207234617.png",
     "_images/Pasted image 20241207234609.png",
@@ -240,7 +236,6 @@
     "_images/Pasted image 20241207234526.png",
     "_images/Pasted image 20241207234518.png",
     "_images/Pasted image 20241207234512.png",
-    "_images/Pasted image 20241207234504.png",
     "Excalidraw",
     "Resource/SSD/컴퓨터보안/test.puml",
     "Resource/SSD/증강현실",
