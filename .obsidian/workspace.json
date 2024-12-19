@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/SSD/컴퓨터보안/암호의 역사.md",
+                "file": "Resource/SSD/컴퓨터보안/기말 정리.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "암호의 역사"
+              "title": "기말 정리"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "복호화",
+                "query": "RSA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,8 +206,8 @@
   },
   "active": "b04de617e2b2ee7b",
   "lastOpenFiles": [
-    "Resource/SSD/컴퓨터보안/대칭키 암호와 공개키 암호.md",
     "Resource/SSD/OS/26. Protection과 Security.md",
+    "Resource/SSD/컴퓨터보안/대칭키 암호와 공개키 암호.md",
     "Resource/SSD/컴퓨터보안/암호의 역사.md",
     "Resource/SSD/컴퓨터보안/APT (Advanced persistent threat).md",
     "Resource/SSD/컴퓨터보안/기말 정리.md",
