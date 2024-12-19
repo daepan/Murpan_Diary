@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "colonial",
+                "query": "평문",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +204,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b04de617e2b2ee7b",
+  "active": "70f01acf562705ee",
   "lastOpenFiles": [
     "Resource/SSD/컴퓨터보안/기말 정리.md",
     "Resource/SSD/컴퓨터보안/중간정리.md",
