@@ -194,7 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "48c8c96d4c10d7e4",
