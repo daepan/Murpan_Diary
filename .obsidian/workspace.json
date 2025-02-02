@@ -25,12 +25,14 @@
             "id": "57ba1c905ad76ed8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Area of responsibility/CPU/글또 10기 한 걸음.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "글또 10기 한 걸음"
             }
           }
         ],
@@ -219,9 +221,10 @@
   },
   "active": "57ba1c905ad76ed8",
   "lastOpenFiles": [
+    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
+    "Area of responsibility/CPU/글또 10기 - 서버 2개로 원격 통신이 가능하다고.md",
     "Area of responsibility/CPU/비사프 대비 발표.md",
     "Area of responsibility/CPU/글또 10기 한 걸음.md",
-    "Area of responsibility/CPU/글또 10기 - 서버 2개로 원격 통신이 가능하다고.md",
     "Archive/DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "_images/{EB9A68ED-DBC9-4808-91A1-5C3BF20D8F46}.png",
     "Archive/DB/Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
@@ -231,7 +234,6 @@
     "Archive/DB/Drawing/Excalidraw/Drawing 2024-05-16 00.54.02.excalidraw.md",
     "Archive/DB/Drawing/Excalidraw/Drawing 2024-05-16 00.37.02.excalidraw.md",
     "Archive/DB/Drawing/Excalidraw/Drawing 2024-05-15 23.59.04.excalidraw.md",
-    "Area of responsibility/CPU/글또 10기 - 캐싱 아는거 맞죠.md",
     "Area of responsibility/CPU/글또 10기- 24년도 하반기 회고 꽁꽁 얼어붙은 취업길 위로 개발자가 걸어갑니다.md",
     "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까.md",
     "Area of responsibility/CPU/글또 10기 - NextJS 캐싱 패턴에 대해 배워보자.md",
