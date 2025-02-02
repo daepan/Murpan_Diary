@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "글또 10기 한 걸음"
             }
+          },
+          {
+            "id": "57ba1c905ad76ed8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -162,7 +176,7 @@
               "type": "smart-connections-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -185,6 +199,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-emotion-picker:Emotions Picker": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -192,10 +208,8 @@
       "smart-connections-visualizer:Open smart connections visualizer": false,
       "obsidian-kanban:새 보드 만들기": false,
       "dbfolder:Create a new database table": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "periodic-notes:Open today": false,
@@ -203,7 +217,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b04de617e2b2ee7b",
+  "active": "57ba1c905ad76ed8",
   "lastOpenFiles": [
     "Area of responsibility/CPU/비사프 대비 발표.md",
     "Area of responsibility/CPU/글또 10기 한 걸음.md",
