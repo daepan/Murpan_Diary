@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area of responsibility/CPU/글또 10기 - 서버 2개로 원격 통신이 가능하다고.md",
+                "file": "Area of responsibility/CPU/글또 10기 한 걸음.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "글또 10기 - 서버 2개로 원격 통신이 가능하다고"
+              "title": "글또 10기 한 걸음"
             }
           }
         ]
@@ -197,13 +197,18 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "b04de617e2b2ee7b",
   "lastOpenFiles": [
-    "Archive/DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
+    "Area of responsibility/CPU/비사프 대비 발표.md",
+    "Area of responsibility/CPU/글또 10기 한 걸음.md",
     "Area of responsibility/CPU/글또 10기 - 서버 2개로 원격 통신이 가능하다고.md",
+    "Archive/DB/Drawing/Excalidraw/Drawing 2024-04-10 22.18.31.excalidraw.md",
     "_images/{EB9A68ED-DBC9-4808-91A1-5C3BF20D8F46}.png",
     "Archive/DB/Drawing/Excalidraw/Drawing 2024-04-30 23.54.38.excalidraw.md",
     "Archive/DB/Drawing/Excalidraw/Drawing 2024-05-08 13.58.37.excalidraw.md",
@@ -216,7 +221,6 @@
     "Area of responsibility/CPU/글또 10기- 24년도 하반기 회고 꽁꽁 얼어붙은 취업길 위로 개발자가 걸어갑니다.md",
     "Area of responsibility/CPU/글또 10기 - React 성능 최적화, useMemo와 useCallback어떻게 활용해야할까.md",
     "Area of responsibility/CPU/글또 10기 - NextJS 캐싱 패턴에 대해 배워보자.md",
-    "Area of responsibility/CPU/비사프 대비 발표.md",
     "Resource/SSD/컴퓨터보안/기말 정리.md",
     "Area of responsibility/CPU/토익 스피킹 대비.md",
     "Area of responsibility/CPU/무제 파일.md",
