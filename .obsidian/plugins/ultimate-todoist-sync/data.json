@@ -17,7 +17,8 @@
         "isInboxProject": true,
         "isTeamInbox": false,
         "url": "https://app.todoist.com/app/project/6Vrq967mj4HgWmWM",
-        "viewStyle": "list"
+        "viewStyle": "list",
+        "description": ""
       },
       {
         "id": "2337183101",
@@ -31,7 +32,8 @@
         "isInboxProject": false,
         "isTeamInbox": false,
         "url": "https://app.todoist.com/app/project/6Vrr2vjfGF388Mfh",
-        "viewStyle": "list"
+        "viewStyle": "list",
+        "description": ""
       },
       {
         "id": "2337183107",
@@ -45,7 +47,8 @@
         "isInboxProject": false,
         "isTeamInbox": false,
         "url": "https://app.todoist.com/app/project/6Vrr2wJ3VPjx7whF",
-        "viewStyle": "list"
+        "viewStyle": "list",
+        "description": ""
       },
       {
         "id": "2337183124",
@@ -59,7 +62,8 @@
         "isInboxProject": false,
         "isTeamInbox": false,
         "url": "https://app.todoist.com/app/project/6Vrr32XC4cp4WVv2",
-        "viewStyle": "list"
+        "viewStyle": "list",
+        "description": ""
       },
       {
         "id": "2337183132",
@@ -73,7 +77,8 @@
         "isInboxProject": false,
         "isTeamInbox": false,
         "url": "https://app.todoist.com/app/project/6Vrr33fPWCG7HhMg",
-        "viewStyle": "list"
+        "viewStyle": "list",
+        "description": ""
       }
     ],
     "tasks": [
